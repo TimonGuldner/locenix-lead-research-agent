@@ -1,5 +1,9 @@
 import json
-from datetime import date
+import os
+import urllib.error
+import urllib.parse
+import urllib.request
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -9,6 +13,11 @@ VIS_PATH = ROOT / "results" / "visibility_results.json"
 RESULTS_PATH = ROOT / "results" / "sales_queue.json"
 STATE_PATH = ROOT / "results" / "sales_queue_state.json"
 LATEST_PATH = ROOT / "results" / "sales_queue_latest.json"
+
+AIRTABLE_BASE_ID = os.getenv("AIRTABLE_BASE_ID", "appuPKnVyLsbWbxMR")
+AIRTABLE_TABLE_ID = os.getenv("AIRTABLE_TABLE_ID", "tblF4ghkYFzkeQwsT")
+AIRTABLE_TOKEN = os.getenv("AIRTABLE_TOKEN")
+AIRTABLE_API = "https://api.airtable.com/v0"
 
 
 def load_json(path, default):
@@ -65,6 +74,96 @@ def next_action(priority, qa, vis):
     if not vis:
         return "WAIT_FOR_VISIBILITY_CHECK"
     return "HOLD_OR_MANUAL_REVIEW"
+
+
+def airtable_request(method, path, payload=None):
+    if not AIRTABLE_TOKEN:
+        raise RuntimeError("AIRTABLE_TOKEN is not configured")
+    url = f"{AIRTABLE_API}/{AIRTABLE_BASE_ID}/{AIRTABLE_TABLE_ID}{path}"
+    data = None if payload is None else json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(url, data=data, method=method)
+    req.add_header("Authorization", f"Bearer {AIRTABLE_TOKEN}")
+    req.add_header("Content-Type", "application/json")
+    try:
+        with urllib.request.urlopen(req, timeout=30) as response:
+            body = response.read().decode("utf-8")
+            return json.loads(body) if body else {}
+    except urllib.error.HTTPError as exc:
+        body = exc.read().decode("utf-8", errors="replace")
+        raise RuntimeError(f"Airtable API error {exc.code}: {body}") from exc
+
+
+def find_airtable_record(lead_id):
+    formula = "{Lead ID}=" + json.dumps(str(lead_id))
+    query = urllib.parse.urlencode({"filterByFormula": formula, "maxRecords": 1})
+    response = airtable_request("GET", f"?{query}")
+    records = response.get("records") or []
+    return records[0] if records else None
+
+
+def airtable_fields(item):
+    visibility_status = "NOT_CHECKED"
+    if item.get("visibility_checked"):
+        visibility_status = "WEAK" if item.get("weak_visibility_observed") else "OK"
+    why_now = item.get("why_now") or []
+    return {
+        "Company": item.get("company_name") or item.get("lead_id") or "Unknown",
+        "Lead ID": item.get("lead_id") or "",
+        "Industry": item.get("industry") or "",
+        "City": item.get("city") or "",
+        "Website": item.get("website") or None,
+        "Google Maps": item.get("google_maps_url") or None,
+        "Deep QA Decision": item.get("deep_qa_decision") or None,
+        "Deep QA Score": item.get("deep_qa_score"),
+        "Priority Score": item.get("priority_score"),
+        "Sales Tier": item.get("sales_tier") or None,
+        "Visibility Status": visibility_status,
+        "Visibility Opportunity Score": item.get("visibility_opportunity_score"),
+        "Primary Pitch": item.get("primary_pitch") or "",
+        "Why Now": "\n".join(str(x) for x in why_now if x),
+        "Proof 1": item.get("proof_1") or "",
+        "Proof 2": item.get("proof_2") or "",
+        "Proof 3": item.get("proof_3") or "",
+        "Next Action": item.get("next_action") or "",
+        "Outreach Status": item.get("outreach_status") or "NOT_CONTACTED",
+        "Airtable Ready": bool(item.get("airtable_ready")),
+        "Queue Date": datetime.now(timezone.utc).isoformat(),
+        "Notes": "Synced automatically by LOCENIX Sales Queue Agent. No outreach sent."
+    }
+
+
+def sync_airtable(queue):
+    stats = {"created": 0, "updated": 0, "skipped": 0, "errors": []}
+    if not AIRTABLE_TOKEN:
+        stats["errors"].append("AIRTABLE_TOKEN missing")
+        return stats
+
+    for item in queue:
+        if not item.get("airtable_ready"):
+            stats["skipped"] += 1
+            continue
+        lead_id = item.get("lead_id")
+        if not lead_id:
+            stats["errors"].append("Skipped ready lead without lead_id")
+            continue
+        try:
+            fields = {k: v for k, v in airtable_fields(item).items() if v is not None}
+            existing = find_airtable_record(lead_id)
+            if existing:
+                airtable_request("PATCH", f"/{existing['id']}", {"fields": fields, "typecast": True})
+                stats["updated"] += 1
+                item["airtable_sync_status"] = "SYNCED_UPDATED"
+                item["airtable_record_id"] = existing["id"]
+            else:
+                response = airtable_request("POST", "", {"records": [{"fields": fields}], "typecast": True})
+                record = (response.get("records") or [{}])[0]
+                stats["created"] += 1
+                item["airtable_sync_status"] = "SYNCED_CREATED"
+                item["airtable_record_id"] = record.get("id")
+        except Exception as exc:
+            item["airtable_sync_status"] = "SYNC_ERROR"
+            stats["errors"].append(f"{lead_id}: {exc}")
+    return stats
 
 
 def main():
@@ -128,7 +227,7 @@ def main():
             "airtable_sync_status": "READY_NOT_SYNCED" if airtable_ready else "NOT_READY",
             "outreach_status": "NOT_CONTACTED",
             "queue_date": date.today().isoformat(),
-            "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V1",
+            "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
             "compliance_note": "Research and prioritization only. No automatic outreach."
         })
 
@@ -136,9 +235,14 @@ def main():
     if task.get("keep_only_min_priority", False):
         queue = [x for x in queue if int(x.get("priority_score") or 0) >= min_priority]
 
+    sync_stats = sync_airtable(queue)
     state = {
         "queue_count": len(queue),
         "airtable_ready_count": sum(1 for x in queue if x.get("airtable_ready")),
+        "airtable_created": sync_stats["created"],
+        "airtable_updated": sync_stats["updated"],
+        "airtable_skipped": sync_stats["skipped"],
+        "airtable_errors": sync_stats["errors"],
         "priority_a_count": sum(1 for x in queue if x.get("sales_tier") == "A"),
         "priority_b_count": sum(1 for x in queue if x.get("sales_tier") == "B"),
         "visibility_pending_count": sum(1 for x in queue if not x.get("visibility_checked")),

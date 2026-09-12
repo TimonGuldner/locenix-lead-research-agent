@@ -1,0 +1,53 @@
+{
+  "enabled": true,
+  "agent": "AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD",
+  "reports_to": "AGENT_0_CEO",
+  "north_star": "PAID_CUSTOMERS",
+  "airtable_base_id": "appmbJV00kq0vPWfL",
+  "tables": {
+    "customers": "tblv93rxNEWADwP1n",
+    "trials": "tblbXaz1peTKwp70O",
+    "onboarding": "tbl2BEzWF4ooacTcg",
+    "events": "tblpI7GNlI2TytbX5",
+    "risks": "tblW4teuXaBjaR9ZB"
+  },
+  "subagents": [
+    "AGENT_11_TRIAL_CONVERSION",
+    "AGENT_12_ONBOARDING",
+    "AGENT_13_RETENTION_SUCCESS"
+  ],
+  "priority_order": [
+    "PAID_CUSTOMER_CRITICAL_PROBLEM",
+    "CANCEL_RISK",
+    "PAYMENT_PROBLEM",
+    "TRIAL_BUYING_INTENT",
+    "TRIAL_TECHNICAL_BLOCKER",
+    "TRIAL_EXPIRING",
+    "ONBOARDING_NO_FIRST_VALUE",
+    "VISIBILITY_CHECK_INTEREST",
+    "DORMANT_TRIAL",
+    "FOLLOW_UP"
+  ],
+  "human_review_topics": [
+    "PRICE_NEGOTIATION",
+    "DISCOUNT",
+    "REFUND",
+    "CONTRACT",
+    "PRIVACY",
+    "LEGAL",
+    "COMPLAINT",
+    "ENTERPRISE",
+    "PARTNERSHIP",
+    "UNUSUAL_PAYMENT"
+  ],
+  "autonomy": {
+    "read_data": true,
+    "prioritize": true,
+    "delegate_internal_tasks": true,
+    "update_internal_state": true,
+    "send_customer_messages": false,
+    "change_prices": false,
+    "issue_refunds": false,
+    "activate_new_agents": false
+  }
+}

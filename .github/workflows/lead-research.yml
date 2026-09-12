@@ -98,11 +98,29 @@ jobs:
         run: |
           git config user.name "locenix-lead-research-agent"
           git config user.email "actions@users.noreply.github.com"
-          git add results/
-          if git diff --cached --quiet; then
-            echo "No research changes to commit."
-            exit 0
-          fi
-          git commit -m "Update LOCENIX research results"
-          git pull --rebase origin main
-          git push origin HEAD:main
+
+          TMPDIR=$(mktemp -d)
+          cp -a results "$TMPDIR/results"
+
+          for ATTEMPT in 1 2 3; do
+            echo "Persist attempt $ATTEMPT"
+            git fetch origin main
+            git reset --hard origin/main
+            rm -rf results
+            cp -a "$TMPDIR/results" results
+            git add results/
+
+            if git diff --cached --quiet; then
+              echo "No research changes to commit."
+              exit 0
+            fi
+
+            git commit -m "Update LOCENIX research results"
+            if git push origin HEAD:main; then
+              echo "Research results persisted successfully."
+              exit 0
+            fi
+          done
+
+          echo "Failed to persist research results after 3 attempts."
+          exit 1

@@ -1,0 +1,34 @@
+{
+  "manager": "LOCENIX_GROWTH_MANAGER_V1",
+  "mode": "SUPERVISE_AND_DISPATCH",
+  "generated_at": "2026-09-12T10:39:44.093071+00:00",
+  "department_status": "BACKLOG",
+  "metrics": {
+    "lead_count": 33,
+    "lead_a": 3,
+    "lead_b": 0,
+    "qa_remaining": 8,
+    "qa_final_a": 4,
+    "qa_final_b": 1,
+    "visibility_remaining": 0,
+    "weak_visibility": 3,
+    "sales_queue_count": 5,
+    "airtable_ready": 4,
+    "airtable_errors": [],
+    "drafts_eligible": 4,
+    "drafts_stored": 4,
+    "draft_errors": 0,
+    "sent_count": 0
+  },
+  "next_agent": "deep_qa",
+  "reason": "Deep QA has 8 eligible leads waiting.",
+  "dispatch_attempted": true,
+  "dispatch_success": true,
+  "dispatch_detail": "HTTP 204",
+  "guardrails": {
+    "outreach_send_allowed": false,
+    "contact_form_submit_allowed": false,
+    "unknown_workflow_dispatch_allowed": false,
+    "max_child_workflows_this_run": 1
+  }
+}

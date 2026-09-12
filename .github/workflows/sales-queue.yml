@@ -7,6 +7,7 @@ on:
     paths:
       - wake_sales_queue.txt
       - tasks/sales_queue_task.json
+      - agent/sales_queue_agent.py
   schedule:
     - cron: "7,37 6-13 * * *"
 
@@ -53,6 +54,10 @@ jobs:
 
       - name: Run LOCENIX Sales Queue Agent
         if: steps.gate.outputs.run == 'true'
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: appuPKnVyLsbWbxMR
+          AIRTABLE_TABLE_ID: tblF4ghkYFzkeQwsT
         run: python -m agent.sales_queue_agent
 
       - name: Commit sales queue results

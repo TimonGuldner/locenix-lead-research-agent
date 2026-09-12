@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "mode": "DRAFT_ONLY",
+  "eligible_decisions": ["FINAL_A"],
+  "eligible_sync_statuses": ["SYNCED_CREATED", "SYNCED_UPDATED"],
+  "eligible_outreach_statuses": ["NOT_CONTACTED"],
+  "min_priority_score": 90,
+  "max_drafts_per_run": 10,
+  "language": "de",
+  "offer": "kostenloser Local Visibility Check",
+  "product": "LOCENIX",
+  "rules": {
+    "never_send_automatically": true,
+    "never_submit_contact_forms": true,
+    "never_login": true,
+    "never_create_accounts": true,
+    "no_cold_email_in_germany": true,
+    "no_unverified_claims": true,
+    "use_only_verified_proof": true,
+    "avoid_company_name_in_dm_body": true,
+    "natural_human_tone": true,
+    "no_gendering": true,
+    "no_mass_message_language": true
+  }
+}

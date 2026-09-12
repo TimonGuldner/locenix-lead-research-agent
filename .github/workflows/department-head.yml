@@ -6,6 +6,7 @@ on:
     paths:
       - 'wake_department_head.txt'
       - 'tasks/department_head_task.json'
+      - 'tasks/departments/**'
       - 'agent/department_head_agent.py'
   schedule:
     - cron: '12,42 6-15 * * *'

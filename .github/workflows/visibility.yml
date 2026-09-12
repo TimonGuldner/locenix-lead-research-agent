@@ -1,0 +1,72 @@
+name: LOCENIX Maps Visibility Agent
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - wake_visibility.txt
+      - tasks/visibility_task.json
+  schedule:
+    - cron: "2,32 6-13 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: locenix-visibility
+  cancel-in-progress: false
+
+jobs:
+  visibility:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check visibility task
+        id: gate
+        shell: bash
+        run: |
+          ENABLED=$(python - <<'PY'
+          import json
+          print(str(json.load(open('tasks/visibility_task.json')).get('enabled', False)).lower())
+          PY
+          )
+          if [[ "$ENABLED" == "true" ]]; then echo "run=true" >> "$GITHUB_OUTPUT"; else echo "run=false" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Set up Python
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+          python -m playwright install --with-deps chromium
+
+      - name: Run LOCENIX Maps Visibility Agent
+        if: steps.gate.outputs.run == 'true'
+        run: python -m agent.visibility_agent
+
+      - name: Commit visibility results
+        if: steps.gate.outputs.run == 'true'
+        shell: bash
+        run: |
+          git config user.name "locenix-visibility-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add results/visibility_results.json results/visibility_state.json results/visibility_latest.json
+          if git diff --cached --quiet; then
+            echo "No visibility changes to commit."
+            exit 0
+          fi
+          git commit -m "Update LOCENIX visibility results"
+          git pull --rebase origin main
+          git push origin HEAD:main

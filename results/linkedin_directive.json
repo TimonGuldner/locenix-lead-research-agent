@@ -1,13 +1,13 @@
 {
-  "directive_id": "li-a678cdb9f1b8",
+  "directive_id": "li-dd8dd1f15049",
   "department": "linkedin",
   "owner_agent": "AGENT_8_LINKEDIN_DEPARTMENT_HEAD",
-  "objective": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
-  "reason": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
-  "priority": 1,
+  "objective": "Prioritize positive replies and active qualified conversations before new prospecting.",
+  "reason": "LinkedIn department priority: POSITIVE_REPLIES",
+  "priority": 2,
   "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
-  "created_at": "2026-09-12T11:23:34.939335+00:00",
-  "updated_at": "2026-09-12T11:23:34.939335+00:00",
+  "created_at": "2026-09-12T12:08:42.961312+00:00",
+  "updated_at": "2026-09-12T12:08:42.961312+00:00",
   "status": "QUEUED",
   "external_action_authorized": false
 }

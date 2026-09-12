@@ -1,12 +1,12 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-12T11:23:34.939335+00:00",
-  "company_status": "BLOCKED",
+  "generated_at": "2026-09-12T12:08:42.961312+00:00",
+  "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "funnel_metrics": {
-    "research_leads": 33,
+    "research_leads": 35,
     "research_a": 3,
-    "research_b": 0,
+    "research_b": 2,
     "qa_remaining": 0,
     "final_a": 10,
     "final_b": 3,
@@ -21,8 +21,8 @@
     "replies": "UNKNOWN",
     "trials": "UNKNOWN",
     "paid_customers": "UNKNOWN",
-    "linkedin_department_status": "BLOCKED",
-    "linkedin_biggest_bottleneck": "SYSTEM_SAFETY",
+    "linkedin_department_status": "ATTENTION",
+    "linkedin_biggest_bottleneck": "POSITIVE_REPLIES",
     "linkedin_leads": 61,
     "linkedin_qualified_leads": 13,
     "linkedin_active_conversations": 4,
@@ -44,45 +44,45 @@
     },
     "linkedin": {
       "manager": "AGENT_8_LINKEDIN_DEPARTMENT_HEAD",
-      "health": "BLOCKED",
-      "status": "BLOCKED",
-      "biggest_bottleneck": "SYSTEM_SAFETY",
+      "health": "ATTENTION",
+      "status": "ATTENTION",
+      "biggest_bottleneck": "POSITIVE_REPLIES",
       "priority_1": {
-        "type": "SYSTEM_SAFETY",
-        "action": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
-        "owner": "Browser Worker"
+        "type": "POSITIVE_REPLIES",
+        "action": "Prioritize positive replies and active qualified conversations before new prospecting.",
+        "owner": "Conversation / Inbox Agent"
       },
-      "ceo_escalation_required": true,
-      "last_run_at": "2026-09-12T11:23:19.195463+00:00"
+      "ceo_escalation_required": false,
+      "last_run_at": "2026-09-12T11:56:17.447703+00:00"
     }
   },
-  "biggest_bottleneck": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
+  "biggest_bottleneck": "Sales-ready leads are missing prepared outreach.",
   "priority_1": {
     "rank": 1,
-    "type": "STABILITY",
-    "owner": "Agent 8",
-    "action": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
-    "reason": "Pause risky LinkedIn actions and escalate the observed account/security signal."
-  },
-  "priority_2": {
-    "rank": 2,
     "type": "BOTTLENECK",
     "owner": "Agent 7",
     "action": "Generate and store missing outreach drafts.",
     "reason": "Sales-ready leads are missing prepared outreach."
   },
+  "priority_2": {
+    "rank": 2,
+    "type": "CHANNEL",
+    "owner": "Agent 8",
+    "action": "Prioritize positive replies and active qualified conversations before new prospecting.",
+    "reason": "LinkedIn department priority: POSITIVE_REPLIES"
+  },
   "priority_3": null,
-  "manager_directive": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
+  "manager_directive": "Generate and store missing outreach drafts.",
   "linkedin_directive": {
-    "directive_id": "li-a678cdb9f1b8",
+    "directive_id": "li-dd8dd1f15049",
     "department": "linkedin",
     "owner_agent": "AGENT_8_LINKEDIN_DEPARTMENT_HEAD",
-    "objective": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
-    "reason": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
-    "priority": 1,
+    "objective": "Prioritize positive replies and active qualified conversations before new prospecting.",
+    "reason": "LinkedIn department priority: POSITIVE_REPLIES",
+    "priority": 2,
     "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
-    "created_at": "2026-09-12T11:23:34.939335+00:00",
-    "updated_at": "2026-09-12T11:23:34.939335+00:00",
+    "created_at": "2026-09-12T12:08:42.961312+00:00",
+    "updated_at": "2026-09-12T12:08:42.961312+00:00",
     "status": "QUEUED",
     "external_action_authorized": false
   },
@@ -97,11 +97,11 @@
   },
   "opportunities": [],
   "risks": [
-    "Pause risky LinkedIn actions and escalate the observed account/security signal."
+    "Sales-ready leads are missing prepared outreach."
   ],
   "proposed_agents": 0,
   "proposed_departments": 0,
-  "human_decision_required": true,
+  "human_decision_required": false,
   "autonomy": {
     "internal_analysis": true,
     "prioritization": true,

@@ -25,8 +25,8 @@ jobs:
       AIRTABLE_BASE_ID: appuPKnVyLsbWbxMR
       AIRTABLE_TABLE_ID: tblF4ghkYFzkeQwsT
       RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-      EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
-      EMAIL_REPLY_TO: ${{ secrets.EMAIL_REPLY_TO }}
+      EMAIL_FROM: 'Timon Guldner <hello@locenix.com>'
+      EMAIL_REPLY_TO: 'hello@locenix.com'
       EMAIL_DRY_RUN: ${{ inputs.live_send && 'false' || 'true' }}
 
     steps:
@@ -46,6 +46,7 @@ jobs:
           if [ "$EMAIL_DRY_RUN" = "false" ]; then
             test -n "$RESEND_API_KEY" || { echo 'RESEND_API_KEY missing'; exit 1; }
             test -n "$EMAIL_FROM" || { echo 'EMAIL_FROM missing'; exit 1; }
+            test -n "$EMAIL_REPLY_TO" || { echo 'EMAIL_REPLY_TO missing'; exit 1; }
           fi
 
       - name: Run email sender

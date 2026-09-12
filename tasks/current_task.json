@@ -1,17 +1,23 @@
 {
   "enabled": true,
-  "mode": "smoke_test",
-  "target_leads": 100,
-  "batch_size": 8,
+  "mode": "deterministic_research",
+  "target_leads": 200,
+  "batch_size": 20,
   "min_score": 70,
-  "areas": ["Deutschland"],
-  "geography_strategy": "Deutschlandweit recherchieren; Städte und Regionen systematisch rotieren und nicht auf Troisdorf/Rhein-Sieg/NRW beschränken.",
-  "categories": [
-    "Physiotherapie", "Kosmetikstudio", "Friseur", "Barbershop", "Nagelstudio", "Zahnarzt",
-    "Osteopathie", "Podologie", "Massage", "Aesthetik", "Autowerkstatt", "Reifenservice",
-    "Gebaeudereinigung", "Maler", "Elektriker", "Sanitaer Heizung", "Dachdecker", "Umzugsunternehmen",
-    "Immobilienmakler", "Steuerberater", "Fotograf", "Fahrschule", "Tierarzt", "Hundefriseur"
+  "queries_per_run": 3,
+  "max_results_per_query": 8,
+  "cities": [
+    "Berlin", "Hamburg", "Muenchen", "Koeln", "Frankfurt am Main", "Stuttgart", "Duesseldorf", "Leipzig",
+    "Dortmund", "Essen", "Bremen", "Dresden", "Hannover", "Nuernberg", "Bonn", "Muenster", "Karlsruhe",
+    "Mannheim", "Augsburg", "Wiesbaden", "Mainz", "Aachen", "Bielefeld", "Bochum", "Freiburg", "Heidelberg",
+    "Kiel", "Luebeck", "Rostock", "Potsdam", "Troisdorf", "Siegburg", "Sankt Augustin", "Wuppertal",
+    "Moenchengladbach", "Krefeld", "Oberhausen", "Gelsenkirchen", "Braunschweig", "Chemnitz"
   ],
-  "max_steps": 55,
-  "notes": "Research only. Never send messages, submit forms, create accounts, log in, or contact businesses. Chat-triggered jobs should run on GitHub. Smoke tests must not use any LLM API."
+  "categories": [
+    "Physiotherapie", "Osteopathie", "Podologie", "Kosmetikstudio", "Beauty Aesthetik", "Friseur", "Barbershop",
+    "Zahnarzt", "Tierarzt", "Autowerkstatt", "Sanitaer Heizung", "Elektriker", "Dachdecker", "Gebaeudereinigung",
+    "Immobilienmakler", "Nagelstudio", "Massagepraxis", "Heilpraktiker", "Fahrschule", "Fotograf", "Steuerberater",
+    "Maler", "Umzugsunternehmen", "Reifenservice", "Hundefriseur", "Personal Training", "Ergotherapie", "Logopaedie"
+  ],
+  "notes": "Research only. Never send messages, submit forms, create accounts, log in, or contact businesses. Use public data only. Never guess emails. No CAPTCHA or security bypass. Prefer quality over count. ChatGPT performs final QA and Airtable sync."
 }

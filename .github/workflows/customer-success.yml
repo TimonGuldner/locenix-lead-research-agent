@@ -59,10 +59,11 @@ jobs:
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_INBOX_API_KEY: ${{ secrets.RESEND_INBOX_API_KEY }}
         run: |
           set -euo pipefail
           test -n "$AIRTABLE_TOKEN" || { echo 'AIRTABLE_TOKEN missing'; exit 1; }
-          test -n "$RESEND_API_KEY" || { echo 'RESEND_API_KEY missing'; exit 1; }
+          if [[ -z "$RESEND_API_KEY" && -z "$RESEND_INBOX_API_KEY" ]]; then echo 'No Resend API key available'; exit 1; fi
 
       - name: Run Agent 10 Customer Success manager
         if: steps.gate.outputs.run_cs == 'true'
@@ -75,6 +76,7 @@ jobs:
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_INBOX_API_KEY: ${{ secrets.RESEND_INBOX_API_KEY }}
         run: python -m agent.customer_success_email_agent
 
       - name: Refresh Agent 10 after email execution

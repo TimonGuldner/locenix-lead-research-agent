@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "target_leads": 100,
+  "batch_size": 8,
+  "min_score": 70,
+  "areas": ["Troisdorf", "Siegburg", "Sankt Augustin", "Bonn", "Koeln", "Rhein-Sieg-Kreis", "NRW"],
+  "categories": [
+    "Physiotherapie", "Kosmetikstudio", "Friseur", "Barbershop", "Nagelstudio", "Zahnarzt",
+    "Osteopathie", "Podologie", "Massage", "Aesthetik", "Autowerkstatt", "Reifenservice",
+    "Gebaeudereinigung", "Maler", "Elektriker", "Sanitaer Heizung", "Dachdecker", "Umzugsunternehmen",
+    "Immobilienmakler", "Steuerberater", "Fotograf", "Fahrschule", "Tierarzt", "Hundefriseur"
+  ],
+  "max_steps": 55,
+  "notes": "Research only. Never send messages, submit forms, create accounts, log in, or contact businesses."
+}

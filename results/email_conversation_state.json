@@ -2,14 +2,16 @@
   "agent": "AGENT_9_EMAIL_CONVERSATION_AGENT",
   "reports_to": "AGENT_7_GROWTH_MANAGER",
   "inbox": "hello@locenix.com",
-  "auto_reply_enabled": false,
-  "received_scanned": 1,
-  "handled": 1,
+  "sender": "Timon Guldner <hello@locenix.com>",
+  "reply_to": "hello@locenix.com",
+  "auto_reply_enabled": true,
+  "received_scanned": 2,
+  "handled": 2,
   "unmatched": 0,
   "duplicates_skipped": 0,
   "errors": 0,
-  "positive_replies": 1,
+  "positive_replies": 2,
   "trial_interest": 0,
   "human_reviews_required": 0,
-  "last_run_at": "2026-09-12T13:16:42.959919+00:00"
+  "last_run_at": "2026-09-12T13:48:18.222427+00:00"
 }

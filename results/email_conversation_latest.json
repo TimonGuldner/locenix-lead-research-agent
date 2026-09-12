@@ -3,16 +3,18 @@
     "agent": "AGENT_9_EMAIL_CONVERSATION_AGENT",
     "reports_to": "AGENT_7_GROWTH_MANAGER",
     "inbox": "hello@locenix.com",
-    "auto_reply_enabled": false,
-    "received_scanned": 1,
-    "handled": 1,
+    "sender": "Timon Guldner <hello@locenix.com>",
+    "reply_to": "hello@locenix.com",
+    "auto_reply_enabled": true,
+    "received_scanned": 2,
+    "handled": 2,
     "unmatched": 0,
     "duplicates_skipped": 0,
     "errors": 0,
-    "positive_replies": 1,
+    "positive_replies": 2,
     "trial_interest": 0,
     "human_reviews_required": 0,
-    "last_run_at": "2026-09-12T13:16:42.959919+00:00"
+    "last_run_at": "2026-09-12T13:48:18.222427+00:00"
   },
   "handled": [
     {
@@ -22,7 +24,18 @@
       "message_id": "<CA+cRC5Y3evN1QwSf_ZjK=rXwNC69iYECCQY8XCs0MSoaopH_Xg@mail.gmail.com>",
       "classification": "VISIBILITY_CHECK_INTEREST",
       "sales_intent": "HIGH",
-      "reply_status": "WAITING_APPROVAL"
+      "reply_status": "SENT",
+      "sent_message_id": "aad14340-e67a-4b9b-9dfd-f6ff8992d958"
+    },
+    {
+      "record_id": "rec5ctykTNkYqdpox",
+      "company": "TEST_AGENT9 – Timon",
+      "from": "mail@timonguldner.de",
+      "message_id": "<CA+cRC5b4bvL9a0L8=OsEhOTUy55RVQ6mpMO1+sGLGXhxSXPJjw@mail.gmail.com>",
+      "classification": "VISIBILITY_CHECK_INTEREST",
+      "sales_intent": "HIGH",
+      "reply_status": "SENT",
+      "sent_message_id": "3ac326b8-103e-4206-b74e-9e4f5852f5d8"
     }
   ],
   "unmatched": [],

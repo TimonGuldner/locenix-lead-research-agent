@@ -98,6 +98,105 @@
     "final_qa_required": true
   },
   {
+    "company_name": "Tierarztpraxis Tierärztlicher Notfalldienst - in der HAFENCITY- jeden Tag am selben Ort",
+    "industry": "Tierarzt",
+    "city": "Hamburg",
+    "address": "Baakenallee 90/EG, 20457 Hamburg, Deutschland",
+    "website": "https://tierarzt-notdienst-hamburg.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Tier%C3%A4rztlicher+Notfalldienst+-+in+der+HAFENCITY-+jeden+Tag+am+selben+Ort/data=!4m7!3m6!1s0x47b18f89e4c1fc05:0xa777d06c300625b1!8m2!3d53.5366587!4d10.0169295!16s%2Fg%2F11j53d341_!19sChIJBfzB5ImPsUcRsSUGMGzQd6c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 171 9984976",
+    "public_business_email": "ahoi@vetzentrum-hafenCity.de",
+    "email_source_url": "https://tierarzt-notdienst-hamburg.com/impressum/",
+    "contact_form_url": "https://tierarzt-notdienst-hamburg.com/#kontakt",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.4,
+    "google_review_count": 37,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "chirurgie",
+      "labor"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "Medivet Tierarztpraxis Hamburg-Stellingen",
+    "competitor_1_reviews": 774,
+    "competitor_2": "Tiergesundheitszentrum Hamburg",
+    "competitor_2_reviews": 650,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "37 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 311."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 37 Google-Bewertungen."
+      },
+      {
+        "type": "rating_headroom",
+        "proof": "Google-Bewertung 4.4; sichtbares Reputationspotenzial."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 3,
+    "report_potential_score": 28,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 89,
+    "competitor_review_median": 348,
+    "review_gap": 311,
+    "grade": "A",
+    "lead_class": "A_LEAD",
+    "qa_gate": "PASS_PRE_AIRTABLE_QA",
+    "primary_pitch": "37 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 311.",
+    "proof": [
+      "37 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 311.",
+      "Nur 37 Google-Bewertungen.",
+      "Google-Bewertung 4.4; sichtbares Reputationspotenzial."
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "37 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 311.",
+    "second_outreach_angle": "Nur 37 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-12",
+    "research_status": "QUALIFIED",
+    "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 311; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
     "company_name": "André Lewandowski",
     "industry": "Sanitaer Heizung",
     "city": "Berlin",
@@ -1888,6 +1987,97 @@
     "final_qa_required": true
   },
   {
+    "company_name": "Tierarztpraxis ElbVet Hamburg",
+    "industry": "Tierarzt",
+    "city": "Hamburg",
+    "address": "Bahrenfelder Chaussee 4, 22761 Altona, Deutschland",
+    "website": "https://www.elbvet-hamburg.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+ElbVet+Hamburg/data=!4m7!3m6!1s0x47b1856fe7d43e95:0x6934c6336fc69d77!8m2!3d53.56439!4d9.91812!16s%2Fg%2F11h0zbm_6t!19sChIJlT7U52-FsUcRd53GbzPGNGk?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 40 85415777",
+    "public_business_email": "info@elbvet-hamburg.de",
+    "email_source_url": "https://www.elbvet-hamburg.de/",
+    "contact_form_url": "https://www.elbvet-hamburg.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.6",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.9,
+    "google_review_count": 147,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "impfung",
+      "ultraschall",
+      "labor"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "Medivet Tierarztpraxis Hamburg-Stellingen",
+    "competitor_1_reviews": 774,
+    "competitor_2": "Tiergesundheitszentrum Hamburg",
+    "competitor_2_reviews": 650,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "147 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 201."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 1,
+    "report_potential_score": 20,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 81,
+    "competitor_review_median": 348,
+    "review_gap": 201,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "147 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 201.",
+    "proof": [
+      "147 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 201.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "147 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 201.",
+    "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-12",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 201; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
     "company_name": "ELYSIO Physiotherapie-Mitte",
     "industry": "Physiotherapie",
     "city": "Berlin",
@@ -2105,6 +2295,95 @@
     "signal_confidence": "MEDIUM",
     "obvious_chain_candidate": false,
     "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 75; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
+    "industry": "Tierarzt",
+    "city": "Hamburg",
+    "address": "Hoheluftchaussee 76, 20253 Hamburg-Nord, Deutschland",
+    "website": "https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
+    "google_maps_url": "https://www.google.com/maps/place/filu+Tierarztpraxis+Hoheluft+-+Allgemein-+und+Notfallmedizin/data=!4m7!3m6!1s0x47b18972ebcbfe8d:0xf7ef9d636576fb44!8m2!3d53.5828202!4d9.9713742!16s%2Fg%2F11ml03xnkz!19sChIJjf7L63KJsUcRRPt2ZWOd7_c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 40 57308931",
+    "public_business_email": null,
+    "email_source_url": null,
+    "contact_form_url": null,
+    "contact_basis": "UNKNOWN",
+    "google_rating": 4.9,
+    "google_review_count": 128,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "impfung",
+      "chirurgie",
+      "ultraschall",
+      "labor"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "Medivet Tierarztpraxis Hamburg-Stellingen",
+    "competitor_1_reviews": 774,
+    "competitor_2": "Tiergesundheitszentrum Hamburg",
+    "competitor_2_reviews": 650,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "128 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 220."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 1,
+    "report_potential_score": 20,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 9,
+    "saas_fit_score": 5,
+    "total_score": 80,
+    "competitor_review_median": 348,
+    "review_gap": 220,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "128 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 220.",
+    "proof": [
+      "128 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 220.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "128 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 220.",
+    "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-12",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 4,
+    "contact_quality_reasons": [
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 220; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 4/10.",
     "airtable_ready": false,
     "final_qa_required": true
   },

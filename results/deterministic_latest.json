@@ -1,185 +1,196 @@
 {
   "accepted": [
     {
-      "company_name": "Exclusive barbershop - Hamburg",
-      "industry": "Friseur",
+      "company_name": "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
+      "industry": "Tierarzt",
       "city": "Hamburg",
-      "address": "Mundsburger Damm 34, 22087 Hamburg-Nord, Deutschland",
-      "website": "https://barber.de.ivof.com/exclusive-barbershop/",
-      "google_maps_url": "https://www.google.com/maps/place/Exclusive+barbershop+-+Hamburg/data=!4m7!3m6!1s0x47b18feb2f737ca1:0xb40f1c876beb194d!8m2!3d53.5671992!4d10.0226314!16s%2Fg%2F11svbg901w!19sChIJoXxzL-uPsUcRTRnra4ccD7Q?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 1577 6997999",
-      "public_business_email": "info@ivof.com",
-      "email_source_url": "https://barber.de.ivof.com/exclusive-barbershop/",
+      "address": "Hoheluftchaussee 76, 20253 Hamburg-Nord, Deutschland",
+      "website": "https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
+      "google_maps_url": "https://www.google.com/maps/place/filu+Tierarztpraxis+Hoheluft+-+Allgemein-+und+Notfallmedizin/data=!4m7!3m6!1s0x47b18972ebcbfe8d:0xf7ef9d636576fb44!8m2!3d53.5828202!4d9.9713742!16s%2Fg%2F11ml03xnkz!19sChIJjf7L63KJsUcRRPt2ZWOd7_c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 40 57308931",
+      "public_business_email": null,
+      "email_source_url": null,
       "contact_form_url": null,
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.8,
-      "google_review_count": 58,
-      "main_category": "Friseur",
+      "contact_basis": "UNKNOWN",
+      "google_rating": 4.9,
+      "google_review_count": 128,
+      "main_category": "Tierarzt",
       "website_services": [
-        "haarschnitt"
+        "impfung",
+        "chirurgie",
+        "ultraschall",
+        "labor"
       ],
       "google_visible_services": [],
       "service_gap": [],
       "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: haarschnitt"
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor"
       ],
       "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Cut for Friends GmbH Hamburg",
-      "competitor_1_reviews": 1604,
-      "competitor_2": "Löwenmähne Friseursalon Hamburg Innenstadt",
-      "competitor_2_reviews": 390,
+      "competitor_1": "Medivet Tierarztpraxis Hamburg-Stellingen",
+      "competitor_1_reviews": 774,
+      "competitor_2": "Tiergesundheitszentrum Hamburg",
+      "competitor_2_reviews": 650,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "58 eigene Bewertungen vs. lokaler Wettbewerbsmedian 300; Gap 242."
+          "proof": "128 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 220."
         }
       ],
       "soft_optimization_signals": [
         {
           "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: haarschnitt",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor",
           "verification": "REQUIRES_FINAL_QA"
         }
       ],
       "verified_signal_count": 1,
-      "report_potential_score": 24,
+      "report_potential_score": 20,
       "visible_value_score": 14,
       "maps_importance_score": 14,
       "customer_value_score": 8,
       "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
+      "digital_readiness_score": 9,
       "saas_fit_score": 5,
-      "total_score": 85,
-      "competitor_review_median": 300,
-      "review_gap": 242,
-      "grade": "A",
+      "total_score": 80,
+      "competitor_review_median": 348,
+      "review_gap": 220,
+      "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "58 eigene Bewertungen vs. lokaler Wettbewerbsmedian 300; Gap 242.",
+      "primary_pitch": "128 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 220.",
       "proof": [
-        "58 eigene Bewertungen vs. lokaler Wettbewerbsmedian 300; Gap 242.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: haarschnitt"
+        "128 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 220.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor"
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "58 eigene Bewertungen vs. lokaler Wettbewerbsmedian 300; Gap 242.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: haarschnitt",
-      "research_notes": "Deterministic research v2. Query: Friseur Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "128 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 220.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-12",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "company_name": "Hair Atelier Hamburg",
-      "industry": "Friseur",
+      "company_name": "Tierarztpraxis Tierärztlicher Notfalldienst - in der HAFENCITY- jeden Tag am selben Ort",
+      "industry": "Tierarzt",
       "city": "Hamburg",
-      "address": "Willy-Brandt-Straße 55, 20457 Hamburg, Deutschland",
-      "website": "https://atelierhamburg.net/",
-      "google_maps_url": "https://www.google.com/maps/place/Hair+Atelier+Hamburg/data=!4m7!3m6!1s0x47b18f8a58dc7bd1:0x18a78b8458c3d4ef!8m2!3d53.5471391!4d9.9942259!16s%2Fg%2F11ln_321gg!19sChIJ0XvcWIqPsUcR79TDWISLpxg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 40 24882264",
-      "public_business_email": "info@atelierhamburg.net",
-      "email_source_url": "https://atelierhamburg.net/impressum",
-      "contact_form_url": "https://atelierhamburg.net/contact",
+      "address": "Baakenallee 90/EG, 20457 Hamburg, Deutschland",
+      "website": "https://tierarzt-notdienst-hamburg.com/",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Tier%C3%A4rztlicher+Notfalldienst+-+in+der+HAFENCITY-+jeden+Tag+am+selben+Ort/data=!4m7!3m6!1s0x47b18f89e4c1fc05:0xa777d06c300625b1!8m2!3d53.5366587!4d10.0169295!16s%2Fg%2F11j53d341_!19sChIJBfzB5ImPsUcRsSUGMGzQd6c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 171 9984976",
+      "public_business_email": "ahoi@vetzentrum-hafenCity.de",
+      "email_source_url": "https://tierarzt-notdienst-hamburg.com/impressum/",
+      "contact_form_url": "https://tierarzt-notdienst-hamburg.com/#kontakt",
       "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 5.0,
-      "google_review_count": 56,
-      "main_category": "Friseur",
+      "google_rating": 4.4,
+      "google_review_count": 37,
+      "main_category": "Tierarzt",
       "website_services": [
-        "extensions"
+        "chirurgie",
+        "labor"
       ],
       "google_visible_services": [],
       "service_gap": [],
       "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: extensions"
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor"
       ],
       "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Cut for Friends GmbH Hamburg",
-      "competitor_1_reviews": 1604,
-      "competitor_2": "Löwenmähne Friseursalon Hamburg Innenstadt",
-      "competitor_2_reviews": 390,
+      "competitor_1": "Medivet Tierarztpraxis Hamburg-Stellingen",
+      "competitor_1_reviews": 774,
+      "competitor_2": "Tiergesundheitszentrum Hamburg",
+      "competitor_2_reviews": 650,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "56 eigene Bewertungen vs. lokaler Wettbewerbsmedian 300; Gap 244."
+          "proof": "37 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 311."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 37 Google-Bewertungen."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.4; sichtbares Reputationspotenzial."
         }
       ],
       "soft_optimization_signals": [
         {
           "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: extensions",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor",
           "verification": "REQUIRES_FINAL_QA"
         }
       ],
-      "verified_signal_count": 1,
-      "report_potential_score": 24,
+      "verified_signal_count": 3,
+      "report_potential_score": 28,
       "visible_value_score": 14,
       "maps_importance_score": 14,
       "customer_value_score": 8,
       "competitive_pressure_score": 10,
       "digital_readiness_score": 10,
       "saas_fit_score": 5,
-      "total_score": 85,
-      "competitor_review_median": 300,
-      "review_gap": 244,
+      "total_score": 89,
+      "competitor_review_median": 348,
+      "review_gap": 311,
       "grade": "A",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "56 eigene Bewertungen vs. lokaler Wettbewerbsmedian 300; Gap 244.",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "37 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 311.",
       "proof": [
-        "56 eigene Bewertungen vs. lokaler Wettbewerbsmedian 300; Gap 244.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: extensions"
+        "37 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 311.",
+        "Nur 37 Google-Bewertungen.",
+        "Google-Bewertung 4.4; sichtbares Reputationspotenzial."
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "56 eigene Bewertungen vs. lokaler Wettbewerbsmedian 300; Gap 244.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: extensions",
-      "research_notes": "Deterministic research v2. Query: Friseur Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "37 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 311.",
+      "second_outreach_angle": "Nur 37 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-12",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "company_name": "BK Hairstyle Hamburg",
-      "industry": "Friseur",
+      "company_name": "Tierarztpraxis ElbVet Hamburg",
+      "industry": "Tierarzt",
       "city": "Hamburg",
-      "address": "Mönckebergstraße 7, 20095 Hamburg, Deutschland",
-      "website": "https://bk-hairstyle.de/",
-      "google_maps_url": "https://www.google.com/maps/place/BK+Hairstyle+Hamburg/data=!4m7!3m6!1s0x47b18fc4d382c7a5:0xc89f8187e2435670!8m2!3d53.551028!4d10.0030044!16s%2Fg%2F11vkqhhv4t!19sChIJpceC08SPsUcRcFZD4oeBn8g?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 40 52205711",
-      "public_business_email": "anfrage@bk-hairstyle.de",
-      "email_source_url": "https://bk-hairstyle.de/",
-      "contact_form_url": "https://bk-hairstyle.de/kontakt/",
+      "address": "Bahrenfelder Chaussee 4, 22761 Altona, Deutschland",
+      "website": "https://www.elbvet-hamburg.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+ElbVet+Hamburg/data=!4m7!3m6!1s0x47b1856fe7d43e95:0x6934c6336fc69d77!8m2!3d53.56439!4d9.91812!16s%2Fg%2F11h0zbm_6t!19sChIJlT7U52-FsUcRd53GbzPGNGk?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 40 85415777",
+      "public_business_email": "info@elbvet-hamburg.de",
+      "email_source_url": "https://www.elbvet-hamburg.de/",
+      "contact_form_url": "https://www.elbvet-hamburg.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.6",
       "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
       "google_rating": 4.9,
-      "google_review_count": 112,
-      "main_category": "Friseur",
+      "google_review_count": 147,
+      "main_category": "Tierarzt",
       "website_services": [
-        "balayage",
-        "coloration",
-        "haarschnitt",
-        "extensions",
-        "brautfrisur"
+        "impfung",
+        "ultraschall",
+        "labor"
       ],
       "google_visible_services": [],
       "service_gap": [],
       "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: coloration, extensions, brautfrisur"
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor"
       ],
       "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Cut for Friends GmbH Hamburg",
-      "competitor_1_reviews": 1604,
-      "competitor_2": "Löwenmähne Friseursalon Hamburg Innenstadt",
-      "competitor_2_reviews": 390,
+      "competitor_1": "Medivet Tierarztpraxis Hamburg-Stellingen",
+      "competitor_1_reviews": 774,
+      "competitor_2": "Tiergesundheitszentrum Hamburg",
+      "competitor_2_reviews": 650,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "112 eigene Bewertungen vs. lokaler Wettbewerbsmedian 300; Gap 188."
+          "proof": "147 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 201."
         }
       ],
       "soft_optimization_signals": [
         {
           "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: coloration, extensions, brautfrisur",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor",
           "verification": "REQUIRES_FINAL_QA"
         }
       ],
@@ -192,184 +203,39 @@
       "digital_readiness_score": 10,
       "saas_fit_score": 5,
       "total_score": 81,
-      "competitor_review_median": 300,
-      "review_gap": 188,
+      "competitor_review_median": 348,
+      "review_gap": 201,
       "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "112 eigene Bewertungen vs. lokaler Wettbewerbsmedian 300; Gap 188.",
+      "primary_pitch": "147 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 201.",
       "proof": [
-        "112 eigene Bewertungen vs. lokaler Wettbewerbsmedian 300; Gap 188.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: coloration, extensions, brautfrisur"
+        "147 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 201.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor"
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "112 eigene Bewertungen vs. lokaler Wettbewerbsmedian 300; Gap 188.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: coloration, extensions, brautfrisur",
-      "research_notes": "Deterministic research v2. Query: Friseur Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-12",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Zahnarzt Hamburg - Dental21",
-      "industry": "Zahnarzt",
-      "city": "Hamburg",
-      "address": "Kleine Rosenstr. 14 Europa Passage, Eingang, Mönckebergstraße, 20095 Hamburg, Deutschland",
-      "website": "https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
-      "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+Hamburg+-+Dental21/data=!4m7!3m6!1s0x47b191baa9166919:0xd2afe0471e3c0c0d!8m2!3d53.5508818!4d9.9967372!16s%2Fg%2F1tfxfr8d!19sChIJGWkWqbqRsUcRDQw8Hkfgr9I?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 40 779340",
-      "public_business_email": "info@dental21-europapassage.de",
-      "email_source_url": "https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
-      "contact_form_url": null,
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.8,
-      "google_review_count": 525,
-      "main_category": "Zahnarzt",
-      "website_services": [
-        "implantate",
-        "prophylaxe",
-        "bleaching",
-        "invisalign",
-        "parodontologie",
-        "wurzelbehandlung"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "AllDent Zahnzentrum Hamburg",
-      "competitor_1_reviews": 2677,
-      "competitor_2": "Zahnarzt Hamburg City - Z-24",
-      "competitor_2_reviews": 743,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "525 eigene Bewertungen vs. lokaler Wettbewerbsmedian 742; Gap 217."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 1,
-      "report_potential_score": 20,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 81,
-      "competitor_review_median": 742,
-      "review_gap": 217,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "525 eigene Bewertungen vs. lokaler Wettbewerbsmedian 742; Gap 217.",
-      "proof": [
-        "525 eigene Bewertungen vs. lokaler Wettbewerbsmedian 742; Gap 217.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "525 eigene Bewertungen vs. lokaler Wettbewerbsmedian 742; Gap 217.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie",
-      "research_notes": "Deterministic research v2. Query: Zahnarzt Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-12",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Zahnärzte in der Hamburger City - Dr. med. dent. Daria von Riewel (ehem. Niemietz)",
-      "industry": "Zahnarzt",
-      "city": "Hamburg",
-      "address": "Spitalerstraße 32, 20095 Hamburg, Deutschland",
-      "website": "https://zahnarzt.hamburg/",
-      "google_maps_url": "https://www.google.com/maps/place/Zahn%C3%A4rzte+in+der+Hamburger+City+-+Dr.+med.+dent.+Daria+von+Riewel+%28ehem.+Niemietz%29/data=!4m7!3m6!1s0x47b18f1df6737915:0x707e946858b82224!8m2!3d53.5512086!4d10.0000082!16s%2Fg%2F1vgw_tbs!19sChIJFXlz9h2PsUcRJCK4WGiUfnA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 40 337171",
-      "public_business_email": "info@zahnarzt.hamburg",
-      "email_source_url": "https://zahnarzt.hamburg/",
-      "contact_form_url": "https://zahnarzt.hamburg/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.9,
-      "google_review_count": 190,
-      "main_category": "Zahnarzt",
-      "website_services": [
-        "implantate",
-        "prophylaxe",
-        "parodontologie"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: prophylaxe, parodontologie"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "AllDent Zahnzentrum Hamburg",
-      "competitor_1_reviews": 2677,
-      "competitor_2": "Zahnarzt Hamburg City - Z-24",
-      "competitor_2_reviews": 743,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "190 eigene Bewertungen vs. lokaler Wettbewerbsmedian 695; Gap 505."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: prophylaxe, parodontologie",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 1,
-      "report_potential_score": 20,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 81,
-      "competitor_review_median": 695,
-      "review_gap": 505,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "190 eigene Bewertungen vs. lokaler Wettbewerbsmedian 695; Gap 505.",
-      "proof": [
-        "190 eigene Bewertungen vs. lokaler Wettbewerbsmedian 695; Gap 505.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: prophylaxe, parodontologie"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "190 eigene Bewertungen vs. lokaler Wettbewerbsmedian 695; Gap 505.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: prophylaxe, parodontologie",
-      "research_notes": "Deterministic research v2. Query: Zahnarzt Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "147 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 201.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-12",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
-  "accepted_count": 5,
-  "rejected_count": 18,
+  "accepted_count": 3,
+  "rejected_count": 21,
   "inspected": 24,
   "state": {
-    "query_cursor": 36,
-    "runs": 12,
-    "lead_count": 46,
+    "query_cursor": 39,
+    "runs": 13,
+    "lead_count": 49,
     "target_leads": 999999999,
-    "last_accepted": 5,
+    "last_accepted": 3,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 18,
-    "a_leads": 3,
-    "b_leads": 12
+    "last_rejected": 21,
+    "a_leads": 4,
+    "b_leads": 14
   }
 }

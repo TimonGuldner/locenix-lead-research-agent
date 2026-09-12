@@ -1,0 +1,64 @@
+name: LOCENIX Outreach Draft Agent
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'wake_outreach_drafts.txt'
+      - 'tasks/outreach_task.json'
+      - 'results/sales_queue.json'
+  schedule:
+    - cron: '12,42 6-13 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: locenix-outreach-drafts
+  cancel-in-progress: false
+
+jobs:
+  outreach-drafts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check task
+        id: task
+        shell: bash
+        run: |
+          ENABLED=$(python - <<'PY'
+          import json
+          print(str(json.load(open('tasks/outreach_task.json')).get('enabled', False)).lower())
+          PY
+          )
+          if [[ "$ENABLED" == "true" ]]; then echo "run=true" >> "$GITHUB_OUTPUT"; else echo "run=false" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Set up Python
+        if: steps.task.outputs.run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run LOCENIX Outreach Draft Agent
+        if: steps.task.outputs.run == 'true'
+        run: python -m agent.outreach_draft_agent
+
+      - name: Commit outreach draft results
+        if: steps.task.outputs.run == 'true'
+        shell: bash
+        run: |
+          git config user.name "locenix-outreach-draft-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add results/outreach_drafts.json results/outreach_drafts_latest.json results/outreach_draft_state.json
+          if git diff --cached --quiet; then
+            echo "No outreach draft changes to commit."
+            exit 0
+          fi
+          git commit -m "Update LOCENIX outreach drafts"
+          git pull --rebase origin main
+          git push origin HEAD:main

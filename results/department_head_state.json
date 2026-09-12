@@ -1,7 +1,10 @@
 {
-  "last_run_at": "2026-09-12T10:39:44.093071+00:00",
+  "last_run_at": "2026-09-12T10:43:33.319312+00:00",
   "department_status": "BACKLOG",
   "next_agent": "deep_qa",
+  "reason": "Deep QA has 3 eligible leads waiting.",
+  "departments_total": 0,
+  "departments_proposed": 0,
   "dispatch_success": true,
   "dispatch_detail": "HTTP 204"
 }

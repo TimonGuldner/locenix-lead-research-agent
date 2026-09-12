@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "batch_size": 5,
+  "eligible_classes": ["A_LEAD", "B_LEAD"],
+  "min_total_score": 80,
+  "prefer_a_leads": true,
+  "require_maps_url": true,
+  "require_website_for_final_pass": true,
+  "schedule_note": "Agent 2 runs independently after Agent 1 and performs deep public-data QA only.",
+  "safety": {
+    "research_only": true,
+    "no_contact": true,
+    "no_form_submission": true,
+    "no_login": true,
+    "no_account_creation": true,
+    "no_captcha_bypass": true,
+    "never_invent_facts": true
+  }
+}

@@ -9,6 +9,7 @@ from pathlib import Path
 TASK = Path('tasks/department_head_task.json')
 REPORT = Path('results/department_head_latest.json')
 STATE = Path('results/department_head_state.json')
+DEPARTMENTS_DIR = Path('tasks/departments')
 
 STATE_FILES = {
     'lead_research': Path('results/deterministic_state.json'),
@@ -28,7 +29,21 @@ def load(path: Path, default):
         return default
 
 
-def summarize(states: dict) -> dict:
+def load_departments() -> list[dict]:
+    if not DEPARTMENTS_DIR.exists():
+        return []
+    items = []
+    for path in sorted(DEPARTMENTS_DIR.glob('*.json')):
+        data = load(path, {})
+        if not isinstance(data, dict):
+            continue
+        data['_file'] = str(path)
+        items.append(data)
+    return items
+
+
+def summarize(states: dict, departments: list[dict]) -> dict:
+    proposed = [d for d in departments if str(d.get('status', '')).upper() == 'PROPOSED']
     return {
         'lead_count': int(states['lead_research'].get('lead_count') or 0),
         'lead_a': int(states['lead_research'].get('a_leads') or 0),
@@ -45,6 +60,9 @@ def summarize(states: dict) -> dict:
         'drafts_stored': int(states['outreach_controller'].get('stored_count') or 0),
         'draft_errors': int(states['outreach_controller'].get('error_count') or 0),
         'sent_count': int(states['outreach_controller'].get('sent_count') or 0),
+        'departments_total': len(departments),
+        'departments_proposed': len(proposed),
+        'proposed_department_names': [d.get('name') for d in proposed if d.get('name')][:10],
     }
 
 
@@ -53,6 +71,9 @@ def decide(metrics: dict) -> dict:
         return {'status': 'BLOCKED', 'next_agent': None, 'reason': 'Airtable sync has errors; do not push more downstream work until fixed.'}
     if metrics['draft_errors'] > 0:
         return {'status': 'ACTION_REQUIRED', 'next_agent': 'outreach_controller', 'reason': 'Outreach draft storage has errors.'}
+    if metrics['departments_proposed'] > 0:
+        names = ', '.join(metrics['proposed_department_names'][:3])
+        return {'status': 'MANAGEMENT_REVIEW', 'next_agent': None, 'reason': f"{metrics['departments_proposed']} neue Abteilung(en) warten auf Management-Prüfung: {names}."}
     if metrics['qa_remaining'] > 0:
         return {'status': 'BACKLOG', 'next_agent': 'deep_qa', 'reason': f"Deep QA has {metrics['qa_remaining']} eligible leads waiting."}
     if metrics['visibility_remaining'] > 0:
@@ -90,7 +111,8 @@ def main() -> None:
         return
 
     states = {name: load(path, {}) for name, path in STATE_FILES.items()}
-    metrics = summarize(states)
+    departments = load_departments()
+    metrics = summarize(states, departments)
     decision = decide(metrics)
 
     dispatched = False
@@ -107,11 +129,12 @@ def main() -> None:
 
     now = datetime.now(timezone.utc).isoformat()
     report = {
-        'manager': 'LOCENIX_GROWTH_MANAGER_V1',
+        'manager': 'LOCENIX_GROWTH_MANAGER_V2',
         'mode': task.get('mode', 'SUPERVISE_ONLY'),
         'generated_at': now,
         'department_status': decision['status'],
         'metrics': metrics,
+        'departments': departments,
         'next_agent': next_agent,
         'reason': decision['reason'],
         'dispatch_attempted': bool(task.get('auto_dispatch') and next_agent),
@@ -122,6 +145,7 @@ def main() -> None:
             'contact_form_submit_allowed': False,
             'unknown_workflow_dispatch_allowed': False,
             'max_child_workflows_this_run': 1,
+            'new_departments_start_as_proposed': True,
         },
     }
     REPORT.parent.mkdir(parents=True, exist_ok=True)
@@ -130,6 +154,9 @@ def main() -> None:
         'last_run_at': now,
         'department_status': decision['status'],
         'next_agent': next_agent,
+        'reason': decision['reason'],
+        'departments_total': metrics['departments_total'],
+        'departments_proposed': metrics['departments_proposed'],
         'dispatch_success': dispatched,
         'dispatch_detail': dispatch_detail,
     }, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')

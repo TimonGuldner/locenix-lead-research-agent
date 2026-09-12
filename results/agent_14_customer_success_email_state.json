@@ -1,0 +1,11 @@
+{
+  "agent": "AGENT_14_CUSTOMER_SUCCESS_EMAIL",
+  "reports_to": "AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD",
+  "sender": "Timon Guldner <hello@locenix.com>",
+  "sent_count": 0,
+  "skipped_count": 0,
+  "failed_count": 0,
+  "human_reviews_required": 0,
+  "status": "HEALTHY",
+  "last_run_at": "2026-09-12T17:13:53.136931+00:00"
+}

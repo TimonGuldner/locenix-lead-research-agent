@@ -5,7 +5,7 @@
   "north_star": "paid_customers_from_email",
   "inbox_address": "hello@locenix.com",
   "poll_limit": 50,
-  "auto_reply_enabled": false,
+  "auto_reply_enabled": true,
   "safe_auto_reply_categories": [
     "POSITIVE_INTEREST",
     "QUESTION",
@@ -34,6 +34,10 @@
     "idempotency_by_message_id": true,
     "no_fabricated_external_actions": true,
     "no_automatic_legal_judgment": true,
-    "human_review_for_price_legal_privacy_contracts_partnerships_enterprise": true
+    "human_review_for_price_legal_privacy_contracts_partnerships_enterprise": true,
+    "professional_plain_email_format": true,
+    "standard_locenix_signature_required": true,
+    "no_spammy_language_or_fake_urgency": true,
+    "no_unnecessary_links_or_tracking_copy": true
   }
 }

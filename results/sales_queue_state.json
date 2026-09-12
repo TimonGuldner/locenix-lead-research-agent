@@ -1,12 +1,12 @@
 {
-  "queue_count": 13,
-  "airtable_ready_count": 10,
-  "airtable_created": 7,
-  "airtable_updated": 3,
-  "airtable_skipped": 3,
+  "queue_count": 17,
+  "airtable_ready_count": 11,
+  "airtable_created": 5,
+  "airtable_updated": 6,
+  "airtable_skipped": 6,
   "airtable_errors": [],
-  "priority_a_count": 13,
+  "priority_a_count": 17,
   "priority_b_count": 0,
-  "visibility_pending_count": 8,
+  "visibility_pending_count": 12,
   "last_run_date": "2026-09-12"
 }

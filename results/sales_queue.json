@@ -55,7 +55,7 @@
     "proof_3": "Business website links to at least one social profile.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-12",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
@@ -123,7 +123,7 @@
     "queue_date": "2026-09-12",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
     "compliance_note": "Research and prioritization only. No automatic outreach.",
-    "airtable_record_id": "recKR9Hthyn0E7kgp"
+    "airtable_record_id": "reczJVvSCEtEvcJdD"
   },
   {
     "lead_id": "podologie edelmann|berlin|https://podologie-edelmann.com/",
@@ -149,7 +149,7 @@
     "proof_3": "Business website links to at least one social profile.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-12",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
@@ -216,7 +216,7 @@
     "queue_date": "2026-09-12",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
     "compliance_note": "Research and prioritization only. No automatic outreach.",
-    "airtable_record_id": "recjKlHKzMxieVj6n"
+    "airtable_record_id": "recadCl5HJXP0otIx"
   },
   {
     "lead_id": "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
@@ -242,7 +242,7 @@
     "proof_3": "Business website links to at least one social profile.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-12",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
@@ -278,7 +278,7 @@
     "queue_date": "2026-09-12",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
     "compliance_note": "Research and prioritization only. No automatic outreach.",
-    "airtable_record_id": "recdCJQkkyAfOyVf6"
+    "airtable_record_id": "recEH6qWoEgVDgtj2"
   },
   {
     "lead_id": "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -308,7 +308,38 @@
     "queue_date": "2026-09-12",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
     "compliance_note": "Research and prioritization only. No automatic outreach.",
-    "airtable_record_id": "rectcDCGxix0mKukm"
+    "airtable_record_id": "recaOixdAFczbjg2U"
+  },
+  {
+    "lead_id": "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
+    "company_name": "Reifen-Müller, Georg Müller GmbH & Co.KG",
+    "industry": "Reifenservice",
+    "city": "Berlin",
+    "website": "https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
+    "google_maps_url": "https://www.google.com/maps/place/Reifen-M%C3%BCller,+Georg+M%C3%BCller+GmbH+%26+Co.KG/data=!4m7!3m6!1s0x47a84e37e72ee605:0x5421510b1cd4e6c0!8m2!3d52.5060012!4d13.4300898!16s%2Fg%2F1tgf27gh!19sChIJBeYu5zdOqEcRwObUHAtRIVQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "visibility_checked": false,
+    "weak_visibility_observed": null,
+    "visibility_opportunity_score": null,
+    "priority_score": 100,
+    "sales_tier": "A",
+    "primary_pitch": "Verified source data: 182 reviews vs. comparison median 357; gap 175.",
+    "why_now": [
+      "Verified source data: 182 reviews vs. comparison median 357; gap 175.",
+      "Business website links to at least one social profile."
+    ],
+    "proof_1": "Verified source data: 182 reviews vs. comparison median 357; gap 175.",
+    "proof_2": "Business website links to at least one social profile.",
+    "proof_3": null,
+    "next_action": "PRIORITY_SALES_REVIEW",
+    "airtable_ready": true,
+    "airtable_sync_status": "SYNCED_CREATED",
+    "outreach_status": "NOT_CONTACTED",
+    "queue_date": "2026-09-12",
+    "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
+    "compliance_note": "Research and prioritization only. No automatic outreach.",
+    "airtable_record_id": "recqYvnwyLWwLEmJn"
   },
   {
     "lead_id": "walk again center|berlin|https://walk-again.de/",
@@ -329,6 +360,65 @@
       "Verified source data: 17 reviews vs. comparison median 184; gap 167."
     ],
     "proof_1": "Verified source data: 17 reviews vs. comparison median 184; gap 167.",
+    "proof_2": null,
+    "proof_3": null,
+    "next_action": "SALES_REVIEW",
+    "airtable_ready": false,
+    "airtable_sync_status": "NOT_READY",
+    "outreach_status": "NOT_CONTACTED",
+    "queue_date": "2026-09-12",
+    "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
+    "compliance_note": "Research and prioritization only. No automatic outreach."
+  },
+  {
+    "lead_id": "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
+    "company_name": "Reifendienst - All Inn Performance",
+    "industry": "Reifenservice",
+    "city": "Berlin",
+    "website": "http://facebook.com/allinnperformance",
+    "google_maps_url": "https://www.google.com/maps/place/Reifendienst+-+All+Inn+Performance/data=!4m7!3m6!1s0x47a84460ddb3d411:0x1cc5362a9f142d7d!8m2!3d52.388357!4d13.4091684!16s%2Fg%2F11g7zdt245!19sChIJEdSz3WBEqEcRfS0Unyo2xRw?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "visibility_checked": false,
+    "weak_visibility_observed": null,
+    "visibility_opportunity_score": null,
+    "priority_score": 93,
+    "sales_tier": "A",
+    "primary_pitch": "Verified source data: 89 reviews vs. comparison median 357; gap 268.",
+    "why_now": [
+      "Verified source data: 89 reviews vs. comparison median 357; gap 268.",
+      "Business website links to at least one social profile."
+    ],
+    "proof_1": "Verified source data: 89 reviews vs. comparison median 357; gap 268.",
+    "proof_2": "Business website links to at least one social profile.",
+    "proof_3": null,
+    "next_action": "SALES_REVIEW",
+    "airtable_ready": false,
+    "airtable_sync_status": "NOT_READY",
+    "outreach_status": "NOT_CONTACTED",
+    "queue_date": "2026-09-12",
+    "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
+    "compliance_note": "Research and prioritization only. No automatic outreach."
+  },
+  {
+    "lead_id": "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
+    "company_name": "Julcy Nails - Berlin",
+    "industry": "Nagelstudio",
+    "city": "Berlin",
+    "website": "https://nail.beauty.ivof.com/julcy-nails/",
+    "google_maps_url": "https://www.google.com/maps/place/Julcy+Nails+-+Berlin/data=!4m7!3m6!1s0x47a851afa372f84d:0xe42f0016b6e6a24!8m2!3d52.5086911!4d13.393526!16s%2Fg%2F11srqg14km!19sChIJTfhyo69RqEcRJGpuawHwQg4?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_checked": false,
+    "weak_visibility_observed": null,
+    "visibility_opportunity_score": null,
+    "priority_score": 92,
+    "sales_tier": "A",
+    "primary_pitch": "Verified source data: 136 reviews vs. comparison median 298; gap 162.",
+    "why_now": [
+      "Verified source data: 136 reviews vs. comparison median 298; gap 162."
+    ],
+    "proof_1": "Verified source data: 136 reviews vs. comparison median 298; gap 162.",
     "proof_2": null,
     "proof_3": null,
     "next_action": "SALES_REVIEW",
@@ -385,6 +475,35 @@
       "Verified source data: 41 reviews vs. comparison median 184; gap 143."
     ],
     "proof_1": "Verified source data: 41 reviews vs. comparison median 184; gap 143.",
+    "proof_2": null,
+    "proof_3": null,
+    "next_action": "SALES_REVIEW",
+    "airtable_ready": false,
+    "airtable_sync_status": "NOT_READY",
+    "outreach_status": "NOT_CONTACTED",
+    "queue_date": "2026-09-12",
+    "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
+    "compliance_note": "Research and prioritization only. No automatic outreach."
+  },
+  {
+    "lead_id": "maison de nails berlin|berlin|https://maisondenails.de/",
+    "company_name": "Maison De Nails Berlin",
+    "industry": "Nagelstudio",
+    "city": "Berlin",
+    "website": "https://maisondenails.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Maison+De+Nails+Berlin/data=!4m7!3m6!1s0x47a853a6eeaba31d:0x544ce179cd300621!8m2!3d52.5656369!4d13.3991799!16s%2Fg%2F11ynbb17f4!19sChIJHaOr7qZTqEcRIQYwzXnhTFQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 86,
+    "visibility_checked": false,
+    "weak_visibility_observed": null,
+    "visibility_opportunity_score": null,
+    "priority_score": 90,
+    "sales_tier": "A",
+    "primary_pitch": "Verified source data: 47 reviews vs. comparison median 298; gap 251.",
+    "why_now": [
+      "Verified source data: 47 reviews vs. comparison median 298; gap 251."
+    ],
+    "proof_1": "Verified source data: 47 reviews vs. comparison median 298; gap 251.",
     "proof_2": null,
     "proof_3": null,
     "next_action": "SALES_REVIEW",

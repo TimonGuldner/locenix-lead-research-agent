@@ -1,0 +1,68 @@
+name: LOCENIX Customer Success Department
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'wake_customer_success.txt'
+      - 'tasks/customer_success_task.json'
+      - 'tasks/agents/agent_11_trial_conversion.json'
+      - 'tasks/agents/agent_12_onboarding.json'
+      - 'tasks/agents/agent_13_retention_success.json'
+      - 'agent/customer_success_agent.py'
+  schedule:
+    - cron: '27 * * * *'
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: locenix-customer-success
+  cancel-in-progress: false
+
+jobs:
+  customer-success:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Preflight
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+        run: |
+          set -euo pipefail
+          test -n "$AIRTABLE_TOKEN" || { echo 'AIRTABLE_TOKEN missing'; exit 1; }
+
+      - name: Run Agent 10 Customer Success
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+        run: python -m agent.customer_success_agent
+
+      - name: Commit Customer Success state
+        run: |
+          set -euo pipefail
+          git config user.name 'locenix-customer-success'
+          git config user.email 'actions@users.noreply.github.com'
+          git add results/customer_success_state.json results/customer_success_latest.json results/agent_11_trial_conversion_state.json results/agent_12_onboarding_state.json results/agent_13_retention_state.json
+          if git diff --cached --quiet; then
+            echo 'No Customer Success state changes'
+          else
+            git commit -m 'chore: update Customer Success department state'
+            git pull --rebase
+            git push
+          fi
+
+      - name: Dispatch CEO
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run ceo.yml --ref main

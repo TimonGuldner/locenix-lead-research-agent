@@ -2,8 +2,6 @@ name: LOCENIX Agent 9 Email Conversation
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/15 * * * *'
 
 permissions:
   contents: write

@@ -1,0 +1,9 @@
+{
+  "id": "AGENT_15E_CONVERSATION_FOLLOWUP",
+  "name": "Intent Conversation & Follow-up",
+  "status": "ACTIVE",
+  "parent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
+  "objective": "Monitor permitted channel replies, classify intent, continue useful conversations, and hand qualified opportunities to existing Sales and Customer Success.",
+  "classifications": ["POSITIVE", "INTERESTED", "QUESTION", "NOT_NOW", "NEGATIVE", "UNSUBSCRIBE", "DO_NOT_CONTACT", "UNKNOWN"],
+  "rules": ["stop on rejection or do-not-contact", "at most one contextual follow-up where platform rules allow", "use existing sales pipeline for conversion", "use existing customer success after trial/customer handoff"]
+}

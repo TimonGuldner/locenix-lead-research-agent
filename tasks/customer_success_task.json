@@ -14,7 +14,8 @@
   "subagents": [
     "AGENT_11_TRIAL_CONVERSION",
     "AGENT_12_ONBOARDING",
-    "AGENT_13_RETENTION_SUCCESS"
+    "AGENT_13_RETENTION_SUCCESS",
+    "AGENT_14_CUSTOMER_SUCCESS_EMAIL"
   ],
   "priority_order": [
     "PAID_CUSTOMER_CRITICAL_PROBLEM",
@@ -46,6 +47,7 @@
     "delegate_internal_tasks": true,
     "update_internal_state": true,
     "send_customer_messages": false,
+    "delegate_customer_success_email_to_agent_14": true,
     "change_prices": false,
     "issue_refunds": false,
     "activate_new_agents": false

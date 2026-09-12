@@ -1,0 +1,19 @@
+{
+  "id": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
+  "name": "Intent & Opportunity Acquisition",
+  "type": "department",
+  "status": "ACTIVE",
+  "parent": "AGENT_0_LOCENIX_CEO",
+  "mission": "Find current DACH buyer-intent signals for LOCENIX, qualify them, orchestrate platform access and response preparation, and hand qualified opportunities into the existing sales pipeline.",
+  "children": [
+    "AGENT_15A_INTENT_SCOUT",
+    "AGENT_15B_INTENT_QA",
+    "AGENT_15C_PLATFORM_ACCESS",
+    "AGENT_15D_RESPONSE",
+    "AGENT_15E_CONVERSATION_FOLLOWUP"
+  ],
+  "source_of_truth": "Airtable Leads",
+  "registration_email": "hello@locenix.com",
+  "linkedin_new_account_allowed": false,
+  "reports_to_ceo": true
+}

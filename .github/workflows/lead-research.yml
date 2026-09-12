@@ -8,7 +8,7 @@ on:
       - wake.txt
       - tasks/current_task.json
   schedule:
-    - cron: "17,47 * * * *"
+    - cron: "17,47 6-15 * * *"
 
 permissions:
   contents: write
@@ -28,7 +28,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Check task
+      - name: Check task and active window
         id: gate
         shell: bash
         run: |
@@ -46,9 +46,18 @@ jobs:
           echo "mode=$MODE" >> "$GITHUB_OUTPUT"
           if [[ "$ENABLED" != "true" ]]; then
             echo "run=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
+          if [[ "${{ github.event_name }}" == "schedule" ]]; then
+            LOCAL_HOUR=$(TZ=Europe/Berlin date +%H)
+            HOUR=$((10#$LOCAL_HOUR))
+            if (( HOUR < 8 || HOUR >= 16 )); then
+              echo "Outside 08:00-16:00 Europe/Berlin; skipping scheduled research."
+              echo "run=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          fi
+          echo "run=true" >> "$GITHUB_OUTPUT"
 
       - name: Set up Python
         if: steps.gate.outputs.run == 'true'

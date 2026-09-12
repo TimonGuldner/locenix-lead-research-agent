@@ -1,0 +1,61 @@
+name: LOCENIX Growth Manager
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'wake_department_head.txt'
+      - 'tasks/department_head_task.json'
+      - 'agent/department_head_agent.py'
+  schedule:
+    - cron: '12,42 6-15 * * *'
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: locenix-department-head
+  cancel-in-progress: false
+
+jobs:
+  manager:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Europe Berlin business-hours gate
+        if: github.event_name == 'schedule'
+        run: |
+          python - <<'PY'
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          now = datetime.now(ZoneInfo('Europe/Berlin'))
+          if not (8 <= now.hour < 16):
+              raise SystemExit('Outside 08:00-16:00 Europe/Berlin')
+          PY
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run LOCENIX Growth Manager
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m agent.department_head_agent
+
+      - name: Commit manager report
+        run: |
+          git config user.name 'locenix-growth-manager'
+          git config user.email 'actions@users.noreply.github.com'
+          git add results/department_head_latest.json results/department_head_state.json
+          if git diff --cached --quiet; then
+            echo 'No manager report changes'
+          else
+            git commit -m 'Update LOCENIX department head report'
+            git pull --rebase
+            git push
+          fi

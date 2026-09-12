@@ -1,0 +1,361 @@
+{
+  "results": [
+    {
+      "lead_id": "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
+      "company_name": "Turna KFZ Werkstatt Berlin",
+      "industry": "Autowerkstatt",
+      "city": "Berlin",
+      "source_total_score": 89,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Turna+KFZ+Werkstatt+Berlin/data=!4m7!3m6!1s0x47a85396fec96d99:0xd030b95c4e4e1d2a!8m2!3d52.5648316!4d13.3824333!16s%2Fg%2F11n9hvdrl6!19sChIJmW3J_pZTqEcRKh1OTly5MNA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.kfzwerkstattinberlin.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.kfzwerkstattinberlin.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "inspektion",
+          "reifen",
+          "bremsen",
+          "klima",
+          "diagnose"
+        ],
+        "website_evidence": [
+          "Contact page/link observed on website.",
+          "Website services re-observed: inspektion, reifen, bremsen, klima, diagnose"
+        ]
+      },
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 93,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 23 reviews vs. comparison median 188; gap 165."
+        },
+        {
+          "type": "profile_completeness_core",
+          "proof": "Current Maps page exposes both phone and website actions."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 23 reviews vs. comparison median 188; gap 165.",
+      "proof": [
+        "Verified source data: 23 reviews vs. comparison median 188; gap 165."
+      ],
+      "airtable_ready": true,
+      "qa_date": "2026-09-12",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
+      "company_name": "André Lewandowski",
+      "industry": "Sanitaer Heizung",
+      "city": "Berlin",
+      "source_total_score": 86,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Andr%C3%A9+Lewandowski/data=!4m7!3m6!1s0x47a85a606e69a971:0xac90ce1acde43eb4!8m2!3d52.451356!4d13.275627!16s%2Fg%2F12lw01lmj!19sChIJcalpbmBaqEcRtD7kzRrOkKw?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.haustechnik-planer.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "NOT_OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "http://www.haustechnik-planer.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "heizung"
+        ],
+        "website_evidence": [
+          "Contact page/link observed on website.",
+          "Website services re-observed: heizung"
+        ]
+      },
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 90,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 3 reviews vs. comparison median 88; gap 85."
+        },
+        {
+          "type": "profile_completeness_core",
+          "proof": "Current Maps page exposes both phone and website actions."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 3 reviews vs. comparison median 88; gap 85.",
+      "proof": [
+        "Verified source data: 3 reviews vs. comparison median 88; gap 85."
+      ],
+      "airtable_ready": true,
+      "qa_date": "2026-09-12",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
+      "company_name": "MANU Elektrobau GmbH",
+      "industry": "Elektriker",
+      "city": "Berlin",
+      "source_total_score": 86,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/MANU+Elektrobau+GmbH/data=!4m7!3m6!1s0x47a84f3e178c3819:0x2d5e7fd6054764f0!8m2!3d52.538613!4d13.422632!16s%2Fg%2F11yvvy1jnc!19sChIJGTiMFz5PqEcR8GRHBdZ_Xi0?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.elektrikerundreinigung.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.elektrikerundreinigung.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "elektroinstallation",
+          "notdienst"
+        ],
+        "website_evidence": [
+          "Contact page/link observed on website.",
+          "Website services re-observed: elektroinstallation, notdienst"
+        ]
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 88,
+      "deep_qa_verified_signals": [
+        {
+          "type": "profile_completeness_core",
+          "proof": "Current Maps page exposes both phone and website actions."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [
+        "Google review count is missing; never interpret this as zero."
+      ],
+      "primary_sales_angle_verified": null,
+      "proof": [],
+      "airtable_ready": false,
+      "qa_date": "2026-09-12",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
+      "company_name": "Osteopathie Diana Peuker (TRAWELL - Gesundheit & Wellness am Traveplatz)",
+      "industry": "Physiotherapie",
+      "city": "Berlin",
+      "source_total_score": 92,
+      "source_lead_class": null,
+      "google_maps_url": "https://www.google.com/maps/place/Osteopathie+Diana+Peuker+%28TRAWELL+-+Gesundheit+%26+Wellness+am+Traveplatz%29/data=!4m7!3m6!1s0x47a84f55811bd21b:0x302df76e761aae35!8m2!3d52.510435!4d13.469967!16s%2Fg%2F11fflbwsdp!19sChIJG9IbgVVPqEcRNa4adm73LTA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.trawell.berlin/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile.",
+          "Booking/appointment wording observed in current Maps page text."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://trawell.berlin/",
+        "booking_link": "https://trawell.berlin/booking/",
+        "social_links": [
+          "https://www.instagram.com/trawell_berlin/",
+          "https://www.facebook.com/profile.php?id=100057060385638"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "cmd",
+          "massage"
+        ],
+        "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Active social-link footprint observed (2 link(s)).",
+          "Contact page/link observed on website.",
+          "Website services re-observed: cmd, massage"
+        ]
+      },
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 100,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 13 reviews vs. comparison median 184; gap 171."
+        },
+        {
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        },
+        {
+          "type": "profile_completeness_core",
+          "proof": "Current Maps page exposes both phone and website actions."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 13 reviews vs. comparison median 184; gap 171.",
+      "proof": [
+        "Verified source data: 13 reviews vs. comparison median 184; gap 171.",
+        "Online booking/appointment link observed on website.",
+        "Business website links to at least one social profile."
+      ],
+      "airtable_ready": true,
+      "qa_date": "2026-09-12",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "backroom physio berlin|berlin|https://backroomphysio.de/",
+      "company_name": "Backroom Physio Berlin",
+      "industry": "Physiotherapie",
+      "city": "Berlin",
+      "source_total_score": 90,
+      "source_lead_class": null,
+      "google_maps_url": "https://www.google.com/maps/place/Backroom+Physio+Berlin/data=!4m7!3m6!1s0x47a85177e5a37a2f:0xa87a1724cb02a4a6!8m2!3d52.5265223!4d13.3898775!16s%2Fg%2F11ypmcgd04!19sChIJL3qj5XdRqEcRpqQCyyQXeqg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://backroomphysio.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile.",
+          "Booking/appointment wording observed in current Maps page text."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.backroomphysio.de/",
+        "booking_link": "https://www.doctolib.de/praxis/berlin/physiotherapie-dr-schlosser-berlin-mitte",
+        "social_links": [
+          "https://www.instagram.com/backroomphysio/"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "lymphdrainage",
+          "krankengymnastik",
+          "manuelle therapie",
+          "sportphysio",
+          "massage"
+        ],
+        "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Active social-link footprint observed (1 link(s)).",
+          "Contact page/link observed on website.",
+          "Website services re-observed: lymphdrainage, krankengymnastik, manuelle therapie, sportphysio, massage"
+        ]
+      },
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 98,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 41 reviews vs. comparison median 184; gap 143."
+        },
+        {
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        },
+        {
+          "type": "profile_completeness_core",
+          "proof": "Current Maps page exposes both phone and website actions."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 41 reviews vs. comparison median 184; gap 143.",
+      "proof": [
+        "Verified source data: 41 reviews vs. comparison median 184; gap 143.",
+        "Online booking/appointment link observed on website.",
+        "Business website links to at least one social profile."
+      ],
+      "airtable_ready": true,
+      "qa_date": "2026-09-12",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
+  "state": {
+    "runs": 1,
+    "processed_ids": [
+      "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
+      "backroom physio berlin|berlin|https://backroomphysio.de/",
+      "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
+      "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
+      "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/"
+    ],
+    "processed_count": 5,
+    "remaining_eligible": 8,
+    "last_batch_count": 5,
+    "final_a_total": 4,
+    "final_b_total": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "runs": 1,
+  "processed_ids": [
+    "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
+    "backroom physio berlin|berlin|https://backroomphysio.de/",
+    "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
+    "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
+    "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/"
+  ],
+  "processed_count": 5,
+  "remaining_eligible": 8,
+  "last_batch_count": 5,
+  "final_a_total": 4,
+  "final_b_total": 1
+}

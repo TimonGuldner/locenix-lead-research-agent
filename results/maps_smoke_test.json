@@ -1,8 +1,10 @@
 {
   "query": "Physiotherapie Troisdorf",
-  "success": false,
-  "listing_name": null,
-  "listing_url": null,
-  "page_title": null,
-  "note": "Smoke test error: TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"input#searchboxinput\") to be visible\n"
+  "success": true,
+  "listing_name": "Physiotherapie Sylwia Zolna",
+  "listing_url": "https://www.google.com/maps/place/Physiotherapie+Sylwia+Zolna/@50.8145635,7.086304,13z/data=!4m10!1m2!2m1!1sPhysiotherapie+Troisdorf!3m6!1s0x47bedfc5fada666d:0x7b8dc03d030a3eaf!8m2!3d50.8145635!4d7.1625217!15sChhQaHlzaW90aGVyYXBpZSBUcm9pc2RvcmZaGiIYcGh5c2lvdGhlcmFwaWUgdHJvaXNkb3JmkgEPcGh5c2lvdGhlcmFwaXN0mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5HYXpkZlVqZEJSUkFC4AEA-gEECDEQPQ!16s%2Fg%2F11stjl9kfd?hl=de&entry=ttu&g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D",
+  "page_title": "Physiotherapie Sylwia Zolna - Google Maps",
+  "final_url": "https://www.google.com/maps/place/Physiotherapie+Sylwia+Zolna/@50.8145635,7.086304,13z/data=!4m10!1m2!2m1!1sPhysiotherapie+Troisdorf!3m6!1s0x47bedfc5fada666d:0x7b8dc03d030a3eaf!8m2!3d50.8145635!4d7.1625217!15sChhQaHlzaW90aGVyYXBpZSBUcm9pc2RvcmZaGiIYcGh5c2lvdGhlcmFwaWUgdHJvaXNkb3JmkgEPcGh5c2lvdGhlcmFwaXN0mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5HYXpkZlVqZEJSUkFC4AEA-gEECDEQPQ!16s%2Fg%2F11stjl9kfd?hl=de&entry=ttu&g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D",
+  "consent_clicked": false,
+  "note": "Opened the first visible Google Maps business result in read-only mode."
 }

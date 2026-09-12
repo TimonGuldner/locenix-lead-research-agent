@@ -1,12 +1,12 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V3",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-12T16:24:21.346353+00:00",
+  "generated_at": "2026-09-12T17:09:29.828467+00:00",
   "department_status": "HEALTHY",
   "metrics": {
-    "lead_count": 51,
+    "lead_count": 52,
     "lead_a": 4,
-    "lead_b": 16,
+    "lead_b": 17,
     "qa_remaining": 0,
     "qa_final_a": 11,
     "qa_final_b": 6,
@@ -31,7 +31,7 @@
     "email_last_run_at": "2026-09-12T16:24:09.420041+00:00",
     "departments_total": 0,
     "departments_proposed": 0,
-    "agents_total": 3,
+    "agents_total": 4,
     "agents_proposed": 0,
     "proposed_names": []
   },
@@ -102,6 +102,48 @@
       "external_messaging": false,
       "status": "ACTIVE",
       "_file": "tasks/agents/agent_13_retention_success.json",
+      "_kind": "agent"
+    },
+    {
+      "agent": "AGENT_14_CUSTOMER_SUCCESS_EMAIL",
+      "reports_to": "AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD",
+      "enabled": true,
+      "goal": "CUSTOMER_SUCCESS_EMAIL_COMMUNICATION",
+      "sender": "Timon Guldner <hello@locenix.com>",
+      "reply_to": "hello@locenix.com",
+      "max_emails_per_run": 5,
+      "cooldown_hours": 24,
+      "auto_send_types": [
+        "TRIAL_EXPIRING",
+        "GBP_CONNECTION_HELP",
+        "FIRST_VALUE_NUDGE",
+        "ONBOARDING_BLOCKER"
+      ],
+      "human_review_types": [
+        "PRICE_NEGOTIATION",
+        "DISCOUNT",
+        "REFUND",
+        "CONTRACT",
+        "PRIVACY",
+        "LEGAL",
+        "COMPLAINT",
+        "ENTERPRISE",
+        "PARTNERSHIP",
+        "UNUSUAL_PAYMENT",
+        "CANCEL_REQUEST"
+      ],
+      "rules": {
+        "no_cold_outreach": true,
+        "existing_trial_or_customer_only": true,
+        "respect_do_not_contact": true,
+        "never_invent_customer_data": true,
+        "never_change_prices_or_terms": true,
+        "one_email_type_per_customer_until_state_changes": true,
+        "plain_professional_style": true,
+        "tracking_disabled": true
+      },
+      "status": "ACTIVE",
+      "_file": "tasks/agents/agent_14_customer_success_email.json",
       "_kind": "agent"
     }
   ],

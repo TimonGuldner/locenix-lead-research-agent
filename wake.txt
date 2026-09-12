@@ -1,2 +1,2 @@
 LOCENIX lead research agent wake trigger.
-Continue Germany-wide deterministic 200-lead research mission after QA batch 1 on 2026-09-12.
+Continue Germany-wide deterministic 200-lead research mission after sales-intelligence null handling fix on 2026-09-12 12:08 Europe/Berlin.

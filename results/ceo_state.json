@@ -1,10 +1,11 @@
 {
-  "last_run_at": "2026-09-12T11:10:12.081425+00:00",
+  "last_run_at": "2026-09-12T11:21:35.411811+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "priority_1": "Generate and store missing outreach drafts.",
   "manager_directive": "Generate and store missing outreach drafts.",
-  "linkedin_department_status": "ATTENTION",
-  "linkedin_biggest_bottleneck": "EVIDENCE",
+  "linkedin_department_status": "HEALTHY",
+  "linkedin_biggest_bottleneck": "GROWTH",
+  "linkedin_directive_id": "li-873a89e9d738",
   "human_decision_required": false
 }

@@ -1,6 +1,6 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-12T11:10:12.081425+00:00",
+  "generated_at": "2026-09-12T11:21:35.411811+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "funnel_metrics": {
@@ -21,8 +21,8 @@
     "replies": "UNKNOWN",
     "trials": "UNKNOWN",
     "paid_customers": "UNKNOWN",
-    "linkedin_department_status": "ATTENTION",
-    "linkedin_biggest_bottleneck": "EVIDENCE",
+    "linkedin_department_status": "HEALTHY",
+    "linkedin_biggest_bottleneck": "GROWTH",
     "linkedin_leads": "UNKNOWN",
     "linkedin_qualified_leads": "UNKNOWN",
     "linkedin_active_conversations": "UNKNOWN",
@@ -32,6 +32,8 @@
     "linkedin_overdue_followups": "UNKNOWN",
     "linkedin_trials": "UNKNOWN",
     "linkedin_paid_customers": "UNKNOWN",
+    "linkedin_queue_backlog": 0,
+    "linkedin_failed_jobs": "UNKNOWN",
     "proposed_agents": 0,
     "proposed_departments": 0
   },
@@ -42,16 +44,16 @@
     },
     "linkedin": {
       "manager": "AGENT_8_LINKEDIN_DEPARTMENT_HEAD",
-      "health": "ATTENTION",
-      "status": "ATTENTION",
-      "biggest_bottleneck": "EVIDENCE",
+      "health": "HEALTHY",
+      "status": "HEALTHY",
+      "biggest_bottleneck": "GROWTH",
       "priority_1": {
-        "type": "EVIDENCE",
-        "action": "Collect current LinkedIn funnel evidence; do not manufacture activity while core metrics are unavailable.",
-        "owner": "LinkedIn Department"
+        "type": "GROWTH",
+        "action": "No observed downstream bottleneck; keep conservative qualified lead generation active.",
+        "owner": "Lead Agent"
       },
       "ceo_escalation_required": false,
-      "last_run_at": "2026-09-12T11:08:48.555668+00:00"
+      "last_run_at": "2026-09-12T11:20:49.703967+00:00"
     }
   },
   "biggest_bottleneck": "Sales-ready leads are missing prepared outreach.",
@@ -64,13 +66,26 @@
   },
   "priority_2": {
     "rank": 2,
-    "type": "EVIDENCE",
+    "type": "CHANNEL",
     "owner": "Agent 8",
-    "action": "Connect current LinkedIn operational metrics to the department report so channel performance becomes measurable.",
-    "reason": "Agent 8 is healthy but currently lacks observed LinkedIn funnel metrics."
+    "action": "No observed downstream bottleneck; keep conservative qualified lead generation active.",
+    "reason": "LinkedIn department priority: GROWTH"
   },
   "priority_3": null,
   "manager_directive": "Generate and store missing outreach drafts.",
+  "linkedin_directive": {
+    "directive_id": "li-873a89e9d738",
+    "department": "linkedin",
+    "owner_agent": "AGENT_8_LINKEDIN_DEPARTMENT_HEAD",
+    "objective": "No observed downstream bottleneck; keep conservative qualified lead generation active.",
+    "reason": "LinkedIn department priority: GROWTH",
+    "priority": 2,
+    "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
+    "created_at": "2026-09-12T11:21:35.411811+00:00",
+    "updated_at": "2026-09-12T11:21:35.411811+00:00",
+    "status": "QUEUED",
+    "external_action_authorized": false
+  },
   "agent_health": {
     "research": "AVAILABLE",
     "qa": "AVAILABLE",

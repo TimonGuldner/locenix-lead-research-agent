@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V3",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-12T14:57:14.267323+00:00",
+  "generated_at": "2026-09-12T15:49:08.458777+00:00",
   "department_status": "HEALTHY",
   "metrics": {
     "lead_count": 49,
@@ -31,7 +31,7 @@
     "email_last_run_at": "2026-09-12T14:57:01.737989+00:00",
     "departments_total": 0,
     "departments_proposed": 0,
-    "agents_total": 0,
+    "agents_total": 1,
     "agents_proposed": 0,
     "proposed_names": []
   },
@@ -48,7 +48,27 @@
     }
   },
   "departments": [],
-  "agent_proposals": [],
+  "agent_proposals": [
+    {
+      "agent": "AGENT_11_TRIAL_CONVERSION",
+      "reports_to": "AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD",
+      "enabled": true,
+      "goal": "INTEREST_TO_ACTIVATED_TRIAL",
+      "priority": [
+        "BUYING_INTENT",
+        "ACTIVE_TRIAL",
+        "TRIAL_BLOCKER",
+        "TRIAL_EXPIRING",
+        "VISIBILITY_CHECK_INTEREST",
+        "DORMANT_TRIAL",
+        "FOLLOW_UP"
+      ],
+      "external_messaging": false,
+      "status": "ACTIVE",
+      "_file": "tasks/agents/agent_11_trial_conversion.json",
+      "_kind": "agent"
+    }
+  ],
   "next_agent": "lead_research",
   "reason": "Downstream pipeline is clear; add new qualified leads.",
   "dispatch_attempted": true,

@@ -1,11 +1,11 @@
 {
-  "last_run_at": "2026-09-12T14:57:14.267323+00:00",
+  "last_run_at": "2026-09-12T15:49:08.458777+00:00",
   "department_status": "HEALTHY",
   "next_agent": "lead_research",
   "reason": "Downstream pipeline is clear; add new qualified leads.",
   "departments_total": 0,
   "departments_proposed": 0,
-  "agents_total": 0,
+  "agents_total": 1,
   "agents_proposed": 0,
   "dispatch_success": true,
   "dispatch_detail": "HTTP 204",

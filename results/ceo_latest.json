@@ -1,0 +1,68 @@
+{
+  "agent": "AGENT_0_LOCENIX_CEO",
+  "generated_at": "2026-09-12T10:58:33.303178+00:00",
+  "company_status": "ATTENTION",
+  "north_star": "paid_customers",
+  "funnel_metrics": {
+    "research_leads": 33,
+    "research_a": 3,
+    "research_b": 0,
+    "qa_remaining": 0,
+    "final_a": 10,
+    "final_b": 3,
+    "visibility_remaining": 0,
+    "weak_visibility": 3,
+    "sales_queue": 13,
+    "airtable_ready": 10,
+    "airtable_errors": [],
+    "drafts_stored": 4,
+    "draft_errors": 0,
+    "contacted": "UNKNOWN",
+    "replies": "UNKNOWN",
+    "trials": "UNKNOWN",
+    "paid_customers": "UNKNOWN",
+    "proposed_agents": 0,
+    "proposed_departments": 0
+  },
+  "biggest_bottleneck": "Sales-ready leads are missing prepared outreach.",
+  "priority_1": {
+    "rank": 1,
+    "type": "BOTTLENECK",
+    "owner": "Agent 7",
+    "action": "Generate and store missing outreach drafts.",
+    "reason": "Sales-ready leads are missing prepared outreach."
+  },
+  "priority_2": null,
+  "priority_3": null,
+  "manager_directive": "Generate and store missing outreach drafts.",
+  "agent_health": {
+    "research": "AVAILABLE",
+    "qa": "AVAILABLE",
+    "visibility": "AVAILABLE",
+    "sales": "AVAILABLE",
+    "outreach": "AVAILABLE",
+    "manager": "AVAILABLE"
+  },
+  "opportunities": [],
+  "risks": [
+    "Sales-ready leads are missing prepared outreach."
+  ],
+  "proposed_agents": 0,
+  "proposed_departments": 0,
+  "human_decision_required": false,
+  "autonomy": {
+    "internal_analysis": true,
+    "prioritization": true,
+    "safe_workflow_directives": true,
+    "propose_agents": true,
+    "propose_departments": true,
+    "activate_new_agents": false,
+    "activate_new_departments": false,
+    "external_messages": false,
+    "payments": false,
+    "contracts": false,
+    "paid_services": false,
+    "delete_production_data": false
+  },
+  "executive_rule": "DECIDE_DELEGATE_MEASURE_IMPROVE"
+}

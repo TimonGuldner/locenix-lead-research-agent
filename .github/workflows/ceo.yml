@@ -11,7 +11,6 @@ on:
       - 'agent/ceo_agent.py'
       - 'results/department_head_state.json'
   schedule:
-    # Broad UTC hours + Berlin gate below. Executive review is exactly twice daily local time.
     - cron: '15 6,7,14,15 * * *'
 
 permissions:
@@ -30,34 +29,41 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Berlin executive-review gate
-        if: github.event_name == 'schedule'
+      - name: Resolve Berlin executive-review slot
+        id: gate
+        shell: bash
         run: |
-          python - <<'PY'
+          if [[ "${{ github.event_name }}" != "schedule" ]]; then
+            echo "run_review=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          python - <<'PY' >> "$GITHUB_OUTPUT"
           from datetime import datetime
           from zoneinfo import ZoneInfo
           now = datetime.now(ZoneInfo('Europe/Berlin'))
-          # Two reviews per day: 08:15 and 16:15 local, DST-safe.
-          if not (now.minute == 15 and now.hour in (8,16)):
-              raise SystemExit('Not a scheduled LOCENIX executive-review slot')
+          print('run_review=' + ('true' if now.minute == 15 and now.hour in (8,16) else 'false'))
           PY
 
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run_review == 'true'
         with:
           python-version: '3.12'
 
       - name: Run CEO Agent 0
+        if: steps.gate.outputs.run_review == 'true'
         run: python -m agent.ceo_agent
 
-      - name: Commit CEO report
+      - name: Commit CEO report and directives
+        if: steps.gate.outputs.run_review == 'true'
         run: |
           git config user.name 'locenix-ceo-agent'
           git config user.email 'actions@users.noreply.github.com'
           git add results/ceo_latest.json results/ceo_state.json
+          if [[ -f results/linkedin_directive.json ]]; then git add results/linkedin_directive.json; fi
           if git diff --cached --quiet; then
             echo 'No CEO report changes'
           else
-            git commit -m 'Update LOCENIX CEO executive report'
+            git commit -m 'Update LOCENIX CEO executive report and directives'
             git pull --rebase
             git push
           fi

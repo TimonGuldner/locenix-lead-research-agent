@@ -46,7 +46,6 @@ jobs:
           echo "mode=$MODE" >> "$GITHUB_OUTPUT"
           if [[ "$ENABLED" != "true" ]]; then
             echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "Task disabled."
           else
             echo "run=true" >> "$GITHUB_OUTPUT"
           fi
@@ -72,6 +71,10 @@ jobs:
       - name: Run deterministic Germany-wide research batch
         if: steps.gate.outputs.run == 'true' && steps.gate.outputs.mode == 'deterministic_research'
         run: python -m agent.deterministic_research
+
+      - name: Run LOCENIX sales intelligence qualification
+        if: steps.gate.outputs.run == 'true' && steps.gate.outputs.mode == 'deterministic_research'
+        run: python -m agent.sales_intelligence
 
       - name: Run legacy LLM research batch
         if: steps.gate.outputs.run == 'true' && steps.gate.outputs.mode == 'legacy_llm_research'

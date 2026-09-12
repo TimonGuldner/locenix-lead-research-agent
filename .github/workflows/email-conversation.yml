@@ -1,0 +1,60 @@
+name: LOCENIX Agent 9 Email Conversation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: locenix-email-conversation
+  cancel-in-progress: false
+
+jobs:
+  email-conversation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+      AIRTABLE_BASE_ID: appuPKnVyLsbWbxMR
+      AIRTABLE_TABLE_ID: tblF4ghkYFzkeQwsT
+      RESEND_INBOX_API_KEY: ${{ secrets.RESEND_INBOX_API_KEY }}
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+      EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+      EMAIL_REPLY_TO: ${{ secrets.EMAIL_REPLY_TO }}
+      EMAIL_AUTO_REPLY: ${{ secrets.EMAIL_AUTO_REPLY }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Preflight
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -n "$AIRTABLE_TOKEN" || { echo 'AIRTABLE_TOKEN missing'; exit 1; }
+          test -n "$RESEND_INBOX_API_KEY" || { echo 'RESEND_INBOX_API_KEY missing'; exit 1; }
+
+      - name: Run Agent 9
+        run: python -m agent.email_conversation_agent
+
+      - name: Commit Agent 9 state
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "locenix-agent-9"
+          git config user.email "actions@github.com"
+          git add results/email_conversation_state.json results/email_conversation_latest.json
+          if git diff --cached --quiet; then
+            echo "No state changes"
+          else
+            git commit -m "chore: update Agent 9 email conversation state"
+            git push
+          fi

@@ -32,8 +32,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
@@ -66,8 +66,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "backroom physio berlin|berlin|https://backroomphysio.de/",
@@ -101,8 +101,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
@@ -135,8 +135,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "podologie edelmann|berlin|https://podologie-edelmann.com/",
@@ -169,8 +169,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
@@ -203,8 +203,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
@@ -237,8 +237,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
@@ -271,8 +271,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
@@ -305,8 +305,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -338,8 +338,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
@@ -372,8 +372,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "walk again center|berlin|https://walk-again.de/",
@@ -405,8 +405,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
@@ -439,8 +439,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
@@ -472,8 +472,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
@@ -503,8 +503,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
@@ -536,8 +536,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     },
     {
       "lead_id": "maison de nails berlin|berlin|https://maisondenails.de/",
@@ -569,8 +569,8 @@
       "airtable_sync_status": "EMAIL_MISSING",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-12",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V4_AUTO_SEND_APPROVAL",
-      "compliance_note": "Verified email is required. Technical sending approval is automatic for qualified email-ready leads. Legal basis is stored and evaluated separately."
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V5_AUTO_MANUAL_LEGAL_APPROVAL",
+      "compliance_note": "Verified email is required. Qualified email-ready leads receive automatic technical approval plus MANUAL_LEGAL_APPROVAL under standing user authorization."
     }
   ],
   "state": {

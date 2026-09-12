@@ -1,0 +1,10 @@
+{
+  "id": "AGENT_15A_INTENT_SCOUT",
+  "name": "Intent Scout",
+  "status": "ACTIVE",
+  "parent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
+  "objective": "Discover fresh public DACH demand signals for Google Business Profile, Google Maps, Local SEO and local visibility.",
+  "inputs": ["approved_public_sources", "existing_linkedin_account"],
+  "outputs": ["source", "source_url", "person", "company", "intent_signal", "detected_at", "context"],
+  "rules": ["public data only", "no invented leads", "no new LinkedIn account", "respect platform rules", "exclude blocked professions before handoff"]
+}

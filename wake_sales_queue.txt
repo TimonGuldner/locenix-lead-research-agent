@@ -1,1 +1,1 @@
-wake 2026-09-12 sales queue agent airtable sync test
+wake 2026-09-12 sales queue agent airtable sync retest 2

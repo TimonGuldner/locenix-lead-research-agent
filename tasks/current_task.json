@@ -22,7 +22,20 @@
     "require_fresh_maps_profile": true,
     "reject_obvious_chains": true,
     "competitor_count": 5,
-    "max_a_leads_per_city_category": 8
+    "max_a_leads_per_city_category": 8,
+    "excluded_professions": [
+      "Rechtsanwalt",
+      "Rechtsanwälte",
+      "Anwalt",
+      "Anwaltskanzlei",
+      "Kanzlei",
+      "Notar",
+      "Notariat",
+      "Patentanwalt",
+      "Steuerberater",
+      "Steuerberatung",
+      "Wirtschaftsprüfer"
+    ]
   },
   "sales_intelligence": {
     "enabled": true,
@@ -44,8 +57,8 @@
   "categories": [
     "Physiotherapie", "Osteopathie", "Podologie", "Kosmetikstudio", "Beauty Aesthetik", "Friseur", "Barbershop",
     "Zahnarzt", "Tierarzt", "Autowerkstatt", "Sanitaer Heizung", "Elektriker", "Dachdecker", "Gebaeudereinigung",
-    "Immobilienmakler", "Nagelstudio", "Massagepraxis", "Heilpraktiker", "Fahrschule", "Fotograf", "Steuerberater",
+    "Immobilienmakler", "Nagelstudio", "Massagepraxis", "Heilpraktiker", "Fahrschule", "Fotograf",
     "Maler", "Umzugsunternehmen", "Reifenservice", "Hundefriseur", "Personal Training", "Ergotherapie", "Logopaedie"
   ],
-  "notes": "Continuous research mission. Run scheduled research only between 08:00 and 16:00 Europe/Berlin, with no practical lead-count cap. Research only: never send messages, submit forms, create accounts, log in, or contact businesses. Use public data only. Never guess emails. No CAPTCHA or security bypass. Prefer quality over count. A-Leads require at least two verified optimization signals and digital readiness. Website services are only service-visibility candidates until final QA; never claim a Google Business Profile service gap without verification. Prefer direct local competitors from the same query. Record ranking position, purchase-likelihood, contact quality, confidence, why-now and evidence. Reject obvious chains and stale/invalid businesses where detectable. ChatGPT performs final QA and Airtable sync."
+  "notes": "Continuous research mission. Run scheduled research only between 08:00 and 16:00 Europe/Berlin, with no practical lead-count cap. Research only: never send messages, submit forms, create accounts, log in, or contact businesses. Use public data only. Never guess emails. HARD EXCLUSION: never research, qualify, approve or hand off lawyers, attorneys, law firms, notaries, patent attorneys, tax advisers/tax consultancies, auditors or similar legal/regulated advisory professions for outreach. No CAPTCHA or security bypass. Prefer quality over count. A-Leads require at least two verified optimization signals and digital readiness. Website services are only service-visibility candidates until final QA; never claim a Google Business Profile service gap without verification. Prefer direct local competitors from the same query. Record ranking position, purchase-likelihood, contact quality, confidence, why-now and evidence. Reject obvious chains and stale/invalid businesses where detectable. ChatGPT performs final QA and Airtable sync."
 }

@@ -1,81 +1,17 @@
 {
-  "accepted": [
-    {
-      "company_name": "R&RRR Reifennotdienst 24h",
-      "industry": "Reifenservice",
-      "city": "Hamburg",
-      "address": "Reinbeker Redder 116, 21031 Bergedorf, Deutschland",
-      "website": "http://www.rundrrr.de/",
-      "google_maps_url": "https://www.google.com/maps/place/R%26RRR+Reifennotdienst+24h/data=!4m7!3m6!1s0x47b1f2dafc8d6ec7:0x36c28917a11fed21!8m2!3d53.5113594!4d10.1850543!16s%2Fg%2F11c1qydf2y!19sChIJx26N_NrysUcRIe0foReJwjY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 40 22887519",
-      "public_business_email": "rundrrr@yahoo.de",
-      "email_source_url": "https://www.rundrrr.de/",
-      "contact_form_url": "https://www.rundrrr.de/#Kontakt",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.4,
-      "google_review_count": 155,
-      "main_category": "Reifenservice",
-      "website_services": [],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "Reifen Company",
-      "competitor_1_reviews": 533,
-      "competitor_2": "EuroPlus Reifenservice",
-      "competitor_2_reviews": 526,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "155 eigene Bewertungen vs. lokaler Wettbewerbsmedian 408; Gap 253."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.4; sichtbares Reputationspotenzial."
-        }
-      ],
-      "soft_optimization_signals": [],
-      "verified_signal_count": 2,
-      "report_potential_score": 22,
-      "visible_value_score": 12,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 81,
-      "competitor_review_median": 408,
-      "review_gap": 253,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "155 eigene Bewertungen vs. lokaler Wettbewerbsmedian 408; Gap 253.",
-      "proof": [
-        "155 eigene Bewertungen vs. lokaler Wettbewerbsmedian 408; Gap 253.",
-        "Google-Bewertung 4.4; sichtbares Reputationspotenzial."
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "155 eigene Bewertungen vs. lokaler Wettbewerbsmedian 408; Gap 253.",
-      "second_outreach_angle": "Google-Bewertung 4.4; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Reifenservice Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-12",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    }
-  ],
-  "accepted_count": 1,
-  "rejected_count": 23,
+  "accepted": [],
+  "accepted_count": 0,
+  "rejected_count": 24,
   "inspected": 24,
   "state": {
-    "query_cursor": 54,
-    "runs": 18,
+    "query_cursor": 57,
+    "runs": 19,
     "lead_count": 52,
     "target_leads": 999999999,
-    "last_accepted": 1,
+    "last_accepted": 0,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 23,
+    "last_rejected": 24,
     "a_leads": 4,
     "b_leads": 17
   }

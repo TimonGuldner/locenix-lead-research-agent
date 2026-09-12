@@ -1,245 +1,14 @@
 {
   "results": [
     {
-      "lead_id": "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
-      "company_name": "Sugar Time Kosmetik Berlin",
-      "industry": "Kosmetikstudio",
+      "lead_id": "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
+      "company_name": "Frisör Berlin: Toronto",
+      "industry": "Friseur",
       "city": "Berlin",
-      "source_total_score": 90,
+      "source_total_score": 83,
       "source_lead_class": null,
-      "google_maps_url": "https://www.google.com/maps/place/Sugar+Time+Kosmetik+Berlin/data=!4m7!3m6!1s0x47a84f059b293e1d:0x4530330351283294!8m2!3d52.5165245!4d13.4417574!16s%2Fg%2F11l2hq023m!19sChIJHT4pmwVPqEcRlDIoUQMzMEU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.sugar-time.berlin/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile.",
-          "Booking/appointment wording observed in current Maps page text."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.sugar-time.berlin/",
-        "booking_link": "https://buchung.treatwell.de/ort/sugar-time/",
-        "social_links": [
-          "https://www.instagram.com/sugartime.berlin/",
-          "https://www.facebook.com/sugartime.berlin/",
-          "https://www.facebook.com/sugartime.berlin/?rdid=xfLRo5Qy2x6SLhim"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "microneedling",
-          "gesichtsbehandlung",
-          "wimpern",
-          "augenbrauen"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (3 link(s)).",
-          "Contact page/link observed on website.",
-          "Website services re-observed: microneedling, gesichtsbehandlung, wimpern, augenbrauen"
-        ]
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 100,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 52 reviews vs. comparison median 135; gap 83."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        },
-        {
-          "type": "profile_completeness_core",
-          "proof": "Current Maps page exposes both phone and website actions."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 52 reviews vs. comparison median 135; gap 83.",
-      "proof": [
-        "Verified source data: 52 reviews vs. comparison median 135; gap 83.",
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
-      ],
-      "airtable_ready": true,
-      "qa_date": "2026-09-12",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
-      "company_name": "Beauty Lounge by Viola – Berlin-Mitte",
-      "industry": "Kosmetikstudio",
-      "city": "Berlin",
-      "source_total_score": 87,
-      "source_lead_class": null,
-      "google_maps_url": "https://www.google.com/maps/place/Beauty+Lounge+by+Viola+%E2%80%93+Berlin-Mitte/data=!4m7!3m6!1s0x47a85148dbf918bf:0x233b68d9e2b35c76!8m2!3d52.5126946!4d13.3988273!16s%2Fg%2F11xrz2jx6g!19sChIJvxj520hRqEcRdlyz4tloOyM?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://beauty-mitte.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile.",
-          "Booking/appointment wording observed in current Maps page text."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "http://beauty-mitte.de/",
-        "booking_link": "http://beauty-mitte.de/",
-        "social_links": [
-          "https://www.facebook.com/policy.php/",
-          "https://www.instagram.com/beautylounge_viola/"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "microneedling",
-          "aquafacial"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (2 link(s)).",
-          "Contact page/link observed on website.",
-          "Website services re-observed: microneedling, aquafacial"
-        ]
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 98,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 53 reviews vs. comparison median 135; gap 82."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        },
-        {
-          "type": "profile_completeness_core",
-          "proof": "Current Maps page exposes both phone and website actions."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 53 reviews vs. comparison median 135; gap 82.",
-      "proof": [
-        "Verified source data: 53 reviews vs. comparison median 135; gap 82.",
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
-      ],
-      "airtable_ready": true,
-      "qa_date": "2026-09-12",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "podologie edelmann|berlin|https://podologie-edelmann.com/",
-      "company_name": "PODOLOGIE EDELMANN",
-      "industry": "Podologie",
-      "city": "Berlin",
-      "source_total_score": 86,
-      "source_lead_class": null,
-      "google_maps_url": "https://www.google.com/maps/place/PODOLOGIE+EDELMANN/data=!4m7!3m6!1s0x69e8edee4a468efd:0x7eb54ca2ead557f3!8m2!3d52.4996337!4d13.3423257!16s%2Fg%2F11yybh3byx!19sChIJ_Y5GSu7t6GkR81fV6qJMtX4?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://podologie-edelmann.com/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": false,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.podologie-edelmann.com/",
-        "booking_link": "https://podologieedelmann.simplybook.it/v2/#book",
-        "social_links": [
-          "https://www.instagram.com/wix/",
-          "https://www.linkedin.com/company/wix-com"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "podologie",
-          "nagelkorrektur"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (2 link(s)).",
-          "Contact page/link observed on website.",
-          "Website services re-observed: podologie, nagelkorrektur"
-        ]
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 95,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 28 reviews vs. comparison median 80; gap 52."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 28 reviews vs. comparison median 80; gap 52.",
-      "proof": [
-        "Verified source data: 28 reviews vs. comparison median 80; gap 52.",
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
-      ],
-      "airtable_ready": true,
-      "qa_date": "2026-09-12",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "walk again center|berlin|https://walk-again.de/",
-      "company_name": "WALK AGAIN Center",
-      "industry": "Physiotherapie",
-      "city": "Berlin",
-      "source_total_score": 85,
-      "source_lead_class": null,
-      "google_maps_url": "https://www.google.com/maps/place/WALK+AGAIN+Center/data=!4m7!3m6!1s0x47a851da957b6a69:0x5291b5365c2ddbce!8m2!3d52.513465!4d13.389616!16s%2Fg%2F11c3kqs7_p!19sChIJaWp7ldpRqEcRztstXDa1kVI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://walk-again.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Fris%C3%B6r+Berlin:+Toronto/data=!4m7!3m6!1s0x47a851e8cf55b0f9:0x18a5bc9ee990d71!8m2!3d52.5273537!4d13.392073!16s%2Fg%2F1tfn1s0b!19sChIJ-bBVz-hRqEcRcQ2Z7slbigE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.toronto-berlin.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -256,20 +25,33 @@
         ]
       },
       "website_check": {
-        "website_accessible": false,
-        "website_final_url": "https://walk-again.de/",
+        "website_accessible": true,
+        "website_final_url": "https://www.toronto-berlin.de/",
         "booking_link": null,
-        "social_links": [],
+        "social_links": [
+          "http://www.facebook.com/Toronto-136941196376113/",
+          "https://instagram.com/torontoberlin"
+        ],
         "contact_page_observed": false,
-        "website_service_matches": [],
-        "website_evidence": []
+        "website_service_matches": [
+          "balayage",
+          "haarschnitt"
+        ],
+        "website_evidence": [
+          "Active social-link footprint observed (2 link(s)).",
+          "Website services re-observed: balayage, haarschnitt"
+        ]
       },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 89,
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 92,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 17 reviews vs. comparison median 184; gap 167."
+          "proof": "Verified source data: 138 reviews vs. comparison median 284; gap 146."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
         },
         {
           "type": "profile_completeness_core",
@@ -277,27 +59,26 @@
         }
       ],
       "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Website could not be verified as accessible in this run."
-      ],
-      "primary_sales_angle_verified": "Verified source data: 17 reviews vs. comparison median 184; gap 167.",
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 138 reviews vs. comparison median 284; gap 146.",
       "proof": [
-        "Verified source data: 17 reviews vs. comparison median 184; gap 167."
+        "Verified source data: 138 reviews vs. comparison median 284; gap 146.",
+        "Business website links to at least one social profile."
       ],
-      "airtable_ready": false,
+      "airtable_ready": true,
       "qa_date": "2026-09-12",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
-      "company_name": "PODOPRO - Podologie Berlin-Mitte Medizinische Fußbehandlung",
-      "industry": "Podologie",
+      "lead_id": "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
+      "company_name": "Said Rubaii Hairstyling - Hair Salon in Berlin Mitte",
+      "industry": "Friseur",
       "city": "Berlin",
-      "source_total_score": 84,
+      "source_total_score": 82,
       "source_lead_class": null,
-      "google_maps_url": "https://www.google.com/maps/place/PODOPRO+-+Podologie+Berlin-Mitte+Medizinische+Fu%C3%9Fbehandlung/data=!4m7!3m6!1s0x47a851213d83f401:0x2081dc03557040b!8m2!3d52.5257811!4d13.3906376!16s%2Fg%2F11yfgjspsb!19sChIJAfSDPSFRqEcRCwRXNcAdCAI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.podopro.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Said+Rubaii+Hairstyling+-+Hair+Salon+in+Berlin+Mitte/data=!4m7!3m6!1s0x47a84e1fb47aed3d:0xf9809697caf14371!8m2!3d52.5233329!4d13.4106007!16s%2Fg%2F11c5qn0tbv!19sChIJPe16tB9OqEcRcUPxypeWgPk?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://saidrubaii.com/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -316,20 +97,26 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.podopro.de/",
-        "booking_link": null,
+        "website_final_url": "https://saidrubaii.com/",
+        "booking_link": "https://buchung.treatwell.de/ort/said-rubaii-hairstyling/?utm_source=partner&utm_medium=salon-site-embedded-book-now-widget",
         "social_links": [
-          "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.podopro.de%2F"
+          "https://www.facebook.com/SaidRubaii/?locale=de_DE",
+          "https://www.instagram.com/saidrubaiihairstyling/?hl=de",
+          "https://www.instagram.com/saidrubaiihairstyling/",
+          "https://www.facebook.com/SaidRubaii/",
+          "https://de.linkedin.com/company/said-rubaii--salon-berlin-"
         ],
         "contact_page_observed": true,
         "website_service_matches": [
-          "podologie",
-          "nagelkorrektur"
+          "balayage",
+          "haarschnitt",
+          "extensions"
         ],
         "website_evidence": [
-          "Active social-link footprint observed (1 link(s)).",
+          "Online booking/appointment link observed on website.",
+          "Active social-link footprint observed (5 link(s)).",
           "Contact page/link observed on website.",
-          "Website services re-observed: podologie, nagelkorrektur"
+          "Website services re-observed: balayage, haarschnitt, extensions"
         ]
       },
       "deep_qa_decision": "FINAL_A",
@@ -337,7 +124,11 @@
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 18 reviews vs. comparison median 80; gap 62."
+          "proof": "Verified source data: 215 reviews vs. comparison median 284; gap 69."
+        },
+        {
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
         },
         {
           "type": "digital_maturity_social",
@@ -350,35 +141,96 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 18 reviews vs. comparison median 80; gap 62.",
+      "primary_sales_angle_verified": "Verified source data: 215 reviews vs. comparison median 284; gap 69.",
       "proof": [
-        "Verified source data: 18 reviews vs. comparison median 80; gap 62.",
+        "Verified source data: 215 reviews vs. comparison median 284; gap 69.",
+        "Online booking/appointment link observed on website.",
         "Business website links to at least one social profile."
       ],
       "airtable_ready": true,
       "qa_date": "2026-09-12",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
       "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
+      "company_name": "ELYSIO Physiotherapie-Mitte",
+      "industry": "Physiotherapie",
+      "city": "Berlin",
+      "source_total_score": 80,
+      "source_lead_class": null,
+      "google_maps_url": "https://www.google.com/maps/place/ELYSIO+Physiotherapie-Mitte/data=!4m7!3m6!1s0x47a851002a9a75c9:0xb34edf2f6fd819bc!8m2!3d52.5067946!4d13.3946737!16s%2Fg%2F11yntt_1nt!19sChIJyXWaKgBRqEcRvBnYby_fTrM?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.elysio-physio.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile.",
+          "Booking/appointment wording observed in current Maps page text."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://elysio-physio.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": false,
+        "website_service_matches": [],
+        "website_evidence": []
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 87,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 41 reviews vs. comparison median 184; gap 143."
+        },
+        {
+          "type": "profile_completeness_core",
+          "proof": "Current Maps page exposes both phone and website actions."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 41 reviews vs. comparison median 184; gap 143.",
+      "proof": [
+        "Verified source data: 41 reviews vs. comparison median 184; gap 143."
+      ],
+      "airtable_ready": false,
+      "qa_date": "2026-09-12",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+      "outreach_status": "NOT_CONTACTED"
     }
   ],
   "state": {
-    "runs": 2,
+    "runs": 3,
     "processed_ids": [
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
       "backroom physio berlin|berlin|https://backroomphysio.de/",
       "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
+      "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
+      "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
       "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
       "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
       "podologie edelmann|berlin|https://podologie-edelmann.com/",
       "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
+      "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
       "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
       "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
       "walk again center|berlin|https://walk-again.de/"
     ],
-    "processed_count": 10,
-    "remaining_eligible": 3,
-    "last_batch_count": 5,
-    "final_a_total": 8,
-    "final_b_total": 2
+    "processed_count": 13,
+    "remaining_eligible": 0,
+    "last_batch_count": 3,
+    "final_a_total": 10,
+    "final_b_total": 3
   }
 }

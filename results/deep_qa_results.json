@@ -525,6 +525,158 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
+    "company_name": "Said Rubaii Hairstyling - Hair Salon in Berlin Mitte",
+    "industry": "Friseur",
+    "city": "Berlin",
+    "source_total_score": 82,
+    "source_lead_class": null,
+    "google_maps_url": "https://www.google.com/maps/place/Said+Rubaii+Hairstyling+-+Hair+Salon+in+Berlin+Mitte/data=!4m7!3m6!1s0x47a84e1fb47aed3d:0xf9809697caf14371!8m2!3d52.5233329!4d13.4106007!16s%2Fg%2F11c5qn0tbv!19sChIJPe16tB9OqEcRcUPxypeWgPk?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://saidrubaii.com/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile.",
+        "Booking/appointment wording observed in current Maps page text."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://saidrubaii.com/",
+      "booking_link": "https://buchung.treatwell.de/ort/said-rubaii-hairstyling/?utm_source=partner&utm_medium=salon-site-embedded-book-now-widget",
+      "social_links": [
+        "https://www.facebook.com/SaidRubaii/?locale=de_DE",
+        "https://www.instagram.com/saidrubaiihairstyling/?hl=de",
+        "https://www.instagram.com/saidrubaiihairstyling/",
+        "https://www.facebook.com/SaidRubaii/",
+        "https://de.linkedin.com/company/said-rubaii--salon-berlin-"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "balayage",
+        "haarschnitt",
+        "extensions"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (5 link(s)).",
+        "Contact page/link observed on website.",
+        "Website services re-observed: balayage, haarschnitt, extensions"
+      ]
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 93,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 215 reviews vs. comparison median 284; gap 69."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      },
+      {
+        "type": "profile_completeness_core",
+        "proof": "Current Maps page exposes both phone and website actions."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 215 reviews vs. comparison median 284; gap 69.",
+    "proof": [
+      "Verified source data: 215 reviews vs. comparison median 284; gap 69.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "airtable_ready": true,
+    "qa_date": "2026-09-12",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
+    "company_name": "Frisör Berlin: Toronto",
+    "industry": "Friseur",
+    "city": "Berlin",
+    "source_total_score": 83,
+    "source_lead_class": null,
+    "google_maps_url": "https://www.google.com/maps/place/Fris%C3%B6r+Berlin:+Toronto/data=!4m7!3m6!1s0x47a851e8cf55b0f9:0x18a5bc9ee990d71!8m2!3d52.5273537!4d13.392073!16s%2Fg%2F1tfn1s0b!19sChIJ-bBVz-hRqEcRcQ2Z7slbigE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.toronto-berlin.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.toronto-berlin.de/",
+      "booking_link": null,
+      "social_links": [
+        "http://www.facebook.com/Toronto-136941196376113/",
+        "https://instagram.com/torontoberlin"
+      ],
+      "contact_page_observed": false,
+      "website_service_matches": [
+        "balayage",
+        "haarschnitt"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Website services re-observed: balayage, haarschnitt"
+      ]
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 92,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 138 reviews vs. comparison median 284; gap 146."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      },
+      {
+        "type": "profile_completeness_core",
+        "proof": "Current Maps page exposes both phone and website actions."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 138 reviews vs. comparison median 284; gap 146.",
+    "proof": [
+      "Verified source data: 138 reviews vs. comparison median 284; gap 146.",
+      "Business website links to at least one social profile."
+    ],
+    "airtable_ready": true,
+    "qa_date": "2026-09-12",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "company_name": "André Lewandowski",
     "industry": "Sanitaer Heizung",
@@ -696,6 +848,63 @@
     ],
     "primary_sales_angle_verified": null,
     "proof": [],
+    "airtable_ready": false,
+    "qa_date": "2026-09-12",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
+    "company_name": "ELYSIO Physiotherapie-Mitte",
+    "industry": "Physiotherapie",
+    "city": "Berlin",
+    "source_total_score": 80,
+    "source_lead_class": null,
+    "google_maps_url": "https://www.google.com/maps/place/ELYSIO+Physiotherapie-Mitte/data=!4m7!3m6!1s0x47a851002a9a75c9:0xb34edf2f6fd819bc!8m2!3d52.5067946!4d13.3946737!16s%2Fg%2F11yntt_1nt!19sChIJyXWaKgBRqEcRvBnYby_fTrM?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.elysio-physio.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile.",
+        "Booking/appointment wording observed in current Maps page text."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://elysio-physio.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": false,
+      "website_service_matches": [],
+      "website_evidence": []
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 41 reviews vs. comparison median 184; gap 143."
+      },
+      {
+        "type": "profile_completeness_core",
+        "proof": "Current Maps page exposes both phone and website actions."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 41 reviews vs. comparison median 184; gap 143.",
+    "proof": [
+      "Verified source data: 41 reviews vs. comparison median 184; gap 143."
+    ],
     "airtable_ready": false,
     "qa_date": "2026-09-12",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",

@@ -56,16 +56,19 @@ def main() -> None:
     task = load(TASK, {})
     qa = load(QA, {'items': []})
     previous = load(OUT, {'items': []})
-    done = {x.get('signal_id'): x for x in previous.get('items', []) if x.get('signal_id')}
+    qualified = {x.get('signal_id'): x for x in qa.get('items', []) if x.get('signal_id') and x.get('tier') in {'HOT', 'WARM'}}
+    done = {
+        x.get('signal_id'): x for x in previous.get('items', [])
+        if x.get('signal_id') in qualified
+    }
     now = datetime.now(timezone.utc).isoformat()
     base = os.environ.get('AIRTABLE_BASE_ID') or task.get('airtable_base_id')
     table = os.environ.get('AIRTABLE_TABLE_ID') or task.get('airtable_table_id')
     token = os.environ.get('AIRTABLE_TOKEN')
     prepared = sync_errors = 0
 
-    for item in qa.get('items', []):
-        sid = item.get('signal_id')
-        if not sid or sid in done or item.get('tier') not in {'HOT', 'WARM'}:
+    for sid, item in qualified.items():
+        if sid in done:
             continue
         text = draft(item)
         row = {
@@ -102,8 +105,8 @@ def main() -> None:
         'last_run_at': now,
         'prepared': len(items),
         'new_prepared': prepared,
-        'pending': 0,
-        'sent': 0,
+        'pending': max(0, len(qualified) - len(items)),
+        'sent': sum(1 for x in items if x.get('status') == 'SENT'),
         'errors': sync_errors,
         'mode': 'DRAFT_ONLY',
     }

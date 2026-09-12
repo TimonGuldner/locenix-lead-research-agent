@@ -14,6 +14,7 @@ from typing import Any
 TASK = Path('tasks/email_conversation_task.json')
 STATE = Path('results/email_conversation_state.json')
 LATEST = Path('results/email_conversation_latest.json')
+PROCESSED = Path('results/email_processed_ids.json')
 
 AIRTABLE_BASE_ID = os.getenv('AIRTABLE_BASE_ID', 'appuPKnVyLsbWbxMR').strip()
 AIRTABLE_TABLE_ID = os.getenv('AIRTABLE_TABLE_ID', 'tblF4ghkYFzkeQwsT').strip()
@@ -140,15 +141,24 @@ def extract_email(value: str) -> str:
 
 def classify(subject: str, text: str) -> tuple[str, str]:
     s = f'{subject}\n{text}'.lower()
-    if any(x in s for x in ['unsubscribe', 'abbestellen', 'nicht mehr schreiben', 'keine weiteren mails']): return 'UNSUBSCRIBE', 'NONE'
-    if any(x in s for x in ['kein interesse', 'nicht interessiert', 'nein danke', 'no interest']): return 'NEGATIVE', 'NONE'
-    if any(x in s for x in ['automatische antwort', 'abwesen', 'urlaub', 'out of office', 'automatic reply']): return 'OUT_OF_OFFICE', 'NONE'
-    if any(x in s for x in ['trial', 'testen', 'testzugang', 'test account']): return 'TRIAL_INTEREST', 'HIGH'
-    if any(x in s for x in ['visibility check', 'sichtbarkeitscheck', 'check schicken', 'auswertung']): return 'VISIBILITY_CHECK_INTEREST', 'HIGH'
-    if any(x in s for x in ['preis', 'kosten', 'monat', 'jahrespreis', 'rabatt']): return 'PRICE_QUESTION', 'MEDIUM'
-    if '?' in s or any(x in s for x in ['wie funktioniert', 'kann locenix', 'technisch', 'google profil']): return 'QUESTION', 'MEDIUM'
-    if any(x in s for x in ['interessant', 'gerne', 'ja bitte', 'klingt gut', 'mehr infos']): return 'POSITIVE_INTEREST', 'MEDIUM'
-    if any(x in s for x in ['später', 'nächsten monat', 'aktuell nicht', 'momentan nicht']): return 'NOT_NOW', 'LOW'
+    if any(x in s for x in ['unsubscribe', 'abbestellen', 'nicht mehr schreiben', 'keine weiteren mails']):
+        return 'UNSUBSCRIBE', 'NONE'
+    if any(x in s for x in ['kein interesse', 'nicht interessiert', 'nein danke', 'no interest']):
+        return 'NEGATIVE', 'NONE'
+    if any(x in s for x in ['automatische antwort', 'abwesen', 'urlaub', 'out of office', 'automatic reply']):
+        return 'OUT_OF_OFFICE', 'NONE'
+    if any(x in s for x in ['trial', 'testen', 'testzugang', 'test account']):
+        return 'TRIAL_INTEREST', 'HIGH'
+    if any(x in s for x in ['visibility check', 'sichtbarkeitscheck', 'check schicken', 'auswertung']):
+        return 'VISIBILITY_CHECK_INTEREST', 'HIGH'
+    if any(x in s for x in ['preis', 'kosten', 'monat', 'jahrespreis', 'rabatt']):
+        return 'PRICE_QUESTION', 'MEDIUM'
+    if '?' in s or any(x in s for x in ['wie funktioniert', 'kann locenix', 'technisch', 'google profil']):
+        return 'QUESTION', 'MEDIUM'
+    if any(x in s for x in ['interessant', 'gerne', 'ja bitte', 'klingt gut', 'mehr infos']):
+        return 'POSITIVE_INTEREST', 'MEDIUM'
+    if any(x in s for x in ['später', 'nächsten monat', 'aktuell nicht', 'momentan nicht']):
+        return 'NOT_NOW', 'LOW'
     return 'UNKNOWN', 'UNKNOWN'
 
 
@@ -183,13 +193,17 @@ def main() -> None:
     stop_categories = set(cfg.get('stop_categories') or [])
 
     leads = airtable_list()
-    by_email, processed_ids = {}, set()
+    by_email: dict[str, dict[str, Any]] = {}
     for rec in leads:
         f = rec.get('fields') or {}
         email_addr = str(f.get('Email') or '').strip().lower()
         if email_addr:
             by_email[email_addr] = rec
-        mid = str(f.get('Last Inbound Message ID') or '').strip()
+
+    ledger = load_json(PROCESSED, {'processed_message_ids': []})
+    processed_ids = {str(x).strip() for x in ledger.get('processed_message_ids', []) if str(x).strip()}
+    for rec in leads:
+        mid = str((rec.get('fields') or {}).get('Last Inbound Message ID') or '').strip()
         if mid:
             processed_ids.add(mid)
 
@@ -208,7 +222,9 @@ def main() -> None:
             rec = by_email.get(sender)
             if not rec:
                 unmatched.append({'message_id': message_id, 'from': sender, 'subject': full.get('subject') or meta.get('subject')})
+                processed_ids.add(message_id)
                 continue
+
             f = rec.get('fields') or {}
             text = str(full.get('text') or '')
             if not text:
@@ -237,17 +253,32 @@ def main() -> None:
                 update_fields['Email Do Not Contact'] = True
             airtable_update(rec['id'], update_fields)
 
-            result = {'record_id': rec['id'], 'company': f.get('Company'), 'from': sender, 'message_id': message_id, 'classification': category, 'sales_intent': intent, 'reply_status': reply_status}
+            result = {
+                'record_id': rec['id'],
+                'company': f.get('Company'),
+                'from': sender,
+                'message_id': message_id,
+                'classification': category,
+                'sales_intent': intent,
+                'reply_status': reply_status,
+            }
             if auto_reply and reply_status == 'AUTO_REPLY_READY' and draft and not dnc:
                 reply_subject = subject if subject.lower().startswith('re:') else f'Re: {subject}'
                 sent_id = send_reply(sender, reply_subject, draft)
                 airtable_update(rec['id'], {'Email Agent Reply Status': 'SENT'})
                 result['reply_status'] = 'SENT'
                 result['sent_message_id'] = sent_id
+
             handled.append(result)
             processed_ids.add(message_id)
         except Exception as exc:
             errors.append({'provider_id': provider_id, 'message_id': message_id, 'error': str(exc)})
+
+    PROCESSED.parent.mkdir(parents=True, exist_ok=True)
+    PROCESSED.write_text(
+        json.dumps({'processed_message_ids': sorted(processed_ids)[-2000:]}, ensure_ascii=False, indent=2) + '\n',
+        encoding='utf-8',
+    )
 
     state = {
         'agent': 'AGENT_9_EMAIL_CONVERSATION_AGENT',
@@ -264,10 +295,14 @@ def main() -> None:
         'positive_replies': sum(1 for x in handled if x['classification'] in {'POSITIVE_INTEREST', 'VISIBILITY_CHECK_INTEREST', 'TRIAL_INTEREST'}),
         'trial_interest': sum(1 for x in handled if x['classification'] == 'TRIAL_INTEREST'),
         'human_reviews_required': sum(1 for x in handled if x['reply_status'] == 'HUMAN_REVIEW_REQUIRED'),
+        'processed_message_ids_total': len(processed_ids),
         'last_run_at': now,
     }
     LATEST.parent.mkdir(parents=True, exist_ok=True)
-    LATEST.write_text(json.dumps({'state': state, 'handled': handled, 'unmatched': unmatched, 'duplicates': duplicate, 'errors': errors}, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    LATEST.write_text(
+        json.dumps({'state': state, 'handled': handled, 'unmatched': unmatched, 'duplicates': duplicate, 'errors': errors}, ensure_ascii=False, indent=2) + '\n',
+        encoding='utf-8',
+    )
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(json.dumps(state, ensure_ascii=False))
 

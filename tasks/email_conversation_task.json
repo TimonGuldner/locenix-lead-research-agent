@@ -1,0 +1,39 @@
+{
+  "enabled": true,
+  "agent": "AGENT_9_EMAIL_CONVERSATION_AGENT",
+  "reports_to": "AGENT_7_GROWTH_MANAGER",
+  "north_star": "paid_customers_from_email",
+  "inbox_address": "hello@locenix.com",
+  "poll_limit": 50,
+  "auto_reply_enabled": false,
+  "safe_auto_reply_categories": [
+    "POSITIVE_INTEREST",
+    "QUESTION",
+    "NEEDS_MORE_INFORMATION",
+    "VISIBILITY_CHECK_INTEREST",
+    "TRIAL_INTEREST",
+    "TECHNICAL_QUESTION"
+  ],
+  "human_review_categories": [
+    "PRICE_QUESTION",
+    "UNKNOWN"
+  ],
+  "no_reply_categories": [
+    "OUT_OF_OFFICE",
+    "BOUNCE",
+    "WRONG_CONTACT"
+  ],
+  "stop_categories": [
+    "NEGATIVE",
+    "UNSUBSCRIBE"
+  ],
+  "rules": {
+    "existing_conversations_before_new_outreach": true,
+    "unknown_is_never_zero": true,
+    "do_not_contact_must_be_respected": true,
+    "idempotency_by_message_id": true,
+    "no_fabricated_external_actions": true,
+    "no_automatic_legal_judgment": true,
+    "human_review_for_price_legal_privacy_contracts_partnerships_enterprise": true
+  }
+}

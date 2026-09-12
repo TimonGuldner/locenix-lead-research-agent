@@ -1,0 +1,35 @@
+{
+  "enabled": true,
+  "mode": "EXECUTIVE_ORCHESTRATOR",
+  "agent": "LOCENIX_CEO_AGENT_0",
+  "north_star": "paid_customers",
+  "max_priorities": 3,
+  "executive_reviews_per_day": 2,
+  "event_driven": true,
+  "department_head": "LOCENIX_GROWTH_MANAGER",
+  "autonomy": {
+    "internal_analysis": true,
+    "prioritization": true,
+    "safe_workflow_directives": true,
+    "propose_agents": true,
+    "propose_departments": true,
+    "activate_new_agents": false,
+    "activate_new_departments": false,
+    "external_messages": false,
+    "payments": false,
+    "contracts": false,
+    "paid_services": false,
+    "delete_production_data": false
+  },
+  "rules": {
+    "unknown_is_never_zero": true,
+    "quality_over_activity": true,
+    "stability_before_growth": true,
+    "optimize_biggest_bottleneck": true,
+    "existing_agent_before_new_agent": true,
+    "new_agents_start_proposed": true,
+    "new_departments_start_proposed": true,
+    "human_approval_for_costs_external_actions_and_activation": true,
+    "do_nothing_when_no_action_is_useful": true
+  }
+}

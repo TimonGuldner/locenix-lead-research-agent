@@ -32,7 +32,8 @@ module.exports = async function handler(req, res) {
   }
 
   const message = String(req.body?.message || '').trim();
-  const kind = req.body?.kind === 'agent' ? 'agent' : 'department';
+  const requestedKind = req.body?.kind;
+  const kind = requestedKind === 'agent' || (!requestedKind && /\b(agent|assistent)\b/i.test(message)) ? 'agent' : 'department';
   if (message.length < 5) return res.status(400).json({ ok: false, error: 'Bitte beschreibe den Auftrag genauer.' });
 
   const name = extractName(message, kind);

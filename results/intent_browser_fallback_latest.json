@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-12T23:38:38.882383+00:00",
-  "signals": [
+  "state": {
+    "agent": "AGENT_15A_BROWSER_FALLBACK",
+    "last_run_at": "2026-09-12T23:38:38.882383+00:00",
+    "status": "PARTIAL",
+    "signals_added": 4,
+    "pages_checked": 7,
+    "blocked_pages": 0,
+    "human_action_required": 0,
+    "errors": 1
+  },
+  "added": [
     {
       "signal_id": "intent-e7b03a042968b58e",
       "source": "bing.com",
@@ -56,45 +65,13 @@
       "review_status": "PENDING_QA",
       "department": "intent_opportunity_acquisition",
       "browser_fallback": true
-    },
+    }
+  ],
+  "blockers": [],
+  "errors": [
     {
-      "signal_id": "intent-7e56262cde92330b",
-      "source": "upwork.com",
-      "source_url": "https://www.upwork.com/freelance-jobs/apply/Google-Business-Profile-Local-SEO-Expert-German-Speaking_~022087054167304112185/",
-      "title": "Google Business Profile & Local SEO Expert — German Speaking",
-      "snippet": "Long-term collaboration across multiple client accounts; seeks German-speaking specialist for Google Business Profile, Google Maps and Local SEO.",
-      "query": "verified current opportunity",
-      "raw_score": 5,
-      "provider": "verified_seed",
-      "detected_at": "2026-09-12T23:32:45.638416+00:00",
-      "review_status": "PENDING_QA",
-      "department": "intent_opportunity_acquisition"
-    },
-    {
-      "signal_id": "intent-ba6cea20b5d91ebd",
-      "source": "upwork.com",
-      "source_url": "https://www.upwork.com/freelance-jobs/apply/Google-Business-Profile-Local-SEO-Specialist-for-German-Local-Businesses_~022086915255634550070/",
-      "title": "Google Business Profile & Local SEO Specialist for German Local Businesses",
-      "snippet": "German agency seeks a long-term white-label Local SEO and Google Business Profile specialist for local business clients.",
-      "query": "verified current opportunity",
-      "raw_score": 3,
-      "provider": "verified_seed",
-      "detected_at": "2026-09-12T23:32:45.638416+00:00",
-      "review_status": "PENDING_QA",
-      "department": "intent_opportunity_acquisition"
-    },
-    {
-      "signal_id": "intent-df669c96753a9aca",
-      "source": "upwork.com",
-      "source_url": "https://www.upwork.com/freelance-jobs/apply/German-Speaking-Marketing-Operations-Assistant-Google-Business-Profile-SEO_~022092564659254285945/",
-      "title": "German-Speaking AI Marketing Operations Assistant – Google Business Profile & SEO",
-      "snippet": "Multi-brand operator in Germany and Austria seeks ongoing support for Google Business Profiles, Local SEO and AI-assisted marketing operations.",
-      "query": "verified current opportunity",
-      "raw_score": 2,
-      "provider": "verified_seed",
-      "detected_at": "2026-09-12T23:32:45.638416+00:00",
-      "review_status": "PENDING_QA",
-      "department": "intent_opportunity_acquisition"
+      "query": "site:reddit.com \"Google Unternehmensprofil\" Deutschland",
+      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Areddit.com%20%22Google%20Unternehmensprofil%22%20Deutschland\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Areddit.com%20%22Google%20Unternehmensprofil%22%20Deutschland\", waiting until \"domcontentloaded\"\n"
     }
   ]
 }

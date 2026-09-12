@@ -20,10 +20,7 @@ concurrency:
 jobs:
   research:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
-    env:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      OPENAI_MODEL: gpt-5.6-luna
+    timeout-minutes: 55
 
     steps:
       - name: Checkout
@@ -43,19 +40,13 @@ jobs:
           )
           MODE=$(python - <<'PY'
           import json
-          print(json.load(open('tasks/current_task.json')).get('mode','research'))
+          print(json.load(open('tasks/current_task.json')).get('mode','deterministic_research'))
           PY
           )
           echo "mode=$MODE" >> "$GITHUB_OUTPUT"
           if [[ "$ENABLED" != "true" ]]; then
             echo "run=false" >> "$GITHUB_OUTPUT"
             echo "Task disabled."
-          elif [[ "$MODE" == "smoke_test" ]]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-            echo "No-API smoke test selected."
-          elif [[ -z "$OPENAI_API_KEY" ]]; then
-            echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "Research mode currently needs an LLM provider; smoke_test does not."
           else
             echo "run=true" >> "$GITHUB_OUTPUT"
           fi
@@ -78,8 +69,15 @@ jobs:
         if: steps.gate.outputs.run == 'true' && steps.gate.outputs.mode == 'smoke_test'
         run: python -m agent.maps_smoke_test
 
-      - name: Run one qualitative research batch
-        if: steps.gate.outputs.run == 'true' && steps.gate.outputs.mode != 'smoke_test'
+      - name: Run deterministic Germany-wide research batch
+        if: steps.gate.outputs.run == 'true' && steps.gate.outputs.mode == 'deterministic_research'
+        run: python -m agent.deterministic_research
+
+      - name: Run legacy LLM research batch
+        if: steps.gate.outputs.run == 'true' && steps.gate.outputs.mode == 'legacy_llm_research'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-5.6-luna
         run: python -m agent.research_worker
 
       - name: Commit research state and results

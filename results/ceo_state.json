@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-12T17:10:25.836115+00:00",
+  "last_run_at": "2026-09-12T17:10:52.543899+00:00",
   "company_status": "HEALTHY",
   "north_star": "paid_customers",
   "priority_1": "Prioritize positive replies and active qualified conversations before new prospecting.",
@@ -20,5 +20,5 @@
   "customer_success_customers_at_risk": 0,
   "customer_success_human_reviews_required": 0,
   "customer_success_biggest_bottleneck": "NONE",
-  "customer_success_last_run_at": "2026-09-12T17:10:15.969755+00:00"
+  "customer_success_last_run_at": "2026-09-12T17:10:41.966501+00:00"
 }

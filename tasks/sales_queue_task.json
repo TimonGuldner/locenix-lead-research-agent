@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "eligible_decisions": ["FINAL_A", "FINAL_B"],
+  "min_priority": 80,
+  "airtable_ready_min_priority": 88,
+  "keep_only_min_priority": false,
+  "latest_top_n": 25,
+  "schedule_note": "Agent 3 consolidates Deep QA and visibility results into a prioritized sales queue. It does not send outreach or write to Airtable directly.",
+  "safety": {
+    "no_contact": true,
+    "no_form_submission": true,
+    "no_login": true,
+    "no_account_creation": true,
+    "no_automatic_outreach": true,
+    "never_invent_facts": true
+  }
+}

@@ -1,0 +1,63 @@
+name: LOCENIX Outreach Controller Agent
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'wake_outreach_controller.txt'
+      - 'tasks/outreach_controller_task.json'
+  schedule:
+    - cron: '12,42 6-15 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: locenix-outreach-controller
+  cancel-in-progress: false
+
+jobs:
+  outreach-controller:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Europe Berlin schedule gate
+        if: github.event_name == 'schedule'
+        shell: bash
+        run: |
+          HOUR=$(TZ=Europe/Berlin date +%H)
+          if [ "$HOUR" -lt 8 ] || [ "$HOUR" -ge 16 ]; then
+            echo "Outside 08:00-16:00 Europe/Berlin; skipping."
+            exit 0
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run LOCENIX Outreach Controller Agent
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: appuPKnVyLsbWbxMR
+          AIRTABLE_TABLE_ID: tblF4ghkYFzkeQwsT
+        run: python -m agent.outreach_controller_agent
+
+      - name: Commit outreach controller results
+        shell: bash
+        run: |
+          git config user.name "locenix-outreach-controller"
+          git config user.email "actions@users.noreply.github.com"
+          git add results/outreach_controller_latest.json results/outreach_controller_state.json
+          if git diff --cached --quiet; then
+            echo "No outreach controller changes to commit."
+            exit 0
+          fi
+          git commit -m "Update LOCENIX outreach controller results"
+          git pull --rebase origin main
+          git push origin HEAD:main

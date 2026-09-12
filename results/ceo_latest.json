@@ -1,6 +1,6 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-12T15:49:24.405816+00:00",
+  "generated_at": "2026-09-12T15:51:18.504810+00:00",
   "company_status": "HEALTHY",
   "north_star": "paid_customers",
   "funnel_metrics": {
@@ -45,7 +45,10 @@
     "linkedin_queue_backlog": 8,
     "linkedin_failed_jobs": 6,
     "proposed_agents": 0,
-    "proposed_departments": 0
+    "proposed_departments": 0,
+    "customer_success_active_trials": 0,
+    "customer_success_paid_customers": 0,
+    "customer_success_at_risk": 0
   },
   "departments": {
     "growth": {
@@ -75,6 +78,27 @@
       },
       "ceo_escalation_required": false,
       "last_run_at": "2026-09-12T11:56:17.447703+00:00"
+    },
+    "customer_success": {
+      "manager": "AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD",
+      "reports_to": "AGENT_0_CEO",
+      "subagents": [
+        "AGENT_11_TRIAL_CONVERSION",
+        "AGENT_12_ONBOARDING",
+        "AGENT_13_RETENTION_SUCCESS"
+      ],
+      "status": "HEALTHY",
+      "active_trials": 0,
+      "activated_trials": 0,
+      "paid_customers": 0,
+      "trial_to_paid_rate": null,
+      "customers_at_risk": 0,
+      "payment_issues": 0,
+      "technical_blockers": 0,
+      "human_reviews_required": 0,
+      "biggest_bottleneck": "NONE",
+      "recommended_next_action": "Monitor for new qualified trials and conversion opportunities.",
+      "last_run_at": "2026-09-12T15:51:09.528652+00:00"
     }
   },
   "biggest_bottleneck": "LinkedIn department priority: POSITIVE_REPLIES",
@@ -97,7 +121,7 @@
     "priority": 1,
     "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
     "created_at": "2026-09-12T12:08:42.961312+00:00",
-    "updated_at": "2026-09-12T15:49:24.405816+00:00",
+    "updated_at": "2026-09-12T15:51:18.504810+00:00",
     "status": "QUEUED",
     "external_action_authorized": false
   },

@@ -1,0 +1,9 @@
+{
+  "query_cursor": 3,
+  "runs": 1,
+  "lead_count": 13,
+  "target_leads": 200,
+  "last_accepted": 13,
+  "last_inspected": 24,
+  "complete": false
+}

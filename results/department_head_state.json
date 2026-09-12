@@ -1,11 +1,11 @@
 {
-  "last_run_at": "2026-09-12T23:13:10.680340+00:00",
+  "last_run_at": "2026-09-12T23:13:32.657249+00:00",
   "department_status": "BACKLOG",
   "next_agent": "sales_queue",
   "reason": "Qualified FINAL_A leads have not all reached Airtable.",
   "departments_total": 1,
   "departments_proposed": 0,
-  "agents_total": 6,
+  "agents_total": 8,
   "agents_proposed": 0,
   "dispatch_success": true,
   "dispatch_detail": "HTTP 204",

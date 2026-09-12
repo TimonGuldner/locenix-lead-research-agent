@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V3",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-12T23:13:10.680340+00:00",
+  "generated_at": "2026-09-12T23:13:32.657249+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 61,
@@ -31,7 +31,7 @@
     "email_last_run_at": "2026-09-12T22:50:51.138753+00:00",
     "departments_total": 1,
     "departments_proposed": 0,
-    "agents_total": 6,
+    "agents_total": 8,
     "agents_proposed": 0,
     "proposed_names": []
   },
@@ -223,6 +223,46 @@
         "preserve source URL and evidence"
       ],
       "_file": "tasks/agents/agent_15b_intent_qa.json",
+      "_kind": "agent"
+    },
+    {
+      "id": "AGENT_15C_PLATFORM_ACCESS",
+      "name": "Platform & Access Agent",
+      "status": "ACTIVE",
+      "parent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
+      "objective": "Create and maintain permitted LOCENIX platform accounts using hello@locenix.com, complete normal email verification, and hand browser blockers to the department head.",
+      "registration_email": "hello@locenix.com",
+      "linkedin_new_account_allowed": false,
+      "browser": {
+        "reuse_existing_first": true,
+        "allow_new_worker_if_blocked": true
+      },
+      "rules": [
+        "no CAPTCHA bypass",
+        "no security bypass",
+        "no duplicate accounts to evade limits",
+        "set HUMAN_ACTION_REQUIRED for manual identity or security checks",
+        "document account and verification state"
+      ],
+      "_file": "tasks/agents/agent_15c_platform_access.json",
+      "_kind": "agent"
+    },
+    {
+      "id": "AGENT_15D_RESPONSE",
+      "name": "Intent Response Agent",
+      "status": "ACTIVE",
+      "parent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
+      "objective": "Create human, source-specific responses for qualified intent opportunities and route them into the approved outreach path.",
+      "preferred_cta": "free Local Visibility Check",
+      "rules": [
+        "address the observed problem",
+        "no generic mass copy",
+        "no fabricated evidence",
+        "respect source rules",
+        "stop when Do Not Contact is set",
+        "sales handoff uses existing pipeline"
+      ],
+      "_file": "tasks/agents/agent_15d_response.json",
       "_kind": "agent"
     }
   ],

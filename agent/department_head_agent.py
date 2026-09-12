@@ -18,6 +18,7 @@ STATE_FILES = {
     'visibility': Path('results/visibility_state.json'),
     'sales_queue': Path('results/sales_queue_state.json'),
     'outreach_controller': Path('results/outreach_controller_state.json'),
+    'email_conversation': Path('results/email_conversation_state.json'),
 }
 
 
@@ -46,6 +47,7 @@ def load_proposals(directory: Path, kind: str) -> list[dict]:
 def summarize(states: dict, departments: list[dict], agents: list[dict]) -> dict:
     proposed_departments = [d for d in departments if str(d.get('status', '')).upper() == 'PROPOSED']
     proposed_agents = [a for a in agents if str(a.get('status', '')).upper() == 'PROPOSED']
+    email = states.get('email_conversation') or {}
     return {
         'lead_count': int(states['lead_research'].get('lead_count') or 0),
         'lead_a': int(states['lead_research'].get('a_leads') or 0),
@@ -62,6 +64,16 @@ def summarize(states: dict, departments: list[dict], agents: list[dict]) -> dict
         'drafts_stored': int(states['outreach_controller'].get('stored_count') or 0),
         'draft_errors': int(states['outreach_controller'].get('error_count') or 0),
         'sent_count': int(states['outreach_controller'].get('sent_count') or 0),
+        'email_agent_available': bool(email),
+        'email_auto_reply_enabled': email.get('auto_reply_enabled', 'UNKNOWN'),
+        'email_received_scanned': int(email.get('received_scanned') or 0),
+        'email_handled': int(email.get('handled') or 0),
+        'email_unmatched': int(email.get('unmatched') or 0),
+        'email_errors': int(email.get('errors') or 0),
+        'email_positive_replies': int(email.get('positive_replies') or 0),
+        'email_trial_interest': int(email.get('trial_interest') or 0),
+        'email_human_reviews_required': int(email.get('human_reviews_required') or 0),
+        'email_last_run_at': email.get('last_run_at', 'UNKNOWN'),
         'departments_total': len(departments),
         'departments_proposed': len(proposed_departments),
         'agents_total': len(agents),
@@ -73,6 +85,10 @@ def summarize(states: dict, departments: list[dict], agents: list[dict]) -> dict
 def decide(metrics: dict) -> dict:
     if metrics['airtable_errors']:
         return {'status': 'BLOCKED', 'next_agent': None, 'reason': 'Airtable sync has errors; downstream work is paused.'}
+    if metrics['email_errors'] > 0:
+        return {'status': 'ACTION_REQUIRED', 'next_agent': None, 'reason': f"Agent 9 email channel has {metrics['email_errors']} processing errors and requires inspection."}
+    if metrics['email_human_reviews_required'] > 0:
+        return {'status': 'MANAGEMENT_REVIEW', 'next_agent': None, 'reason': f"Agent 9 has {metrics['email_human_reviews_required']} email conversation(s) waiting for human review."}
     if metrics['draft_errors'] > 0:
         return {'status': 'ACTION_REQUIRED', 'next_agent': 'outreach_controller', 'reason': 'Outreach draft storage has errors.'}
     proposed = metrics['departments_proposed'] + metrics['agents_proposed']
@@ -139,6 +155,18 @@ def main() -> None:
         'generated_at': now,
         'department_status': decision['status'],
         'metrics': metrics,
+        'channels': {
+            'email': {
+                'agent': 'AGENT_9_EMAIL_CONVERSATION_AGENT',
+                'available': metrics['email_agent_available'],
+                'auto_reply_enabled': metrics['email_auto_reply_enabled'],
+                'positive_replies': metrics['email_positive_replies'],
+                'trial_interest': metrics['email_trial_interest'],
+                'human_reviews_required': metrics['email_human_reviews_required'],
+                'errors': metrics['email_errors'],
+                'last_run_at': metrics['email_last_run_at'],
+            }
+        },
         'departments': departments,
         'agent_proposals': agents,
         'next_agent': next_agent,
@@ -148,6 +176,7 @@ def main() -> None:
         'dispatch_detail': dispatch_detail,
         'guardrails': {
             'outreach_send_allowed': False,
+            'email_agent_managed_separately': True,
             'contact_form_submit_allowed': False,
             'unknown_workflow_dispatch_allowed': False,
             'max_child_workflows_this_run': 1,
@@ -167,6 +196,12 @@ def main() -> None:
         'agents_proposed': metrics['agents_proposed'],
         'dispatch_success': dispatched,
         'dispatch_detail': dispatch_detail,
+        'email_agent_available': metrics['email_agent_available'],
+        'email_positive_replies': metrics['email_positive_replies'],
+        'email_trial_interest': metrics['email_trial_interest'],
+        'email_human_reviews_required': metrics['email_human_reviews_required'],
+        'email_errors': metrics['email_errors'],
+        'email_last_run_at': metrics['email_last_run_at'],
     }, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(json.dumps(report, ensure_ascii=False))
 

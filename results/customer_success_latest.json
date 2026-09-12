@@ -13,11 +13,15 @@
     "payment_issues": 0,
     "technical_blockers": 0,
     "human_reviews_required": 0,
+    "customer_success_email_agent_available": false,
+    "customer_success_email_sent_last_run": "UNKNOWN",
+    "customer_success_email_failed_last_run": "UNKNOWN",
+    "customer_success_email_last_run_at": "UNKNOWN",
     "biggest_bottleneck": "NONE",
     "recommended_next_action": "Monitor for new qualified trials and conversion opportunities.",
     "next_agent": "AGENT_11",
     "errors": [],
-    "last_run_at": "2026-09-12T17:10:15.969755+00:00"
+    "last_run_at": "2026-09-12T17:10:41.966501+00:00"
   },
   "subagents": {
     "agent_11": {
@@ -28,7 +32,7 @@
       "expiring_trials": 0,
       "converted_trials": 0,
       "status": "HEALTHY",
-      "last_run_at": "2026-09-12T17:10:15.969755+00:00"
+      "last_run_at": "2026-09-12T17:10:41.966501+00:00"
     },
     "agent_12": {
       "agent": "AGENT_12_ONBOARDING",
@@ -37,7 +41,7 @@
       "blocked": 0,
       "trials_without_first_value": 0,
       "status": "HEALTHY",
-      "last_run_at": "2026-09-12T17:10:15.969755+00:00"
+      "last_run_at": "2026-09-12T17:10:41.966501+00:00"
     },
     "agent_13": {
       "agent": "AGENT_13_RETENTION_SUCCESS",
@@ -47,7 +51,8 @@
       "payment_issues": 0,
       "open_risks": 0,
       "status": "HEALTHY",
-      "last_run_at": "2026-09-12T17:10:15.969755+00:00"
-    }
+      "last_run_at": "2026-09-12T17:10:41.966501+00:00"
+    },
+    "agent_14": {}
   }
 }

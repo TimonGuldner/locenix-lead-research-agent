@@ -1,8 +1,8 @@
 {
-  "last_run_at": "2026-09-12T23:30:04.169724+00:00",
-  "department_status": "HEALTHY",
+  "last_run_at": "2026-09-12T23:31:31.171822+00:00",
+  "department_status": "ATTENTION",
   "next_agent": "intent_scout",
-  "reason": "No downstream backlog observed; find fresh high-intent DACH opportunities.",
+  "reason": "intent_scout reports errors and should be inspected before scaling.",
   "signals_found": 0,
   "hot": 0,
   "warm": 0,
@@ -14,5 +14,5 @@
   "trials": 0,
   "paid_customers": 0,
   "human_action_required": 0,
-  "errors": 0
+  "errors": 8
 }

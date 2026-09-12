@@ -1,11 +1,56 @@
 {
   "agent": "AGENT_15A_INTENT_SCOUT",
-  "last_run_at": "2026-09-12T23:30:00.686224+00:00",
+  "last_run_at": "2026-09-12T23:31:28.438391+00:00",
   "signals_found": 0,
   "new_signals": 0,
   "unreviewed": 0,
-  "queries_run": 12,
-  "errors": 0,
-  "query_errors": [],
+  "queries_run": 8,
+  "errors": 8,
+  "query_errors": [
+    {
+      "provider": "jina_search",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "provider": "jina_search",
+      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "provider": "jina_search",
+      "query": "\"Local SEO\" Projekt Deutschland Freelancer",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "provider": "jina_search",
+      "query": "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "provider": "jina_search",
+      "query": "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "provider": "jina_search",
+      "query": "site:upwork.com/freelance-jobs \"Local SEO\" Germany",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "provider": "jina_search",
+      "query": "site:freelancermap.de \"Local SEO\"",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "provider": "jina_search",
+      "query": "site:reddit.com/r/selbststaendig \"Google Unternehmensprofil\"",
+      "error": "HTTP Error 401: Unauthorized"
+    }
+  ],
+  "provider_hits": {
+    "jina_search": 0,
+    "duckduckgo": 0
+  },
   "sources": []
 }

@@ -1,12 +1,12 @@
 {
   "agent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
   "parent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-12T23:38:47.671588+00:00",
+  "generated_at": "2026-09-12T23:41:59.891812+00:00",
   "department_status": "ATTENTION",
   "next_agent": "intent_scout",
   "reason": "intent_scout reports errors and should be inspected before scaling.",
   "metrics": {
-    "signals_found": 3,
+    "signals_found": 7,
     "hot": 0,
     "warm": 7,
     "watch": 0,
@@ -22,10 +22,10 @@
   "children": {
     "intent_scout": {
       "agent": "AGENT_15A_INTENT_SCOUT",
-      "last_run_at": "2026-09-12T23:38:36.850154+00:00",
-      "signals_found": 3,
+      "last_run_at": "2026-09-12T23:41:51.653043+00:00",
+      "signals_found": 7,
       "new_signals": 0,
-      "unreviewed": 3,
+      "unreviewed": 7,
       "queries_run": 11,
       "errors": 11,
       "query_errors": [
@@ -87,27 +87,28 @@
         "duckduckgo": 0
       },
       "sources": [
+        "bing.com",
         "upwork.com"
       ]
     },
     "intent_qa": {
       "agent": "AGENT_15B_INTENT_QA",
-      "last_run_at": "2026-09-12T23:38:42.806591+00:00",
+      "last_run_at": "2026-09-12T23:41:57.728329+00:00",
       "pending": 0,
       "hot": 0,
       "warm": 7,
       "watch": 0,
       "rejected": 0,
-      "airtable_created": 4,
+      "airtable_created": 0,
       "airtable_updated": 0,
       "errors": 0
     },
     "platform_access": {},
     "intent_response": {
       "agent": "AGENT_15D_INTENT_RESPONSE",
-      "last_run_at": "2026-09-12T23:38:46.214016+00:00",
+      "last_run_at": "2026-09-12T23:41:59.839927+00:00",
       "prepared": 7,
-      "new_prepared": 4,
+      "new_prepared": 0,
       "pending": 0,
       "sent": 0,
       "errors": 0,

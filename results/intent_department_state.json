@@ -1,9 +1,9 @@
 {
-  "last_run_at": "2026-09-12T23:38:47.671588+00:00",
+  "last_run_at": "2026-09-12T23:41:59.891812+00:00",
   "department_status": "ATTENTION",
   "next_agent": "intent_scout",
   "reason": "intent_scout reports errors and should be inspected before scaling.",
-  "signals_found": 3,
+  "signals_found": 7,
   "hot": 0,
   "warm": 7,
   "watch": 0,

@@ -1,9 +1,9 @@
 {
   "agent": "AGENT_15A_INTENT_SCOUT",
-  "last_run_at": "2026-09-12T23:38:36.850154+00:00",
-  "signals_found": 3,
+  "last_run_at": "2026-09-12T23:41:51.653043+00:00",
+  "signals_found": 7,
   "new_signals": 0,
-  "unreviewed": 3,
+  "unreviewed": 7,
   "queries_run": 11,
   "errors": 11,
   "query_errors": [
@@ -65,6 +65,7 @@
     "duckduckgo": 0
   },
   "sources": [
+    "bing.com",
     "upwork.com"
   ]
 }

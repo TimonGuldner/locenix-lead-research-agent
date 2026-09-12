@@ -1,10 +1,11 @@
 {
   "agent": "AGENT_15A_BROWSER_FALLBACK",
-  "last_run_at": "2026-09-12T23:38:38.882383+00:00",
+  "last_run_at": "2026-09-12T23:41:53.931301+00:00",
   "status": "PARTIAL",
-  "signals_added": 4,
-  "pages_checked": 7,
+  "signals_added": 0,
+  "stale_signals_removed": 4,
+  "pages_checked": 6,
   "blocked_pages": 0,
   "human_action_required": 0,
-  "errors": 1
+  "errors": 2
 }

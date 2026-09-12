@@ -1,0 +1,9 @@
+{
+  "agent": "AGENT_12_ONBOARDING",
+  "reports_to": "AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD",
+  "enabled": true,
+  "goal": "TRIAL_TO_FIRST_VALUE",
+  "priority": ["GBP_CONNECTION_BLOCKER", "SYNC_BLOCKER", "ANALYSIS_BLOCKER", "NO_FIRST_VALUE", "SETUP_INCOMPLETE"],
+  "external_messaging": false,
+  "status": "ACTIVE"
+}

@@ -23,20 +23,32 @@ def load(path: Path, default):
 def clean_fact(text: str | None) -> str:
     if not text:
         return ''
-    s = str(text).strip()
-    s = s.replace('Verified source data: ', '')
+    s = str(text).strip().replace('Verified source data: ', '')
+
     m = re.search(r'(\d+) reviews vs\. comparison median (\d+); gap (\d+)', s, flags=re.I)
     if m:
         own, median, gap = m.groups()
-        return f'{own} Google-Bewertungen, während vergleichbare lokale Anbieter im Median bei {median} liegen. Das entspricht einer Differenz von {gap} Bewertungen'
+        return (
+            f'{own} Google-Bewertungen, während vergleichbare lokale Anbieter im Median bei {median} liegen; '
+            f'das entspricht einer Differenz von {gap} Bewertungen'
+        )
+
     m = re.search(r'Business observed at position (\d+) among the first (\d+) Maps results', s, flags=re.I)
     if m:
         pos, checked = m.groups()
-        return f'bei der geprüften Google-Maps-Suche wurde das Profil auf Position {pos} unter den ersten {checked} Ergebnissen beobachtet'
+        return f'das Profil wurde bei der geprüften Google-Maps-Suche auf Position {pos} unter den ersten {checked} Ergebnissen beobachtet'
+
     if 'not observed among the first' in s.lower():
         m = re.search(r'first (\d+) Maps results', s, flags=re.I)
         checked = m.group(1) if m else 'geprüften'
-        return f'bei der geprüften Google-Maps-Suche wurde das Profil unter den ersten {checked} Ergebnissen nicht beobachtet'
+        return f'das Profil wurde bei der geprüften Google-Maps-Suche unter den ersten {checked} Ergebnissen nicht beobachtet'
+
+    if 'online booking/appointment link observed on website' in s.lower():
+        return 'auf der Website ist bereits eine Online-Terminbuchung vorhanden'
+
+    if 'business website links to at least one social profile' in s.lower():
+        return 'die Website ist bereits mit mindestens einem Social-Media-Profil verknüpft'
+
     return s.rstrip('.')
 
 
@@ -50,11 +62,9 @@ def compose(lead: dict) -> tuple[str, str]:
 
     facts = [x for x in [proof1, proof2] if x]
     if facts:
-        observed = facts[0]
+        observed = facts[0].rstrip('.') + '.'
         if len(facts) > 1 and facts[1] != facts[0]:
-            observed += f' Zusätzlich {facts[1]}.'
-        else:
-            observed += '.'
+            observed += f' Außerdem {facts[1]}.'
     else:
         observed = 'Bei einem kurzen Check sind mir ein paar mögliche Hebel für die lokale Sichtbarkeit aufgefallen.'
 

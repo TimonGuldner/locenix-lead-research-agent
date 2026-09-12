@@ -11,9 +11,11 @@ on:
       - 'tasks/agents/agent_11_trial_conversion.json'
       - 'tasks/agents/agent_12_onboarding.json'
       - 'tasks/agents/agent_13_retention_success.json'
+      - 'tasks/agents/agent_14_customer_success_email.json'
       - 'agent/customer_success_agent.py'
+      - 'agent/customer_success_email_agent.py'
   schedule:
-    - cron: '27 * * * *'
+    - cron: '7,22,37,52 * * * *'
 
 permissions:
   contents: write
@@ -26,34 +28,68 @@ concurrency:
 jobs:
   customer-success:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 12
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Europe Berlin communication-hours gate
+        id: gate
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" != "schedule" ]]; then
+            echo "run_cs=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          now = datetime.now(ZoneInfo('Europe/Berlin'))
+          print('run_cs=' + ('true' if 8 <= now.hour < 20 else 'false'))
+          PY
+
       - name: Setup Python
+        if: steps.gate.outputs.run_cs == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
       - name: Preflight
+        if: steps.gate.outputs.run_cs == 'true'
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
         run: |
           set -euo pipefail
           test -n "$AIRTABLE_TOKEN" || { echo 'AIRTABLE_TOKEN missing'; exit 1; }
+          test -n "$RESEND_API_KEY" || { echo 'RESEND_API_KEY missing'; exit 1; }
 
-      - name: Run Agent 10 Customer Success
+      - name: Run Agent 10 Customer Success manager
+        if: steps.gate.outputs.run_cs == 'true'
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+        run: python -m agent.customer_success_agent
+
+      - name: Run Agent 14 Customer Success Email
+        if: steps.gate.outputs.run_cs == 'true'
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: python -m agent.customer_success_email_agent
+
+      - name: Refresh Agent 10 after email execution
+        if: steps.gate.outputs.run_cs == 'true'
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
         run: python -m agent.customer_success_agent
 
       - name: Commit Customer Success state
+        if: steps.gate.outputs.run_cs == 'true'
         run: |
           set -euo pipefail
           git config user.name 'locenix-customer-success'
           git config user.email 'actions@users.noreply.github.com'
-          git add results/customer_success_state.json results/customer_success_latest.json results/agent_11_trial_conversion_state.json results/agent_12_onboarding_state.json results/agent_13_retention_state.json
+          git add results/customer_success_state.json results/customer_success_latest.json results/agent_11_trial_conversion_state.json results/agent_12_onboarding_state.json results/agent_13_retention_state.json results/agent_14_customer_success_email_state.json results/agent_14_customer_success_email_latest.json
           if git diff --cached --quiet; then
             echo 'No Customer Success state changes'
           else
@@ -63,6 +99,7 @@ jobs:
           fi
 
       - name: Dispatch CEO
+        if: steps.gate.outputs.run_cs == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh workflow run ceo.yml --ref main

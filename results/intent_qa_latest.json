@@ -1,15 +1,70 @@
 {
   "state": {
     "agent": "AGENT_15B_INTENT_QA",
-    "last_run_at": "2026-09-12T23:31:30.745051+00:00",
+    "last_run_at": "2026-09-12T23:32:47.351000+00:00",
     "pending": 0,
     "hot": 0,
-    "warm": 0,
+    "warm": 3,
     "watch": 0,
     "rejected": 0,
-    "airtable_created": 0,
+    "airtable_created": 3,
     "airtable_updated": 0,
     "errors": 0
   },
-  "qualified": []
+  "qualified": [
+    {
+      "signal_id": "intent-7e56262cde92330b",
+      "source": "upwork.com",
+      "source_url": "https://www.upwork.com/freelance-jobs/apply/Google-Business-Profile-Local-SEO-Expert-German-Speaking_~022087054167304112185/",
+      "title": "Google Business Profile & Local SEO Expert — German Speaking",
+      "snippet": "Long-term collaboration across multiple client accounts; seeks German-speaking specialist for Google Business Profile, Google Maps and Local SEO.",
+      "query": "verified current opportunity",
+      "raw_score": 5,
+      "provider": "verified_seed",
+      "detected_at": "2026-09-12T23:32:45.638416+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "tier": "WARM",
+      "intent_score": 95,
+      "qa_reason": "Clear LOCENIX-relevant problem/optimization signal without explicit purchase language.",
+      "qa_at": "2026-09-12T23:32:47.351000+00:00",
+      "airtable_record_id": "recCdZ8TUpb55WcDF"
+    },
+    {
+      "signal_id": "intent-ba6cea20b5d91ebd",
+      "source": "upwork.com",
+      "source_url": "https://www.upwork.com/freelance-jobs/apply/Google-Business-Profile-Local-SEO-Specialist-for-German-Local-Businesses_~022086915255634550070/",
+      "title": "Google Business Profile & Local SEO Specialist for German Local Businesses",
+      "snippet": "German agency seeks a long-term white-label Local SEO and Google Business Profile specialist for local business clients.",
+      "query": "verified current opportunity",
+      "raw_score": 3,
+      "provider": "verified_seed",
+      "detected_at": "2026-09-12T23:32:45.638416+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "tier": "WARM",
+      "intent_score": 95,
+      "qa_reason": "Clear LOCENIX-relevant problem/optimization signal without explicit purchase language.",
+      "qa_at": "2026-09-12T23:32:47.351000+00:00",
+      "airtable_record_id": "reco9nejkQJC9A4Bx"
+    },
+    {
+      "signal_id": "intent-df669c96753a9aca",
+      "source": "upwork.com",
+      "source_url": "https://www.upwork.com/freelance-jobs/apply/German-Speaking-Marketing-Operations-Assistant-Google-Business-Profile-SEO_~022092564659254285945/",
+      "title": "German-Speaking AI Marketing Operations Assistant – Google Business Profile & SEO",
+      "snippet": "Multi-brand operator in Germany and Austria seeks ongoing support for Google Business Profiles, Local SEO and AI-assisted marketing operations.",
+      "query": "verified current opportunity",
+      "raw_score": 2,
+      "provider": "verified_seed",
+      "detected_at": "2026-09-12T23:32:45.638416+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "tier": "WARM",
+      "intent_score": 95,
+      "qa_reason": "Clear LOCENIX-relevant problem/optimization signal without explicit purchase language.",
+      "qa_at": "2026-09-12T23:32:47.351000+00:00",
+      "airtable_record_id": "recqJen1uWvGNLIwl"
+    }
+  ]
 }

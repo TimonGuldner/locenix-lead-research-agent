@@ -1,13 +1,44 @@
 {
   "state": {
     "agent": "AGENT_15D_INTENT_RESPONSE",
-    "last_run_at": "2026-09-12T23:31:31.077824+00:00",
-    "prepared": 0,
-    "new_prepared": 0,
+    "last_run_at": "2026-09-12T23:32:48.544585+00:00",
+    "prepared": 3,
+    "new_prepared": 3,
     "pending": 0,
     "sent": 0,
     "errors": 0,
     "mode": "DRAFT_ONLY"
   },
-  "latest_drafts": []
+  "latest_drafts": [
+    {
+      "signal_id": "intent-7e56262cde92330b",
+      "airtable_record_id": "recCdZ8TUpb55WcDF",
+      "tier": "WARM",
+      "source": "upwork.com",
+      "source_url": "https://www.upwork.com/freelance-jobs/apply/Google-Business-Profile-Local-SEO-Expert-German-Speaking_~022087054167304112185/",
+      "draft": "Hallo, ich bin über deinen Beitrag auf upwork.com gestolpert. Du beschreibst dort sinngemäß: Long-term collaboration across multiple client accounts; seeks German-speaking specialist for Google Business Profile, Google Maps and Local SEO.\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-09-12T23:32:48.544585+00:00"
+    },
+    {
+      "signal_id": "intent-ba6cea20b5d91ebd",
+      "airtable_record_id": "reco9nejkQJC9A4Bx",
+      "tier": "WARM",
+      "source": "upwork.com",
+      "source_url": "https://www.upwork.com/freelance-jobs/apply/Google-Business-Profile-Local-SEO-Specialist-for-German-Local-Businesses_~022086915255634550070/",
+      "draft": "Hallo, ich bin über deinen Beitrag auf upwork.com gestolpert. Du beschreibst dort sinngemäß: German agency seeks a long-term white-label Local SEO and Google Business Profile specialist for local business clients.\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-09-12T23:32:48.544585+00:00"
+    },
+    {
+      "signal_id": "intent-df669c96753a9aca",
+      "airtable_record_id": "recqJen1uWvGNLIwl",
+      "tier": "WARM",
+      "source": "upwork.com",
+      "source_url": "https://www.upwork.com/freelance-jobs/apply/German-Speaking-Marketing-Operations-Assistant-Google-Business-Profile-SEO_~022092564659254285945/",
+      "draft": "Hallo, ich bin über deinen Beitrag auf upwork.com gestolpert. Du beschreibst dort sinngemäß: Multi-brand operator in Germany and Austria seeks ongoing support for Google Business Profiles, Local SEO and AI-assisted marketing operations.\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-09-12T23:32:48.544585+00:00"
+    }
+  ]
 }

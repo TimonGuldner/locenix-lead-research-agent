@@ -1,34 +1,49 @@
 {
   "agent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
   "parent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-12T23:31:31.171822+00:00",
+  "generated_at": "2026-09-12T23:32:49.316814+00:00",
   "department_status": "ATTENTION",
   "next_agent": "intent_scout",
   "reason": "intent_scout reports errors and should be inspected before scaling.",
   "metrics": {
-    "signals_found": 0,
+    "signals_found": 3,
     "hot": 0,
-    "warm": 0,
+    "warm": 3,
     "watch": 0,
     "rejected": 0,
-    "responses_prepared": 0,
+    "responses_prepared": 3,
     "responses_sent": 0,
     "positive_replies": 0,
     "trials": 0,
     "paid_customers": 0,
     "human_action_required": 0,
-    "errors": 8
+    "errors": 11
   },
   "children": {
     "intent_scout": {
       "agent": "AGENT_15A_INTENT_SCOUT",
-      "last_run_at": "2026-09-12T23:31:28.438391+00:00",
-      "signals_found": 0,
-      "new_signals": 0,
-      "unreviewed": 0,
-      "queries_run": 8,
-      "errors": 8,
+      "last_run_at": "2026-09-12T23:32:45.638416+00:00",
+      "signals_found": 3,
+      "new_signals": 3,
+      "unreviewed": 3,
+      "queries_run": 11,
+      "errors": 11,
       "query_errors": [
+        {
+          "provider": "reddit_api",
+          "query": "Google Unternehmensprofil",
+          "error": "HTTP Error 403: Blocked"
+        },
+        {
+          "provider": "reddit_api",
+          "query": "Google Maps Local SEO",
+          "error": "HTTP Error 403: Blocked"
+        },
+        {
+          "provider": "reddit_api",
+          "query": "Google Business Profile",
+          "error": "HTTP Error 403: Blocked"
+        },
         {
           "provider": "jina_search",
           "query": "\"Google Business Profile\" German Local SEO freelancer job",
@@ -63,37 +78,36 @@
           "provider": "jina_search",
           "query": "site:freelancermap.de \"Local SEO\"",
           "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "site:reddit.com/r/selbststaendig \"Google Unternehmensprofil\"",
-          "error": "HTTP Error 401: Unauthorized"
         }
       ],
       "provider_hits": {
+        "verified_seed": 3,
+        "reddit_api": 0,
         "jina_search": 0,
         "duckduckgo": 0
       },
-      "sources": []
+      "sources": [
+        "upwork.com"
+      ]
     },
     "intent_qa": {
       "agent": "AGENT_15B_INTENT_QA",
-      "last_run_at": "2026-09-12T23:31:30.745051+00:00",
+      "last_run_at": "2026-09-12T23:32:47.351000+00:00",
       "pending": 0,
       "hot": 0,
-      "warm": 0,
+      "warm": 3,
       "watch": 0,
       "rejected": 0,
-      "airtable_created": 0,
+      "airtable_created": 3,
       "airtable_updated": 0,
       "errors": 0
     },
     "platform_access": {},
     "intent_response": {
       "agent": "AGENT_15D_INTENT_RESPONSE",
-      "last_run_at": "2026-09-12T23:31:31.077824+00:00",
-      "prepared": 0,
-      "new_prepared": 0,
+      "last_run_at": "2026-09-12T23:32:48.544585+00:00",
+      "prepared": 3,
+      "new_prepared": 3,
       "pending": 0,
       "sent": 0,
       "errors": 0,

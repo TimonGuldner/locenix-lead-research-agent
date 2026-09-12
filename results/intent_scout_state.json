@@ -1,12 +1,27 @@
 {
   "agent": "AGENT_15A_INTENT_SCOUT",
-  "last_run_at": "2026-09-12T23:31:28.438391+00:00",
-  "signals_found": 0,
-  "new_signals": 0,
-  "unreviewed": 0,
-  "queries_run": 8,
-  "errors": 8,
+  "last_run_at": "2026-09-12T23:32:45.638416+00:00",
+  "signals_found": 3,
+  "new_signals": 3,
+  "unreviewed": 3,
+  "queries_run": 11,
+  "errors": 11,
   "query_errors": [
+    {
+      "provider": "reddit_api",
+      "query": "Google Unternehmensprofil",
+      "error": "HTTP Error 403: Blocked"
+    },
+    {
+      "provider": "reddit_api",
+      "query": "Google Maps Local SEO",
+      "error": "HTTP Error 403: Blocked"
+    },
+    {
+      "provider": "reddit_api",
+      "query": "Google Business Profile",
+      "error": "HTTP Error 403: Blocked"
+    },
     {
       "provider": "jina_search",
       "query": "\"Google Business Profile\" German Local SEO freelancer job",
@@ -41,16 +56,15 @@
       "provider": "jina_search",
       "query": "site:freelancermap.de \"Local SEO\"",
       "error": "HTTP Error 401: Unauthorized"
-    },
-    {
-      "provider": "jina_search",
-      "query": "site:reddit.com/r/selbststaendig \"Google Unternehmensprofil\"",
-      "error": "HTTP Error 401: Unauthorized"
     }
   ],
   "provider_hits": {
+    "verified_seed": 3,
+    "reddit_api": 0,
     "jina_search": 0,
     "duckduckgo": 0
   },
-  "sources": []
+  "sources": [
+    "upwork.com"
+  ]
 }

@@ -1,18 +1,18 @@
 {
-  "last_run_at": "2026-09-12T23:31:31.171822+00:00",
+  "last_run_at": "2026-09-12T23:32:49.316814+00:00",
   "department_status": "ATTENTION",
   "next_agent": "intent_scout",
   "reason": "intent_scout reports errors and should be inspected before scaling.",
-  "signals_found": 0,
+  "signals_found": 3,
   "hot": 0,
-  "warm": 0,
+  "warm": 3,
   "watch": 0,
   "rejected": 0,
-  "responses_prepared": 0,
+  "responses_prepared": 3,
   "responses_sent": 0,
   "positive_replies": 0,
   "trials": 0,
   "paid_customers": 0,
   "human_action_required": 0,
-  "errors": 8
+  "errors": 11
 }

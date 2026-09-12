@@ -21,6 +21,15 @@ def load(path, default):
         return default
 
 
+def num(value, default=0):
+    try:
+        if value is None or value == "":
+            return default
+        return float(value)
+    except (TypeError, ValueError):
+        return default
+
+
 def domain(url):
     try:
         return urlparse(url or "").netloc.lower().replace("www.", "")
@@ -31,10 +40,10 @@ def domain(url):
 def confidence(lead):
     evidence = 0
     evidence += 1 if lead.get("google_review_count") is not None else 0
-    evidence += 1 if lead.get("competitor_review_median") else 0
+    evidence += 1 if num(lead.get("competitor_review_median")) > 0 else 0
     evidence += 1 if lead.get("website") else 0
     evidence += 1 if lead.get("address") else 0
-    evidence += 1 if lead.get("verified_signal_count", 0) >= 2 else 0
+    evidence += 1 if num(lead.get("verified_signal_count")) >= 2 else 0
     return "HIGH" if evidence >= 5 else "MEDIUM" if evidence >= 3 else "LOW"
 
 
@@ -59,11 +68,11 @@ def purchase_score(lead):
         score += 3; reasons.append("eigene Website")
     if lead.get("public_business_email") or lead.get("contact_form_url"):
         score += 2; reasons.append("öffentlicher Geschäftskontakt")
-    if lead.get("digital_readiness_score", 0) >= 8:
+    if num(lead.get("digital_readiness_score")) >= 8:
         score += 2; reasons.append("hohe digitale Reife")
-    if lead.get("google_review_count", 0) >= 20:
+    if num(lead.get("google_review_count")) >= 20:
         score += 1; reasons.append("etablierter Betrieb")
-    if lead.get("review_gap", 0) >= 50:
+    if num(lead.get("review_gap")) >= 50:
         score += 2; reasons.append("klarer Wettbewerbsdruck")
     return min(10, score), reasons
 
@@ -82,7 +91,6 @@ def process():
     accepted_a = 0
     rejected_chain = 0
 
-    # Existing list order reflects score order; rank is the observed Maps search position captured during discovery when available.
     for lead in leads:
         pscore, preasons = purchase_score(lead)
         cscore, creasons = contact_quality(lead)
@@ -97,7 +105,7 @@ def process():
         lead["signal_confidence"] = conf
         lead["obvious_chain_candidate"] = chain
         lead["why_now"] = (
-            f"Lokaler Wettbewerbsdruck: Review-Gap {lead.get('review_gap', 0)}; "
+            f"Lokaler Wettbewerbsdruck: Review-Gap {num(lead.get('review_gap')):g}; "
             f"Kaufwahrscheinlichkeit {pscore}/10; Kontaktqualität {cscore}/10."
         )
         lead["airtable_ready"] = False
@@ -120,7 +128,6 @@ def process():
                 accepted_a += 1
                 lead["qa_gate"] = "PASS_PRE_AIRTABLE_QA"
 
-        # Never auto-sync: final ChatGPT QA must verify GBP detail claims first.
         lead["airtable_ready"] = False
         lead["final_qa_required"] = True
 

@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-12T15:49:30.736796+00:00",
+  "last_run_at": "2026-09-12T16:24:21.346353+00:00",
   "department_status": "HEALTHY",
   "next_agent": "lead_research",
   "reason": "Downstream pipeline is clear; add new qualified leads.",
@@ -14,5 +14,5 @@
   "email_trial_interest": 0,
   "email_human_reviews_required": 0,
   "email_errors": 0,
-  "email_last_run_at": "2026-09-12T14:57:01.737989+00:00"
+  "email_last_run_at": "2026-09-12T16:24:09.420041+00:00"
 }

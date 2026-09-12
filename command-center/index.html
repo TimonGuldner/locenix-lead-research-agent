@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>LOCENIX Command Center</title>
+  <style>
+    :root{--bg:#080b12;--panel:#101522;--panel2:#151c2d;--line:#26304a;--txt:#eef2ff;--muted:#8f9ab5;--good:#5ce1a5;--warn:#f7c86a;--bad:#ff6b7a;--accent:#7c9cff;--glow:rgba(124,156,255,.18)}*{box-sizing:border-box}body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:radial-gradient(circle at 20% 0%,rgba(77,103,181,.16),transparent 30%),var(--bg);color:var(--txt);min-height:100vh}.shell{max-width:1440px;margin:auto;padding:24px}.topbar{display:flex;align-items:center;justify-content:space-between;gap:20px;margin-bottom:24px}.brand{display:flex;align-items:center;gap:12px}.logo{width:42px;height:42px;border-radius:13px;background:linear-gradient(145deg,#6487ff,#8b5cf6);box-shadow:0 0 40px var(--glow);display:grid;place-items:center;font-weight:900}.title h1{font-size:20px;margin:0}.title p{margin:3px 0 0;color:var(--muted);font-size:13px}.live{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:13px}.dot{width:9px;height:9px;border-radius:50%;background:var(--good);box-shadow:0 0 14px var(--good)}.hero{display:grid;grid-template-columns:1.4fr .6fr;gap:18px;margin-bottom:18px}.card{background:linear-gradient(180deg,rgba(19,25,40,.96),rgba(13,18,30,.96));border:1px solid var(--line);border-radius:18px;box-shadow:0 18px 60px rgba(0,0,0,.18)}.overview{padding:22px}.overview h2{margin:0 0 8px;font-size:17px}.overview p{color:var(--muted);margin:0 0 20px}.pipeline{display:flex;align-items:center;gap:9px;overflow:auto;padding-bottom:4px}.stage{min-width:125px;background:var(--panel2);border:1px solid var(--line);border-radius:14px;padding:12px}.stage small{color:var(--muted);display:block}.stage strong{display:block;margin-top:4px}.arrow{color:#58637e}.manager{padding:22px;position:relative;overflow:hidden}.manager:after{content:"";position:absolute;width:180px;height:180px;background:radial-gradient(circle,var(--glow),transparent 70%);right:-60px;top:-60px}.manager .eyebrow{font-size:11px;letter-spacing:.14em;color:#9fb2ff;text-transform:uppercase}.manager h3{margin:8px 0 6px;font-size:19px}.manager p{color:var(--muted);margin:0;font-size:14px}.section-head{display:flex;align-items:end;justify-content:space-between;margin:24px 2px 12px}.section-head h2{font-size:16px;margin:0}.section-head span{font-size:12px;color:var(--muted)}.agents{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.agent{padding:17px;min-height:158px}.agent-head{display:flex;justify-content:space-between;gap:10px}.agent-id{font-size:11px;color:#7080a7}.badge{font-size:10px;font-weight:800;padding:5px 8px;border-radius:999px;border:1px solid currentColor}.badge.HEALTHY,.badge.ACTIVE{color:var(--good)}.badge.BACKLOG{color:var(--warn)}.badge.ERROR{color:var(--bad)}.badge.IDLE{color:#8da0c9}.agent h3{font-size:16px;margin:14px 0 5px}.role{font-size:12px;color:var(--muted);min-height:34px}.metric{font-size:22px;font-weight:800;margin-top:14px}.detail{font-size:11px;color:var(--muted);margin-top:3px}.command{margin-top:20px;padding:20px}.command-grid{display:grid;grid-template-columns:1fr 260px;gap:16px}.chatbox{background:#0b101c;border:1px solid var(--line);border-radius:15px;padding:14px}.chatbox textarea{width:100%;height:95px;resize:vertical;background:transparent;border:0;outline:0;color:var(--txt);font:inherit;font-size:14px}.actions{display:flex;justify-content:space-between;align-items:center;margin-top:10px}.hint{font-size:11px;color:var(--muted)}button{border:0;border-radius:11px;background:linear-gradient(135deg,#6286ff,#865df4);color:white;font-weight:800;padding:11px 15px;cursor:pointer}button:disabled{opacity:.5;cursor:not-allowed}.side{background:var(--panel2);border:1px solid var(--line);border-radius:15px;padding:14px}.side strong{font-size:13px}.side ul{padding-left:17px;color:var(--muted);font-size:12px;line-height:1.7;margin-bottom:0}.response{margin-top:12px;padding:11px 13px;border-radius:11px;background:#0c1321;border:1px solid var(--line);font-size:12px;color:var(--muted);display:none}.response.ok{display:block;border-color:rgba(92,225,165,.35);color:#b9f4d8}.response.err{display:block;border-color:rgba(255,107,122,.35);color:#ffc0c7}.footer{color:#65708d;font-size:11px;text-align:center;padding:22px 0 8px}@media(max-width:980px){.hero{grid-template-columns:1fr}.agents{grid-template-columns:repeat(2,1fr)}.command-grid{grid-template-columns:1fr}}@media(max-width:640px){.shell{padding:14px}.topbar{align-items:flex-start}.agents{grid-template-columns:1fr}.pipeline{display:grid;grid-template-columns:1fr 1fr}.arrow{display:none}.hero{gap:12px}}
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <div class="brand"><div class="logo">L</div><div class="title"><h1>LOCENIX Command Center</h1><p>Autonomous Growth Operations</p></div></div>
+      <div class="live"><span class="dot"></span><span id="liveText">Live-Daten werden geladen …</span></div>
+    </header>
+
+    <section class="hero">
+      <div class="card overview">
+        <h2>Pipeline</h2><p>Vom neuen Lead bis zum freigegebenen Outreach-Entwurf.</p>
+        <div class="pipeline" id="pipeline">
+          <div class="stage"><small>Research</small><strong>–</strong></div><span class="arrow">→</span>
+          <div class="stage"><small>Deep QA</small><strong>–</strong></div><span class="arrow">→</span>
+          <div class="stage"><small>Maps</small><strong>–</strong></div><span class="arrow">→</span>
+          <div class="stage"><small>Sales Queue</small><strong>–</strong></div><span class="arrow">→</span>
+          <div class="stage"><small>Outreach Drafts</small><strong>–</strong></div>
+        </div>
+      </div>
+      <div class="card manager">
+        <div class="eyebrow">Department Head</div><h3>Agent 7 · Growth Manager</h3><p id="managerText">Analysiert Engpässe und priorisiert den nächsten Workflow.</p>
+      </div>
+    </section>
+
+    <div class="section-head"><h2>Agenten</h2><span>Auto-Refresh alle 30 Sekunden</span></div>
+    <section class="agents" id="agents"></section>
+
+    <section class="card command">
+      <div class="section-head" style="margin-top:0"><h2>Command Console</h2><span>Neue Abteilung vorschlagen</span></div>
+      <div class="command-grid">
+        <div class="chatbox">
+          <textarea id="command" placeholder="Zum Beispiel: Erstelle eine Abteilung Kunden-Retention, die bestehende LOCENIX-Kunden überwacht, Risiken erkennt und Aufgaben für Follow-ups vorbereitet."></textarea>
+          <div class="actions"><span class="hint">Externe Aktionen bleiben standardmäßig gesperrt.</span><button id="sendBtn">Abteilung anlegen</button></div>
+          <div id="response" class="response"></div>
+        </div>
+        <aside class="side"><strong>Sicherheitsregeln</strong><ul><li>Keine automatischen externen Nachrichten</li><li>Neue Abteilungen starten als PROPOSED</li><li>Agent 7 übernimmt die interne Prüfung</li><li>GitHub bleibt Source of Truth</li></ul></aside>
+      </div>
+    </section>
+
+    <div class="footer">LOCENIX · Command Center · Internal Operations</div>
+  </main>
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
+function pipeline(states){const vals=[states.leadResearch?.lead_count??0,states.deepQa?.remaining_eligible??0,states.visibility?.remaining_eligible??0,states.salesQueue?.airtable_ready_count??0,states.outreach?.stored_count??0];document.querySelectorAll('.stage strong').forEach((e,i)=>e.textContent=vals[i]);}
+async function refresh(){try{const r=await fetch('/api/status?t='+Date.now(),{cache:'no-store'});const d=await r.json();if(!d.ok)throw new Error(d.error||'Statusfehler');$('#liveText').textContent='Aktualisiert '+new Date(d.updatedAt).toLocaleTimeString('de-DE');pipeline(d.states||{});$('#managerText').textContent=(d.states?.manager?.reason||d.states?.manager?.decision||'Analysiert Engpässe und priorisiert den nächsten Workflow.');$('#agents').innerHTML=(d.agents||[]).map(a=>`<article class="card agent"><div class="agent-head"><span class="agent-id">AGENT ${esc(a.id)}</span><span class="badge ${esc(a.status)}">${esc(a.status)}</span></div><h3>${esc(a.name)}</h3><div class="role">${esc(a.role)}</div><div class="metric">${esc(a.metric)}</div><div class="detail">${esc(a.detail)}</div></article>`).join('');}catch(e){$('#liveText').textContent='Status nicht erreichbar';}}
+$('#sendBtn').onclick=async()=>{const msg=$('#command').value.trim(),out=$('#response'),btn=$('#sendBtn');if(msg.length<5)return;btn.disabled=true;out.className='response';out.style.display='block';out.textContent='Abteilung wird als Vorschlag angelegt …';try{const r=await fetch('/api/department',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:msg})});const d=await r.json();if(!r.ok)throw new Error(d.setupRequired?'Vercel benötigt noch den sicheren GITHUB_TOKEN als Environment Variable.':(d.error||'Fehler'));out.className='response ok';out.textContent=`${d.department.name} wurde als PROPOSED angelegt. Agent 7 kann die Abteilung jetzt intern prüfen.`;$('#command').value='';}catch(e){out.className='response err';out.textContent=e.message;}finally{btn.disabled=false;}};
+refresh();setInterval(refresh,30000);
+</script>
+</body>
+</html>

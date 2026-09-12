@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -22,25 +23,31 @@ def compact_proof(lead: dict) -> str:
     clean = [p.strip() for p in proofs if isinstance(p, str) and p.strip()]
     if not clean:
         return ''
-    # Prefer the first verified commercial problem, not readiness-only signals.
     return clean[0]
+
+
+def human_fact(proof: str) -> str:
+    text = proof.replace('Verified source data: ', '').strip().rstrip('.')
+    m = re.fullmatch(r'(\d+) reviews vs\. comparison median (\d+); gap (\d+)', text, flags=re.I)
+    if m:
+        own, median, gap = m.groups()
+        return f"euer Profil hat aktuell {own} Bewertungen; der Vergleichswert der geprüften Wettbewerber liegt bei {median} Bewertungen"
+    return text
 
 
 def draft_message(lead: dict, task: dict) -> str:
     proof = compact_proof(lead)
-    city = lead.get('city') or 'deiner Region'
-    offer = task.get('offer') or 'kostenlosen Local Visibility Check'
+    city = lead.get('city') or 'eurer Region'
     if proof:
-        # Keep the claim scoped and conversational; no company name in body.
-        fact = proof.replace('Verified source data: ', '').rstrip('.')
+        fact = human_fact(proof)
         return (
-            f"Hi, ich habe mir euer Google-Maps-Profil kurz angesehen. Dabei ist mir aufgefallen: {fact}. "
-            f"Das könnte ein Ansatzpunkt sein, um eure lokale Sichtbarkeit in {city} weiter zu verbessern. "
-            f"Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check erstellen und dir die wichtigsten Hebel zeigen."
+            f"Hi, ich habe mir euer Google-Maps-Profil kurz angesehen. Dabei ist mir aufgefallen, dass {fact}. "
+            f"Da könnte noch Potenzial für mehr lokale Sichtbarkeit in {city} liegen. "
+            f"Wenn du möchtest, erstelle ich dir kostenlos einen kurzen Local Visibility Check und schicke dir die wichtigsten Hebel."
         )
     return (
         f"Hi, ich habe mir euer Google-Maps-Profil kurz angesehen und ein paar mögliche Hebel für die lokale Sichtbarkeit in {city} gefunden. "
-        f"Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check erstellen und dir die wichtigsten Punkte schicken."
+        f"Wenn du möchtest, erstelle ich dir kostenlos einen kurzen Local Visibility Check und schicke dir die wichtigsten Punkte."
     )
 
 

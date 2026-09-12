@@ -1,15 +1,20 @@
 {
-  "runs": 1,
+  "runs": 2,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "backroom physio berlin|berlin|https://backroomphysio.de/",
+    "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
     "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
-    "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/"
+    "podologie edelmann|berlin|https://podologie-edelmann.com/",
+    "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
+    "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
+    "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
+    "walk again center|berlin|https://walk-again.de/"
   ],
-  "processed_count": 5,
-  "remaining_eligible": 8,
+  "processed_count": 10,
+  "remaining_eligible": 3,
   "last_batch_count": 5,
-  "final_a_total": 4,
-  "final_b_total": 1
+  "final_a_total": 8,
+  "final_b_total": 2
 }

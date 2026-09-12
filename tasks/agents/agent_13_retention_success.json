@@ -1,0 +1,9 @@
+{
+  "agent": "AGENT_13_RETENTION_SUCCESS",
+  "reports_to": "AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD",
+  "enabled": true,
+  "goal": "PAID_TO_RETAINED",
+  "priority": ["CANCEL_RISK", "PAID_TECHNICAL_PROBLEM", "PAYMENT_PROBLEM", "HIGH_CHURN_RISK", "INACTIVE_PAID", "SUPPORT_CASE", "HEALTHY_CUSTOMER"],
+  "external_messaging": false,
+  "status": "ACTIVE"
+}

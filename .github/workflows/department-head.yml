@@ -62,3 +62,8 @@ jobs:
             git pull --rebase
             git push
           fi
+
+      - name: Dispatch CEO
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run ceo.yml --ref main

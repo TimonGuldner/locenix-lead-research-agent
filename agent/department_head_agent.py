@@ -10,6 +10,7 @@ TASK = Path('tasks/department_head_task.json')
 REPORT = Path('results/department_head_latest.json')
 STATE = Path('results/department_head_state.json')
 DEPARTMENTS_DIR = Path('tasks/departments')
+AGENTS_DIR = Path('tasks/agents')
 
 STATE_FILES = {
     'lead_research': Path('results/deterministic_state.json'),
@@ -29,21 +30,22 @@ def load(path: Path, default):
         return default
 
 
-def load_departments() -> list[dict]:
-    if not DEPARTMENTS_DIR.exists():
+def load_proposals(directory: Path, kind: str) -> list[dict]:
+    if not directory.exists():
         return []
     items = []
-    for path in sorted(DEPARTMENTS_DIR.glob('*.json')):
+    for path in sorted(directory.glob('*.json')):
         data = load(path, {})
-        if not isinstance(data, dict):
-            continue
-        data['_file'] = str(path)
-        items.append(data)
+        if isinstance(data, dict):
+            data['_file'] = str(path)
+            data['_kind'] = kind
+            items.append(data)
     return items
 
 
-def summarize(states: dict, departments: list[dict]) -> dict:
-    proposed = [d for d in departments if str(d.get('status', '')).upper() == 'PROPOSED']
+def summarize(states: dict, departments: list[dict], agents: list[dict]) -> dict:
+    proposed_departments = [d for d in departments if str(d.get('status', '')).upper() == 'PROPOSED']
+    proposed_agents = [a for a in agents if str(a.get('status', '')).upper() == 'PROPOSED']
     return {
         'lead_count': int(states['lead_research'].get('lead_count') or 0),
         'lead_a': int(states['lead_research'].get('a_leads') or 0),
@@ -61,27 +63,30 @@ def summarize(states: dict, departments: list[dict]) -> dict:
         'draft_errors': int(states['outreach_controller'].get('error_count') or 0),
         'sent_count': int(states['outreach_controller'].get('sent_count') or 0),
         'departments_total': len(departments),
-        'departments_proposed': len(proposed),
-        'proposed_department_names': [d.get('name') for d in proposed if d.get('name')][:10],
+        'departments_proposed': len(proposed_departments),
+        'agents_total': len(agents),
+        'agents_proposed': len(proposed_agents),
+        'proposed_names': [x.get('name') for x in proposed_departments + proposed_agents if x.get('name')][:10],
     }
 
 
 def decide(metrics: dict) -> dict:
     if metrics['airtable_errors']:
-        return {'status': 'BLOCKED', 'next_agent': None, 'reason': 'Airtable sync has errors; do not push more downstream work until fixed.'}
+        return {'status': 'BLOCKED', 'next_agent': None, 'reason': 'Airtable sync has errors; downstream work is paused.'}
     if metrics['draft_errors'] > 0:
         return {'status': 'ACTION_REQUIRED', 'next_agent': 'outreach_controller', 'reason': 'Outreach draft storage has errors.'}
-    if metrics['departments_proposed'] > 0:
-        names = ', '.join(metrics['proposed_department_names'][:3])
-        return {'status': 'MANAGEMENT_REVIEW', 'next_agent': None, 'reason': f"{metrics['departments_proposed']} neue Abteilung(en) warten auf Management-Prüfung: {names}."}
+    proposed = metrics['departments_proposed'] + metrics['agents_proposed']
+    if proposed > 0:
+        names = ', '.join(metrics['proposed_names'][:4])
+        return {'status': 'MANAGEMENT_REVIEW', 'next_agent': None, 'reason': f"{proposed} neue Agent-/Abteilungs-Vorschläge warten auf Prüfung: {names}."}
     if metrics['qa_remaining'] > 0:
         return {'status': 'BACKLOG', 'next_agent': 'deep_qa', 'reason': f"Deep QA has {metrics['qa_remaining']} eligible leads waiting."}
     if metrics['visibility_remaining'] > 0:
         return {'status': 'BACKLOG', 'next_agent': 'visibility', 'reason': f"Visibility has {metrics['visibility_remaining']} eligible leads waiting."}
     if metrics['airtable_ready'] < metrics['qa_final_a']:
-        return {'status': 'BACKLOG', 'next_agent': 'sales_queue', 'reason': 'Qualified FINAL_A leads have not all reached the Airtable sales queue.'}
+        return {'status': 'BACKLOG', 'next_agent': 'sales_queue', 'reason': 'Qualified FINAL_A leads have not all reached Airtable.'}
     if metrics['drafts_stored'] < metrics['airtable_ready']:
-        return {'status': 'BACKLOG', 'next_agent': 'outreach_controller', 'reason': 'Airtable-ready leads are missing stored outreach drafts.'}
+        return {'status': 'BACKLOG', 'next_agent': 'outreach_controller', 'reason': 'Airtable-ready leads are missing outreach drafts.'}
     return {'status': 'HEALTHY', 'next_agent': 'lead_research', 'reason': 'Downstream pipeline is clear; add new qualified leads.'}
 
 
@@ -111,15 +116,15 @@ def main() -> None:
         return
 
     states = {name: load(path, {}) for name, path in STATE_FILES.items()}
-    departments = load_departments()
-    metrics = summarize(states, departments)
+    departments = load_proposals(DEPARTMENTS_DIR, 'department')
+    agents = load_proposals(AGENTS_DIR, 'agent')
+    metrics = summarize(states, departments, agents)
     decision = decide(metrics)
 
     dispatched = False
     dispatch_detail = 'not requested'
     next_agent = decision.get('next_agent')
     workflows = task.get('workflows') or {}
-
     if task.get('auto_dispatch') and next_agent:
         workflow_file = workflows.get(next_agent)
         if workflow_file:
@@ -129,12 +134,13 @@ def main() -> None:
 
     now = datetime.now(timezone.utc).isoformat()
     report = {
-        'manager': 'LOCENIX_GROWTH_MANAGER_V2',
+        'manager': 'LOCENIX_GROWTH_MANAGER_V3',
         'mode': task.get('mode', 'SUPERVISE_ONLY'),
         'generated_at': now,
         'department_status': decision['status'],
         'metrics': metrics,
         'departments': departments,
+        'agent_proposals': agents,
         'next_agent': next_agent,
         'reason': decision['reason'],
         'dispatch_attempted': bool(task.get('auto_dispatch') and next_agent),
@@ -145,7 +151,7 @@ def main() -> None:
             'contact_form_submit_allowed': False,
             'unknown_workflow_dispatch_allowed': False,
             'max_child_workflows_this_run': 1,
-            'new_departments_start_as_proposed': True,
+            'new_agents_and_departments_start_as_proposed': True,
         },
     }
     REPORT.parent.mkdir(parents=True, exist_ok=True)
@@ -157,6 +163,8 @@ def main() -> None:
         'reason': decision['reason'],
         'departments_total': metrics['departments_total'],
         'departments_proposed': metrics['departments_proposed'],
+        'agents_total': metrics['agents_total'],
+        'agents_proposed': metrics['agents_proposed'],
         'dispatch_success': dispatched,
         'dispatch_detail': dispatch_detail,
     }, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')

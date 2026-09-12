@@ -8,14 +8,20 @@
   "auto_reply_enabled": true,
   "safe_auto_reply_categories": [
     "POSITIVE_INTEREST",
-    "QUESTION",
     "NEEDS_MORE_INFORMATION",
     "VISIBILITY_CHECK_INTEREST",
     "TRIAL_INTEREST",
-    "TECHNICAL_QUESTION"
+    "NOT_NOW"
   ],
   "human_review_categories": [
+    "QUESTION",
+    "TECHNICAL_QUESTION",
     "PRICE_QUESTION",
+    "DISCOUNT_REQUEST",
+    "CONTRACT",
+    "PRIVACY_LEGAL",
+    "ENTERPRISE_PARTNERSHIP",
+    "COMPLAINT",
     "UNKNOWN"
   ],
   "no_reply_categories": [

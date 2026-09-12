@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "batch_size": 5,
+  "eligible_decisions": ["FINAL_A", "FINAL_B"],
+  "queries_per_lead": 2,
+  "max_results_per_query": 20,
+  "include_nearby_intent_query": true,
+  "schedule_note": "Agent 4 checks observed Google Maps visibility after Deep QA during the daytime operating window.",
+  "safety": {
+    "research_only": true,
+    "no_contact": true,
+    "no_form_submission": true,
+    "no_login": true,
+    "no_account_creation": true,
+    "no_captcha_bypass": true,
+    "never_invent_rankings": true,
+    "observed_results_only": true
+  }
+}

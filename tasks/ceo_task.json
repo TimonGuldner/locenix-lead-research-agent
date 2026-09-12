@@ -7,6 +7,39 @@
   "executive_reviews_per_day": 2,
   "event_driven": true,
   "department_head": "LOCENIX_GROWTH_MANAGER",
+  "objective_window": {
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-15",
+    "source_of_truth": "Airtable LOCENIX LinkedIn Growth OS / CEO Objectives",
+    "binding": true
+  },
+  "objectives": [
+    {
+      "priority": 1,
+      "objective": "Ersten LOCENIX Trial gewinnen",
+      "owner": "Agent 0 CEO",
+      "kpi": "Trials",
+      "target": 1,
+      "rule": "Bestehende aktive Gespräche und positive Signale vor neuer Lead-Masse priorisieren. Agent 8 auf Conversation -> Visibility Check -> Trial ausrichten."
+    },
+    {
+      "priority": 2,
+      "objective": "Alle 10 FINAL-A Leads vollständig outreach-ready machen",
+      "owner": "Agent 7 Growth Manager",
+      "kpi": "FINAL-A Leads outreach-ready",
+      "target": 10,
+      "rule": "Fehlende Drafts und nächste Schritte für vorhandene hochwertige Leads schließen, bevor neue Lead-Masse priorisiert wird."
+    },
+    {
+      "priority": 3,
+      "objective": "LinkedIn-Agentensystem stabil und gesund betreiben",
+      "owner": "Agent 8 LinkedIn Department Head",
+      "kpi": "kritische technische Blocker",
+      "target": 0,
+      "rule": "Technische Workflow-Fehler von echten Account-Risiken trennen, False-Positive Security-Blocker vermeiden und Schrittlimit-/Senden-Button-Probleme gezielt beheben."
+    }
+  ],
+  "objective_execution_rule": "Während des 3-Tage-Fensters müssen CEO-Prioritäten und Delegationen primär auf diese drei Ziele einzahlen. Neue Initiativen nur, wenn sie einen direkten Engpass dieser Ziele lösen oder einen echten Sicherheits-/Produktionsblocker beheben.",
   "autonomy": {
     "internal_analysis": true,
     "prioritization": true,

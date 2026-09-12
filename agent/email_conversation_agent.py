@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import html
 import json
 import os
 import re
@@ -19,9 +20,18 @@ AIRTABLE_TABLE_ID = os.getenv('AIRTABLE_TABLE_ID', 'tblF4ghkYFzkeQwsT').strip()
 AIRTABLE_TOKEN = os.getenv('AIRTABLE_TOKEN', '').strip()
 RESEND_INBOX_API_KEY = os.getenv('RESEND_INBOX_API_KEY', '').strip()
 RESEND_API_KEY = os.getenv('RESEND_API_KEY', '').strip()
-EMAIL_FROM = os.getenv('EMAIL_FROM', 'Timon Guldner <hello@locenix.com>').strip()
-EMAIL_REPLY_TO = os.getenv('EMAIL_REPLY_TO', 'hello@locenix.com').strip()
+EMAIL_FROM = os.getenv('EMAIL_FROM', 'Timon Guldner <hello@locenix.com>').strip() or 'Timon Guldner <hello@locenix.com>'
+EMAIL_REPLY_TO = os.getenv('EMAIL_REPLY_TO', 'hello@locenix.com').strip() or 'hello@locenix.com'
 AUTO_REPLY_ENV = os.getenv('EMAIL_AUTO_REPLY', 'false').strip().lower() in {'1', 'true', 'yes'}
+
+SIGNATURE_TEXT = (
+    'Viele Grüße\n\n'
+    'Timon Guldner\n'
+    'LOCENIX\n'
+    'Local SEO & Google Business Profile\n'
+    'hello@locenix.com\n'
+    'https://locenix.com'
+)
 
 
 def load_json(path: Path, default: Any):
@@ -50,8 +60,7 @@ def auth_headers(token: str, user_agent: str) -> dict[str, str]:
 def airtable_list(max_records: int = 500) -> list[dict[str, Any]]:
     if not AIRTABLE_TOKEN:
         raise RuntimeError('AIRTABLE_TOKEN missing')
-    out: list[dict[str, Any]] = []
-    offset = ''
+    out, offset = [], ''
     while len(out) < max_records:
         params = {'pageSize': '100'}
         if offset:
@@ -74,8 +83,7 @@ def list_received(limit: int) -> list[dict[str, Any]]:
     if not RESEND_INBOX_API_KEY:
         raise RuntimeError('RESEND_INBOX_API_KEY missing')
     url = f'https://api.resend.com/emails/receiving?limit={max(1, min(limit, 100))}'
-    payload = request_json(url, headers=auth_headers(RESEND_INBOX_API_KEY, 'locenix-email-conversation'))
-    return payload.get('data') or []
+    return request_json(url, headers=auth_headers(RESEND_INBOX_API_KEY, 'locenix-email-conversation')).get('data') or []
 
 
 def get_received(email_id: str) -> dict[str, Any]:
@@ -85,13 +93,36 @@ def get_received(email_id: str) -> dict[str, Any]:
     )
 
 
+def official_html(text: str) -> str:
+    safe = html.escape(text)
+    blocks = ''.join(
+        f'<p style="margin:0 0 14px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#1f2937;">{part.replace(chr(10), "<br>")}</p>'
+        for part in safe.split('\n\n')
+        if part.strip()
+    )
+    return (
+        '<!DOCTYPE html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">'
+        '<meta http-equiv="X-UA-Compatible" content="IE=edge"></head>'
+        '<body style="margin:0;padding:0;background-color:#ffffff;">'
+        '<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="left" bgcolor="#ffffff" style="background-color:#ffffff;padding-top:24px;padding-right:24px;padding-bottom:24px;padding-left:24px;">'
+        '<table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:640px;"><tr><td style="font-family:Arial,Helvetica,sans-serif;color:#1f2937;">'
+        + blocks +
+        '</td></tr></table></td></tr></table></body></html>'
+    )
+
+
 def send_reply(to_email: str, subject: str, text: str) -> str:
     token = RESEND_API_KEY or RESEND_INBOX_API_KEY
     if not token:
         raise RuntimeError('No Resend sending key available')
-    payload: dict[str, Any] = {'from': EMAIL_FROM, 'to': [to_email], 'subject': subject, 'text': text}
-    if EMAIL_REPLY_TO:
-        payload['reply_to'] = [EMAIL_REPLY_TO]
+    payload: dict[str, Any] = {
+        'from': EMAIL_FROM,
+        'to': [to_email],
+        'subject': subject,
+        'text': text,
+        'html': official_html(text),
+        'reply_to': [EMAIL_REPLY_TO],
+    }
     result = request_json('https://api.resend.com/emails', method='POST', headers=auth_headers(token, 'locenix-email-conversation'), body=payload)
     message_id = str(result.get('id') or '').strip()
     if not message_id:
@@ -109,39 +140,33 @@ def extract_email(value: str) -> str:
 
 def classify(subject: str, text: str) -> tuple[str, str]:
     s = f'{subject}\n{text}'.lower()
-    if any(x in s for x in ['unsubscribe', 'abbestellen', 'nicht mehr schreiben', 'keine weiteren mails']):
-        return 'UNSUBSCRIBE', 'NONE'
-    if any(x in s for x in ['kein interesse', 'nicht interessiert', 'nein danke', 'no interest']):
-        return 'NEGATIVE', 'NONE'
-    if any(x in s for x in ['automatische antwort', 'abwesen', 'urlaub', 'out of office', 'automatic reply']):
-        return 'OUT_OF_OFFICE', 'NONE'
-    if any(x in s for x in ['trial', 'testen', 'testzugang', 'test account']):
-        return 'TRIAL_INTEREST', 'HIGH'
-    if any(x in s for x in ['visibility check', 'sichtbarkeitscheck', 'check schicken', 'auswertung']):
-        return 'VISIBILITY_CHECK_INTEREST', 'HIGH'
-    if any(x in s for x in ['preis', 'kosten', 'monat', 'jahrespreis', 'rabatt']):
-        return 'PRICE_QUESTION', 'MEDIUM'
-    if '?' in s or any(x in s for x in ['wie funktioniert', 'kann locenix', 'technisch', 'google profil']):
-        return 'QUESTION', 'MEDIUM'
-    if any(x in s for x in ['interessant', 'gerne', 'ja bitte', 'klingt gut', 'mehr infos']):
-        return 'POSITIVE_INTEREST', 'MEDIUM'
-    if any(x in s for x in ['später', 'nächsten monat', 'aktuell nicht', 'momentan nicht']):
-        return 'NOT_NOW', 'LOW'
+    if any(x in s for x in ['unsubscribe', 'abbestellen', 'nicht mehr schreiben', 'keine weiteren mails']): return 'UNSUBSCRIBE', 'NONE'
+    if any(x in s for x in ['kein interesse', 'nicht interessiert', 'nein danke', 'no interest']): return 'NEGATIVE', 'NONE'
+    if any(x in s for x in ['automatische antwort', 'abwesen', 'urlaub', 'out of office', 'automatic reply']): return 'OUT_OF_OFFICE', 'NONE'
+    if any(x in s for x in ['trial', 'testen', 'testzugang', 'test account']): return 'TRIAL_INTEREST', 'HIGH'
+    if any(x in s for x in ['visibility check', 'sichtbarkeitscheck', 'check schicken', 'auswertung']): return 'VISIBILITY_CHECK_INTEREST', 'HIGH'
+    if any(x in s for x in ['preis', 'kosten', 'monat', 'jahrespreis', 'rabatt']): return 'PRICE_QUESTION', 'MEDIUM'
+    if '?' in s or any(x in s for x in ['wie funktioniert', 'kann locenix', 'technisch', 'google profil']): return 'QUESTION', 'MEDIUM'
+    if any(x in s for x in ['interessant', 'gerne', 'ja bitte', 'klingt gut', 'mehr infos']): return 'POSITIVE_INTEREST', 'MEDIUM'
+    if any(x in s for x in ['später', 'nächsten monat', 'aktuell nicht', 'momentan nicht']): return 'NOT_NOW', 'LOW'
     return 'UNKNOWN', 'UNKNOWN'
 
 
+def with_signature(body: str) -> str:
+    return f'{body.strip()}\n\n{SIGNATURE_TEXT}' if body.strip() else ''
+
+
 def make_draft(category: str, inbound_text: str) -> str:
-    if category == 'TRIAL_INTEREST':
-        return 'Hallo,\n\nvielen Dank für die Rückmeldung. Gerne können wir den nächsten Schritt Richtung Testzugang machen. Ich schaue kurz, was für euren aktuellen Stand am sinnvollsten ist, und schicke euch die passenden nächsten Schritte.\n\nViele Grüße\nTimon'
-    if category == 'VISIBILITY_CHECK_INTEREST':
-        return 'Hallo,\n\nsehr gerne. Ich bereite den kostenlosen Local Visibility Check für euch vor und fasse die wichtigsten Punkte kompakt zusammen. Danach können wir gemeinsam schauen, ob und wo LOCENIX euch konkret helfen kann.\n\nViele Grüße\nTimon'
-    if category in {'POSITIVE_INTEREST', 'NEEDS_MORE_INFORMATION'}:
-        return 'Hallo,\n\nvielen Dank für eure Rückmeldung. Gerne schaue ich mir das genauer an. Wenn ihr möchtet, kann ich euch zuerst kostenlos einen kurzen Local Visibility Check erstellen, damit wir konkret sehen, wo aktuell Potenzial liegt.\n\nViele Grüße\nTimon'
-    if category in {'QUESTION', 'TECHNICAL_QUESTION'}:
-        return 'Hallo,\n\nvielen Dank für die Frage. Ich schaue mir das gern konkret für euren Fall an. Wenn ihr möchtet, kann ich dazu zuerst euren aktuellen Google-Maps-/Unternehmensprofil-Stand prüfen und euch die wichtigsten Punkte kurz zurückmelden.\n\nViele Grüße\nTimon'
-    if category == 'NOT_NOW':
-        return 'Hallo,\n\ndanke für die Rückmeldung. Kein Problem, dann melde ich mich dazu jetzt nicht weiter. Wenn das Thema später wieder aktuell wird, könnt ihr euch jederzeit gerne melden.\n\nViele Grüße\nTimon'
-    return ''
+    bodies = {
+        'TRIAL_INTEREST': 'Hallo,\n\nvielen Dank für die Rückmeldung. Gerne können wir den nächsten Schritt Richtung Testzugang machen. Ich schaue kurz, was für euren aktuellen Stand am sinnvollsten ist, und schicke euch die passenden nächsten Schritte.',
+        'VISIBILITY_CHECK_INTEREST': 'Hallo,\n\nsehr gerne. Der kostenlose Local Visibility Check zeigt kompakt, wie euer Google-Unternehmensprofil aktuell aufgestellt ist und wo konkretes Potenzial liegt. Ich bereite die wichtigsten Punkte für euch vor; danach könnt ihr in Ruhe entscheiden, ob LOCENIX für euch interessant ist.',
+        'POSITIVE_INTEREST': 'Hallo,\n\nvielen Dank für eure Rückmeldung. Gerne schaue ich mir das genauer an. Als ersten Schritt kann ich euch kostenlos einen kurzen Local Visibility Check erstellen, damit wir konkret sehen, wo aktuell Potenzial liegt.',
+        'NEEDS_MORE_INFORMATION': 'Hallo,\n\nvielen Dank für eure Rückmeldung. Gerne gebe ich euch mehr Informationen. Am sinnvollsten ist meist ein kurzer Blick auf den aktuellen Google-Unternehmensprofil-Stand; dafür kann ich euch kostenlos einen Local Visibility Check erstellen.',
+        'QUESTION': 'Hallo,\n\nvielen Dank für die Frage. Ich schaue mir das gern konkret für euren Fall an. Wenn ihr möchtet, kann ich euren aktuellen Google-Unternehmensprofil-Stand kurz prüfen und euch die wichtigsten Punkte verständlich zusammenfassen.',
+        'TECHNICAL_QUESTION': 'Hallo,\n\nvielen Dank für die technische Frage. Ich schaue mir das gern konkret an und antworte euch so, dass klar wird, was LOCENIX in eurem Fall tatsächlich leisten kann.',
+        'NOT_NOW': 'Hallo,\n\ndanke für die Rückmeldung. Kein Problem, dann melde ich mich dazu jetzt nicht weiter. Wenn das Thema später wieder aktuell wird, könnt ihr euch jederzeit gerne melden.',
+    }
+    return with_signature(bodies.get(category, ''))
 
 
 def main() -> None:
@@ -158,13 +183,12 @@ def main() -> None:
     stop_categories = set(cfg.get('stop_categories') or [])
 
     leads = airtable_list()
-    by_email: dict[str, dict[str, Any]] = {}
-    processed_ids: set[str] = set()
+    by_email, processed_ids = {}, set()
     for rec in leads:
         f = rec.get('fields') or {}
-        email = str(f.get('Email') or '').strip().lower()
-        if email:
-            by_email[email] = rec
+        email_addr = str(f.get('Email') or '').strip().lower()
+        if email_addr:
+            by_email[email_addr] = rec
         mid = str(f.get('Last Inbound Message ID') or '').strip()
         if mid:
             processed_ids.add(mid)
@@ -188,9 +212,7 @@ def main() -> None:
             f = rec.get('fields') or {}
             text = str(full.get('text') or '')
             if not text:
-                html = str(full.get('html') or '')
-                text = re.sub(r'<[^>]+>', ' ', html)
-                text = re.sub(r'\s+', ' ', text).strip()
+                text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', str(full.get('html') or ''))).strip()
             subject = str(full.get('subject') or meta.get('subject') or '')
             category, intent = classify(subject, text)
             dnc = bool(f.get('Email Do Not Contact')) or category in stop_categories
@@ -231,6 +253,8 @@ def main() -> None:
         'agent': 'AGENT_9_EMAIL_CONVERSATION_AGENT',
         'reports_to': 'AGENT_7_GROWTH_MANAGER',
         'inbox': cfg.get('inbox_address', 'hello@locenix.com'),
+        'sender': EMAIL_FROM,
+        'reply_to': EMAIL_REPLY_TO,
         'auto_reply_enabled': auto_reply,
         'received_scanned': len(received),
         'handled': len(handled),

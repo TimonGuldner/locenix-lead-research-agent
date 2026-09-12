@@ -53,23 +53,8 @@ def airtable_patch(base_id, table_id, record_id, fields, token):
 
 
 def send_resend(api_key, sender, reply_to, recipient, subject, text, html):
-    payload = {
-        'from': sender,
-        'to': [recipient],
-        'reply_to': reply_to,
-        'subject': subject,
-        'text': text,
-        'html': html,
-    }
-    req = urllib.request.Request(
-        'https://api.resend.com/emails',
-        data=json.dumps(payload).encode('utf-8'),
-        method='POST',
-        headers={
-            'Authorization': f'Bearer {api_key}',
-            'Content-Type': 'application/json',
-        },
-    )
+    payload = {'from': sender, 'to': [recipient], 'reply_to': reply_to, 'subject': subject, 'text': text, 'html': html}
+    req = urllib.request.Request('https://api.resend.com/emails', data=json.dumps(payload).encode('utf-8'), method='POST', headers={'Authorization': f'Bearer {api_key}', 'Content-Type': 'application/json'})
     with urllib.request.urlopen(req, timeout=30) as r:
         return json.loads(r.read().decode('utf-8'))
 
@@ -97,59 +82,34 @@ def signature_html():
 
 
 def compose(email_type, customer, trial=None, onboarding=None):
-    name = customer.get('Contact Name')
-    hi = greeting(name)
-    company = customer.get('Company') or ''
-
+    hi = greeting(customer.get('Contact Name'))
     if email_type == 'TRIAL_EXPIRING':
         days = (trial or {}).get('Trial Days Remaining')
         day_text = 'bald' if days is None else (f'in {int(days)} Tag' if int(days) == 1 else f'in {int(days)} Tagen')
         subject = 'Dein LOCENIX Testzeitraum läuft bald aus'
-        body = (
-            f'{hi}\n\n'
-            f'dein LOCENIX Testzeitraum läuft {day_text} aus. '
-            'Wenn du noch etwas testen möchtest oder irgendwo festhängst, antworte einfach auf diese E-Mail. '
-            'Ich helfe dir gern beim nächsten sinnvollen Schritt.'
-        )
+        body = f'{hi}\n\ndein LOCENIX Testzeitraum läuft {day_text} aus. Wenn du noch etwas testen möchtest oder irgendwo festhängst, antworte einfach auf diese E-Mail. Ich helfe dir gern beim nächsten sinnvollen Schritt.'
     elif email_type == 'GBP_CONNECTION_HELP':
         subject = 'Kurze Hilfe beim Verbinden deines Google Profils'
-        body = (
-            f'{hi}\n\n'
-            'dein Google Business Profile ist in LOCENIX noch nicht verbunden. '
-            'Sobald die Verbindung steht, kann LOCENIX dein Profil analysieren und konkrete Verbesserungen anzeigen. '
-            'Wenn es beim Verbinden hakt, antworte kurz auf diese E-Mail und sag mir, an welcher Stelle du festhängst.'
-        )
+        body = f'{hi}\n\ndein Google Business Profile ist in LOCENIX noch nicht verbunden. Sobald die Verbindung steht, kann LOCENIX dein Profil analysieren und konkrete Verbesserungen anzeigen. Wenn es beim Verbinden hakt, antworte kurz auf diese E-Mail und sag mir, an welcher Stelle du festhängst.'
     elif email_type == 'ONBOARDING_BLOCKER':
         blocker = ((onboarding or {}).get('Blocker') or '').strip()
-        subject = 'Kann ich dir beim LOCENIX Setup helfen?'
         detail = f' Im Setup ist aktuell folgender Punkt offen: {blocker}' if blocker else ''
-        body = (
-            f'{hi}\n\n'
-            'ich sehe, dass dein LOCENIX Setup noch nicht ganz abgeschlossen ist.' + detail + ' '
-            'Wenn du möchtest, antworte einfach kurz – dann schauen wir uns genau diesen Schritt an.'
-        )
-    else:  # FIRST_VALUE_NUDGE
+        subject = 'Kann ich dir beim LOCENIX Setup helfen?'
+        body = f'{hi}\n\nich sehe, dass dein LOCENIX Setup noch nicht ganz abgeschlossen ist.{detail} Wenn du möchtest, antworte einfach kurz – dann schauen wir uns genau diesen Schritt an.'
+    else:
         subject = 'Hol dir den ersten konkreten Nutzen aus LOCENIX'
-        body = (
-            f'{hi}\n\n'
-            'dein Test läuft bereits, aber der erste vollständige Analyse- bzw. Optimierungsschritt ist noch offen. '
-            'Am schnellsten kommst du zum ersten sichtbaren Nutzen, wenn dein Google Profil verbunden ist und du anschließend die erste Analyse startest. '
-            'Wenn du irgendwo hängenbleibst, antworte einfach auf diese E-Mail.'
-        )
-
+        body = f'{hi}\n\ndein Test läuft bereits, aber der erste vollständige Analyse- bzw. Optimierungsschritt ist noch offen. Am schnellsten kommst du zum ersten sichtbaren Nutzen, wenn dein Google Profil verbunden ist und du anschließend die erste Analyse startest. Wenn du irgendwo hängenbleibst, antworte einfach auf diese E-Mail.'
     text = body + signature_text()
     html_body = ''.join(f'<p>{p}</p>' for p in body.split('\n\n')) + signature_html()
     return subject, text, html_body
 
 
 def choose_candidate(customer, trial, onboarding, risks):
-    # Never auto-message when human review or explicit do-not-contact is present.
     if customer.get('CS Do Not Contact') or customer.get('Human Review'):
         return None, 'HUMAN_REVIEW_OR_DNC'
     for risk in risks:
         if risk.get('Customer ID') == customer.get('Customer ID') and (risk.get('Human Review') or risk.get('Status') == 'HUMAN_REVIEW_REQUIRED'):
             return None, 'HUMAN_REVIEW_REQUIRED'
-
     if trial and trial.get('Trial Outcome') == 'ACTIVE':
         days = trial.get('Trial Days Remaining')
         if isinstance(days, (int, float)) and days <= 2:
@@ -169,13 +129,12 @@ def main():
     if not task.get('enabled'):
         print(json.dumps({'status': 'disabled'}))
         return
-
     airtable_token = os.getenv('AIRTABLE_TOKEN', '').strip()
-    resend_key = (os.getenv('RESEND_API_KEY') or '').strip()
+    resend_key = (os.getenv('RESEND_API_KEY') or os.getenv('RESEND_INBOX_API_KEY') or '').strip()
     if not airtable_token:
         raise SystemExit('AIRTABLE_TOKEN missing')
     if not resend_key:
-        raise SystemExit('RESEND_API_KEY missing')
+        raise SystemExit('No Resend API key available')
 
     base = cs_task['airtable_base_id']
     tables = cs_task['tables']
@@ -183,7 +142,6 @@ def main():
     trials_raw = airtable_records(base, tables['trials'], airtable_token)
     onboarding_raw = airtable_records(base, tables['onboarding'], airtable_token)
     risks_raw = airtable_records(base, tables['risks'], airtable_token)
-
     trials = [r.get('fields', {}) for r in trials_raw]
     onboarding = [r.get('fields', {}) for r in onboarding_raw]
     risks = [r.get('fields', {}) for r in risks_raw]
@@ -193,10 +151,7 @@ def main():
     now = datetime.now(timezone.utc)
     max_emails = int(task.get('max_emails_per_run') or 5)
     cooldown = timedelta(hours=int(task.get('cooldown_hours') or 24))
-    sent = 0
-    skipped = 0
-    failed = 0
-    human_review = 0
+    sent = skipped = failed = human_review = 0
     actions = []
 
     for rec in customers_raw:
@@ -208,11 +163,9 @@ def main():
         if not customer_id or not email:
             skipped += 1
             continue
-
         trial = trial_by_customer.get(customer_id)
         onb = onboarding_by_customer.get(customer_id)
         email_type, reason = choose_candidate(customer, trial, onb, risks)
-
         if reason in {'HUMAN_REVIEW_OR_DNC', 'HUMAN_REVIEW_REQUIRED'}:
             human_review += 1
             try:
@@ -223,7 +176,6 @@ def main():
         if not email_type:
             skipped += 1
             continue
-
         last_type = customer.get('CS Last Email Type')
         last_status = customer.get('CS Email Status')
         last_at = parse_dt(customer.get('CS Last Email At'))
@@ -233,52 +185,23 @@ def main():
         if last_at and now - last_at < cooldown:
             skipped += 1
             continue
-
         subject, text, html = compose(email_type, customer, trial, onb)
         try:
-            result = send_resend(
-                resend_key,
-                task.get('sender', 'Timon Guldner <hello@locenix.com>'),
-                task.get('reply_to', 'hello@locenix.com'),
-                email,
-                subject,
-                text,
-                html,
-            )
+            result = send_resend(resend_key, task.get('sender', 'Timon Guldner <hello@locenix.com>'), task.get('reply_to', 'hello@locenix.com'), email, subject, text, html)
             message_id = result.get('id')
-            airtable_patch(base, tables['customers'], rec['id'], {
-                'CS Email Status': 'SENT',
-                'CS Last Email Type': email_type,
-                'CS Last Email At': now.isoformat(),
-                'CS Email Message ID': message_id or '',
-                'CS Email Error': '',
-            }, airtable_token)
+            airtable_patch(base, tables['customers'], rec['id'], {'CS Email Status': 'SENT', 'CS Last Email Type': email_type, 'CS Last Email At': now.isoformat(), 'CS Email Message ID': message_id or '', 'CS Email Error': ''}, airtable_token)
             sent += 1
             actions.append({'customer_id': customer_id, 'email_type': email_type, 'message_id': message_id, 'status': 'SENT'})
         except Exception as exc:
             failed += 1
             err = f'{type(exc).__name__}: {exc}'[:1000]
             try:
-                airtable_patch(base, tables['customers'], rec['id'], {
-                    'CS Email Status': 'FAILED',
-                    'CS Last Email Type': email_type,
-                    'CS Email Error': err,
-                }, airtable_token)
+                airtable_patch(base, tables['customers'], rec['id'], {'CS Email Status': 'FAILED', 'CS Last Email Type': email_type, 'CS Email Error': err}, airtable_token)
             except Exception:
                 pass
             actions.append({'customer_id': customer_id, 'email_type': email_type, 'status': 'FAILED', 'error': err})
 
-    state = {
-        'agent': 'AGENT_14_CUSTOMER_SUCCESS_EMAIL',
-        'reports_to': 'AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD',
-        'sender': task.get('sender', 'Timon Guldner <hello@locenix.com>'),
-        'sent_count': sent,
-        'skipped_count': skipped,
-        'failed_count': failed,
-        'human_reviews_required': human_review,
-        'status': 'ATTENTION' if failed or human_review else 'HEALTHY',
-        'last_run_at': now.isoformat(),
-    }
+    state = {'agent': 'AGENT_14_CUSTOMER_SUCCESS_EMAIL', 'reports_to': 'AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD', 'sender': task.get('sender', 'Timon Guldner <hello@locenix.com>'), 'sent_count': sent, 'skipped_count': skipped, 'failed_count': failed, 'human_reviews_required': human_review, 'status': 'ATTENTION' if failed or human_review else 'HEALTHY', 'last_run_at': now.isoformat()}
     save(STATE, state)
     save(LATEST, {'state': state, 'actions': actions})
     print(json.dumps(state, ensure_ascii=False))

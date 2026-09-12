@@ -21,7 +21,7 @@ permissions:
 
 concurrency:
   group: locenix-intent-department
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   manage:

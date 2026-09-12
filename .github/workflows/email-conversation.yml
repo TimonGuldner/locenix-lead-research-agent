@@ -58,10 +58,11 @@ jobs:
           set -euo pipefail
           git config user.name "locenix-agent-9"
           git config user.email "actions@github.com"
-          git add results/email_conversation_state.json results/email_conversation_latest.json
+          git add results/email_conversation_state.json results/email_conversation_latest.json results/email_processed_ids.json
           if git diff --cached --quiet; then
             echo "No state changes"
           else
             git commit -m "chore: update Agent 9 email conversation state"
+            git pull --rebase
             git push
           fi

@@ -1,18 +1,457 @@
 {
-  "accepted": [],
-  "accepted_count": 0,
-  "rejected_count": 24,
+  "accepted": [
+    {
+      "company_name": "Zahnarzt München am Marienplatz - Dr. Tomas Hoischen & Dr. Matthias Kelch",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "address": "Rosenstraße 7, 80331 München-Altstadt-Lehel, Deutschland",
+      "website": "https://www.zahnaerzte-marienplatz.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+M%C3%BCnchen+am+Marienplatz+-+Dr.+Tomas+Hoischen+%26+Dr.+Matthias+Kelch/data=!4m7!3m6!1s0x479e75f53ae5b487:0xfa87352a11318705!8m2!3d48.136583!4d11.5735509!16s%2Fg%2F1tj20jjz!19sChIJh7TlOvV1nkcRBYcxESo1h_o?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 266555",
+      "public_business_email": "info@zahnaerzte-marienplatz.de",
+      "email_source_url": "https://www.zahnaerzte-marienplatz.de/",
+      "contact_form_url": "https://www.zahnaerzte-marienplatz.de/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.css?ver=6.3.9",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.9,
+      "google_review_count": 70,
+      "main_category": "Zahnarzt",
+      "website_services": [
+        "implantate",
+        "prophylaxe",
+        "bleaching",
+        "invisalign",
+        "parodontologie"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "AllDent Zahnzentrum München",
+      "competitor_1_reviews": 8348,
+      "competitor_2": "AllDent Zahnzentrum München Ost",
+      "competitor_2_reviews": 7454,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "70 eigene Bewertungen vs. lokaler Wettbewerbsmedian 306; Gap 236."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 24,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 85,
+      "competitor_review_median": 306,
+      "review_gap": 236,
+      "grade": "A",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "70 eigene Bewertungen vs. lokaler Wettbewerbsmedian 306; Gap 236.",
+      "proof": [
+        "70 eigene Bewertungen vs. lokaler Wettbewerbsmedian 306; Gap 236.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "70 eigene Bewertungen vs. lokaler Wettbewerbsmedian 306; Gap 236.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie",
+      "research_notes": "Deterministic research v2. Query: Zahnarzt Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-12",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Zahnärzte im Asamhof - Dr. Ihor Prokhorenko - CMD-Zentrum München-Innenstadt",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "address": "Sendlinger Str. 24, 80331 München-Altstadt-Lehel, Deutschland",
+      "website": "http://zahnaerzte-im-asamhof.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Zahn%C3%A4rzte+im+Asamhof+-+Dr.+Ihor+Prokhorenko+-+CMD-Zentrum+M%C3%BCnchen-Innenstadt/data=!4m7!3m6!1s0x479e75f587d95b4f:0x1ffdd240c177ca00!8m2!3d48.1353169!4d11.5700721!16s%2Fg%2F1tfsgd3l!19sChIJT1vZh_V1nkcRAMp3wUDS_R8?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 263045",
+      "public_business_email": "info@zahnaerzte-im-asamhof.de",
+      "email_source_url": "https://zahnaerzte-im-asamhof.de/",
+      "contact_form_url": "https://zahnaerzte-im-asamhof.de/kontakt/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.9,
+      "google_review_count": 133,
+      "main_category": "Zahnarzt",
+      "website_services": [
+        "implantate",
+        "prophylaxe",
+        "bleaching",
+        "invisalign",
+        "wurzelbehandlung"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "AllDent Zahnzentrum München",
+      "competitor_1_reviews": 8348,
+      "competitor_2": "AllDent Zahnzentrum München Ost",
+      "competitor_2_reviews": 7454,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "133 eigene Bewertungen vs. lokaler Wettbewerbsmedian 306; Gap 173."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 20,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 81,
+      "competitor_review_median": 306,
+      "review_gap": 173,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "133 eigene Bewertungen vs. lokaler Wettbewerbsmedian 306; Gap 173.",
+      "proof": [
+        "133 eigene Bewertungen vs. lokaler Wettbewerbsmedian 306; Gap 173.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "133 eigene Bewertungen vs. lokaler Wettbewerbsmedian 306; Gap 173.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign",
+      "research_notes": "Deterministic research v2. Query: Zahnarzt Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-12",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Zahnarzt München Zentrum Dr. Rüdiger Hansen",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "address": "Roseneck/Marienplatz, Fürstenfelder Str. 13, 80331 München, Deutschland",
+      "website": "https://www.zahnarzt-muenchen-zentrum.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+M%C3%BCnchen+Zentrum+Dr.+R%C3%BCdiger+Hansen/data=!4m7!3m6!1s0x479e75f53d746681:0x3c9692da1f21ff09!8m2!3d48.136622!4d11.573294!16s%2Fg%2F1td3kl2x!19sChIJgWZ0PfV1nkcRCf8hH9qSljw?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 265803",
+      "public_business_email": "logo@2x.png",
+      "email_source_url": "https://www.zahnarzt-muenchen-zentrum.de/",
+      "contact_form_url": "https://www.zahnarzt-muenchen-zentrum.de/service-kontakt",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.9,
+      "google_review_count": 33,
+      "main_category": "Zahnarzt",
+      "website_services": [
+        "implantate",
+        "prophylaxe",
+        "bleaching",
+        "parodontologie",
+        "wurzelbehandlung"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, parodontologie, wurzelbehandlung"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "AllDent Zahnzentrum München",
+      "competitor_1_reviews": 8348,
+      "competitor_2": "AllDent Zahnzentrum München Ost",
+      "competitor_2_reviews": 7454,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "33 eigene Bewertungen vs. lokaler Wettbewerbsmedian 306; Gap 273."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 33 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, parodontologie, wurzelbehandlung",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 26,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 87,
+      "competitor_review_median": 306,
+      "review_gap": 273,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "33 eigene Bewertungen vs. lokaler Wettbewerbsmedian 306; Gap 273.",
+      "proof": [
+        "33 eigene Bewertungen vs. lokaler Wettbewerbsmedian 306; Gap 273.",
+        "Nur 33 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, parodontologie, wurzelbehandlung"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "33 eigene Bewertungen vs. lokaler Wettbewerbsmedian 306; Gap 273.",
+      "second_outreach_angle": "Nur 33 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Zahnarzt Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-12",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Kleintierklinik München Riem - Dres. med. vet. Lutz",
+      "industry": "Tierarzt",
+      "city": "Muenchen",
+      "address": "Martin-Empl-Ring 3, 81829 München-Trudering-Riem, Deutschland",
+      "website": "https://www.kleintierklinik-lutz.vet/",
+      "google_maps_url": "https://www.google.com/maps/place/Kleintierklinik+M%C3%BCnchen+Riem+-+Dres.+med.+vet.+Lutz/data=!4m7!3m6!1s0x479e0abe18e1d64b:0xf16e349be3bf11d4!8m2!3d48.1401286!4d11.6811747!16s%2Fg%2F1tt8b7gm!19sChIJS9bhGL4KnkcR1BG_45s0bvE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 908670",
+      "public_business_email": "kleintierkliniklutz@gmx.de",
+      "email_source_url": "https://www.kleintierklinik-lutz.vet/",
+      "contact_form_url": "https://www.kleintierklinik-lutz.vet/kontakt",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.7,
+      "google_review_count": 432,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "chirurgie",
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "felmo Mobiler Tierarzt München",
+      "competitor_1_reviews": 2623,
+      "competitor_2": "Kleintierklinik der LMU München",
+      "competitor_2_reviews": 1216,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "432 eigene Bewertungen vs. lokaler Wettbewerbsmedian 555; Gap 123."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 19,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 80,
+      "competitor_review_median": 555,
+      "review_gap": 123,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "432 eigene Bewertungen vs. lokaler Wettbewerbsmedian 555; Gap 123.",
+      "proof": [
+        "432 eigene Bewertungen vs. lokaler Wettbewerbsmedian 555; Gap 123.",
+        "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "432 eigene Bewertungen vs. lokaler Wettbewerbsmedian 555; Gap 123.",
+      "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-12",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Zentrum für Kleintiermedizin München",
+      "industry": "Tierarzt",
+      "city": "Muenchen",
+      "address": "Seumestraße 3, 81379 München, Deutschland",
+      "website": "https://www.zk-muc.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Zentrum+f%C3%BCr+Kleintiermedizin+M%C3%BCnchen/data=!4m7!3m6!1s0x479dd92eaee0346f:0xce44b46517e8dcf6!8m2!3d48.0942391!4d11.5238016!16s%2Fg%2F11b6nvpd3t!19sChIJbzTgri7ZnUcR9tzoF2W0RM4?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 54042430",
+      "public_business_email": "praxis@zk-muc.de",
+      "email_source_url": "https://www.zk-muc.de/",
+      "contact_form_url": "https://www.zk-muc.de/wp-content/plugins/contact-form-7/includes/css/styles.css",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.5,
+      "google_review_count": 290,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "chirurgie",
+        "ultraschall",
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "felmo Mobiler Tierarzt München",
+      "competitor_1_reviews": 2623,
+      "competitor_2": "Kleintierklinik der LMU München",
+      "competitor_2_reviews": 1216,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "290 eigene Bewertungen vs. lokaler Wettbewerbsmedian 555; Gap 265."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.5; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 22,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 83,
+      "competitor_review_median": 555,
+      "review_gap": 265,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "290 eigene Bewertungen vs. lokaler Wettbewerbsmedian 555; Gap 265.",
+      "proof": [
+        "290 eigene Bewertungen vs. lokaler Wettbewerbsmedian 555; Gap 265.",
+        "Google-Bewertung 4.5; sichtbares Reputationspotenzial.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "290 eigene Bewertungen vs. lokaler Wettbewerbsmedian 555; Gap 265.",
+      "second_outreach_angle": "Google-Bewertung 4.5; sichtbares Reputationspotenzial.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-12",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Tierarztpraxis Tiergesundheitszentrum München",
+      "industry": "Tierarzt",
+      "city": "Muenchen",
+      "address": "Birkenleiten 15, 81543 München-Untergiesing-Harlaching, Deutschland",
+      "website": "http://www.verhaltenstherapie-tier.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Tiergesundheitszentrum+M%C3%BCnchen/data=!4m7!3m6!1s0x479ddf114d696a7d:0x90d1520b043cdae4!8m2!3d48.1094221!4d11.570112!16s%2Fg%2F12q4scd5g!19sChIJfWppTRHfnUcR5No8BAtS0ZA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 68008383",
+      "public_business_email": "kontakt@verhaltenstherapie-tier.de",
+      "email_source_url": "https://verhaltenstherapie-tier.de/",
+      "contact_form_url": "https://verhaltenstherapie-tier.de/kontakt/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.7,
+      "google_review_count": 75,
+      "main_category": "Tierarzt",
+      "website_services": [],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [],
+      "service_gap_status": "NOT_DETECTED",
+      "competitor_1": "felmo Mobiler Tierarzt München",
+      "competitor_1_reviews": 2623,
+      "competitor_2": "Kleintierklinik der LMU München",
+      "competitor_2_reviews": 1216,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "75 eigene Bewertungen vs. lokaler Wettbewerbsmedian 555; Gap 480."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [],
+      "verified_signal_count": 2,
+      "report_potential_score": 26,
+      "visible_value_score": 12,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 85,
+      "competitor_review_median": 555,
+      "review_gap": 480,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "75 eigene Bewertungen vs. lokaler Wettbewerbsmedian 555; Gap 480.",
+      "proof": [
+        "75 eigene Bewertungen vs. lokaler Wettbewerbsmedian 555; Gap 480.",
+        "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "75 eigene Bewertungen vs. lokaler Wettbewerbsmedian 555; Gap 480.",
+      "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-12",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
+  "accepted_count": 6,
+  "rejected_count": 18,
   "inspected": 24,
   "state": {
-    "query_cursor": 63,
-    "runs": 21,
-    "lead_count": 53,
+    "query_cursor": 66,
+    "runs": 22,
+    "lead_count": 59,
     "target_leads": 999999999,
-    "last_accepted": 0,
+    "last_accepted": 6,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 24,
-    "a_leads": 4,
-    "b_leads": 18
+    "last_rejected": 18,
+    "a_leads": 6,
+    "b_leads": 22
   }
 }

@@ -1,0 +1,15 @@
+{
+  "state": {
+    "agent": "AGENT_15B_INTENT_QA",
+    "last_run_at": "2026-09-12T23:30:01.889773+00:00",
+    "pending": 0,
+    "hot": 0,
+    "warm": 0,
+    "watch": 0,
+    "rejected": 0,
+    "airtable_created": 0,
+    "airtable_updated": 0,
+    "errors": 0
+  },
+  "qualified": []
+}

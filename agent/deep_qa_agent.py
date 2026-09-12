@@ -216,10 +216,16 @@ async def main():
     eligible_classes = set(task.get("eligible_classes", ["A_LEAD", "B_LEAD"]))
     min_score = int(task.get("min_total_score", 80))
 
+    def class_is_eligible(lead):
+        lead_class = lead.get("lead_class")
+        if lead_class:
+            return lead_class in eligible_classes
+        return int(lead.get("total_score") or 0) >= min_score
+
     candidates = [
         x for x in leads
         if identity(x) not in processed
-        and (x.get("lead_class") in eligible_classes or int(x.get("total_score") or 0) >= min_score)
+        and class_is_eligible(x)
         and (not task.get("require_maps_url", True) or x.get("google_maps_url"))
     ]
     candidates.sort(key=lambda x: (x.get("lead_class") == "A_LEAD", int(x.get("total_score") or 0)), reverse=True)

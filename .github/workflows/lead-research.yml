@@ -1,0 +1,84 @@
+name: LOCENIX Lead Research Agent
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - wake.txt
+      - tasks/current_task.json
+  schedule:
+    - cron: "17,47 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: locenix-lead-research
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_MODEL: gpt-5.6-luna
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check task and secret
+        id: gate
+        shell: bash
+        run: |
+          ENABLED=$(python - <<'PY'
+          import json
+          print(str(json.load(open('tasks/current_task.json')).get('enabled', False)).lower())
+          PY
+          )
+          if [[ "$ENABLED" != "true" ]]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "Task disabled."
+          elif [[ -z "$OPENAI_API_KEY" ]]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "OPENAI_API_KEY missing. Add it as a repository Actions secret."
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Python
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+          python -m playwright install --with-deps chromium
+
+      - name: Run one qualitative research batch
+        if: steps.gate.outputs.run == 'true'
+        run: python -m agent.research_worker
+
+      - name: Commit research state and results
+        if: steps.gate.outputs.run == 'true'
+        shell: bash
+        run: |
+          git config user.name "locenix-lead-research-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add results/
+          if git diff --cached --quiet; then
+            echo "No research changes to commit."
+            exit 0
+          fi
+          git commit -m "Research next LOCENIX lead batch"
+          git pull --rebase origin main
+          git push origin HEAD:main

@@ -1,0 +1,11 @@
+{
+  "id": "AGENT_15C_PLATFORM_ACCESS",
+  "name": "Platform & Access Agent",
+  "status": "ACTIVE",
+  "parent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
+  "objective": "Create and maintain permitted LOCENIX platform accounts using hello@locenix.com, complete normal email verification, and hand browser blockers to the department head.",
+  "registration_email": "hello@locenix.com",
+  "linkedin_new_account_allowed": false,
+  "browser": {"reuse_existing_first": true, "allow_new_worker_if_blocked": true},
+  "rules": ["no CAPTCHA bypass", "no security bypass", "no duplicate accounts to evade limits", "set HUMAN_ACTION_REQUIRED for manual identity or security checks", "document account and verification state"]
+}

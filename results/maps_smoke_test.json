@@ -1,0 +1,8 @@
+{
+  "query": "Physiotherapie Troisdorf",
+  "success": false,
+  "listing_name": null,
+  "listing_url": null,
+  "page_title": null,
+  "note": "Smoke test error: TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"input#searchboxinput\") to be visible\n"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "AGENT_15B_INTENT_QA",
+  "name": "Intent QA & Scoring",
+  "status": "ACTIVE",
+  "parent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
+  "objective": "Validate freshness, fit and buying intent, deduplicate against existing LOCENIX leads, and classify HOT/WARM/WATCH/REJECT.",
+  "priority": {"HOT": 100, "WARM": 95, "WATCH": 75, "REJECT": 0},
+  "dedupe": ["Lead ID", "Website", "Email", "Phone", "Company"],
+  "rules": ["attach new intent to existing lead when matched", "never create a duplicate outreach target", "reject excluded professions", "preserve source URL and evidence"]
+}

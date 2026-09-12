@@ -1,0 +1,63 @@
+name: LOCENIX CEO Agent 0
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'wake_ceo.txt'
+      - 'tasks/ceo_task.json'
+      - 'tasks/agents/**'
+      - 'tasks/departments/**'
+      - 'agent/ceo_agent.py'
+      - 'results/department_head_state.json'
+  schedule:
+    # Broad UTC hours + Berlin gate below. Executive review is exactly twice daily local time.
+    - cron: '15 6,7,14,15 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: locenix-ceo
+  cancel-in-progress: false
+
+jobs:
+  executive-review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Berlin executive-review gate
+        if: github.event_name == 'schedule'
+        run: |
+          python - <<'PY'
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          now = datetime.now(ZoneInfo('Europe/Berlin'))
+          # Two reviews per day: 08:15 and 16:15 local, DST-safe.
+          if not (now.minute == 15 and now.hour in (8,16)):
+              raise SystemExit('Not a scheduled LOCENIX executive-review slot')
+          PY
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run CEO Agent 0
+        run: python -m agent.ceo_agent
+
+      - name: Commit CEO report
+        run: |
+          git config user.name 'locenix-ceo-agent'
+          git config user.email 'actions@users.noreply.github.com'
+          git add results/ceo_latest.json results/ceo_state.json
+          if git diff --cached --quiet; then
+            echo 'No CEO report changes'
+          else
+            git commit -m 'Update LOCENIX CEO executive report'
+            git pull --rebase
+            git push
+          fi

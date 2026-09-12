@@ -1,0 +1,66 @@
+name: LOCENIX Email Sender
+
+on:
+  workflow_dispatch:
+    inputs:
+      live_send:
+        description: 'Send approved emails live via Resend'
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: locenix-email-sender
+  cancel-in-progress: false
+
+jobs:
+  email-sender:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+      AIRTABLE_BASE_ID: appuPKnVyLsbWbxMR
+      AIRTABLE_TABLE_ID: tblF4ghkYFzkeQwsT
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+      EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+      EMAIL_REPLY_TO: ${{ secrets.EMAIL_REPLY_TO }}
+      EMAIL_DRY_RUN: ${{ inputs.live_send && 'false' || 'true' }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Preflight
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -n "$AIRTABLE_TOKEN" || { echo 'AIRTABLE_TOKEN missing'; exit 1; }
+          if [ "$EMAIL_DRY_RUN" = "false" ]; then
+            test -n "$RESEND_API_KEY" || { echo 'RESEND_API_KEY missing'; exit 1; }
+            test -n "$EMAIL_FROM" || { echo 'EMAIL_FROM missing'; exit 1; }
+          fi
+
+      - name: Run email sender
+        run: python -m agent.email_sender_agent
+
+      - name: Commit sender state
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "locenix-email-sender"
+          git config user.email "actions@github.com"
+          git add results/email_sender_state.json results/email_sender_latest.json
+          if git diff --cached --quiet; then
+            echo "No state changes"
+          else
+            git commit -m "chore: update email sender state"
+            git push
+          fi

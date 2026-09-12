@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V3",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-12T23:12:51.589960+00:00",
+  "generated_at": "2026-09-12T23:13:10.680340+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 61,
@@ -31,7 +31,7 @@
     "email_last_run_at": "2026-09-12T22:50:51.138753+00:00",
     "departments_total": 1,
     "departments_proposed": 0,
-    "agents_total": 4,
+    "agents_total": 6,
     "agents_proposed": 0,
     "proposed_names": []
   },
@@ -166,6 +166,63 @@
       },
       "status": "ACTIVE",
       "_file": "tasks/agents/agent_14_customer_success_email.json",
+      "_kind": "agent"
+    },
+    {
+      "id": "AGENT_15A_INTENT_SCOUT",
+      "name": "Intent Scout",
+      "status": "ACTIVE",
+      "parent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
+      "objective": "Discover fresh public DACH demand signals for Google Business Profile, Google Maps, Local SEO and local visibility.",
+      "inputs": [
+        "approved_public_sources",
+        "existing_linkedin_account"
+      ],
+      "outputs": [
+        "source",
+        "source_url",
+        "person",
+        "company",
+        "intent_signal",
+        "detected_at",
+        "context"
+      ],
+      "rules": [
+        "public data only",
+        "no invented leads",
+        "no new LinkedIn account",
+        "respect platform rules",
+        "exclude blocked professions before handoff"
+      ],
+      "_file": "tasks/agents/agent_15a_intent_scout.json",
+      "_kind": "agent"
+    },
+    {
+      "id": "AGENT_15B_INTENT_QA",
+      "name": "Intent QA & Scoring",
+      "status": "ACTIVE",
+      "parent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
+      "objective": "Validate freshness, fit and buying intent, deduplicate against existing LOCENIX leads, and classify HOT/WARM/WATCH/REJECT.",
+      "priority": {
+        "HOT": 100,
+        "WARM": 95,
+        "WATCH": 75,
+        "REJECT": 0
+      },
+      "dedupe": [
+        "Lead ID",
+        "Website",
+        "Email",
+        "Phone",
+        "Company"
+      ],
+      "rules": [
+        "attach new intent to existing lead when matched",
+        "never create a duplicate outreach target",
+        "reject excluded professions",
+        "preserve source URL and evidence"
+      ],
+      "_file": "tasks/agents/agent_15b_intent_qa.json",
       "_kind": "agent"
     }
   ],

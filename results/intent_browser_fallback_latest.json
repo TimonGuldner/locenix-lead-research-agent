@@ -1,16 +1,25 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-09-12T23:46:29.840744+00:00",
-    "status": "OK",
+    "last_run_at": "2026-09-12T23:41:53.931301+00:00",
+    "status": "PARTIAL",
     "signals_added": 0,
-    "stale_signals_removed": 0,
-    "pages_checked": 8,
+    "stale_signals_removed": 4,
+    "pages_checked": 6,
     "blocked_pages": 0,
     "human_action_required": 0,
-    "errors": 0
+    "errors": 2
   },
   "added": [],
   "blockers": [],
-  "errors": []
+  "errors": [
+    {
+      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
+      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=%22Google%20Unternehmensprofil%22%20Freelancer%20Deutschland\nCall log:\n  - navigating to \"https://www.bing.com/search?q=%22Google%20Unternehmensprofil%22%20Freelancer%20Deutschland\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "query": "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
+      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Google%20Business%20Profile%22%20German\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Google%20Business%20Profile%22%20German\", waiting until \"domcont"
+    }
+  ]
 }

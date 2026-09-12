@@ -1,10 +1,10 @@
 {
   "state": {
     "agent": "AGENT_15A_INTENT_SCOUT",
-    "last_run_at": "2026-09-12T23:46:27.085914+00:00",
-    "signals_found": 3,
+    "last_run_at": "2026-09-12T23:41:51.653043+00:00",
+    "signals_found": 7,
     "new_signals": 0,
-    "unreviewed": 3,
+    "unreviewed": 7,
     "queries_run": 11,
     "errors": 11,
     "query_errors": [
@@ -66,10 +66,67 @@
       "duckduckgo": 0
     },
     "sources": [
+      "bing.com",
       "upwork.com"
     ]
   },
   "newest": [
+    {
+      "signal_id": "intent-e7b03a042968b58e",
+      "source": "bing.com",
+      "source_url": "https://www.bing.com/ck/a?!&&p=c4f35e6fbbd2308dc822042047ea9243a1d41a953167d9442db1b91e7b50eaaeJmltdHM9MTc4OTE3MTIwMA&ptn=3&ver=2&hsh=4&fclid=0bd85e8e-535c-6011-0e6f-495c52a06183&u=a1aHR0cHM6Ly9sb2NhbHNlby5ueWMv&ntb=1",
+      "title": "Local SEO Company NYC | Grow Your New York Business",
+      "snippet": "localseo.nyc\nhttps://localseo.nyc\nLocal SEO Company NYC | Grow Your New York Business\n\nNYC local SEO agency helping businesses rank higher on Google Maps and local search. Get more calls, leads, and customers …",
+      "query": "site:freelancermap.de \"Local SEO\"",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "detected_at": "2026-09-12T23:38:38.882383+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-993785dbc53a3977",
+      "source": "bing.com",
+      "source_url": "https://www.bing.com/ck/a?!&&p=ca0f7f2633b86e6e856836bb673e0d8cead7dbdaece66f9b4ea7b84db002e704JmltdHM9MTc4OTE3MTIwMA&ptn=3&ver=2&hsh=4&fclid=0bd85e8e-535c-6011-0e6f-495c52a06183&u=a1aHR0cHM6Ly9lbGVtZW50b3IuY29tL2Jsb2cvbG9jYWwtc2VvLXdoYXQtaXMtaXQtaG93LXRvLWRvLWl0LWluLXllYXIv&ntb=1",
+      "title": "Local SEO: What Is It & How to Do It in 2026 - Elementor",
+      "snippet": "elementor.com\nhttps://elementor.com › blog › local-seo-what-is-it-how-to-do-it-in-year\nLocal SEO: What Is It & How to Do It in 2026 - Elementor\n\n29. Juni 2026 · Traditional SEO focuses on ranking for keywords on a national or global scale. Local SEO has a geographical …",
+      "query": "site:freelancermap.de \"Local SEO\"",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "detected_at": "2026-09-12T23:38:38.882383+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-3a83bb3b71ed1a85",
+      "source": "bing.com",
+      "source_url": "https://www.bing.com/ck/a?!&&p=3cb1204e6bbce2482fc86d0f742940a9ed78c7a79edd72046f59ef39f265130dJmltdHM9MTc4OTE3MTIwMA&ptn=3&ver=2&hsh=4&fclid=0bd85e8e-535c-6011-0e6f-495c52a06183&u=a1aHR0cHM6Ly93d3cuc2VhcmNoZW5naW5lam91cm5hbC5jb20vbG9jYWwtc2VvLw&ntb=1",
+      "title": "Local SEO: The Definitive Guide to Improve Your Local Search Rankings",
+      "snippet": "searchenginejournal.com\nhttps://www.searchenginejournal.com › local-seo\nLocal SEO: The Definitive Guide to Improve Your Local Search Rankings\n\n14. Apr. 2025 · The basics of local search engine optimization. Discover what local SEO is now, why it’s important, who benefits from …",
+      "query": "site:freelancermap.de \"Local SEO\"",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "detected_at": "2026-09-12T23:38:38.882383+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-13bb4abedf1b4540",
+      "source": "bing.com",
+      "source_url": "https://www.bing.com/ck/a?!&&p=01550a57b96bda200737b0bf0a535525c04d7cca629ab8687449f4c85e1ec1c5JmltdHM9MTc4OTE3MTIwMA&ptn=3&ver=2&hsh=4&fclid=0bd85e8e-535c-6011-0e6f-495c52a06183&u=a1aHR0cHM6Ly93d3cuc2VvLmNvbS9ibG9nL2xvY2FsLXNlby1ndWlkZS8&ntb=1",
+      "title": "Local SEO Guide: Learn How to Grow Your Rankings - SEO.com",
+      "snippet": "seo.com\nhttps://www.seo.com › blog › local-seo-guide\nLocal SEO Guide: Learn How to Grow Your Rankings - SEO.com\n\n20. Aug. 2026 · Master the art of local SEO with our comprehensive guide, designed to help businesses optimize their online …",
+      "query": "site:freelancermap.de \"Local SEO\"",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "detected_at": "2026-09-12T23:38:38.882383+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
     {
       "signal_id": "intent-7e56262cde92330b",
       "source": "upwork.com",

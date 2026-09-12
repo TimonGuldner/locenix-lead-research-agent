@@ -1,0 +1,21 @@
+{
+  "enabled": true,
+  "department": "intent_opportunity_acquisition",
+  "manager": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
+  "parent": "AGENT_0_LOCENIX_CEO",
+  "mode": "ORCHESTRATE_AND_MEASURE",
+  "airtable_base_id": "appuPKnVyLsbWbxMR",
+  "airtable_table_id": "tblF4ghkYFzkeQwsT",
+  "registration_email": "hello@locenix.com",
+  "linkedin": {"allow_existing_account": true, "allow_new_account": false},
+  "intent_priority": {"HOT": 100, "WARM": 95, "WATCH": 75, "REJECT": 0},
+  "excluded_professions": ["rechtsanwalt", "anwalt", "kanzlei", "notar", "notariat", "patentanwalt", "steuerberater", "steuerberatung", "wirtschaftspruefer", "wirtschaftsprüfer"],
+  "initial_sources": ["upwork", "reddit", "public_forums", "job_boards", "agency_job_posts", "multi_location_jobs", "public_communities"],
+  "source_strategy": "DACH_HIGH_INTENT_FIRST",
+  "dedupe_keys": ["Lead ID", "Website", "Email", "Phone", "Company"],
+  "handoff": {"sales": "existing_sales_pipeline", "customer_success": "existing_customer_success_pipeline"},
+  "browser": {"reuse_existing_first": true, "allow_new_worker_if_blocked": true, "captcha_bypass": false, "security_bypass": false},
+  "max_child_dispatches_per_run": 1,
+  "auto_dispatch": false,
+  "notes": "Intent department. Airtable remains source of truth. HOT/WARM intent leads outrank cold leads. Do not create a new LinkedIn account. hello@locenix.com is the only registration address."
+}

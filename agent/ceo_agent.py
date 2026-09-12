@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -9,6 +10,7 @@ REPORT = Path('results/ceo_latest.json')
 STATE = Path('results/ceo_state.json')
 AGENTS_DIR = Path('tasks/agents')
 DEPARTMENTS_DIR = Path('tasks/departments')
+LINKEDIN_STATE_URL = 'https://raw.githubusercontent.com/TimonGuldner/browser-agent/main/results/linkedin_department_state.json'
 
 SOURCES = {
     'research': Path('results/deterministic_state.json'),
@@ -24,6 +26,15 @@ def load(path, default=None):
     try: return json.loads(Path(path).read_text(encoding='utf-8'))
     except Exception: return default
 
+def load_url(url, default=None):
+    if default is None: default = {}
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'locenix-ceo-agent'})
+        with urllib.request.urlopen(req, timeout=15) as r:
+            return json.loads(r.read().decode('utf-8'))
+    except Exception:
+        return default
+
 def val(obj, key):
     v = obj.get(key)
     return 'UNKNOWN' if v is None else v
@@ -37,6 +48,7 @@ def proposed_count(directory: Path):
     return n
 
 def metrics(s):
+    li = s.get('linkedin', {})
     return {
         'research_leads': val(s['research'], 'lead_count'),
         'research_a': val(s['research'], 'a_leads'),
@@ -55,17 +67,38 @@ def metrics(s):
         'replies': 'UNKNOWN',
         'trials': 'UNKNOWN',
         'paid_customers': 'UNKNOWN',
+        'linkedin_department_status': val(li, 'department_status'),
+        'linkedin_biggest_bottleneck': val(li, 'biggest_bottleneck'),
+        'linkedin_leads': val(li, 'leads'),
+        'linkedin_qualified_leads': val(li, 'qualified_leads'),
+        'linkedin_active_conversations': val(li, 'active_conversations'),
+        'linkedin_replies': val(li, 'replies'),
+        'linkedin_positive_signals': val(li, 'positive_signals'),
+        'linkedin_open_followups': val(li, 'open_followups'),
+        'linkedin_overdue_followups': val(li, 'overdue_followups'),
+        'linkedin_trials': val(li, 'trials'),
+        'linkedin_paid_customers': val(li, 'paid_customers'),
         'proposed_agents': proposed_count(AGENTS_DIR),
         'proposed_departments': proposed_count(DEPARTMENTS_DIR),
     }
 
-def number(v): return v if isinstance(v, (int,float)) else None
+def number(v): return v if isinstance(v, (int,float)) and not isinstance(v, bool) else None
 
-def decide(m):
+def decide(m, linkedin):
     priorities=[]
     errors=m['airtable_errors']
     if errors not in ('UNKNOWN', [], None) or (number(m['draft_errors']) or 0)>0:
         priorities.append({'rank':1,'type':'STABILITY','owner':'Agent 7','action':'Resolve downstream sync/draft errors before increasing pipeline volume.','reason':'Downstream errors can propagate bad state.'})
+
+    # Agent 8 owns LinkedIn. CEO intervenes only for a real escalation/blocker, not routine channel management.
+    li_status = str(linkedin.get('department_status', 'UNKNOWN')).upper()
+    if li_status == 'BLOCKED' or linkedin.get('ceo_escalation_required') is True:
+        priorities.append({
+            'rank':0,'type':'STABILITY','owner':'Agent 8',
+            'action': linkedin.get('priority_1', {}).get('action') or 'Resolve the LinkedIn department blocker and report back to CEO.',
+            'reason': linkedin.get('ceo_message') or 'LinkedIn Department Head escalated a blocker.'
+        })
+
     qr=number(m['qa_remaining'])
     vr=number(m['visibility_remaining'])
     ar=number(m['airtable_ready'])
@@ -79,14 +112,22 @@ def decide(m):
         priorities.append({'rank':0,'type':'BOTTLENECK','owner':'Agent 7','action':'Move remaining FINAL_A leads through Sales Queue/Airtable.','reason':'Qualified leads have not all reached sales readiness.'})
     if ar is not None and ds is not None and ds < ar:
         priorities.append({'rank':0,'type':'BOTTLENECK','owner':'Agent 7','action':'Generate and store missing outreach drafts.','reason':'Sales-ready leads are missing prepared outreach.'})
+
+    # Missing LinkedIn funnel evidence is a management-quality issue, but below observed sales blockers.
+    if li_status == 'ATTENTION' and str(linkedin.get('biggest_bottleneck','')).upper() == 'EVIDENCE':
+        priorities.append({
+            'rank':0,'type':'EVIDENCE','owner':'Agent 8',
+            'action':'Connect current LinkedIn operational metrics to the department report so channel performance becomes measurable.',
+            'reason':'Agent 8 is healthy but currently lacks observed LinkedIn funnel metrics.'
+        })
+
     if not priorities:
         priorities.append({'rank':0,'type':'GROWTH','owner':'Agent 7','action':'Keep research active and add high-quality qualified leads while downstream capacity is clear.','reason':'No observed downstream bottleneck.'})
-    # Stability first, then actual bottlenecks, max 3; keep deterministic.
-    priorities.sort(key=lambda x: (0 if x['type']=='STABILITY' else 1 if x['type']=='BOTTLENECK' else 2))
+    priorities.sort(key=lambda x: (0 if x['type']=='STABILITY' else 1 if x['type']=='BOTTLENECK' else 2 if x['type']=='EVIDENCE' else 3))
     priorities=priorities[:3]
     for i,p in enumerate(priorities,1): p['rank']=i
     p1=priorities[0]
-    status='BLOCKED' if p1['type']=='STABILITY' else ('ATTENTION' if p1['type']=='BOTTLENECK' else 'HEALTHY')
+    status='BLOCKED' if p1['type']=='STABILITY' else ('ATTENTION' if p1['type'] in {'BOTTLENECK','EVIDENCE'} else 'HEALTHY')
     return status, priorities
 
 def main():
@@ -94,8 +135,9 @@ def main():
     if not task.get('enabled'):
         print(json.dumps({'status':'disabled'})); return
     s={k:load(v) for k,v in SOURCES.items()}
+    s['linkedin'] = load_url(LINKEDIN_STATE_URL)
     m=metrics(s)
-    status, priorities=decide(m)
+    status, priorities=decide(m, s['linkedin'])
     now=datetime.now(timezone.utc).isoformat()
     report={
       'agent':'AGENT_0_LOCENIX_CEO',
@@ -103,6 +145,21 @@ def main():
       'company_status':status,
       'north_star':task.get('north_star','paid_customers'),
       'funnel_metrics':m,
+      'departments': {
+          'growth': {
+              'manager':'AGENT_7_LOCENIX_GROWTH_MANAGER',
+              'health':'AVAILABLE' if s['manager'] else 'UNKNOWN'
+          },
+          'linkedin': {
+              'manager':'AGENT_8_LINKEDIN_DEPARTMENT_HEAD',
+              'health': val(s['linkedin'], 'department_health'),
+              'status': val(s['linkedin'], 'department_status'),
+              'biggest_bottleneck': val(s['linkedin'], 'biggest_bottleneck'),
+              'priority_1': s['linkedin'].get('priority_1'),
+              'ceo_escalation_required': s['linkedin'].get('ceo_escalation_required', 'UNKNOWN'),
+              'last_run_at': val(s['linkedin'], 'last_run_at')
+          }
+      },
       'biggest_bottleneck':priorities[0]['reason'],
       'priority_1':priorities[0],
       'priority_2':priorities[1] if len(priorities)>1 else None,
@@ -113,7 +170,7 @@ def main():
       'risks':([priorities[0]['reason']] if status!='HEALTHY' else []),
       'proposed_agents':m['proposed_agents'],
       'proposed_departments':m['proposed_departments'],
-      'human_decision_required': bool(m['proposed_agents'] or m['proposed_departments']),
+      'human_decision_required': bool(m['proposed_agents'] or m['proposed_departments'] or s['linkedin'].get('human_decision_required') is True),
       'autonomy':task.get('autonomy',{}),
       'executive_rule':'DECIDE_DELEGATE_MEASURE_IMPROVE',
     }
@@ -122,6 +179,8 @@ def main():
     STATE.write_text(json.dumps({
       'last_run_at':now,'company_status':status,'north_star':report['north_star'],
       'priority_1':priorities[0]['action'],'manager_directive':report['manager_directive'],
+      'linkedin_department_status':m['linkedin_department_status'],
+      'linkedin_biggest_bottleneck':m['linkedin_biggest_bottleneck'],
       'human_decision_required':report['human_decision_required']
     },ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(report,ensure_ascii=False))

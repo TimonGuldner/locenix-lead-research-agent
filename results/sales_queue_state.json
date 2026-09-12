@@ -1,8 +1,17 @@
 {
   "queue_count": 5,
   "airtable_ready_count": 4,
+  "airtable_created": 0,
+  "airtable_updated": 0,
+  "airtable_skipped": 1,
+  "airtable_errors": [
+    "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/: Airtable API error 403: {\"error\":{\"type\":\"INVALID_PERMISSIONS_OR_MODEL_NOT_FOUND\",\"message\":\"Invalid permissions, or the requested model was not found. Check that both your user and your token have the required permissions, and that the model names and/or ids are correct.\"}}",
+    "backroom physio berlin|berlin|https://backroomphysio.de/: Airtable API error 403: {\"error\":{\"type\":\"INVALID_PERMISSIONS_OR_MODEL_NOT_FOUND\",\"message\":\"Invalid permissions, or the requested model was not found. Check that both your user and your token have the required permissions, and that the model names and/or ids are correct.\"}}",
+    "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/: Airtable API error 403: {\"error\":{\"type\":\"INVALID_PERMISSIONS_OR_MODEL_NOT_FOUND\",\"message\":\"Invalid permissions, or the requested model was not found. Check that both your user and your token have the required permissions, and that the model names and/or ids are correct.\"}}",
+    "andré lewandowski|berlin|http://www.haustechnik-planer.de/: Airtable API error 403: {\"error\":{\"type\":\"INVALID_PERMISSIONS_OR_MODEL_NOT_FOUND\",\"message\":\"Invalid permissions, or the requested model was not found. Check that both your user and your token have the required permissions, and that the model names and/or ids are correct.\"}}"
+  ],
   "priority_a_count": 5,
   "priority_b_count": 0,
-  "visibility_pending_count": 5,
+  "visibility_pending_count": 0,
   "last_run_date": "2026-09-12"
 }

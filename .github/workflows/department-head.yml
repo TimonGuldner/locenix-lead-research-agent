@@ -9,6 +9,7 @@ on:
       - 'tasks/departments/**'
       - 'tasks/agents/**'
       - 'agent/department_head_agent.py'
+      - 'results/email_conversation_state.json'
   schedule:
     - cron: '12,42 6-15 * * *'
 

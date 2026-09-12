@@ -9,7 +9,9 @@ on:
       - 'tasks/agents/**'
       - 'tasks/departments/**'
       - 'agent/ceo_agent.py'
+      - 'agent/ceo_customer_success_bridge.py'
       - 'results/department_head_state.json'
+      - 'results/customer_success_state.json'
   schedule:
     - cron: '15 6,7,14,15 * * *'
 
@@ -52,6 +54,10 @@ jobs:
       - name: Run CEO Agent 0
         if: steps.gate.outputs.run_review == 'true'
         run: python -m agent.ceo_agent
+
+      - name: Merge Customer Success into CEO report
+        if: steps.gate.outputs.run_review == 'true'
+        run: python -m agent.ceo_customer_success_bridge
 
       - name: Commit CEO report and directives
         if: steps.gate.outputs.run_review == 'true'

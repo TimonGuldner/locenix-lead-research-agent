@@ -1,0 +1,2 @@
+LOCENIX lead research agent wake trigger.
+Update this file to request an immediate GitHub Actions run after tasks/current_task.json is enabled.

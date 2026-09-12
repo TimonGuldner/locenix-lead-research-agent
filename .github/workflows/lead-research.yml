@@ -31,21 +31,31 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Check task and secret
+      - name: Check task
         id: gate
         shell: bash
         run: |
           ENABLED=$(python - <<'PY'
           import json
-          print(str(json.load(open('tasks/current_task.json')).get('enabled', False)).lower())
+          task=json.load(open('tasks/current_task.json'))
+          print(str(task.get('enabled', False)).lower())
           PY
           )
+          MODE=$(python - <<'PY'
+          import json
+          print(json.load(open('tasks/current_task.json')).get('mode','research'))
+          PY
+          )
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
           if [[ "$ENABLED" != "true" ]]; then
             echo "run=false" >> "$GITHUB_OUTPUT"
             echo "Task disabled."
+          elif [[ "$MODE" == "smoke_test" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            echo "No-API smoke test selected."
           elif [[ -z "$OPENAI_API_KEY" ]]; then
             echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "OPENAI_API_KEY missing. Add it as a repository Actions secret."
+            echo "Research mode currently needs an LLM provider; smoke_test does not."
           else
             echo "run=true" >> "$GITHUB_OUTPUT"
           fi
@@ -64,8 +74,12 @@ jobs:
           pip install -e .
           python -m playwright install --with-deps chromium
 
+      - name: Run Google Maps smoke test
+        if: steps.gate.outputs.run == 'true' && steps.gate.outputs.mode == 'smoke_test'
+        run: python -m agent.maps_smoke_test
+
       - name: Run one qualitative research batch
-        if: steps.gate.outputs.run == 'true'
+        if: steps.gate.outputs.run == 'true' && steps.gate.outputs.mode != 'smoke_test'
         run: python -m agent.research_worker
 
       - name: Commit research state and results
@@ -79,6 +93,6 @@ jobs:
             echo "No research changes to commit."
             exit 0
           fi
-          git commit -m "Research next LOCENIX lead batch"
+          git commit -m "Update LOCENIX research results"
           git pull --rebase origin main
           git push origin HEAD:main

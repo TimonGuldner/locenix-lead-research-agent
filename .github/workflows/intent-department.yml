@@ -7,6 +7,9 @@ on:
   push:
     paths:
       - 'agent/intent_department_head.py'
+      - 'agent/intent_scout_agent.py'
+      - 'agent/intent_qa_agent.py'
+      - 'agent/intent_response_agent.py'
       - 'tasks/intent_department_task.json'
       - 'tasks/agents/agent_15*.json'
       - 'tasks/departments/agent_15*.json'
@@ -22,7 +25,11 @@ concurrency:
 jobs:
   manage:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
+    env:
+      AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+      AIRTABLE_BASE_ID: appuPKnVyLsbWbxMR
+      AIRTABLE_TABLE_ID: tblF4ghkYFzkeQwsT
     steps:
       - uses: actions/checkout@v4
         with:
@@ -30,17 +37,28 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
+      - name: Run Agent 15A intent scout
+        run: python -m agent.intent_scout_agent
+
+      - name: Run Agent 15B QA and Airtable sync
+        run: python -m agent.intent_qa_agent
+
+      - name: Run Agent 15D response drafting
+        run: python -m agent.intent_response_agent
+
       - name: Run Agent 15 department head
         run: python -m agent.intent_department_head
-      - name: Persist Agent 15 state
+
+      - name: Persist Agent 15 pipeline state
         run: |
-          if [ -z "$(git status --porcelain -- results/intent_department_state.json results/intent_department_latest.json)" ]; then
-            echo 'No intent department state changes.'
+          if [ -z "$(git status --porcelain -- results/intent_*.json)" ]; then
+            echo 'No intent pipeline state changes.'
             exit 0
           fi
           git config user.name 'locenix-agent-15'
           git config user.email 'actions@users.noreply.github.com'
-          git add results/intent_department_state.json results/intent_department_latest.json
-          git commit -m 'Update LOCENIX intent department state'
+          git add results/intent_*.json
+          git commit -m 'Update LOCENIX intent pipeline state'
           git pull --rebase origin main
           git push

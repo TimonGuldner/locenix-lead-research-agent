@@ -12,7 +12,21 @@
     "require_working_website_for_a_lead": true,
     "service_gap_requires_final_qa": true,
     "prefer_owner_operated_local_businesses": true,
-    "quality_over_count": true
+    "quality_over_count": true,
+    "require_fresh_maps_profile": true,
+    "reject_obvious_chains": true,
+    "competitor_count": 5,
+    "max_a_leads_per_city_category": 8
+  },
+  "sales_intelligence": {
+    "enabled": true,
+    "purchase_intent_score": true,
+    "ranking_position_signal": true,
+    "contact_quality_score": true,
+    "signal_confidence": true,
+    "why_now": true,
+    "proof_fields": true,
+    "final_qa_before_airtable": true
   },
   "cities": [
     "Berlin", "Hamburg", "Muenchen", "Koeln", "Frankfurt am Main", "Stuttgart", "Duesseldorf", "Leipzig",
@@ -27,5 +41,5 @@
     "Immobilienmakler", "Nagelstudio", "Massagepraxis", "Heilpraktiker", "Fahrschule", "Fotograf", "Steuerberater",
     "Maler", "Umzugsunternehmen", "Reifenservice", "Hundefriseur", "Personal Training", "Ergotherapie", "Logopaedie"
   ],
-  "notes": "Research only. Never send messages, submit forms, create accounts, log in, or contact businesses. Use public data only. Never guess emails. No CAPTCHA or security bypass. Prefer quality over count. A-Leads require at least two verified optimization signals and digital readiness. Website services are only service-visibility candidates until final QA; never claim a Google Business Profile service gap without verification. ChatGPT performs final QA and Airtable sync."
+  "notes": "Research only. Never send messages, submit forms, create accounts, log in, or contact businesses. Use public data only. Never guess emails. No CAPTCHA or security bypass. Prefer quality over count. A-Leads require at least two verified optimization signals and digital readiness. Website services are only service-visibility candidates until final QA; never claim a Google Business Profile service gap without verification. Prefer direct local competitors from the same query. Record ranking position, purchase-likelihood, contact quality, confidence, why-now and evidence. Reject obvious chains and stale/invalid businesses where detectable. ChatGPT performs final QA and Airtable sync."
 }

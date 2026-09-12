@@ -1,0 +1,45 @@
+name: LOCENIX Agent 15 Intent Department
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */2 * * *'
+  push:
+    paths:
+      - 'agent/intent_department_head.py'
+      - 'tasks/intent_department_task.json'
+      - 'tasks/agents/agent_15*.json'
+      - 'tasks/departments/agent_15*.json'
+      - '.github/workflows/intent-department.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: locenix-intent-department
+  cancel-in-progress: false
+
+jobs:
+  manage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run Agent 15 department head
+        run: python -m agent.intent_department_head
+      - name: Persist Agent 15 state
+        run: |
+          if git diff --quiet -- results/intent_department_state.json results/intent_department_latest.json; then
+            echo 'No intent department state changes.'
+            exit 0
+          fi
+          git config user.name 'locenix-agent-15'
+          git config user.email 'actions@users.noreply.github.com'
+          git add results/intent_department_state.json results/intent_department_latest.json
+          git commit -m 'Update LOCENIX intent department state'
+          git push

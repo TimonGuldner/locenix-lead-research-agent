@@ -10,6 +10,7 @@ LATEST = Path('results/intent_department_latest.json')
 
 CHILDREN = {
     'intent_scout': Path('results/intent_scout_state.json'),
+    'browser_fallback': Path('results/intent_browser_fallback_state.json'),
     'intent_qa': Path('results/intent_qa_state.json'),
     'platform_access': Path('results/platform_access_state.json'),
     'intent_response': Path('results/intent_response_state.json'),
@@ -33,10 +34,25 @@ def n(obj: dict, key: str) -> int:
         return 0
 
 
+def fallback_recovered(states: dict[str, dict]) -> bool:
+    fb = states.get('browser_fallback') or {}
+    return (
+        fb.get('status') in {'OK', 'SKIPPED_NOT_NEEDED'}
+        and n(fb, 'human_action_required') == 0
+        and n(fb, 'errors') == 0
+    )
+
+
 def decide(states: dict[str, dict]) -> tuple[str, str, str]:
+    recovered = fallback_recovered(states)
     for name, state in states.items():
+        # HTTP/API discovery failures are considered recovered when the rendered-browser
+        # fallback itself completed cleanly. Keep them visible as transport metrics,
+        # but do not force the whole department into ATTENTION.
+        if name == 'intent_scout' and recovered:
+            continue
         if n(state, 'errors') or n(state, 'error_count'):
-            return 'ATTENTION', name, f'{name} reports errors and should be inspected before scaling.'
+            return 'ATTENTION', name, f'{name} reports unresolved errors and should be inspected before scaling.'
         if n(state, 'human_action_required'):
             return 'HUMAN_ACTION_REQUIRED', name, f'{name} requires a manual platform/security action.'
 
@@ -46,7 +62,7 @@ def decide(states: dict[str, dict]) -> tuple[str, str, str]:
     response = states['intent_response']
     conversation = states['intent_conversation']
 
-    if n(qa, 'pending') > 0 or n(scout, 'unreviewed') > 0:
+    if n(qa, 'pending') > 0:
         return 'BACKLOG', 'intent_qa', 'Fresh intent signals are waiting for QA/scoring.'
     if n(access, 'pending_registrations') > 0:
         return 'BACKLOG', 'platform_access', 'Approved source accounts are waiting for setup or verification.'
@@ -54,6 +70,8 @@ def decide(states: dict[str, dict]) -> tuple[str, str, str]:
         return 'BACKLOG', 'intent_response', 'Qualified intent opportunities are waiting for response preparation.'
     if n(conversation, 'open_conversations') > 0 or n(conversation, 'followups_due') > 0:
         return 'ACTIVE', 'intent_conversation', 'Existing intent conversations need attention before adding volume.'
+    if recovered and n(scout, 'errors'):
+        return 'HEALTHY', 'intent_scout', 'Direct discovery endpoints were blocked, but the cloud-browser fallback recovered successfully.'
     return 'HEALTHY', 'intent_scout', 'No downstream backlog observed; find fresh high-intent DACH opportunities.'
 
 
@@ -66,9 +84,16 @@ def main() -> None:
     states = {name: load(path) for name, path in CHILDREN.items()}
     status, next_agent, reason = decide(states)
     now = datetime.now(timezone.utc).isoformat()
+    recovered = fallback_recovered(states)
+    transport_errors = n(states['intent_scout'], 'errors') + n(states['intent_scout'], 'error_count')
+    unresolved_errors = sum(
+        n(s, 'errors') + n(s, 'error_count')
+        for name, s in states.items()
+        if not (name == 'intent_scout' and recovered)
+    )
 
     metrics = {
-        'signals_found': n(states['intent_scout'], 'signals_found'),
+        'signals_found': n(states['intent_qa'], 'hot') + n(states['intent_qa'], 'warm') + n(states['intent_qa'], 'watch') + n(states['intent_qa'], 'rejected'),
         'hot': n(states['intent_qa'], 'hot'),
         'warm': n(states['intent_qa'], 'warm'),
         'watch': n(states['intent_qa'], 'watch'),
@@ -78,8 +103,11 @@ def main() -> None:
         'positive_replies': n(states['intent_conversation'], 'positive'),
         'trials': n(states['intent_conversation'], 'trials'),
         'paid_customers': n(states['intent_conversation'], 'paid_customers'),
+        'browser_fallback_added': n(states['browser_fallback'], 'signals_added'),
+        'browser_stale_removed': n(states['browser_fallback'], 'stale_signals_removed'),
+        'transport_errors_recovered': transport_errors if recovered else 0,
         'human_action_required': sum(n(s, 'human_action_required') for s in states.values()),
-        'errors': sum(n(s, 'errors') + n(s, 'error_count') for s in states.values()),
+        'errors': unresolved_errors,
     }
 
     report = {

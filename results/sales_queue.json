@@ -24,11 +24,12 @@
     "proof_3": "Business website links to at least one social profile.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNC_ERROR",
+    "airtable_sync_status": "SYNCED_CREATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-12",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
-    "compliance_note": "Research and prioritization only. No automatic outreach."
+    "compliance_note": "Research and prioritization only. No automatic outreach.",
+    "airtable_record_id": "recsJLsgbF6mkRH6Q"
   },
   {
     "lead_id": "backroom physio berlin|berlin|https://backroomphysio.de/",
@@ -55,11 +56,12 @@
     "proof_3": "Business website links to at least one social profile.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNC_ERROR",
+    "airtable_sync_status": "SYNCED_CREATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-12",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
-    "compliance_note": "Research and prioritization only. No automatic outreach."
+    "compliance_note": "Research and prioritization only. No automatic outreach.",
+    "airtable_record_id": "recrGB3u92U0tvutj"
   },
   {
     "lead_id": "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
@@ -85,11 +87,12 @@
     "proof_3": "Business observed at position 6 among the first 11 Maps results returned in this run.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNC_ERROR",
+    "airtable_sync_status": "SYNCED_CREATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-12",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
-    "compliance_note": "Research and prioritization only. No automatic outreach."
+    "compliance_note": "Research and prioritization only. No automatic outreach.",
+    "airtable_record_id": "recaSDymxQ0fLWPMJ"
   },
   {
     "lead_id": "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -114,11 +117,12 @@
     "proof_3": null,
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNC_ERROR",
+    "airtable_sync_status": "SYNCED_CREATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-12",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V2",
-    "compliance_note": "Research and prioritization only. No automatic outreach."
+    "compliance_note": "Research and prioritization only. No automatic outreach.",
+    "airtable_record_id": "reccYlSHEuwvZSSDT"
   },
   {
     "lead_id": "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",

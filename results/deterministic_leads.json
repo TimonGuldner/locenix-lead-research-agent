@@ -61,7 +61,7 @@
     "review_gap": 165,
     "grade": "A",
     "lead_class": "A_LEAD",
-    "qa_gate": "PASS",
+    "qa_gate": "PASS_PRE_AIRTABLE_QA",
     "primary_pitch": "23 eigene Bewertungen vs. lokaler Wettbewerbsmedian 188; Gap 165.",
     "proof": [
       "23 eigene Bewertungen vs. lokaler Wettbewerbsmedian 188; Gap 165.",
@@ -75,7 +75,27 @@
     "research_date": "2026-09-12",
     "research_status": "QUALIFIED",
     "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 165; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "André Lewandowski",
@@ -139,7 +159,7 @@
     "review_gap": 85,
     "grade": "A",
     "lead_class": "A_LEAD",
-    "qa_gate": "PASS",
+    "qa_gate": "PASS_PRE_AIRTABLE_QA",
     "primary_pitch": "3 eigene Bewertungen vs. lokaler Wettbewerbsmedian 88; Gap 85.",
     "proof": [
       "3 eigene Bewertungen vs. lokaler Wettbewerbsmedian 88; Gap 85.",
@@ -153,7 +173,25 @@
     "research_date": "2026-09-12",
     "research_status": "QUALIFIED",
     "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 9,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 9,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 85; Kaufwahrscheinlichkeit 9/10; Kontaktqualität 9/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "MANU Elektrobau GmbH",
@@ -214,7 +252,7 @@
     "review_gap": 103,
     "grade": "A",
     "lead_class": "A_LEAD",
-    "qa_gate": "PASS",
+    "qa_gate": "PASS_PRE_AIRTABLE_QA",
     "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 103.",
     "proof": [
       "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 103.",
@@ -228,7 +266,26 @@
     "research_date": "2026-09-12",
     "research_status": "QUALIFIED",
     "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 9,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 103; Kaufwahrscheinlichkeit 9/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Osteopathie Diana Peuker (TRAWELL - Gesundheit & Wellness am Traveplatz)",
@@ -278,7 +335,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 9,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 171; Kaufwahrscheinlichkeit 9/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Backroom Physio Berlin",
@@ -334,7 +410,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 9,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 143; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 9/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Sugar Time Kosmetik Berlin",
@@ -388,7 +483,27 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 83; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Beauty Lounge by Viola – Berlin-Mitte",
@@ -438,7 +553,27 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 82; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "PODOLOGIE EDELMANN",
@@ -490,7 +625,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 8,
+    "contact_quality_reasons": [
+      "public business email",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 52; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 8/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "WALK AGAIN Center",
@@ -534,7 +688,23 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 7,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "hohe digitale Reife",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 4,
+    "contact_quality_reasons": [
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 167; Kaufwahrscheinlichkeit 7/10; Kontaktqualität 4/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "PODOPRO - Podologie Berlin-Mitte Medizinische Fußbehandlung",
@@ -584,7 +754,25 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 9,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 5,
+    "contact_quality_reasons": [
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 62; Kaufwahrscheinlichkeit 9/10; Kontaktqualität 5/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Frisör Berlin: Toronto",
@@ -634,7 +822,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 9,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 146; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 9/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Said Rubaii Hairstyling - Hair Salon in Berlin Mitte",
@@ -686,7 +893,27 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 69; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "ELYSIO Physiotherapie-Mitte",
@@ -730,7 +957,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 9,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 143; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 9/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Everbelle Kosmetikstudio Berlin Tempelhof",
@@ -784,7 +1030,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 49; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Osteopathie Berlin-Mitte Dorena Volkmann",
@@ -832,7 +1097,24 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 7,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife"
+    ],
+    "contact_quality_score": 5,
+    "contact_quality_reasons": [
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 40; Kaufwahrscheinlichkeit 7/10; Kontaktqualität 5/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "The Session - Hair Studio for Colorists & Stylists",
@@ -876,7 +1158,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 9,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 84; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 9/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "PODOBERLIN - Fachpraxis für Podologie",
@@ -928,7 +1229,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 23; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Physiotherapie Marsch Berlin-Mitte GmbH | Naturkundemuseum",
@@ -984,7 +1304,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 0; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Physiotherapie Marsch Berlin-Mitte GmbH | Stadtmitte",
@@ -1040,7 +1379,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 0; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "THERAPIUM Physiotherapie Mitte",
@@ -1094,7 +1452,25 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 5,
+    "contact_quality_reasons": [
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 0; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 5/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "THERAPIUM Physiotherapie Charlottenburg",
@@ -1148,7 +1524,25 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 5,
+    "contact_quality_reasons": [
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 0; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 5/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Elite Skincare by Elisabeth & Elite Nail Spa",
@@ -1202,7 +1596,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 0; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Tulia Beauty & Spa | Wohltuendes Head Spa | Hautbehandlungen",
@@ -1256,7 +1669,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 14; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "äSThetik Studio",
@@ -1300,7 +1732,22 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 5,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "hohe digitale Reife"
+    ],
+    "contact_quality_score": 4,
+    "contact_quality_reasons": [
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 38; Kaufwahrscheinlichkeit 5/10; Kontaktqualität 4/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "icono Friseur Berlin Mitte",
@@ -1354,7 +1801,25 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 5,
+    "contact_quality_reasons": [
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 0; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 5/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Sanft & Schön Kosmetikstudio",
@@ -1406,7 +1871,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 0; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "ORVĒA",
@@ -1456,7 +1940,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 0; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Ästhetik Institut Berlin",
@@ -1506,7 +2009,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 16; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Ella Aesthetic Beauty & Cosmetics",
@@ -1556,7 +2078,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 0; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Stilbruch Friseure Berlin",
@@ -1608,7 +2149,25 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 9,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 0; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 9/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Osteopathie Berlin Mitte",
@@ -1656,7 +2215,25 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 9,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 19; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 9/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Fatima Beauty - Ihr Kosmetikstudio in Berlin",
@@ -1706,7 +2283,26 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 0; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   },
   {
     "company_name": "Hauptstadt Ästhetik | Kosmetikstudio Friedrichshain",
@@ -1758,6 +2354,24 @@
     "research_date": "2026-09-12",
     "research_status": "PARTIAL",
     "qa_status": "PENDING",
-    "outreach_status": "NOT_CONTACTED"
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb"
+    ],
+    "contact_quality_score": 9,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 0; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 9/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
   }
 ]

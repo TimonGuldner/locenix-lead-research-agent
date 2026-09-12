@@ -1,12 +1,12 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-12T16:24:29.700992+00:00",
+  "generated_at": "2026-09-12T16:58:03.768791+00:00",
   "company_status": "HEALTHY",
   "north_star": "paid_customers",
   "funnel_metrics": {
-    "research_leads": 51,
+    "research_leads": 52,
     "research_a": 4,
-    "research_b": 16,
+    "research_b": 17,
     "qa_remaining": 0,
     "final_a": 11,
     "final_b": 6,
@@ -98,7 +98,7 @@
       "human_reviews_required": 0,
       "biggest_bottleneck": "NONE",
       "recommended_next_action": "Monitor for new qualified trials and conversion opportunities.",
-      "last_run_at": "2026-09-12T15:51:09.528652+00:00"
+      "last_run_at": "2026-09-12T16:57:52.520998+00:00"
     }
   },
   "biggest_bottleneck": "LinkedIn department priority: POSITIVE_REPLIES",
@@ -121,7 +121,7 @@
     "priority": 1,
     "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
     "created_at": "2026-09-12T12:08:42.961312+00:00",
-    "updated_at": "2026-09-12T16:24:29.700992+00:00",
+    "updated_at": "2026-09-12T16:58:03.768791+00:00",
     "status": "QUEUED",
     "external_action_authorized": false
   },

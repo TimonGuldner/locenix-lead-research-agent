@@ -1,18 +1,90 @@
 {
-  "accepted": [],
-  "accepted_count": 0,
-  "rejected_count": 24,
+  "accepted": [
+    {
+      "company_name": "KOSMETIKSTUDIO LA PERLA - LEHEL MÜNCHEN",
+      "industry": "Kosmetikstudio",
+      "city": "Muenchen",
+      "address": "Triftstraße 9, 80538 München-Altstadt-Lehel, Deutschland",
+      "website": "https://www.laperla-beauty.de/",
+      "google_maps_url": "https://www.google.com/maps/place/KOSMETIKSTUDIO+LA+PERLA+-+LEHEL+M%C3%9CNCHEN/data=!4m7!3m6!1s0x479e758f70b6fd15:0x6f4f5020f43e3ce9!8m2!3d48.1405587!4d11.588608!16s%2Fg%2F11f4pxvxwk!19sChIJFf22cI91nkcR6Tw-9CBQT28?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 176 27866323",
+      "public_business_email": "support@webador.de",
+      "email_source_url": "https://www.laperla-beauty.de/",
+      "contact_form_url": "https://www.laperla-beauty.de/kontakt",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.9,
+      "google_review_count": 54,
+      "main_category": "Kosmetikstudio",
+      "website_services": [
+        "microneedling",
+        "gesichtsbehandlung",
+        "aquafacial"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, aquafacial"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "C1 Kosmetik München Maxvorstadt - BABOR Kosmetikstudio",
+      "competitor_1_reviews": 262,
+      "competitor_2": "C1 Kosmetik München Gärtnerplatz - BABOR Kosmetikstudio",
+      "competitor_2_reviews": 172,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "54 eigene Bewertungen vs. lokaler Wettbewerbsmedian 148; Gap 94."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, aquafacial",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 21,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 82,
+      "competitor_review_median": 148,
+      "review_gap": 94,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "54 eigene Bewertungen vs. lokaler Wettbewerbsmedian 148; Gap 94.",
+      "proof": [
+        "54 eigene Bewertungen vs. lokaler Wettbewerbsmedian 148; Gap 94.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, aquafacial"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "54 eigene Bewertungen vs. lokaler Wettbewerbsmedian 148; Gap 94.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, aquafacial",
+      "research_notes": "Deterministic research v2. Query: Kosmetikstudio Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-12",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
+  "accepted_count": 1,
+  "rejected_count": 23,
   "inspected": 24,
   "state": {
-    "query_cursor": 57,
-    "runs": 19,
-    "lead_count": 52,
+    "query_cursor": 60,
+    "runs": 20,
+    "lead_count": 53,
     "target_leads": 999999999,
-    "last_accepted": 0,
+    "last_accepted": 1,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 24,
+    "last_rejected": 23,
     "a_leads": 4,
-    "b_leads": 17
+    "b_leads": 18
   }
 }

@@ -1,11 +1,11 @@
 {
-  "last_run_at": "2026-09-12T11:21:35.411811+00:00",
-  "company_status": "ATTENTION",
+  "last_run_at": "2026-09-12T11:23:34.939335+00:00",
+  "company_status": "BLOCKED",
   "north_star": "paid_customers",
-  "priority_1": "Generate and store missing outreach drafts.",
-  "manager_directive": "Generate and store missing outreach drafts.",
-  "linkedin_department_status": "HEALTHY",
-  "linkedin_biggest_bottleneck": "GROWTH",
-  "linkedin_directive_id": "li-873a89e9d738",
-  "human_decision_required": false
+  "priority_1": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
+  "manager_directive": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
+  "linkedin_department_status": "BLOCKED",
+  "linkedin_biggest_bottleneck": "SYSTEM_SAFETY",
+  "linkedin_directive_id": "li-a678cdb9f1b8",
+  "human_decision_required": true
 }

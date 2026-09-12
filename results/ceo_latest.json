@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-12T11:21:35.411811+00:00",
-  "company_status": "ATTENTION",
+  "generated_at": "2026-09-12T11:23:34.939335+00:00",
+  "company_status": "BLOCKED",
   "north_star": "paid_customers",
   "funnel_metrics": {
     "research_leads": 33,
@@ -21,19 +21,19 @@
     "replies": "UNKNOWN",
     "trials": "UNKNOWN",
     "paid_customers": "UNKNOWN",
-    "linkedin_department_status": "HEALTHY",
-    "linkedin_biggest_bottleneck": "GROWTH",
-    "linkedin_leads": "UNKNOWN",
-    "linkedin_qualified_leads": "UNKNOWN",
-    "linkedin_active_conversations": "UNKNOWN",
-    "linkedin_replies": "UNKNOWN",
-    "linkedin_positive_signals": "UNKNOWN",
-    "linkedin_open_followups": "UNKNOWN",
-    "linkedin_overdue_followups": "UNKNOWN",
-    "linkedin_trials": "UNKNOWN",
-    "linkedin_paid_customers": "UNKNOWN",
-    "linkedin_queue_backlog": 0,
-    "linkedin_failed_jobs": "UNKNOWN",
+    "linkedin_department_status": "BLOCKED",
+    "linkedin_biggest_bottleneck": "SYSTEM_SAFETY",
+    "linkedin_leads": 61,
+    "linkedin_qualified_leads": 13,
+    "linkedin_active_conversations": 4,
+    "linkedin_replies": 2,
+    "linkedin_positive_signals": 1,
+    "linkedin_open_followups": 0,
+    "linkedin_overdue_followups": 0,
+    "linkedin_trials": 0,
+    "linkedin_paid_customers": 0,
+    "linkedin_queue_backlog": 8,
+    "linkedin_failed_jobs": 6,
     "proposed_agents": 0,
     "proposed_departments": 0
   },
@@ -44,45 +44,45 @@
     },
     "linkedin": {
       "manager": "AGENT_8_LINKEDIN_DEPARTMENT_HEAD",
-      "health": "HEALTHY",
-      "status": "HEALTHY",
-      "biggest_bottleneck": "GROWTH",
+      "health": "BLOCKED",
+      "status": "BLOCKED",
+      "biggest_bottleneck": "SYSTEM_SAFETY",
       "priority_1": {
-        "type": "GROWTH",
-        "action": "No observed downstream bottleneck; keep conservative qualified lead generation active.",
-        "owner": "Lead Agent"
+        "type": "SYSTEM_SAFETY",
+        "action": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
+        "owner": "Browser Worker"
       },
-      "ceo_escalation_required": false,
-      "last_run_at": "2026-09-12T11:20:49.703967+00:00"
+      "ceo_escalation_required": true,
+      "last_run_at": "2026-09-12T11:23:19.195463+00:00"
     }
   },
-  "biggest_bottleneck": "Sales-ready leads are missing prepared outreach.",
+  "biggest_bottleneck": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
   "priority_1": {
     "rank": 1,
+    "type": "STABILITY",
+    "owner": "Agent 8",
+    "action": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
+    "reason": "Pause risky LinkedIn actions and escalate the observed account/security signal."
+  },
+  "priority_2": {
+    "rank": 2,
     "type": "BOTTLENECK",
     "owner": "Agent 7",
     "action": "Generate and store missing outreach drafts.",
     "reason": "Sales-ready leads are missing prepared outreach."
   },
-  "priority_2": {
-    "rank": 2,
-    "type": "CHANNEL",
-    "owner": "Agent 8",
-    "action": "No observed downstream bottleneck; keep conservative qualified lead generation active.",
-    "reason": "LinkedIn department priority: GROWTH"
-  },
   "priority_3": null,
-  "manager_directive": "Generate and store missing outreach drafts.",
+  "manager_directive": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
   "linkedin_directive": {
-    "directive_id": "li-873a89e9d738",
+    "directive_id": "li-a678cdb9f1b8",
     "department": "linkedin",
     "owner_agent": "AGENT_8_LINKEDIN_DEPARTMENT_HEAD",
-    "objective": "No observed downstream bottleneck; keep conservative qualified lead generation active.",
-    "reason": "LinkedIn department priority: GROWTH",
-    "priority": 2,
+    "objective": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
+    "reason": "Pause risky LinkedIn actions and escalate the observed account/security signal.",
+    "priority": 1,
     "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
-    "created_at": "2026-09-12T11:21:35.411811+00:00",
-    "updated_at": "2026-09-12T11:21:35.411811+00:00",
+    "created_at": "2026-09-12T11:23:34.939335+00:00",
+    "updated_at": "2026-09-12T11:23:34.939335+00:00",
     "status": "QUEUED",
     "external_action_authorized": false
   },
@@ -97,11 +97,11 @@
   },
   "opportunities": [],
   "risks": [
-    "Sales-ready leads are missing prepared outreach."
+    "Pause risky LinkedIn actions and escalate the observed account/security signal."
   ],
   "proposed_agents": 0,
   "proposed_departments": 0,
-  "human_decision_required": false,
+  "human_decision_required": true,
   "autonomy": {
     "internal_analysis": true,
     "prioritization": true,

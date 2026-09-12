@@ -14,6 +14,7 @@ LATEST = ROOT / 'results' / 'customer_success_latest.json'
 A11 = ROOT / 'results' / 'agent_11_trial_conversion_state.json'
 A12 = ROOT / 'results' / 'agent_12_onboarding_state.json'
 A13 = ROOT / 'results' / 'agent_13_retention_state.json'
+A14 = ROOT / 'results' / 'agent_14_customer_success_email_state.json'
 
 
 def load(path, default=None):
@@ -86,10 +87,14 @@ def main():
     payment_issues = [x for x in customers if x.get('Status') == 'PAST_DUE' or x.get('Payment Status') == 'PAST_DUE']
     open_risks = [x for x in risks if x.get('Status') in {'OPEN', 'IN_PROGRESS', 'HUMAN_REVIEW_REQUIRED'}]
     human_reviews = [x for x in customers if x.get('Human Review')] + [x for x in trials if x.get('Human Review')] + [x for x in risks if x.get('Human Review') or x.get('Status') == 'HUMAN_REVIEW_REQUIRED']
+    a14 = load(A14, {})
 
-    # Strict department priority: retention > payment > conversion > onboarding.
     if errors:
         status, bottleneck, owner, action = 'BLOCKED', 'AIRTABLE_ACCESS_OR_SYNC', 'AGENT_10', 'Resolve Airtable access/sync before Customer Success automation continues.'
+    elif a14 and int(a14.get('failed_count') or 0) > 0:
+        status, bottleneck, owner, action = 'ATTENTION', 'CUSTOMER_SUCCESS_EMAIL_ERRORS', 'AGENT_14', 'Resolve Customer Success email delivery errors before further automated communication.'
+    elif a14 and int(a14.get('human_reviews_required') or 0) > 0:
+        status, bottleneck, owner, action = 'ATTENTION', 'CUSTOMER_SUCCESS_EMAIL_HUMAN_REVIEW', 'AGENT_10', 'Review Customer Success conversations that require a human decision.'
     elif any(x.get('Status') == 'CANCEL_REQUESTED' for x in customers):
         status, bottleneck, owner, action = 'ATTENTION', 'CANCEL_RISK', 'AGENT_13', 'Prioritize customers with cancellation requests and require human review before commitments.'
     elif payment_issues:
@@ -137,7 +142,11 @@ def main():
         'customers_at_risk': len(at_risk),
         'payment_issues': len(payment_issues),
         'technical_blockers': len(onboarding_blocked),
-        'human_reviews_required': len(human_reviews),
+        'human_reviews_required': len(human_reviews) + int(a14.get('human_reviews_required') or 0),
+        'customer_success_email_agent_available': bool(a14),
+        'customer_success_email_sent_last_run': a14.get('sent_count', 'UNKNOWN'),
+        'customer_success_email_failed_last_run': a14.get('failed_count', 'UNKNOWN'),
+        'customer_success_email_last_run_at': a14.get('last_run_at', 'UNKNOWN'),
         'biggest_bottleneck': bottleneck,
         'recommended_next_action': action,
         'next_agent': owner,
@@ -146,7 +155,7 @@ def main():
     }
 
     save(A11, a11); save(A12, a12); save(A13, a13); save(STATE, state)
-    save(LATEST, {'state': state, 'subagents': {'agent_11': a11, 'agent_12': a12, 'agent_13': a13}})
+    save(LATEST, {'state': state, 'subagents': {'agent_11': a11, 'agent_12': a12, 'agent_13': a13, 'agent_14': a14}})
     print(json.dumps(state, ensure_ascii=False))
 
 

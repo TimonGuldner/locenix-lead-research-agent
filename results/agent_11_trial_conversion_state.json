@@ -1,0 +1,10 @@
+{
+  "agent": "AGENT_11_TRIAL_CONVERSION",
+  "reports_to": "AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD",
+  "active_trials": 0,
+  "activated_trials": 0,
+  "expiring_trials": 0,
+  "converted_trials": 0,
+  "status": "HEALTHY",
+  "last_run_at": "2026-09-12T15:51:09.528652+00:00"
+}

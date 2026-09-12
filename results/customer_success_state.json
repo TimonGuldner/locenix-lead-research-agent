@@ -1,0 +1,20 @@
+{
+  "agent": "AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD",
+  "reports_to": "AGENT_0_CEO",
+  "department": "CUSTOMER_SUCCESS",
+  "department_status": "HEALTHY",
+  "airtable_base_id": "appmbJV00kq0vPWfL",
+  "active_trials": 0,
+  "activated_trials": 0,
+  "paid_customers": 0,
+  "trial_to_paid_rate": null,
+  "customers_at_risk": 0,
+  "payment_issues": 0,
+  "technical_blockers": 0,
+  "human_reviews_required": 0,
+  "biggest_bottleneck": "NONE",
+  "recommended_next_action": "Monitor for new qualified trials and conversion opportunities.",
+  "next_agent": "AGENT_11",
+  "errors": [],
+  "last_run_at": "2026-09-12T15:51:09.528652+00:00"
+}

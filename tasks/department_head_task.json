@@ -13,10 +13,12 @@
     "deep_qa": "deep-qa.yml",
     "visibility": "visibility.yml",
     "sales_queue": "sales-queue.yml",
-    "outreach_controller": "outreach-controller.yml"
+    "outreach_controller": "outreach-controller.yml",
+    "email_conversation": "email-conversation.yml"
   },
   "priorities": [
     "BLOCKERS_FIRST",
+    "CUSTOMER_CONVERSATIONS_BEFORE_NEW_OUTREACH",
     "CLEAR_DOWNSTREAM_BACKLOG",
     "KEEP_QUALIFIED_LEADS_MOVING",
     "RESEARCH_WHEN_PIPELINE_NEEDS_INPUT"

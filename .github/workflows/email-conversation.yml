@@ -20,9 +20,9 @@ jobs:
       AIRTABLE_TABLE_ID: tblF4ghkYFzkeQwsT
       RESEND_INBOX_API_KEY: ${{ secrets.RESEND_INBOX_API_KEY }}
       RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-      EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
-      EMAIL_REPLY_TO: ${{ secrets.EMAIL_REPLY_TO }}
-      EMAIL_AUTO_REPLY: ${{ secrets.EMAIL_AUTO_REPLY }}
+      EMAIL_FROM: 'Timon Guldner <hello@locenix.com>'
+      EMAIL_REPLY_TO: 'hello@locenix.com'
+      EMAIL_AUTO_REPLY: 'true'
 
     steps:
       - name: Checkout
@@ -39,6 +39,8 @@ jobs:
           set -euo pipefail
           test -n "$AIRTABLE_TOKEN" || { echo 'AIRTABLE_TOKEN missing'; exit 1; }
           test -n "$RESEND_INBOX_API_KEY" || { echo 'RESEND_INBOX_API_KEY missing'; exit 1; }
+          test -n "$EMAIL_FROM" || { echo 'EMAIL_FROM missing'; exit 1; }
+          test -n "$EMAIL_REPLY_TO" || { echo 'EMAIL_REPLY_TO missing'; exit 1; }
 
       - name: Run Agent 9
         run: python -m agent.email_conversation_agent

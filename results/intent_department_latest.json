@@ -1,31 +1,34 @@
 {
   "agent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
   "parent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-12T23:41:59.891812+00:00",
-  "department_status": "ATTENTION",
+  "generated_at": "2026-09-12T23:46:37.627165+00:00",
+  "department_status": "HEALTHY",
   "next_agent": "intent_scout",
-  "reason": "intent_scout reports errors and should be inspected before scaling.",
+  "reason": "Direct discovery endpoints were blocked, but the cloud-browser fallback recovered successfully.",
   "metrics": {
     "signals_found": 7,
     "hot": 0,
-    "warm": 7,
+    "warm": 3,
     "watch": 0,
-    "rejected": 0,
-    "responses_prepared": 7,
+    "rejected": 4,
+    "responses_prepared": 3,
     "responses_sent": 0,
     "positive_replies": 0,
     "trials": 0,
     "paid_customers": 0,
+    "browser_fallback_added": 0,
+    "browser_stale_removed": 0,
+    "transport_errors_recovered": 11,
     "human_action_required": 0,
-    "errors": 11
+    "errors": 0
   },
   "children": {
     "intent_scout": {
       "agent": "AGENT_15A_INTENT_SCOUT",
-      "last_run_at": "2026-09-12T23:41:51.653043+00:00",
-      "signals_found": 7,
+      "last_run_at": "2026-09-12T23:46:27.085914+00:00",
+      "signals_found": 3,
       "new_signals": 0,
-      "unreviewed": 7,
+      "unreviewed": 3,
       "queries_run": 11,
       "errors": 11,
       "query_errors": [
@@ -87,27 +90,38 @@
         "duckduckgo": 0
       },
       "sources": [
-        "bing.com",
         "upwork.com"
       ]
     },
+    "browser_fallback": {
+      "agent": "AGENT_15A_BROWSER_FALLBACK",
+      "last_run_at": "2026-09-12T23:46:29.840744+00:00",
+      "status": "OK",
+      "signals_added": 0,
+      "stale_signals_removed": 0,
+      "pages_checked": 8,
+      "blocked_pages": 0,
+      "human_action_required": 0,
+      "errors": 0
+    },
     "intent_qa": {
       "agent": "AGENT_15B_INTENT_QA",
-      "last_run_at": "2026-09-12T23:41:57.728329+00:00",
+      "last_run_at": "2026-09-12T23:46:33.430652+00:00",
       "pending": 0,
       "hot": 0,
-      "warm": 7,
+      "warm": 3,
       "watch": 0,
-      "rejected": 0,
+      "rejected": 4,
       "airtable_created": 0,
-      "airtable_updated": 0,
+      "airtable_updated": 4,
+      "quarantined": 4,
       "errors": 0
     },
     "platform_access": {},
     "intent_response": {
       "agent": "AGENT_15D_INTENT_RESPONSE",
-      "last_run_at": "2026-09-12T23:41:59.839927+00:00",
-      "prepared": 7,
+      "last_run_at": "2026-09-12T23:46:37.580479+00:00",
+      "prepared": 3,
       "new_prepared": 0,
       "pending": 0,
       "sent": 0,

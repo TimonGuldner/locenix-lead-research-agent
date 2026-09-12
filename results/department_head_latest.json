@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V3",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-12T15:49:08.458777+00:00",
+  "generated_at": "2026-09-12T15:49:30.736796+00:00",
   "department_status": "HEALTHY",
   "metrics": {
     "lead_count": 49,
@@ -31,7 +31,7 @@
     "email_last_run_at": "2026-09-12T14:57:01.737989+00:00",
     "departments_total": 0,
     "departments_proposed": 0,
-    "agents_total": 1,
+    "agents_total": 3,
     "agents_proposed": 0,
     "proposed_names": []
   },
@@ -66,6 +66,42 @@
       "external_messaging": false,
       "status": "ACTIVE",
       "_file": "tasks/agents/agent_11_trial_conversion.json",
+      "_kind": "agent"
+    },
+    {
+      "agent": "AGENT_12_ONBOARDING",
+      "reports_to": "AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD",
+      "enabled": true,
+      "goal": "TRIAL_TO_FIRST_VALUE",
+      "priority": [
+        "GBP_CONNECTION_BLOCKER",
+        "SYNC_BLOCKER",
+        "ANALYSIS_BLOCKER",
+        "NO_FIRST_VALUE",
+        "SETUP_INCOMPLETE"
+      ],
+      "external_messaging": false,
+      "status": "ACTIVE",
+      "_file": "tasks/agents/agent_12_onboarding.json",
+      "_kind": "agent"
+    },
+    {
+      "agent": "AGENT_13_RETENTION_SUCCESS",
+      "reports_to": "AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD",
+      "enabled": true,
+      "goal": "PAID_TO_RETAINED",
+      "priority": [
+        "CANCEL_RISK",
+        "PAID_TECHNICAL_PROBLEM",
+        "PAYMENT_PROBLEM",
+        "HIGH_CHURN_RISK",
+        "INACTIVE_PAID",
+        "SUPPORT_CASE",
+        "HEALTHY_CUSTOMER"
+      ],
+      "external_messaging": false,
+      "status": "ACTIVE",
+      "_file": "tasks/agents/agent_13_retention_success.json",
       "_kind": "agent"
     }
   ],

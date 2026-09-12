@@ -1,0 +1,2 @@
+LOCENIX Deep QA Agent wake trigger.
+Run deep QA against current qualified leads.

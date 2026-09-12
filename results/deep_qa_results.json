@@ -738,6 +738,73 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
+    "company_name": "Reifen-Müller, Georg Müller GmbH & Co.KG",
+    "industry": "Reifenservice",
+    "city": "Berlin",
+    "source_total_score": 81,
+    "source_lead_class": "REJECT",
+    "google_maps_url": "https://www.google.com/maps/place/Reifen-M%C3%BCller,+Georg+M%C3%BCller+GmbH+%26+Co.KG/data=!4m7!3m6!1s0x47a84e37e72ee605:0x5421510b1cd4e6c0!8m2!3d52.5060012!4d13.4300898!16s%2Fg%2F1tgf27gh!19sChIJBeYu5zdOqEcRwObUHAtRIVQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
+      "booking_link": null,
+      "social_links": [
+        "https://reifen-mueller.de/facebook",
+        "https://reifen-mueller.de/instagram"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact page/link observed on website."
+      ]
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 182 reviews vs. comparison median 357; gap 175."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      },
+      {
+        "type": "profile_completeness_core",
+        "proof": "Current Maps page exposes both phone and website actions."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 182 reviews vs. comparison median 357; gap 175.",
+    "proof": [
+      "Verified source data: 182 reviews vs. comparison median 357; gap 175.",
+      "Business website links to at least one social profile."
+    ],
+    "airtable_ready": true,
+    "qa_date": "2026-09-12",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "walk again center|berlin|https://walk-again.de/",
     "company_name": "WALK AGAIN Center",
     "industry": "Physiotherapie",
@@ -789,6 +856,86 @@
     "primary_sales_angle_verified": "Verified source data: 17 reviews vs. comparison median 184; gap 167.",
     "proof": [
       "Verified source data: 17 reviews vs. comparison median 184; gap 167."
+    ],
+    "airtable_ready": false,
+    "qa_date": "2026-09-12",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
+    "company_name": "Reifendienst - All Inn Performance",
+    "industry": "Reifenservice",
+    "city": "Berlin",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Reifendienst+-+All+Inn+Performance/data=!4m7!3m6!1s0x47a84460ddb3d411:0x1cc5362a9f142d7d!8m2!3d52.388357!4d13.4091684!16s%2Fg%2F11g7zdt245!19sChIJEdSz3WBEqEcRfS0Unyo2xRw?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://facebook.com/allinnperformance",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.facebook.com/Allinnperformance/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=https%3A%2F%2Fwww.facebook.com%2FAllinnperformance%2F",
+        "https://www.facebook.com/recover/initiate?ars=royal_blue_bar",
+        "https://www.facebook.com/photo/?fbid=755617742286359&set=a.755617705619696",
+        "https://www.facebook.com/photo/?fbid=755617738953026&set=a.755617708953029&__tn__=%3C",
+        "https://www.facebook.com/Allinnperformance/followers/",
+        "https://www.facebook.com/Allinnperformance/following/",
+        "https://www.facebook.com/Allinnperformance/about",
+        "https://www.facebook.com/Allinnperformance/photos",
+        "https://www.facebook.com/Allinnperformance",
+        "https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.all-inn-performance.de%2F&h=AUAyP_9fKXwrTnZushf98eSnYsY_wOYcgHjfarkcZa_FCxaMwYUXWjoAqOW7kPl0f01FeILZrZXP8s1FtaTXUIuHo1GPwWUlqSSQzXzCc9JthfjccaS6XInNYxVkfpBTB8D9m2t0TI4uKQ",
+        "https://www.facebook.com/Allinnperformance?__cft__[0]=AZiKFz8Gnpiyyte6rCZAdq84Fo6PqXW-bkTUnlFGtlPwvncEbWl0Bq0MDMcZwZteGQgIMfAVlLc0CiV5J95b2i2p7ROlKE5P_msnyCPrXGa6lcUZ3n3qPBfLF6y0-7PpvXF-cBzQ4JYCR5U_5cz-q1n-PZ-4a1YI3KnJTlmbFRpZZ1G_FWvAOpVsx8M&__tn__=%3C%3C%2CP-R",
+        "https://www.facebook.com/Allinnperformance?__cft__[0]=AZiKFz8Gnpiyyte6rCZAdq84Fo6PqXW-bkTUnlFGtlPwvncEbWl0Bq0MDMcZwZteGQgIMfAVlLc0CiV5J95b2i2p7ROlKE5P_msnyCPrXGa6lcUZ3n3qPBfLF6y0-7PpvXF-cBzQ4JYCR5U_5cz-q1n-PZ-4a1YI3KnJTlmbFRpZZ1G_FWvAOpVsx8M&__tn__=-UC%2CP-R",
+        "https://www.facebook.com/Allinnperformance/posts/pfbid0o8HJ8aurTJvtrmETxyriakSe6ktvWHNFfaimgjvMAhJnF7CeEsb4B4tvCETHi69rl?__cft__[0]=AZiKFz8Gnpiyyte6rCZAdq84Fo6PqXW-bkTUnlFGtlPwvncEbWl0Bq0MDMcZwZteGQgIMfAVlLc0CiV5J95b2i2p7ROlKE5P_msnyCPrXGa6lcUZ3n3qPBfLF6y0-7PpvXF-cBzQ4JYCR5U_5cz-q1n-PZ-4a1YI3KnJTlmbFRpZZ1G_FWvAOpVsx8M&__tn__=%2CO%2CP-R",
+        "https://www.facebook.com/photo/?fbid=2544692045593146&set=pcb.2544696448926039&__cft__[0]=AZiKFz8Gnpiyyte6rCZAdq84Fo6PqXW-bkTUnlFGtlPwvncEbWl0Bq0MDMcZwZteGQgIMfAVlLc0CiV5J95b2i2p7ROlKE5P_msnyCPrXGa6lcUZ3n3qPBfLF6y0-7PpvXF-cBzQ4JYCR5U_5cz-q1n-PZ-4a1YI3KnJTlmbFRpZZ1G_FWvAOpVsx8M&__tn__=*b0H-R",
+        "https://www.facebook.com/photo/?fbid=2544692055593145&set=pcb.2544696448926039&__cft__[0]=AZiKFz8Gnpiyyte6rCZAdq84Fo6PqXW-bkTUnlFGtlPwvncEbWl0Bq0MDMcZwZteGQgIMfAVlLc0CiV5J95b2i2p7ROlKE5P_msnyCPrXGa6lcUZ3n3qPBfLF6y0-7PpvXF-cBzQ4JYCR5U_5cz-q1n-PZ-4a1YI3KnJTlmbFRpZZ1G_FWvAOpVsx8M&__tn__=*b1H-R",
+        "https://www.facebook.com/photo/?fbid=2544692158926468&set=pcb.2544696448926039&__cft__[0]=AZiKFz8Gnpiyyte6rCZAdq84Fo6PqXW-bkTUnlFGtlPwvncEbWl0Bq0MDMcZwZteGQgIMfAVlLc0CiV5J95b2i2p7ROlKE5P_msnyCPrXGa6lcUZ3n3qPBfLF6y0-7PpvXF-cBzQ4JYCR5U_5cz-q1n-PZ-4a1YI3KnJTlmbFRpZZ1G_FWvAOpVsx8M&__tn__=*b2H-R"
+      ],
+      "contact_page_observed": false,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Active social-link footprint observed (16 link(s))."
+      ]
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 89 reviews vs. comparison median 357; gap 268."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      },
+      {
+        "type": "profile_completeness_core",
+        "proof": "Current Maps page exposes both phone and website actions."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 89 reviews vs. comparison median 357; gap 268.",
+    "proof": [
+      "Verified source data: 89 reviews vs. comparison median 357; gap 268.",
+      "Business website links to at least one social profile."
     ],
     "airtable_ready": false,
     "qa_date": "2026-09-12",
@@ -854,6 +1001,62 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
+    "company_name": "Julcy Nails - Berlin",
+    "industry": "Nagelstudio",
+    "city": "Berlin",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Julcy+Nails+-+Berlin/data=!4m7!3m6!1s0x47a851afa372f84d:0xe42f0016b6e6a24!8m2!3d52.5086911!4d13.393526!16s%2Fg%2F11srqg14km!19sChIJTfhyo69RqEcRJGpuawHwQg4?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://nail.beauty.ivof.com/julcy-nails/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://nail.beauty.ivof.com/julcy-nails/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": false,
+      "website_service_matches": [],
+      "website_evidence": []
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 136 reviews vs. comparison median 298; gap 162."
+      },
+      {
+        "type": "profile_completeness_core",
+        "proof": "Current Maps page exposes both phone and website actions."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 136 reviews vs. comparison median 298; gap 162.",
+    "proof": [
+      "Verified source data: 136 reviews vs. comparison median 298; gap 162."
+    ],
+    "airtable_ready": false,
+    "qa_date": "2026-09-12",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "company_name": "ELYSIO Physiotherapie-Mitte",
     "industry": "Physiotherapie",
@@ -904,6 +1107,65 @@
     "primary_sales_angle_verified": "Verified source data: 41 reviews vs. comparison median 184; gap 143.",
     "proof": [
       "Verified source data: 41 reviews vs. comparison median 184; gap 143."
+    ],
+    "airtable_ready": false,
+    "qa_date": "2026-09-12",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "maison de nails berlin|berlin|https://maisondenails.de/",
+    "company_name": "Maison De Nails Berlin",
+    "industry": "Nagelstudio",
+    "city": "Berlin",
+    "source_total_score": 82,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Maison+De+Nails+Berlin/data=!4m7!3m6!1s0x47a853a6eeaba31d:0x544ce179cd300621!8m2!3d52.5656369!4d13.3991799!16s%2Fg%2F11ynbb17f4!19sChIJHaOr7qZTqEcRIQYwzXnhTFQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://maisondenails.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile.",
+        "Booking/appointment wording observed in current Maps page text."
+      ]
+    },
+    "website_check": {
+      "website_accessible": false,
+      "website_final_url": "https://www.maisondenails.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": false,
+      "website_service_matches": [],
+      "website_evidence": []
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 86,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 47 reviews vs. comparison median 298; gap 251."
+      },
+      {
+        "type": "profile_completeness_core",
+        "proof": "Current Maps page exposes both phone and website actions."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "Website could not be verified as accessible in this run."
+    ],
+    "primary_sales_angle_verified": "Verified source data: 47 reviews vs. comparison median 298; gap 251.",
+    "proof": [
+      "Verified source data: 47 reviews vs. comparison median 298; gap 251."
     ],
     "airtable_ready": false,
     "qa_date": "2026-09-12",

@@ -1,23 +1,27 @@
 {
-  "runs": 3,
+  "runs": 4,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "backroom physio berlin|berlin|https://backroomphysio.de/",
     "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
+    "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
+    "maison de nails berlin|berlin|https://maisondenails.de/",
     "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
     "podologie edelmann|berlin|https://podologie-edelmann.com/",
     "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
+    "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
+    "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
     "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
     "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
     "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
     "walk again center|berlin|https://walk-again.de/"
   ],
-  "processed_count": 13,
+  "processed_count": 17,
   "remaining_eligible": 0,
-  "last_batch_count": 3,
-  "final_a_total": 10,
-  "final_b_total": 3
+  "last_batch_count": 4,
+  "final_a_total": 11,
+  "final_b_total": 6
 }

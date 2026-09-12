@@ -1,9 +1,9 @@
 {
   "mode": "DRAFT_AND_STORE_ONLY",
-  "eligible_count": 4,
-  "stored_count": 4,
+  "eligible_count": 11,
+  "stored_count": 11,
   "error_count": 0,
   "errors": [],
   "sent_count": 0,
-  "last_run_at": "2026-09-12T10:36:55.324805+00:00"
+  "last_run_at": "2026-09-12T13:43:23.659534+00:00"
 }

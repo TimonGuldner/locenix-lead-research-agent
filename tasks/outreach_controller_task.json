@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "mode": "DRAFT_AND_STORE_ONLY",
+  "eligible_decisions": ["FINAL_A"],
+  "eligible_sync_statuses": ["SYNCED_CREATED", "SYNCED_UPDATED"],
+  "eligible_outreach_statuses": ["NOT_CONTACTED"],
+  "min_priority_score": 90,
+  "max_drafts_per_run": 20,
+  "language": "de",
+  "offer": "kostenloser Local Visibility Check",
+  "airtable_fields": {
+    "subject": "Outreach Subject",
+    "body": "Outreach Draft",
+    "status": "Draft Status"
+  },
+  "safety": {
+    "send_messages": false,
+    "submit_forms": false,
+    "login_to_accounts": false,
+    "automatic_outreach": false,
+    "store_drafts_only": true
+  }
+}

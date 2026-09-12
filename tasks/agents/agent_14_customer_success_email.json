@@ -1,0 +1,40 @@
+{
+  "agent": "AGENT_14_CUSTOMER_SUCCESS_EMAIL",
+  "reports_to": "AGENT_10_CUSTOMER_SUCCESS_DEPARTMENT_HEAD",
+  "enabled": true,
+  "goal": "CUSTOMER_SUCCESS_EMAIL_COMMUNICATION",
+  "sender": "Timon Guldner <hello@locenix.com>",
+  "reply_to": "hello@locenix.com",
+  "max_emails_per_run": 5,
+  "cooldown_hours": 24,
+  "auto_send_types": [
+    "TRIAL_EXPIRING",
+    "GBP_CONNECTION_HELP",
+    "FIRST_VALUE_NUDGE",
+    "ONBOARDING_BLOCKER"
+  ],
+  "human_review_types": [
+    "PRICE_NEGOTIATION",
+    "DISCOUNT",
+    "REFUND",
+    "CONTRACT",
+    "PRIVACY",
+    "LEGAL",
+    "COMPLAINT",
+    "ENTERPRISE",
+    "PARTNERSHIP",
+    "UNUSUAL_PAYMENT",
+    "CANCEL_REQUEST"
+  ],
+  "rules": {
+    "no_cold_outreach": true,
+    "existing_trial_or_customer_only": true,
+    "respect_do_not_contact": true,
+    "never_invent_customer_data": true,
+    "never_change_prices_or_terms": true,
+    "one_email_type_per_customer_until_state_changes": true,
+    "plain_professional_style": true,
+    "tracking_disabled": true
+  },
+  "status": "ACTIVE"
+}

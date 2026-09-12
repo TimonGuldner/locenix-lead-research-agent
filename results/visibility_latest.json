@@ -1,0 +1,234 @@
+{
+  "results": [
+    {
+      "lead_id": "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
+      "company_name": "Osteopathie Diana Peuker (TRAWELL - Gesundheit & Wellness am Traveplatz)",
+      "industry": "Physiotherapie",
+      "city": "Berlin",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 100,
+      "visibility_tests": [
+        {
+          "query": "Physiotherapie Berlin",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Physiotherapie Marsch Berlin-Mitte GmbH | Naturkundemuseum",
+            "Physiotherapie Marsch Berlin-Mitte GmbH | Stadtmitte",
+            "THERAPIUM Physiotherapie Mitte",
+            "THERAPIUM Physiotherapie Charlottenburg",
+            "ELYSIO Physiotherapie-Mitte"
+          ],
+          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+        },
+        {
+          "query": "Physiotherapie in Berlin",
+          "status": "OBSERVED",
+          "observed_position": 2,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "ChiroHouse - Chiropraktik Berlin Mitte"
+          ],
+          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
+      "visibility_evidence": [
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+        "Business observed at position 2 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-12",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V1",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "backroom physio berlin|berlin|https://backroomphysio.de/",
+      "company_name": "Backroom Physio Berlin",
+      "industry": "Physiotherapie",
+      "city": "Berlin",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 98,
+      "visibility_tests": [
+        {
+          "query": "Physiotherapie Berlin",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "ViaPhysio | Physiotherapie Praxis Bergmannkiez",
+            "Osteopathie Diana Peuker (TRAWELL - Gesundheit & Wellness am Traveplatz)",
+            "Physiotherapie Marsch Berlin-Mitte GmbH | Naturkundemuseum",
+            "Physiotherapie Marsch Berlin-Mitte GmbH | Stadtmitte",
+            "THERAPIUM Physiotherapie Mitte"
+          ],
+          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+        },
+        {
+          "query": "Physiotherapie in Berlin",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "ChiroHouse - Chiropraktik Berlin Mitte",
+            "Kellermann Medical | Orthopädie Berlin",
+            "Physiotherapie Marsch Berlin-Mitte GmbH | Naturkundemuseum",
+            "Physiotherapie Marsch Berlin-Mitte GmbH | Stadtmitte",
+            "THERAPIUM Physiotherapie Charlottenburg"
+          ],
+          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
+      "visibility_evidence": [
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      ],
+      "visibility_date": "2026-09-12",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V1",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
+      "company_name": "Turna KFZ Werkstatt Berlin",
+      "industry": "Autowerkstatt",
+      "city": "Berlin",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 93,
+      "visibility_tests": [
+        {
+          "query": "Autowerkstatt Berlin",
+          "status": "OBSERVED",
+          "observed_position": 7,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Volkswagen Automobile Berlin GmbH",
+            "Auto Ideal Kfz-Werkstatt",
+            "OZ KFZ - SERVICE BERLIN",
+            "Autoservice am Potsdamer Platz",
+            "AUTO-BERLIN"
+          ],
+          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Autowerkstatt in Berlin",
+          "status": "OBSERVED",
+          "observed_position": 6,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Wohnmobil Werkstatt Berlin | CARAWERK",
+            "KS AUTOGLAS ZENTRUM Ahrensfelde-Blumberg",
+            "McCrash Kfz - Reparaturwerkstatt",
+            "Autoservice am Potsdamer Platz",
+            "Auto Ideal Kfz-Werkstatt"
+          ],
+          "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 6,
+      "visibility_evidence": [
+        "Business observed at position 7 among the first 11 Maps results returned in this run.",
+        "Business observed at position 6 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-12",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V1",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
+      "company_name": "André Lewandowski",
+      "industry": "Sanitaer Heizung",
+      "city": "Berlin",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 90,
+      "visibility_tests": [
+        {
+          "query": "Sanitaer Heizung Berlin",
+          "status": "OBSERVED",
+          "observed_position": 2,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Go.Clara GmbH"
+          ],
+          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Sanitaer Heizung in Berlin",
+          "status": "OBSERVED",
+          "observed_position": 2,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Go.Clara GmbH"
+          ],
+          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
+      "visibility_evidence": [
+        "Business observed at position 2 among the first 11 Maps results returned in this run.",
+        "Business observed at position 2 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-12",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V1",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
+      "company_name": "MANU Elektrobau GmbH",
+      "industry": "Elektriker",
+      "city": "Berlin",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 88,
+      "visibility_tests": [
+        {
+          "query": "Elektriker Berlin",
+          "status": "OBSERVED",
+          "observed_position": 1,
+          "results_checked": 11,
+          "competitors_ahead": [],
+          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Elektriker in Berlin",
+          "status": "OBSERVED",
+          "observed_position": 1,
+          "results_checked": 11,
+          "competitors_ahead": [],
+          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
+      "visibility_evidence": [
+        "Business observed at position 1 among the first 11 Maps results returned in this run.",
+        "Business observed at position 1 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-12",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V1",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
+  "state": {
+    "runs": 1,
+    "processed_ids": [
+      "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
+      "backroom physio berlin|berlin|https://backroomphysio.de/",
+      "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
+      "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
+      "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/"
+    ],
+    "processed_count": 5,
+    "last_batch_count": 5,
+    "remaining_eligible": 0,
+    "weak_visibility_total": 3
+  }
+}

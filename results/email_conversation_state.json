@@ -6,12 +6,13 @@
   "reply_to": "hello@locenix.com",
   "auto_reply_enabled": true,
   "received_scanned": 2,
-  "handled": 2,
+  "handled": 0,
   "unmatched": 0,
-  "duplicates_skipped": 0,
+  "duplicates_skipped": 2,
   "errors": 0,
-  "positive_replies": 2,
+  "positive_replies": 0,
   "trial_interest": 0,
   "human_reviews_required": 0,
-  "last_run_at": "2026-09-12T13:48:18.222427+00:00"
+  "processed_message_ids_total": 2,
+  "last_run_at": "2026-09-12T14:07:38.565344+00:00"
 }

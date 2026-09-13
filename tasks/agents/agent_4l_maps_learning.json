@@ -1,0 +1,44 @@
+{
+  "agent_id": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
+  "name": "Maps Research Learning Optimizer",
+  "department": "growth_maps_research",
+  "reports_to": "AGENT_7_GROWTH_MANAGER",
+  "status": "ACTIVE",
+  "objective": "Learn which Google Maps research segments create the strongest downstream LOCENIX opportunities and feed bounded priorities back into Agent 1 research.",
+  "inputs": [
+    "results/deterministic_leads.json",
+    "results/deep_qa_results.json",
+    "results/visibility_results.json",
+    "Airtable Leads downstream outcomes"
+  ],
+  "outputs": [
+    "results/maps_learning_config.json",
+    "results/maps_learning_state.json",
+    "results/maps_learning_latest.json",
+    "results/maps_learning_execution.json"
+  ],
+  "learning_dimensions": [
+    "industry",
+    "city",
+    "industry_city_pair",
+    "rating_bucket",
+    "review_count_bucket",
+    "competitor_review_gap",
+    "visibility_opportunity",
+    "email_readiness",
+    "reply_and_sales_intent",
+    "trial_and_paid_when_available"
+  ],
+  "policy": {
+    "exploration_share": 0.15,
+    "bounded_weights": true,
+    "minimum_samples_before_downweight": 5,
+    "optimize_for_downstream_quality": true,
+    "autonomous_code_rewrite": false,
+    "prompt_rewrite": false,
+    "contact_limit_changes": false,
+    "do_not_contact_override": false,
+    "excluded_professions_override": false,
+    "captcha_or_security_bypass": false
+  }
+}

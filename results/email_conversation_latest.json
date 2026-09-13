@@ -6,19 +6,30 @@
     "sender": "Timon Guldner <hello@locenix.com>",
     "reply_to": "hello@locenix.com",
     "auto_reply_enabled": true,
-    "received_scanned": 2,
+    "received_scanned": 4,
     "handled": 0,
-    "unmatched": 0,
+    "unmatched": 2,
     "duplicates_skipped": 2,
     "errors": 0,
     "positive_replies": 0,
     "trial_interest": 0,
     "human_reviews_required": 0,
-    "processed_message_ids_total": 2,
-    "last_run_at": "2026-09-13T17:38:59.937448+00:00"
+    "processed_message_ids_total": 4,
+    "last_run_at": "2026-09-13T19:46:53.877023+00:00"
   },
   "handled": [],
-  "unmatched": [],
+  "unmatched": [
+    {
+      "message_id": "<970734512.24121.1789321479801@mssem05p.vkbads.de>",
+      "from": "noreply@vkb.de",
+      "subject": "AW: Kurzer Google-Maps-Check für Muenchen"
+    },
+    {
+      "message_id": "<595c028cd3de4799ba2f38206e2f1a52@VeTEX01.vetos.local>",
+      "from": "info@valera.vet",
+      "subject": "Automatische Antwort: Kurzer Google-Maps-Check für Berlin"
+    }
+  ],
   "duplicates": [
     "<CA+cRC5Y3evN1QwSf_ZjK=rXwNC69iYECCQY8XCs0MSoaopH_Xg@mail.gmail.com>",
     "<CA+cRC5b4bvL9a0L8=OsEhOTUy55RVQ6mpMO1+sGLGXhxSXPJjw@mail.gmail.com>"

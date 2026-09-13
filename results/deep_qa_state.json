@@ -1,5 +1,5 @@
 {
-  "runs": 14,
+  "runs": 15,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -49,10 +49,15 @@
     "since eleven - friseure|koeln|https://www.since-eleven.de/",
     "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
     "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
+    "tierarztpraxis am wohnpark|sankt augustin|https://kleintierpraxis-spieker.de/",
     "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
     "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
+    "tierarztpraxis hernández|sankt augustin|https://tierarztpraxishernandez.com/",
+    "tierarztpraxis lisa plagge|krefeld|https://tierarzt-plagge.de/",
     "tierarztpraxis tiergesundheitszentrum münchen|muenchen|http://www.verhaltenstherapie-tier.de/",
     "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
+    "tiergesundheitszentrum an der flora (ex tierarztpraxis am nippeser tälchen)|koeln|https://www.vet-nippes.de/",
+    "tiergesundheitszentrum pankow|berlin|https://www.tgz-pankow.de/",
     "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
     "torami nails · lashes|krefeld|https://beacons.ai/torami.co",
     "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
@@ -68,15 +73,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 66,
-  "remaining_eligible": 0,
-  "last_batch_count": 4,
-  "final_a_total": 31,
-  "final_b_total": 35,
-  "email_ready_total": 19,
-  "email_missing_total": 24,
-  "email_gate_qualified_total": 42,
-  "email_missing_excluded_total": 24,
-  "downstream_eligible_total": 42,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "processed_count": 71,
+  "remaining_eligible": 7,
+  "last_batch_count": 5,
+  "final_a_total": 32,
+  "final_b_total": 39,
+  "email_ready_total": 20,
+  "email_missing_total": 24
 }

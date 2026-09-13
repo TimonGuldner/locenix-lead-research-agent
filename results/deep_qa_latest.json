@@ -1,14 +1,14 @@
 {
   "results": [
     {
-      "lead_id": "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
-      "company_name": "BASTGEN BERLIN IMMOBILIEN - Makler in Berlin Mitte",
-      "industry": "Immobilienmakler",
-      "city": "Berlin",
-      "source_total_score": 89,
+      "lead_id": "tierarztpraxis am wohnpark|sankt augustin|https://kleintierpraxis-spieker.de/",
+      "company_name": "Tierarztpraxis am Wohnpark",
+      "industry": "Tierarzt",
+      "city": "Sankt Augustin",
+      "source_total_score": 87,
       "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/BASTGEN+BERLIN+IMMOBILIEN+-+Makler+in+Berlin+Mitte/data=!4m7!3m6!1s0x47a8505712ff7735:0xcb436e994aac8dc6!8m2!3d52.5277511!4d13.4013225!16s%2Fg%2F1hhlq67fd!19sChIJNXf_EldQqEcRxo2sSpluQ8s?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.bastgen-berlin.com/",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+am+Wohnpark/data=!4m7!3m6!1s0x47bee7479fea0323:0xe32b625214a61382!8m2!3d50.7817393!4d7.2006308!16s%2Fg%2F11n8dqv1k0!19sChIJIwPqn0fnvkcRghOmFFJiK-M?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://kleintierpraxis-spieker.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -26,57 +26,54 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://bastgen-berlin.com/",
+        "website_final_url": "https://kleintierpraxis-spieker.de/",
         "booking_link": null,
         "social_links": [],
         "contact_page_observed": true,
         "website_service_matches": [
-          "verkauf",
-          "bewertung",
-          "kapitalanlage",
-          "immobilienbewertung"
+          "impfung"
         ],
         "website_evidence": [
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "bastgen@bastgen-berlin.com",
-        "email_source_url": "https://bastgen-berlin.com/impressum/",
+        "email": "info@kleintierpraxis-spieker.de",
+        "email_source_url": "https://kleintierpraxis-spieker.de/impressum/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T12:11:13.962573+00:00"
+        "email_found_at": "2026-09-13T19:48:23.508836+00:00"
       },
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 94,
+      "deep_qa_score": 92,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 25 reviews vs. comparison median 230; gap 205."
+          "proof": "Verified source data: 47 reviews vs. comparison median 266; gap 219."
         }
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 25 reviews vs. comparison median 230; gap 205.",
+      "primary_sales_angle_verified": "Verified source data: 47 reviews vs. comparison median 266; gap 219.",
       "proof": [
-        "Verified source data: 25 reviews vs. comparison median 230; gap 205."
+        "Verified source data: 47 reviews vs. comparison median 266; gap 219."
       ],
-      "email": "bastgen@bastgen-berlin.com",
-      "email_source_url": "https://bastgen-berlin.com/impressum/",
+      "email": "info@kleintierpraxis-spieker.de",
+      "email_source_url": "https://kleintierpraxis-spieker.de/impressum/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T12:11:13.962573+00:00",
+      "email_found_at": "2026-09-13T19:48:23.508836+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-13",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
-      "company_name": "H-A Nails Krefeld",
-      "industry": "Nagelstudio",
-      "city": "Krefeld",
-      "source_total_score": 86,
+      "lead_id": "tiergesundheitszentrum pankow|berlin|https://www.tgz-pankow.de/",
+      "company_name": "Tiergesundheitszentrum Pankow",
+      "industry": "Tierarzt",
+      "city": "Berlin",
+      "source_total_score": 85,
       "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/H-A+Nails+Krefeld/data=!4m7!3m6!1s0x47b8a5ee0cf579d9:0xc37461feeec7b00d!8m2!3d51.3324009!4d6.5626861!16s%2Fg%2F11nc03fdyh!19sChIJ2Xn1DO6luEcRDbDH7v5hdMM?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://hanailskrefeld.setmore.com/",
+      "google_maps_url": "https://www.google.com/maps/place/Tiergesundheitszentrum+Pankow/data=!4m7!3m6!1s0x25864ec720c7bf75:0x8bff644efcffc496!8m2!3d52.5950135!4d13.4641914!16s%2Fg%2F11yz9_h3_y!19sChIJdb_HIMdOhiURlsT__E5k_4s?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.tgz-pankow.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -94,34 +91,29 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://hanailskrefeld.setmore.com/",
-        "booking_link": "https://hanailskrefeld.setmore.com/#booking-page-hero-1",
+        "website_final_url": "https://www.tgz-pankow.de/",
+        "booking_link": null,
         "social_links": [
-          "https://www.instagram.com/hanails.krefeld/",
-          "https://www.facebook.com/profile.php?id=61577818757726"
+          "https://www.instagram.com/tgz_pankow/"
         ],
-        "contact_page_observed": false,
+        "contact_page_observed": true,
         "website_service_matches": [],
         "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (2 link(s)).",
+          "Active social-link footprint observed (1 link(s)).",
+          "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "nguyenvancuongna1995@gmail.com",
-        "email_source_url": "https://hanailskrefeld.setmore.com/",
+        "email": "info@tgz-pankow.de",
+        "email_source_url": "https://www.tgz-pankow.de/impressum",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T12:11:20.540735+00:00"
+        "email_found_at": "2026-09-13T19:48:31.823887+00:00"
       },
       "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 95,
+      "deep_qa_score": 92,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 26 reviews vs. comparison median 129; gap 103."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
+          "proof": "Verified source data: 59 reviews vs. comparison median 1150; gap 1091."
         },
         {
           "type": "digital_maturity_social",
@@ -130,30 +122,29 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 26 reviews vs. comparison median 129; gap 103.",
+      "primary_sales_angle_verified": "Verified source data: 59 reviews vs. comparison median 1150; gap 1091.",
       "proof": [
-        "Verified source data: 26 reviews vs. comparison median 129; gap 103.",
-        "Online booking/appointment link observed on website.",
+        "Verified source data: 59 reviews vs. comparison median 1150; gap 1091.",
         "Business website links to at least one social profile."
       ],
-      "email": "nguyenvancuongna1995@gmail.com",
-      "email_source_url": "https://hanailskrefeld.setmore.com/",
+      "email": "info@tgz-pankow.de",
+      "email_source_url": "https://www.tgz-pankow.de/impressum",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T12:11:20.540735+00:00",
+      "email_found_at": "2026-09-13T19:48:31.823887+00:00",
       "airtable_ready": true,
       "qa_date": "2026-09-13",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "city nails - krefeld|krefeld|https://esinafsar.com/city-nails/",
-      "company_name": "City Nails - Krefeld",
-      "industry": "Nagelstudio",
-      "city": "Krefeld",
-      "source_total_score": 84,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/City+Nails+-+Krefeld/data=!4m7!3m6!1s0x47b8bb78011527f1:0xfc9f8b86868929a7!8m2!3d51.330857!4d6.5784178!16s%2Fg%2F11knchwl5c!19sChIJ8ScVAXi7uEcRpymJhoaLn_w?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://esinafsar.com/city-nails/",
+      "lead_id": "tierarztpraxis hernández|sankt augustin|https://tierarztpraxishernandez.com/",
+      "company_name": "Tierarztpraxis Hernández",
+      "industry": "Tierarzt",
+      "city": "Sankt Augustin",
+      "source_total_score": 85,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Hern%C3%A1ndez/data=!4m7!3m6!1s0x47bedda562fdac9d:0x91974cd7188e959a!8m2!3d50.8065417!4d7.2290017!16s%2Fg%2F11w299jxxz!19sChIJnaz9YqXdvkcRmpWOGNdMl5E?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://tierarztpraxishernandez.com/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -171,51 +162,54 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://esinafsar.com/city-nails/",
+        "website_final_url": "https://tierarztpraxishernandez.com/",
         "booking_link": null,
         "social_links": [],
-        "contact_page_observed": false,
-        "website_service_matches": [],
-        "website_evidence": [],
-        "email": null,
-        "email_source_url": null,
-        "email_verification_status": "EMAIL_MISSING",
-        "email_found_at": null
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "labor"
+        ],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "tierarztpraxishh@gmail.com",
+        "email_source_url": "https://tierarztpraxishernandez.com/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T19:48:39.736895+00:00"
       },
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 89,
+      "deep_qa_score": 90,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 48 reviews vs. comparison median 129; gap 81."
+          "proof": "Verified source data: 79 reviews vs. comparison median 266; gap 187."
         }
       ],
       "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
-      ],
-      "primary_sales_angle_verified": "Verified source data: 48 reviews vs. comparison median 129; gap 81.",
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 79 reviews vs. comparison median 266; gap 187.",
       "proof": [
-        "Verified source data: 48 reviews vs. comparison median 129; gap 81."
+        "Verified source data: 79 reviews vs. comparison median 266; gap 187."
       ],
-      "email": null,
-      "email_source_url": null,
-      "email_verification_status": "EMAIL_MISSING",
-      "email_found_at": null,
+      "email": "tierarztpraxishh@gmail.com",
+      "email_source_url": "https://tierarztpraxishernandez.com/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T19:48:39.736895+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-13",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "torami nails · lashes|krefeld|https://beacons.ai/torami.co",
-      "company_name": "TORAMI nails · lashes",
-      "industry": "Nagelstudio",
+      "lead_id": "tierarztpraxis lisa plagge|krefeld|https://tierarzt-plagge.de/",
+      "company_name": "Tierarztpraxis Lisa Plagge",
+      "industry": "Tierarzt",
       "city": "Krefeld",
-      "source_total_score": 81,
+      "source_total_score": 85,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/TORAMI+nails+%C2%B7+lashes/data=!4m7!3m6!1s0x47b8a5d20831d8bb:0x820a9816414f6dec!8m2!3d51.3321807!4d6.562825!16s%2Fg%2F11ywmgfyjh!19sChIJu9gxCNKluEcR7G1PQRaYCoI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://beacons.ai/torami.co",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Lisa+Plagge/data=!4m7!3m6!1s0x47b8a57dddfeb591:0xcf1a49b6cc8143b8!8m2!3d51.3421087!4d6.5643241!16s%2Fg%2F11tghbdqwt!19sChIJkbX-3X2luEcRuEOBzLZJGs8?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://tierarzt-plagge.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -232,39 +226,108 @@
         ]
       },
       "website_check": {
-        "website_accessible": false,
-        "website_final_url": "https://beacons.ai/torami.co",
+        "website_accessible": true,
+        "website_final_url": "https://tierarzt-plagge.de/",
         "booking_link": null,
         "social_links": [],
-        "contact_page_observed": false,
-        "website_service_matches": [],
-        "website_evidence": [],
-        "email": null,
-        "email_source_url": null,
-        "email_verification_status": "EMAIL_MISSING",
-        "email_found_at": null
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "impfung",
+          "chirurgie"
+        ],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "mail@tierarzt-plagge.de",
+        "email_source_url": "https://tierarzt-plagge.de/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T19:48:48.362439+00:00"
       },
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 83,
+      "deep_qa_score": 90,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 26 reviews vs. comparison median 129; gap 103."
+          "proof": "Verified source data: 66 reviews vs. comparison median 384; gap 318."
         }
       ],
       "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Website could not be verified as accessible in this run.",
-        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
-      ],
-      "primary_sales_angle_verified": "Verified source data: 26 reviews vs. comparison median 129; gap 103.",
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 66 reviews vs. comparison median 384; gap 318.",
       "proof": [
-        "Verified source data: 26 reviews vs. comparison median 129; gap 103."
+        "Verified source data: 66 reviews vs. comparison median 384; gap 318."
       ],
-      "email": null,
-      "email_source_url": null,
-      "email_verification_status": "EMAIL_MISSING",
-      "email_found_at": null,
+      "email": "mail@tierarzt-plagge.de",
+      "email_source_url": "https://tierarzt-plagge.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T19:48:48.362439+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "tiergesundheitszentrum an der flora (ex tierarztpraxis am nippeser tälchen)|koeln|https://www.vet-nippes.de/",
+      "company_name": "Tiergesundheitszentrum an der Flora (ex Tierarztpraxis am Nippeser Tälchen)",
+      "industry": "Tierarzt",
+      "city": "Koeln",
+      "source_total_score": 83,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Tiergesundheitszentrum+an+der+Flora+%28ex+Tierarztpraxis+am+Nippeser+T%C3%A4lchen%29/data=!4m7!3m6!1s0x47bf2581ec348819:0xefafa6d117c7aec1!8m2!3d50.9670622!4d6.9677389!16s%2Fg%2F1tcyk55w!19sChIJGYg07IElv0cRwa7HF9Gmr-8?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.vet-nippes.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.vet-nippes.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "chirurgie",
+          "ultraschall"
+        ],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@vet-nippes.de",
+        "email_source_url": "https://www.vet-nippes.de/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T19:49:48.642639+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 88,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 311 reviews vs. comparison median 541; gap 230."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 311 reviews vs. comparison median 541; gap 230.",
+      "proof": [
+        "Verified source data: 311 reviews vs. comparison median 541; gap 230."
+      ],
+      "email": "info@vet-nippes.de",
+      "email_source_url": "https://www.vet-nippes.de/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T19:49:48.642639+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-13",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
@@ -272,7 +335,7 @@
     }
   ],
   "state": {
-    "runs": 14,
+    "runs": 15,
     "processed_ids": [
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -322,10 +385,15 @@
       "since eleven - friseure|koeln|https://www.since-eleven.de/",
       "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
+      "tierarztpraxis am wohnpark|sankt augustin|https://kleintierpraxis-spieker.de/",
       "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
       "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
+      "tierarztpraxis hernández|sankt augustin|https://tierarztpraxishernandez.com/",
+      "tierarztpraxis lisa plagge|krefeld|https://tierarzt-plagge.de/",
       "tierarztpraxis tiergesundheitszentrum münchen|muenchen|http://www.verhaltenstherapie-tier.de/",
       "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
+      "tiergesundheitszentrum an der flora (ex tierarztpraxis am nippeser tälchen)|koeln|https://www.vet-nippes.de/",
+      "tiergesundheitszentrum pankow|berlin|https://www.tgz-pankow.de/",
       "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
       "torami nails · lashes|krefeld|https://beacons.ai/torami.co",
       "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
@@ -341,12 +409,12 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 66,
-    "remaining_eligible": 0,
-    "last_batch_count": 4,
-    "final_a_total": 31,
-    "final_b_total": 35,
-    "email_ready_total": 19,
+    "processed_count": 71,
+    "remaining_eligible": 7,
+    "last_batch_count": 5,
+    "final_a_total": 32,
+    "final_b_total": 39,
+    "email_ready_total": 20,
     "email_missing_total": 24
   }
 }

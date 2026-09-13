@@ -14,6 +14,7 @@ SCOUT_RESULTS = Path('results/intent_scout_results.json')
 SCOUT_STATE = Path('results/intent_scout_state.json')
 FALLBACK_STATE = Path('results/intent_browser_fallback_state.json')
 FALLBACK_LATEST = Path('results/intent_browser_fallback_latest.json')
+LEARNING = Path('results/intent_learning_config.json')
 
 QUERIES = [
     '"Google Business Profile" German Local SEO freelancer job',
@@ -71,7 +72,6 @@ def site_constraint(query: str) -> str | None:
 
 
 def unwrap_bing_url(url: str) -> str:
-    """Turn Bing click-tracking URLs into the real destination when possible."""
     try:
         parsed = urlparse(url)
         if 'bing.com' not in parsed.netloc.lower():
@@ -80,7 +80,6 @@ def unwrap_bing_url(url: str) -> str:
         if not raw:
             return url
         raw = unquote(raw)
-        # Bing commonly prefixes the urlsafe-base64 payload with 'a1'.
         if raw.startswith('a1'):
             payload = raw[2:]
             payload += '=' * (-len(payload) % 4)
@@ -94,7 +93,16 @@ def unwrap_bing_url(url: str) -> str:
     return url
 
 
-def qualify(url: str, title: str, snippet: str, query: str, provider: str):
+def query_plan(config: dict) -> list[str]:
+    paused = set(config.get('paused_queries') or [])
+    weights = config.get('query_weights') or {}
+    active = [q for q in QUERIES if q not in paused]
+    if len(active) < 3:
+        active = list(QUERIES)
+    return sorted(active, key=lambda q: float(weights.get(q, 1.0)), reverse=True)
+
+
+def qualify(url: str, title: str, snippet: str, query: str, provider: str, blocked_domains: set[str] | None = None):
     target = unwrap_bing_url(url)
     if not target.startswith('http'):
         return None
@@ -103,11 +111,11 @@ def qualify(url: str, title: str, snippet: str, query: str, provider: str):
     text = f'{title} {snippet}'.lower()
     expected = site_constraint(query)
 
-    # For site-restricted searches, never accept a result outside the requested site.
     if expected and not (host == expected or host.endswith('.' + expected)):
         return None
-    # Never store a search-engine redirect as the source lead URL.
     if host in {'bing.com', 'google.com', 'duckduckgo.com'}:
+        return None
+    if blocked_domains and any(host == d or host.endswith('.' + d) for d in blocked_domains):
         return None
     if any(x in text for x in EXCLUDED):
         return None
@@ -117,9 +125,6 @@ def qualify(url: str, title: str, snippet: str, query: str, provider: str):
     relevant_hits = sum(1 for x in RELEVANCE if x in text)
     intent_hits = sum(1 for x in ACTIVE_INTENT if x in text)
     marketplace = any(host == d or host.endswith('.' + d) for d in JOB_MARKETPLACES)
-
-    # A real opportunity needs LOCENIX relevance plus explicit demand language,
-    # or it must be a relevant listing on a known project/job marketplace.
     if relevant_hits < 1:
         return None
     if intent_hits < 1 and not marketplace:
@@ -151,23 +156,30 @@ def should_run() -> bool:
 
 def main() -> None:
     now = datetime.now(timezone.utc).isoformat()
+    learning = load(LEARNING, {})
+    plan = query_plan(learning)
+    blocked_domains = set(learning.get('blocked_domains') or [])
+
     if not should_run():
         state = {
             'agent': 'AGENT_15A_BROWSER_FALLBACK', 'last_run_at': now,
             'status': 'SKIPPED_NOT_NEEDED', 'signals_added': 0, 'pages_checked': 0,
             'blocked_pages': 0, 'human_action_required': 0, 'errors': 0,
+            'learning_config_used': bool(learning), 'queries_planned': len(plan),
         }
         FALLBACK_STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
         print(json.dumps(state, ensure_ascii=False))
         return
 
     scout = load(SCOUT_RESULTS, {'signals': []})
-    # Drop browser-fallback records from older runs that no longer pass hardened qualification.
     retained = []
     removed_stale = 0
     for old in scout.get('signals', []):
         if old.get('browser_fallback'):
-            refreshed = qualify(old.get('source_url') or '', old.get('title') or '', old.get('snippet') or '', old.get('query') or '', old.get('provider') or 'cloud_browser_bing')
+            refreshed = qualify(
+                old.get('source_url') or '', old.get('title') or '', old.get('snippet') or '',
+                old.get('query') or '', old.get('provider') or 'cloud_browser_bing', blocked_domains,
+            )
             if not refreshed:
                 removed_stale += 1
                 continue
@@ -186,7 +198,7 @@ def main() -> None:
         )
         page = context.new_page()
 
-        for query in QUERIES:
+        for query in plan:
             search_url = 'https://www.bing.com/search?q=' + quote(query)
             try:
                 page.goto(search_url, wait_until='domcontentloaded', timeout=30000)
@@ -208,7 +220,7 @@ def main() -> None:
                         snippet = (li.inner_text(timeout=3000) or '').strip()
                     except Exception:
                         snippet = title
-                    item = qualify(href, title, snippet, query, 'cloud_browser_bing')
+                    item = qualify(href, title, snippet, query, 'cloud_browser_bing', blocked_domains)
                     if not item or item['source_url'] in existing:
                         continue
                     item.update({
@@ -232,9 +244,14 @@ def main() -> None:
         'signals_added': len(added), 'stale_signals_removed': removed_stale,
         'pages_checked': pages_checked, 'blocked_pages': len(blockers),
         'human_action_required': len(blockers), 'errors': len(errors),
+        'learning_config_used': bool(learning), 'queries_planned': len(plan),
+        'blocked_domains_learned': len(blocked_domains),
     }
     FALLBACK_STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    FALLBACK_LATEST.write_text(json.dumps({'state': state, 'added': added[:25], 'blockers': blockers[:10], 'errors': errors[:10]}, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    FALLBACK_LATEST.write_text(json.dumps({
+        'state': state, 'query_plan': plan, 'added': added[:25],
+        'blockers': blockers[:10], 'errors': errors[:10],
+    }, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(json.dumps(state, ensure_ascii=False))
 
 

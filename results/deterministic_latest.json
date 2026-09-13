@@ -1,18 +1,249 @@
 {
-  "accepted": [],
-  "accepted_count": 0,
-  "rejected_count": 23,
+  "accepted": [
+    {
+      "company_name": "Kleintierzentrum Bonn Hardtberg",
+      "industry": "Tierarzt",
+      "city": "Bonn",
+      "address": "Fritz-Bauer-Straße 44, 53123 Bonn, Deutschland",
+      "website": "https://www.kleintierzentrum-bonn.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Kleintierzentrum+Bonn+Hardtberg/data=!4m7!3m6!1s0x47bee39486feb1d9:0xc10a7ea015231e49!8m2!3d50.7077619!4d7.0594256!16s%2Fg%2F11y_b0hyr_!19sChIJ2bH-hpTjvkcRSR4jFaB-CsE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 228 3297750",
+      "public_business_email": "info@kleintierzentrum-bonn.de",
+      "email_source_url": "https://kleintierzentrum-bonn.de/",
+      "contact_form_url": "https://kleintierzentrum-bonn.de/wp-content/plugins/elementor/assets/css/widget-contact-buttons-base.min.css?ver=4.2.4",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.4,
+      "google_review_count": 37,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "chirurgie"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Tierärztliche Praxis am Römerlager Dr. Dr. Axel Holst & Max Holst GbR",
+      "competitor_1_reviews": 630,
+      "competitor_2": "Kleintierpraxis Amin GmbH",
+      "competitor_2_reviews": 404,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "37 eigene Bewertungen vs. lokaler Wettbewerbsmedian 298; Gap 261."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 37 Google-Bewertungen."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.4; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 3,
+      "report_potential_score": 28,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 89,
+      "competitor_review_median": 298,
+      "review_gap": 261,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "37 eigene Bewertungen vs. lokaler Wettbewerbsmedian 298; Gap 261.",
+      "proof": [
+        "37 eigene Bewertungen vs. lokaler Wettbewerbsmedian 298; Gap 261.",
+        "Nur 37 Google-Bewertungen.",
+        "Google-Bewertung 4.4; sichtbares Reputationspotenzial."
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "37 eigene Bewertungen vs. lokaler Wettbewerbsmedian 298; Gap 261.",
+      "second_outreach_angle": "Nur 37 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Bonn. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Kleintierpraxis an der Oker - Ihr Tierarzt in Braunschweig",
+      "industry": "Tierarzt",
+      "city": "Braunschweig",
+      "address": "Neustadtring 30A, 38114 Braunschweig-Westliches Ringgebiet, Deutschland",
+      "website": "http://www.kleintierpraxis-oker.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+an+der+Oker+-+Ihr+Tierarzt+in+Braunschweig/data=!4m7!3m6!1s0x47aff66318024a69:0xea7cdb7beae66750!8m2!3d52.273867!4d10.512765!16s%2Fg%2F11xl4jdww!19sChIJaUoCGGP2r0cRUGfm6nvbfOo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 531 58049672",
+      "public_business_email": "info@kleintierpraxis-oker.de",
+      "email_source_url": "https://kleintierpraxis-oker.de/",
+      "contact_form_url": null,
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.6,
+      "google_review_count": 129,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "impfung",
+        "chirurgie",
+        "zahnsanierung",
+        "ultraschall",
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, zahnsanierung, ultraschall, labor"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Fachärztliches Zentrum – Dr. Helge Tholen Fachtierarzt für Kleintiere",
+      "competitor_1_reviews": 1216,
+      "competitor_2": "Fachtierarztpraxis Am Erzberg",
+      "competitor_2_reviews": 750,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "129 eigene Bewertungen vs. lokaler Wettbewerbsmedian 336; Gap 207."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, zahnsanierung, ultraschall, labor",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 22,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 83,
+      "competitor_review_median": 336,
+      "review_gap": 207,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "129 eigene Bewertungen vs. lokaler Wettbewerbsmedian 336; Gap 207.",
+      "proof": [
+        "129 eigene Bewertungen vs. lokaler Wettbewerbsmedian 336; Gap 207.",
+        "Google-Bewertung 4.6; sichtbares Reputationspotenzial.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, zahnsanierung, ultraschall, labor"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "129 eigene Bewertungen vs. lokaler Wettbewerbsmedian 336; Gap 207.",
+      "second_outreach_angle": "Google-Bewertung 4.6; sichtbares Reputationspotenzial.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Braunschweig. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Kleintierpraxis Wimmer",
+      "industry": "Tierarzt",
+      "city": "Braunschweig",
+      "address": "Mitgaustraße 16, 38106 Braunschweig, Deutschland",
+      "website": "http://www.kleintierpraxis-wimmer.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Wimmer/data=!4m7!3m6!1s0x47aff5d784084d35:0x827771e157018667!8m2!3d52.2819912!4d10.5309347!16s%2Fg%2F1tmk7jyt!19sChIJNU0IhNf1r0cRZ4YBV-Fxd4I?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 531 17466",
+      "public_business_email": "info@kleintierpraxis-wimmer.de",
+      "email_source_url": "https://www.kleintierpraxis-wimmer.de/",
+      "contact_form_url": "https://www.kleintierpraxis-wimmer.de/kontakt-anfahrt/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.3,
+      "google_review_count": 248,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "impfung"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Fachärztliches Zentrum – Dr. Helge Tholen Fachtierarzt für Kleintiere",
+      "competitor_1_reviews": 1216,
+      "competitor_2": "Fachtierarztpraxis Am Erzberg",
+      "competitor_2_reviews": 750,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "248 eigene Bewertungen vs. lokaler Wettbewerbsmedian 336; Gap 88."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.3; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 19,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 80,
+      "competitor_review_median": 336,
+      "review_gap": 88,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "248 eigene Bewertungen vs. lokaler Wettbewerbsmedian 336; Gap 88.",
+      "proof": [
+        "248 eigene Bewertungen vs. lokaler Wettbewerbsmedian 336; Gap 88.",
+        "Google-Bewertung 4.3; sichtbares Reputationspotenzial.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "248 eigene Bewertungen vs. lokaler Wettbewerbsmedian 336; Gap 88.",
+      "second_outreach_angle": "Google-Bewertung 4.3; sichtbares Reputationspotenzial.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Braunschweig. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
+  "accepted_count": 3,
+  "rejected_count": 20,
   "inspected": 24,
   "state": {
-    "query_cursor": 150,
-    "runs": 50,
-    "lead_count": 101,
+    "query_cursor": 153,
+    "runs": 51,
+    "lead_count": 104,
     "target_leads": 999999999,
-    "last_accepted": 0,
+    "last_accepted": 3,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 23,
-    "a_leads": 16,
-    "b_leads": 54
+    "last_rejected": 20,
+    "a_leads": 17,
+    "b_leads": 56
   }
 }

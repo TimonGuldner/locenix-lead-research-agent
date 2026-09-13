@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 18,
-  "focus": "city_exploitation",
+  "learning_run_count": 19,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Bochum",
+    "Bonn",
+    "Braunschweig"
   ],
   "selected_industries": [
-    "Logopaedie",
-    "Maler",
-    "Massagepraxis"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Logopaedie",
-      "query": "Logopaedie Hamburg"
+      "city": "Bochum",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Bochum"
     },
     {
-      "city": "Hamburg",
-      "industry": "Maler",
-      "query": "Maler Hamburg"
+      "city": "Bonn",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Bonn"
     },
     {
-      "city": "Hamburg",
-      "industry": "Massagepraxis",
-      "query": "Massagepraxis Hamburg"
+      "city": "Braunschweig",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Braunschweig"
     }
   ],
   "queries_per_run": 3

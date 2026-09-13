@@ -1,12 +1,12 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V3",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-13T00:32:46.712088+00:00",
+  "generated_at": "2026-09-13T05:21:52.220888+00:00",
   "department_status": "BACKLOG",
   "metrics": {
-    "lead_count": 61,
-    "lead_a": 6,
-    "lead_b": 24,
+    "lead_count": 70,
+    "lead_a": 8,
+    "lead_b": 31,
     "qa_remaining": 0,
     "qa_final_a": 11,
     "qa_final_b": 6,
@@ -28,7 +28,7 @@
     "email_positive_replies": 0,
     "email_trial_interest": 0,
     "email_human_reviews_required": 0,
-    "email_last_run_at": "2026-09-13T00:32:28.074187+00:00",
+    "email_last_run_at": "2026-09-13T05:21:38.266918+00:00",
     "departments_total": 1,
     "departments_proposed": 0,
     "agents_total": 9,
@@ -44,7 +44,7 @@
       "trial_interest": 0,
       "human_reviews_required": 0,
       "errors": 0,
-      "last_run_at": "2026-09-13T00:32:28.074187+00:00"
+      "last_run_at": "2026-09-13T05:21:38.266918+00:00"
     }
   },
   "departments": [

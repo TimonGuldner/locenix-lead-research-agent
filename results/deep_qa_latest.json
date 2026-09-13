@@ -1,14 +1,14 @@
 {
   "results": [
     {
-      "lead_id": "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
-      "company_name": "Immobilien55 | Immobilienmakler Köln",
-      "industry": "Immobilienmakler",
-      "city": "Koeln",
-      "source_total_score": 82,
+      "lead_id": "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
+      "company_name": "Tierarztpraxis ElbVet Hamburg",
+      "industry": "Tierarzt",
+      "city": "Hamburg",
+      "source_total_score": 81,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Immobilien55+%7C+Immobilienmakler+K%C3%B6ln/data=!4m7!3m6!1s0x47bf255dfbadfa0f:0xd09d7a2bf6c410b9!8m2!3d50.9426151!4d6.9401815!16s%2Fg%2F11qswntdsz!19sChIJD_qt-10lv0cRuRDE9it6ndA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.immobilien55.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+ElbVet+Hamburg/data=!4m7!3m6!1s0x47b1856fe7d43e95:0x6934c6336fc69d77!8m2!3d53.56439!4d9.91812!16s%2Fg%2F11h0zbm_6t!19sChIJlT7U52-FsUcRd53GbzPGNGk?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.elbvet-hamburg.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -26,96 +26,16 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://immobilien55.de/",
-        "booking_link": null,
+        "website_final_url": "https://www.elbvet-hamburg.de/",
+        "booking_link": "https://www.elbvet-hamburg.de/online-terminvergabe/",
         "social_links": [
-          "https://www.instagram.com/immobilien.55/",
-          "https://de.linkedin.com/company/immobilien-55",
-          "https://www.facebook.com/Immobilien55/",
-          "https://www.instagram.com/immobilien_55/",
-          "https://www.linkedin.com/company/immobilien-55/",
-          "https://www.linkedin.com/company/immobilien55/"
+          "https://www.instagram.com/elbvet/?hl=de"
         ],
         "contact_page_observed": true,
         "website_service_matches": [
-          "verkauf",
-          "vermietung",
-          "kapitalanlage"
-        ],
-        "website_evidence": [
-          "Active social-link footprint observed (6 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "kontakt@immobilien55.de",
-        "email_source_url": "https://immobilien55.de/impressum/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:33:31.425657+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 89,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 67 reviews vs. comparison median 177; gap 110."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 67 reviews vs. comparison median 177; gap 110.",
-      "proof": [
-        "Verified source data: 67 reviews vs. comparison median 177; gap 110.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "kontakt@immobilien55.de",
-      "email_source_url": "https://immobilien55.de/impressum/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:33:31.425657+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-13",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/",
-      "company_name": "Ästhetik Hamburg",
-      "industry": "Beauty Aesthetik",
-      "city": "Hamburg",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/%C3%84sthetik+Hamburg/data=!4m7!3m6!1s0x47b189eec1d8673f:0x35090a064aa13b7f!8m2!3d53.571063!4d10.06237!16s%2Fg%2F11fqcb47rs!19sChIJP2fYwe6JsUcRfzuhSgYKCTU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://aesthetikhamburg.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://aesthetikhamburg.de/",
-        "booking_link": "https://connect.shore.com/bookings/asthetik-hamburg--2/services",
-        "social_links": [
-          "https://www.instagram.com/aesthetik_hamburg_anna_babs/"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "hyaluron",
-          "microneedling",
-          "aesthetik"
+          "impfung",
+          "ultraschall",
+          "labor"
         ],
         "website_evidence": [
           "Online booking/appointment link observed on website.",
@@ -123,17 +43,17 @@
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@aesthetikhamburg.de",
-        "email_source_url": "https://aesthetikhamburg.de/impressum/",
+        "email": "info@elbvet-hamburg.de",
+        "email_source_url": "https://www.elbvet-hamburg.de/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:33:38.579923+00:00"
+        "email_found_at": "2026-09-13T10:37:28.579410+00:00"
       },
       "deep_qa_decision": "FINAL_A",
       "deep_qa_score": 90,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 22 reviews vs. comparison median 84; gap 62."
+          "proof": "Verified source data: 147 reviews vs. comparison median 348; gap 201."
         },
         {
           "type": "digital_maturity_booking",
@@ -146,193 +66,30 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 22 reviews vs. comparison median 84; gap 62.",
+      "primary_sales_angle_verified": "Verified source data: 147 reviews vs. comparison median 348; gap 201.",
       "proof": [
-        "Verified source data: 22 reviews vs. comparison median 84; gap 62.",
+        "Verified source data: 147 reviews vs. comparison median 348; gap 201.",
         "Online booking/appointment link observed on website.",
         "Business website links to at least one social profile."
       ],
-      "email": "info@aesthetikhamburg.de",
-      "email_source_url": "https://aesthetikhamburg.de/impressum/",
+      "email": "info@elbvet-hamburg.de",
+      "email_source_url": "https://www.elbvet-hamburg.de/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:33:38.579923+00:00",
+      "email_found_at": "2026-09-13T10:37:28.579410+00:00",
       "airtable_ready": true,
       "qa_date": "2026-09-13",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
-      "company_name": "BK Hairstyle Hamburg",
-      "industry": "Friseur",
+      "lead_id": "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
+      "company_name": "R&RRR Reifennotdienst 24h",
+      "industry": "Reifenservice",
       "city": "Hamburg",
       "source_total_score": 81,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/BK+Hairstyle+Hamburg/data=!4m7!3m6!1s0x47b18fc4d382c7a5:0xc89f8187e2435670!8m2!3d53.551028!4d10.0030044!16s%2Fg%2F11vkqhhv4t!19sChIJpceC08SPsUcRcFZD4oeBn8g?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://bk-hairstyle.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://bk-hairstyle.de/",
-        "booking_link": "https://bk-hairstyle.de/friseur-hamburg-online-termin/",
-        "social_links": [
-          "https://www.instagram.com/bk.hairstyle.hamburg/",
-          "https://www.facebook.com/profile.php?id=61552112211623"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "balayage",
-          "coloration",
-          "haarschnitt",
-          "extensions",
-          "brautfrisur"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (2 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "anfrage@bk-hairstyle.de",
-        "email_source_url": "https://bk-hairstyle.de/impressum/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:33:50.527951+00:00"
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 112 reviews vs. comparison median 300; gap 188."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 112 reviews vs. comparison median 300; gap 188.",
-      "proof": [
-        "Verified source data: 112 reviews vs. comparison median 300; gap 188.",
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "anfrage@bk-hairstyle.de",
-      "email_source_url": "https://bk-hairstyle.de/impressum/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:33:50.527951+00:00",
-      "airtable_ready": true,
-      "qa_date": "2026-09-13",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
-      "company_name": "Zahnarzt Hamburg - Dental21",
-      "industry": "Zahnarzt",
-      "city": "Hamburg",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+Hamburg+-+Dental21/data=!4m7!3m6!1s0x47b191baa9166919:0xd2afe0471e3c0c0d!8m2!3d53.5508818!4d9.9967372!16s%2Fg%2F1tfxfr8d!19sChIJGWkWqbqRsUcRDQw8Hkfgr9I?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
-        "booking_link": null,
-        "social_links": [
-          "https://www.facebook.com/dental21.de",
-          "https://www.instagram.com/dental21_de/",
-          "https://de.linkedin.com/company/dental21"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "implantate",
-          "prophylaxe",
-          "bleaching",
-          "invisalign",
-          "parodontologie"
-        ],
-        "website_evidence": [
-          "Active social-link footprint observed (3 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@dental21-europapassage.de",
-        "email_source_url": "https://www.dental21-europapassage.de/impressum",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:33:56.007595+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 525 reviews vs. comparison median 742; gap 217."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 525 reviews vs. comparison median 742; gap 217.",
-      "proof": [
-        "Verified source data: 525 reviews vs. comparison median 742; gap 217.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "info@dental21-europapassage.de",
-      "email_source_url": "https://www.dental21-europapassage.de/impressum",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:33:56.007595+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-13",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "zahnärzte in der hamburger city - dr. med. dent. daria von riewel (ehem. niemietz)|hamburg|https://zahnarzt.hamburg/",
-      "company_name": "Zahnärzte in der Hamburger City - Dr. med. dent. Daria von Riewel (ehem. Niemietz)",
-      "industry": "Zahnarzt",
-      "city": "Hamburg",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Zahn%C3%A4rzte+in+der+Hamburger+City+-+Dr.+med.+dent.+Daria+von+Riewel+%28ehem.+Niemietz%29/data=!4m7!3m6!1s0x47b18f1df6737915:0x707e946858b82224!8m2!3d53.5512086!4d10.0000082!16s%2Fg%2F1vgw_tbs!19sChIJFXlz9h2PsUcRJCK4WGiUfnA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://zahnarzt.hamburg/",
+      "google_maps_url": "https://www.google.com/maps/place/R%26RRR+Reifennotdienst+24h/data=!4m7!3m6!1s0x47b1f2dafc8d6ec7:0x36c28917a11fed21!8m2!3d53.5113594!4d10.1850543!16s%2Fg%2F11c1qydf2y!19sChIJx26N_NrysUcRIe0foReJwjY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.rundrrr.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -349,40 +106,282 @@
         ]
       },
       "website_check": {
-        "website_accessible": false,
-        "website_final_url": null,
+        "website_accessible": true,
+        "website_final_url": "https://www.rundrrr.de/",
         "booking_link": null,
         "social_links": [],
-        "contact_page_observed": false,
+        "contact_page_observed": true,
         "website_service_matches": [],
-        "website_evidence": [],
-        "email": null,
-        "email_source_url": null,
-        "email_verification_status": "EMAIL_MISSING",
-        "email_found_at": null,
-        "website_error": "TimeoutError"
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "rundrrr@yahoo.de",
+        "email_source_url": "https://www.rundrrr.de/impressum",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:37:38.739302+00:00"
       },
       "deep_qa_decision": "FINAL_B",
       "deep_qa_score": 86,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 190 reviews vs. comparison median 695; gap 505."
+          "proof": "Verified source data: 155 reviews vs. comparison median 408; gap 253."
         }
       ],
       "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Website could not be verified as accessible in this run.",
-        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
-      ],
-      "primary_sales_angle_verified": "Verified source data: 190 reviews vs. comparison median 695; gap 505.",
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 155 reviews vs. comparison median 408; gap 253.",
       "proof": [
-        "Verified source data: 190 reviews vs. comparison median 695; gap 505."
+        "Verified source data: 155 reviews vs. comparison median 408; gap 253."
       ],
-      "email": null,
-      "email_source_url": null,
-      "email_verification_status": "EMAIL_MISSING",
-      "email_found_at": null,
+      "email": "rundrrr@yahoo.de",
+      "email_source_url": "https://www.rundrrr.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:37:38.739302+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "zahnärzte im asamhof - dr. ihor prokhorenko - cmd-zentrum münchen-innenstadt|muenchen|http://zahnaerzte-im-asamhof.de/",
+      "company_name": "Zahnärzte im Asamhof - Dr. Ihor Prokhorenko - CMD-Zentrum München-Innenstadt",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Zahn%C3%A4rzte+im+Asamhof+-+Dr.+Ihor+Prokhorenko+-+CMD-Zentrum+M%C3%BCnchen-Innenstadt/data=!4m7!3m6!1s0x479e75f587d95b4f:0x1ffdd240c177ca00!8m2!3d48.1353169!4d11.5700721!16s%2Fg%2F1tfsgd3l!19sChIJT1vZh_V1nkcRAMp3wUDS_R8?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://zahnaerzte-im-asamhof.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://zahnaerzte-im-asamhof.de/",
+        "booking_link": "https://www.doctolib.de/zahnarztpraxis/muenchen/praxis-dr-max-muggenthaler",
+        "social_links": [
+          "https://www.instagram.com/zahnaerzte.asamhof/",
+          "https://www.facebook.com/Zahn%C3%A4rzte-im-Asamhof-1817229718533671/",
+          "https://www.instagram.com/p/C-pYA1kt18y/",
+          "https://www.instagram.com/reel/C-dCIkUtReZ/",
+          "https://www.instagram.com/p/C-R9_ocNw96/",
+          "https://www.instagram.com/p/C-NAxAcNhMM/",
+          "https://www.instagram.com/p/C-JDq2BthIo/",
+          "https://www.instagram.com/p/C-D9ABXt5NL/",
+          "https://www.instagram.com/reel/C9wcnf3NtdC/",
+          "https://www.instagram.com/reel/C9kRyELtZOF/",
+          "https://www.instagram.com/p/C9cD9pvtVdx/",
+          "https://www.instagram.com/reel/C9ReXUBNy94/",
+          "https://www.instagram.com/reel/C9E6fG9t_0E/",
+          "https://www.instagram.com/p/C6jUMZptVZU/",
+          "https://www.instagram.com/p/C6LwdWmN8iO/",
+          "https://www.instagram.com/p/C55dynZtVRG/",
+          "https://www.instagram.com/reel/C51ehYLN3Bh/",
+          "https://www.instagram.com/reel/C5yjsquNoBr/",
+          "https://www.instagram.com/reel/C5oizdlN25s/",
+          "https://www.instagram.com/p/C5oZiyQNpw6/",
+          "https://www.instagram.com/reel/C5jRzEBNIxs/",
+          "https://www.instagram.com/p/C5jOjdDtkvy/",
+          "https://www.facebook.com/privacy/explanation",
+          "https://www.instagram.com/legal/privacy/"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "implantate",
+          "prophylaxe",
+          "bleaching",
+          "invisalign",
+          "wurzelbehandlung"
+        ],
+        "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Active social-link footprint observed (24 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@zahnaerzte-im-asamhof.de",
+        "email_source_url": "https://zahnaerzte-im-asamhof.de/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:37:46.878999+00:00"
+      },
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 90,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 133 reviews vs. comparison median 306; gap 173."
+        },
+        {
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 133 reviews vs. comparison median 306; gap 173.",
+      "proof": [
+        "Verified source data: 133 reviews vs. comparison median 306; gap 173.",
+        "Online booking/appointment link observed on website.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "info@zahnaerzte-im-asamhof.de",
+      "email_source_url": "https://zahnaerzte-im-asamhof.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:37:46.878999+00:00",
+      "airtable_ready": true,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
+      "company_name": "Glam – Beauty & Nails Nagelstudio & Wimpernverlängerung Isartor München",
+      "industry": "Nagelstudio",
+      "city": "Muenchen",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Glam+%E2%80%93+Beauty+%26+Nails+Nagelstudio+%26+Wimpernverl%C3%A4ngerung+Isartor+M%C3%BCnchen/data=!4m7!3m6!1s0x479ddf968e6fb785:0x68497e29893198fb!8m2!3d48.1339065!4d11.5823467!16s%2Fg%2F11hzsllf7v!19sChIJhbdvjpbfnUcR-5gxiSl-SWg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.glambeautynails.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.glambeautynails.de/",
+        "booking_link": null,
+        "social_links": [
+          "https://www.facebook.com/glammunich",
+          "https://www.instagram.com/glammunich/"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [],
+        "website_evidence": [
+          "Active social-link footprint observed (2 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@glambeautynails.de",
+        "email_source_url": "https://www.glambeautynails.de/impressum",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:37:54.592344+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 88,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 239 reviews vs. comparison median 395; gap 156."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 239 reviews vs. comparison median 395; gap 156.",
+      "proof": [
+        "Verified source data: 239 reviews vs. comparison median 395; gap 156.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "info@glambeautynails.de",
+      "email_source_url": "https://www.glambeautynails.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:37:54.592344+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
+      "company_name": "Podologie Praxis Marina Schwingeler-Hühne (Podologin)",
+      "industry": "Podologie",
+      "city": "Koeln",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Podologie+Praxis+Marina+Schwingeler-H%C3%BChne+%28Podologin%29/data=!4m7!3m6!1s0x417186898de510c9:0x3aeba9bc1a534951!8m2!3d50.930366!4d6.942971!16s%2Fg%2F1tf3yhs0!19sChIJyRDljYmGcUERUUlTGryp6zo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://podologekoeln.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://podologekoeln.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "podologie"
+        ],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "webanfrage@podologekoeln.de",
+        "email_source_url": "https://podologekoeln.de/kontakt/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:38:03.867885+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 24 reviews vs. comparison median 91; gap 67."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 24 reviews vs. comparison median 91; gap 67.",
+      "proof": [
+        "Verified source data: 24 reviews vs. comparison median 91; gap 67."
+      ],
+      "email": "webanfrage@podologekoeln.de",
+      "email_source_url": "https://podologekoeln.de/kontakt/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:38:03.867885+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-13",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
@@ -390,7 +389,7 @@
     }
   ],
   "state": {
-    "runs": 10,
+    "runs": 11,
     "processed_ids": [
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -401,6 +400,7 @@
       "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
       "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
       "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
+      "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
       "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
       "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
       "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
@@ -418,13 +418,16 @@
       "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
       "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
       "podologie edelmann|berlin|https://podologie-edelmann.com/",
+      "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
       "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
+      "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
       "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
       "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
       "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
       "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
       "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
+      "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
       "tierarztpraxis tiergesundheitszentrum münchen|muenchen|http://www.verhaltenstherapie-tier.de/",
       "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
       "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
@@ -435,17 +438,18 @@
       "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
       "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
       "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/",
+      "zahnärzte im asamhof - dr. ihor prokhorenko - cmd-zentrum münchen-innenstadt|muenchen|http://zahnaerzte-im-asamhof.de/",
       "zahnärzte in der hamburger city - dr. med. dent. daria von riewel (ehem. niemietz)|hamburg|https://zahnarzt.hamburg/",
       "zentrum für kleintiermedizin münchen|muenchen|https://www.zk-muc.de/",
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 47,
-    "remaining_eligible": 15,
+    "processed_count": 52,
+    "remaining_eligible": 10,
     "last_batch_count": 5,
-    "final_a_total": 28,
-    "final_b_total": 19,
-    "email_ready_total": 16,
+    "final_a_total": 30,
+    "final_b_total": 22,
+    "email_ready_total": 18,
     "email_missing_total": 21
   }
 }

@@ -1,5 +1,5 @@
 {
-  "runs": 8,
+  "runs": 9,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -9,12 +9,16 @@
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
     "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
+    "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
     "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
     "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
     "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
+    "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
     "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
+    "kosmetikstudio la perla - lehel münchen|muenchen|https://www.laperla-beauty.de/",
     "maison de nails berlin|berlin|https://maisondenails.de/",
+    "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
     "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
     "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
@@ -32,6 +36,7 @@
     "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
     "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
     "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
+    "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
     "walk again center|berlin|https://walk-again.de/",
     "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
     "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
@@ -39,11 +44,11 @@
     "zentrum für kleintiermedizin münchen|muenchen|https://www.zk-muc.de/",
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/"
   ],
-  "processed_count": 37,
-  "remaining_eligible": 25,
+  "processed_count": 42,
+  "remaining_eligible": 20,
   "last_batch_count": 5,
-  "final_a_total": 24,
-  "final_b_total": 13,
-  "email_ready_total": 13,
-  "email_missing_total": 19
+  "final_a_total": 26,
+  "final_b_total": 16,
+  "email_ready_total": 14,
+  "email_missing_total": 20
 }

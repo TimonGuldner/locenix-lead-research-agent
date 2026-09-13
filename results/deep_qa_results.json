@@ -1521,6 +1521,85 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
+    "company_name": "Valera Tierklinik Berlin",
+    "industry": "Tierarzt",
+    "city": "Berlin",
+    "source_total_score": 83,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Valera+Tierklinik+Berlin/data=!4m7!3m6!1s0x47a85bc4b5b44561:0x815ff66b6440125e!8m2!3d52.4337469!4d13.2467881!16s%2Fg%2F11t28f8n9h!19sChIJYUW0tcRbqEcRXhJAZGv2X4E?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.valeratierklinikberlin.com/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.valeratierklinikberlin.com/",
+      "booking_link": "https://app.petsxl.com/#/signin/appointment-registration-start/10e1b8c6-ded4-4d2a-8fb5-0b0945042e56",
+      "social_links": [
+        "https://www.instagram.com/valera_berlin/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "chirurgie"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (1 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@valeratierklinikberlin.com",
+      "email_source_url": "https://www.valeratierklinikberlin.com/about/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:30:15.750660+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 92,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 637 reviews vs. comparison median 1944; gap 1307."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 637 reviews vs. comparison median 1944; gap 1307.",
+    "proof": [
+      "Verified source data: 637 reviews vs. comparison median 1944; gap 1307.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@valeratierklinikberlin.com",
+    "email_source_url": "https://www.valeratierklinikberlin.com/about/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:30:15.750660+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
     "company_name": "Physiotherapiepraxis Monolith",
     "industry": "Physiotherapie",
@@ -1663,6 +1742,87 @@
     "email_verification_status": "PUBLICLY_OBSERVED",
     "email_found_at": "2026-09-13T10:23:37.322011+00:00",
     "airtable_ready": true,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "kosmetikstudio la perla - lehel münchen|muenchen|https://www.laperla-beauty.de/",
+    "company_name": "KOSMETIKSTUDIO LA PERLA - LEHEL MÜNCHEN",
+    "industry": "Kosmetikstudio",
+    "city": "Muenchen",
+    "source_total_score": 82,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/KOSMETIKSTUDIO+LA+PERLA+-+LEHEL+M%C3%9CNCHEN/data=!4m7!3m6!1s0x479e758f70b6fd15:0x6f4f5020f43e3ce9!8m2!3d48.1405587!4d11.588608!16s%2Fg%2F11f4pxvxwk!19sChIJFf22cI91nkcR6Tw-9CBQT28?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.laperla-beauty.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.laperla-beauty.de/",
+      "booking_link": "https://buchung.treatwell.de/ort/426395/menue/",
+      "social_links": [
+        "https://instagram.com/la_perla_kosmetikstudio"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "microneedling",
+        "gesichtsbehandlung"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (1 link(s)).",
+        "Contact/imprint page observed on website."
+      ],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 91,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 54 reviews vs. comparison median 148; gap 94."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+    ],
+    "primary_sales_angle_verified": "Verified source data: 54 reviews vs. comparison median 148; gap 94.",
+    "proof": [
+      "Verified source data: 54 reviews vs. comparison median 148; gap 94.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": null,
+    "email_source_url": null,
+    "email_verification_status": "EMAIL_MISSING",
+    "email_found_at": null,
+    "airtable_ready": false,
     "qa_date": "2026-09-13",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
@@ -2329,6 +2489,152 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
+    "company_name": "Makler mit Herz Immobilienmakler Hamburg",
+    "industry": "Immobilienmakler",
+    "city": "Hamburg",
+    "source_total_score": 82,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Makler+mit+Herz+Immobilienmakler+Hamburg/data=!4m7!3m6!1s0x47b22188712cf1a9:0x9ca6ba3e6c0e61c4!8m2!3d53.5457897!4d9.9924916!16s%2Fg%2F11lkprxkg1!19sChIJqfEscYghskcRxGEObD66ppw?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.maklermitherz-hamburg.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://maklermitherz-hamburg.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.instagram.com/maklermitherz/",
+        "https://www.facebook.com/kerstin.vonlangsdorff"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "verkauf"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "kvl@maklermitherz-hamburg.de",
+      "email_source_url": "https://maklermitherz-hamburg.de/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:30:34.183322+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 39 reviews vs. comparison median 123; gap 84."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 39 reviews vs. comparison median 123; gap 84.",
+    "proof": [
+      "Verified source data: 39 reviews vs. comparison median 123; gap 84.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "kvl@maklermitherz-hamburg.de",
+    "email_source_url": "https://maklermitherz-hamburg.de/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:30:34.183322+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
+    "company_name": "Kosmetik BelaTime I Kosmetikstudio Köln",
+    "industry": "Kosmetikstudio",
+    "city": "Koeln",
+    "source_total_score": 82,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Kosmetik+BelaTime+I+Kosmetikstudio+K%C3%B6ln/data=!4m7!3m6!1s0x47bf2503962be271:0x3452e0e3f0b7ab8c!8m2!3d50.9359771!4d6.9342742!16s%2Fg%2F1tjjnht3!19sChIJceIrlgMlv0cRjKu38OPgUjQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://belatime-kosmetik.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://belatime-kosmetik.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/profile.php?id=100076517502298",
+        "https://www.instagram.com/belatime.kosmetik/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "hello@belatime-kosmetik.de",
+      "email_source_url": "https://belatime-kosmetik.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:30:48.051144+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 46 reviews vs. comparison median 172; gap 126."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 46 reviews vs. comparison median 172; gap 126.",
+    "proof": [
+      "Verified source data: 46 reviews vs. comparison median 172; gap 126.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "hello@belatime-kosmetik.de",
+    "email_source_url": "https://belatime-kosmetik.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:30:48.051144+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "company_name": "MANU Elektrobau GmbH",
     "industry": "Elektriker",
@@ -2564,6 +2870,75 @@
     "airtable_ready": false,
     "qa_date": "2026-09-12",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
+    "company_name": "Glow Kosmetik Hamburg",
+    "industry": "Kosmetikstudio",
+    "city": "Hamburg",
+    "source_total_score": 82,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Glow+Kosmetik+Hamburg/data=!4m7!3m6!1s0x47b1917f28a03343:0xef52616a76681f0a!8m2!3d53.4567367!4d9.9790897!16s%2Fg%2F11rpdbphgd!19sChIJQzOgKH-RsUcRCh9odmphUu8?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.planity.com/de-DE/glow-kosmetik-21073-hamburg-o52",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.planity.com/de-DE/glow-kosmetik-21073-hamburg-o52",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "microneedling",
+        "gesichtsbehandlung",
+        "aquafacial",
+        "wimpern",
+        "augenbrauen"
+      ],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "kontakt@planity.com",
+      "email_source_url": "https://www.planity.com/de-DE/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:30:22.052343+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 69 reviews vs. comparison median 162; gap 93."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 69 reviews vs. comparison median 162; gap 93.",
+    "proof": [
+      "Verified source data: 69 reviews vs. comparison median 162; gap 93."
+    ],
+    "email": "kontakt@planity.com",
+    "email_source_url": "https://www.planity.com/de-DE/impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:30:22.052343+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
   },
   {

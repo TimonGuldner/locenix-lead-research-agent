@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T23:41:57.728329+00:00",
+  "generated_at": "2026-09-13T04:46:21.296451+00:00",
   "items": [
     {
       "signal_id": "intent-7e56262cde92330b",
@@ -68,11 +68,12 @@
       "review_status": "PENDING_QA",
       "department": "intent_opportunity_acquisition",
       "browser_fallback": true,
-      "tier": "WARM",
-      "intent_score": 95,
-      "qa_reason": "Clear LOCENIX-relevant problem/optimization signal without explicit purchase language.",
-      "qa_at": "2026-09-12T23:38:42.806591+00:00",
-      "airtable_record_id": "recKCoJ0M9biMYFgV"
+      "tier": "REJECT",
+      "intent_score": 0,
+      "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
+      "qa_at": "2026-09-13T04:46:21.296451+00:00",
+      "airtable_record_id": "recKCoJ0M9biMYFgV",
+      "quarantined": true
     },
     {
       "signal_id": "intent-993785dbc53a3977",
@@ -87,11 +88,12 @@
       "review_status": "PENDING_QA",
       "department": "intent_opportunity_acquisition",
       "browser_fallback": true,
-      "tier": "WARM",
-      "intent_score": 95,
-      "qa_reason": "Clear LOCENIX-relevant problem/optimization signal without explicit purchase language.",
-      "qa_at": "2026-09-12T23:38:42.806591+00:00",
-      "airtable_record_id": "recdMOIiK8tKSTBCL"
+      "tier": "REJECT",
+      "intent_score": 0,
+      "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
+      "qa_at": "2026-09-13T04:46:21.296451+00:00",
+      "airtable_record_id": "recdMOIiK8tKSTBCL",
+      "quarantined": true
     },
     {
       "signal_id": "intent-3a83bb3b71ed1a85",
@@ -106,11 +108,12 @@
       "review_status": "PENDING_QA",
       "department": "intent_opportunity_acquisition",
       "browser_fallback": true,
-      "tier": "WARM",
-      "intent_score": 95,
-      "qa_reason": "Clear LOCENIX-relevant problem/optimization signal without explicit purchase language.",
-      "qa_at": "2026-09-12T23:38:42.806591+00:00",
-      "airtable_record_id": "recf8hKuR6ZUMW7q7"
+      "tier": "REJECT",
+      "intent_score": 0,
+      "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
+      "qa_at": "2026-09-13T04:46:21.296451+00:00",
+      "airtable_record_id": "recf8hKuR6ZUMW7q7",
+      "quarantined": true
     },
     {
       "signal_id": "intent-13bb4abedf1b4540",
@@ -125,11 +128,12 @@
       "review_status": "PENDING_QA",
       "department": "intent_opportunity_acquisition",
       "browser_fallback": true,
-      "tier": "WARM",
-      "intent_score": 95,
-      "qa_reason": "Clear LOCENIX-relevant problem/optimization signal without explicit purchase language.",
-      "qa_at": "2026-09-12T23:38:42.806591+00:00",
-      "airtable_record_id": "reck6F7I6pAlvyRZD"
+      "tier": "REJECT",
+      "intent_score": 0,
+      "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
+      "qa_at": "2026-09-13T04:46:21.296451+00:00",
+      "airtable_record_id": "reck6F7I6pAlvyRZD",
+      "quarantined": true
     }
   ]
 }

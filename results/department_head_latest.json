@@ -1,12 +1,20 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V3",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-13T05:21:52.220888+00:00",
+  "generated_at": "2026-09-13T06:20:16.597121+00:00",
   "department_status": "BACKLOG",
   "metrics": {
-    "lead_count": 70,
-    "lead_a": 8,
-    "lead_b": 31,
+    "lead_count": 74,
+    "lead_a": 9,
+    "lead_b": 34,
+    "maps_learning_available": true,
+    "maps_learning_status": "OK",
+    "maps_learning_runs": 1,
+    "maps_learning_evaluated": 74,
+    "maps_learning_downstream_evidence": 17,
+    "maps_learning_recommended_industry": "Physiotherapie",
+    "maps_learning_recommended_city": "Berlin",
+    "maps_learning_errors": 0,
     "qa_remaining": 0,
     "qa_final_a": 11,
     "qa_final_b": 6,
@@ -31,9 +39,20 @@
     "email_last_run_at": "2026-09-13T05:21:38.266918+00:00",
     "departments_total": 1,
     "departments_proposed": 0,
-    "agents_total": 9,
+    "agents_total": 10,
     "agents_proposed": 0,
     "proposed_names": []
+  },
+  "learning": {
+    "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
+    "available": true,
+    "status": "OK",
+    "learning_runs": 1,
+    "research_leads_evaluated": 74,
+    "leads_with_downstream_evidence": 17,
+    "recommended_industry": "Physiotherapie",
+    "recommended_city": "Berlin",
+    "errors": 0
   },
   "channels": {
     "email": {
@@ -289,6 +308,52 @@
       ],
       "_file": "tasks/agents/agent_15e_conversation_followup.json",
       "_kind": "agent"
+    },
+    {
+      "agent_id": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
+      "name": "Maps Research Learning Optimizer",
+      "department": "growth_maps_research",
+      "reports_to": "AGENT_7_GROWTH_MANAGER",
+      "status": "ACTIVE",
+      "objective": "Learn which Google Maps research segments create the strongest downstream LOCENIX opportunities and feed bounded priorities back into Agent 1 research.",
+      "inputs": [
+        "results/deterministic_leads.json",
+        "results/deep_qa_results.json",
+        "results/visibility_results.json",
+        "Airtable Leads downstream outcomes"
+      ],
+      "outputs": [
+        "results/maps_learning_config.json",
+        "results/maps_learning_state.json",
+        "results/maps_learning_latest.json",
+        "results/maps_learning_execution.json"
+      ],
+      "learning_dimensions": [
+        "industry",
+        "city",
+        "industry_city_pair",
+        "rating_bucket",
+        "review_count_bucket",
+        "competitor_review_gap",
+        "visibility_opportunity",
+        "email_readiness",
+        "reply_and_sales_intent",
+        "trial_and_paid_when_available"
+      ],
+      "policy": {
+        "exploration_share": 0.15,
+        "bounded_weights": true,
+        "minimum_samples_before_downweight": 5,
+        "optimize_for_downstream_quality": true,
+        "autonomous_code_rewrite": false,
+        "prompt_rewrite": false,
+        "contact_limit_changes": false,
+        "do_not_contact_override": false,
+        "excluded_professions_override": false,
+        "captcha_or_security_bypass": false
+      },
+      "_file": "tasks/agents/agent_4l_maps_learning.json",
+      "_kind": "agent"
     }
   ],
   "next_agent": "sales_queue",
@@ -299,6 +364,9 @@
   "guardrails": {
     "outreach_send_allowed": false,
     "email_agent_managed_separately": true,
+    "maps_learning_can_rewrite_code": false,
+    "maps_learning_can_raise_contact_limits": false,
+    "maps_learning_keeps_exploration": true,
     "contact_form_submit_allowed": false,
     "unknown_workflow_dispatch_allowed": false,
     "max_child_workflows_this_run": 1,

@@ -1,18 +1,154 @@
 {
-  "accepted": [],
-  "accepted_count": 0,
-  "rejected_count": 24,
+  "accepted": [
+    {
+      "company_name": "Tierarzt profelios Aachen Kleintierpraxis",
+      "industry": "Tierarzt",
+      "city": "Aachen",
+      "address": "Heißbergstraße 20, 52066 Aachen, Deutschland",
+      "website": "https://www.profelios.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarzt+profelios+Aachen+Kleintierpraxis/data=!4m7!3m6!1s0x47c09b2761c5895d:0x58eabf1da4ff43fe!8m2!3d50.7589785!4d6.0939612!16s%2Fg%2F11rq_xtlrd!19sChIJXYnFYSebwEcR_kP_pB2_6lg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 241 46834214",
+      "public_business_email": "praxis@profelios.de",
+      "email_source_url": "https://profelios.de/",
+      "contact_form_url": "https://profelios.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 5.0,
+      "google_review_count": 147,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "impfung",
+        "zahnsanierung",
+        "ultraschall",
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, zahnsanierung, ultraschall, labor"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "AniCura Aachen Tierärztliche Klinik für Kleintiere",
+      "competitor_1_reviews": 1694,
+      "competitor_2": "Tierarztpraxis Dr. Bey, Zinsen & Partner GbR",
+      "competitor_2_reviews": 624,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "147 eigene Bewertungen vs. lokaler Wettbewerbsmedian 368; Gap 221."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, zahnsanierung, ultraschall, labor",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 20,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 81,
+      "competitor_review_median": 368,
+      "review_gap": 221,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "147 eigene Bewertungen vs. lokaler Wettbewerbsmedian 368; Gap 221.",
+      "proof": [
+        "147 eigene Bewertungen vs. lokaler Wettbewerbsmedian 368; Gap 221.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, zahnsanierung, ultraschall, labor"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "147 eigene Bewertungen vs. lokaler Wettbewerbsmedian 368; Gap 221.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, zahnsanierung, ultraschall, labor",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Aachen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Dr.med.vet. Martin Unger",
+      "industry": "Tierarzt",
+      "city": "Augsburg",
+      "address": "Klinkerberg 3, 86152 Augsburg, Deutschland",
+      "website": "http://www.tierarzt-klinkerberg.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Dr.med.vet.+Martin+Unger/data=!4m7!3m6!1s0x41091293439ba193:0xed7d777c87be8c2e!8m2!3d48.3709029!4d10.8881343!16s%2Fg%2F11b70cnp6c!19sChIJk6GbQ5MSCUERLoy-h3x3fe0?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 821 31959090",
+      "public_business_email": null,
+      "email_source_url": null,
+      "contact_form_url": null,
+      "contact_basis": "UNKNOWN",
+      "google_rating": 4.8,
+      "google_review_count": 24,
+      "main_category": "Tierarzt",
+      "website_services": [],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [],
+      "service_gap_status": "NOT_DETECTED",
+      "competitor_1": "AniCura Kleintierspezialisten Augsburg",
+      "competitor_1_reviews": 845,
+      "competitor_2": "AniCura Tierärztliche Fachpraxis am Klinkerberg",
+      "competitor_2_reviews": 382,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "24 eigene Bewertungen vs. lokaler Wettbewerbsmedian 250; Gap 226."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 24 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [],
+      "verified_signal_count": 2,
+      "report_potential_score": 28,
+      "visible_value_score": 12,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 7,
+      "saas_fit_score": 3,
+      "total_score": 82,
+      "competitor_review_median": 250,
+      "review_gap": 226,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "24 eigene Bewertungen vs. lokaler Wettbewerbsmedian 250; Gap 226.",
+      "proof": [
+        "24 eigene Bewertungen vs. lokaler Wettbewerbsmedian 250; Gap 226.",
+        "Nur 24 Google-Bewertungen."
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "24 eigene Bewertungen vs. lokaler Wettbewerbsmedian 250; Gap 226.",
+      "second_outreach_angle": "Nur 24 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Augsburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
+  "accepted_count": 2,
+  "rejected_count": 20,
   "inspected": 24,
   "state": {
-    "query_cursor": 138,
-    "runs": 46,
-    "lead_count": 96,
+    "query_cursor": 141,
+    "runs": 47,
+    "lead_count": 98,
     "target_leads": 999999999,
-    "last_accepted": 0,
+    "last_accepted": 2,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 24,
+    "last_rejected": 20,
     "a_leads": 16,
-    "b_leads": 49
+    "b_leads": 51
   }
 }

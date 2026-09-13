@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 14,
-  "focus": "exploration",
-  "exploration": true,
+  "learning_run_count": 15,
+  "focus": "industry_exploitation",
+  "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenster",
-    "Karlsruhe",
-    "Mannheim"
+    "Sankt Augustin",
+    "Aachen",
+    "Augsburg"
   ],
   "selected_industries": [
-    "Autowerkstatt"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Muenster",
-      "industry": "Autowerkstatt",
-      "query": "Autowerkstatt Muenster"
+      "city": "Sankt Augustin",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Sankt Augustin"
     },
     {
-      "city": "Karlsruhe",
-      "industry": "Autowerkstatt",
-      "query": "Autowerkstatt Karlsruhe"
+      "city": "Aachen",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Aachen"
     },
     {
-      "city": "Mannheim",
-      "industry": "Autowerkstatt",
-      "query": "Autowerkstatt Mannheim"
+      "city": "Augsburg",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Augsburg"
     }
   ],
   "queries_per_run": 3

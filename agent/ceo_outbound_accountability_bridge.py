@@ -10,6 +10,7 @@ from zoneinfo import ZoneInfo
 CEO_LATEST = Path('results/ceo_latest.json')
 CEO_STATE = Path('results/ceo_state.json')
 GROWTH_STATE = Path('results/department_head_state.json')
+HARD_GATE_STATE = Path('results/hard_email_gate_state.json')
 LINKEDIN_CONTROL_URL = 'https://raw.githubusercontent.com/TimonGuldner/browser-agent/main/results/linkedin_control_state.json'
 
 
@@ -52,6 +53,7 @@ def main() -> None:
     latest = load(CEO_LATEST)
     state = load(CEO_STATE)
     growth = load(GROWTH_STATE)
+    hard_gate = load(HARD_GATE_STATE)
     linkedin = load_url(LINKEDIN_CONTROL_URL)
     now_utc = datetime.now(timezone.utc)
     now_berlin = now_utc.astimezone(ZoneInfo('Europe/Berlin'))
@@ -62,7 +64,15 @@ def main() -> None:
     email_expected = expected_for_target(email_target, now_berlin)
     email_pacing_gap = max(0, email_expected - email_actual)
 
-    maps_violations = int(growth.get('maps_downstream_email_gate_violations') or 0)
+    maps_violations = max(
+        int(growth.get('maps_downstream_email_gate_violations') or 0),
+        int(hard_gate.get('downstream_email_gate_violations') or 0),
+    )
+    email_qualified_supply = int(hard_gate.get('downstream_email_qualified_total') or 0)
+    email_missing_excluded = int(hard_gate.get('email_missing_excluded_total') or 0)
+    quarantine = hard_gate.get('airtable_quarantine') or {}
+    quarantine_errors = quarantine.get('errors') or []
+
     linkedin_targets = linkedin.get('targets') or {}
     linkedin_actual = linkedin.get('actual') or {}
     linkedin_gaps = linkedin.get('gaps') or {}
@@ -73,13 +83,23 @@ def main() -> None:
     linkedin_gap_total = sum(max(0, int(v or 0)) for v in linkedin_gaps.values()) if linkedin_gaps else 0
     linkedin_pacing_total = sum(max(0, int(v or 0)) for v in linkedin_pacing.values()) if linkedin_pacing else 0
 
-    if maps_violations > 0:
+    if maps_violations > 0 or quarantine_errors:
         accountability_status = 'BLOCKED'
-        reason = f'Maps downstream email gate has {maps_violations} violation(s). Missing-email leads must be removed from downstream handoff immediately.'
+        reason = (
+            f'Maps hard email gate is not clean: downstream violations={maps_violations}, '
+            f'quarantine errors={len(quarantine_errors)}. Agent 7 must remove/quarantine every missing-email lead before outbound continues.'
+        )
+        owner = 'Agent 7'
+    elif email_pacing_gap > 0 and email_qualified_supply <= 0:
+        accountability_status = 'ATTENTION'
+        reason = (
+            f'Email target is behind ({email_actual}/{email_target}) because there are currently no verified-public-email Maps leads available downstream. '
+            f'Agent 7 must prioritize public business email research; {email_missing_excluded} qualified-scoring lead(s) are correctly excluded until an email is verified.'
+        )
         owner = 'Agent 7'
     elif email_pacing_gap > 0:
         accountability_status = 'ATTENTION'
-        reason = f'Approved email outbound is behind pace: {email_actual}/{email_target} sent today; expected by now {email_expected}.'
+        reason = f'Approved email outbound is behind pace: {email_actual}/{email_target} sent today; expected by now {email_expected}. Agent 7 must close the provider-confirmed send gap using only approved, email-qualified records.'
         owner = 'Agent 7'
     elif linkedin_status in {'ATTENTION', 'BLOCKED', 'UNKNOWN'} or linkedin_pacing_total > 0:
         accountability_status = 'BLOCKED' if linkedin_status == 'BLOCKED' else 'ATTENTION'
@@ -106,7 +126,9 @@ def main() -> None:
             'gap': email_gap,
             'expected_by_now': email_expected,
             'pacing_gap': email_pacing_gap,
-            'counting_rule': 'Only provider-confirmed sends from records with explicit Airtable approval and allowed legal basis count.'
+            'email_qualified_supply': email_qualified_supply,
+            'email_missing_excluded': email_missing_excluded,
+            'counting_rule': 'Only provider-confirmed sends from records with explicit Airtable approval, researched public business email and allowed legal basis count.'
         },
         'linkedin': {
             'manager': 'AGENT_8_LINKEDIN_DEPARTMENT_HEAD',
@@ -122,9 +144,13 @@ def main() -> None:
             'manager': 'AGENT_7_LOCENIX_GROWTH_MANAGER',
             'violations_target': 0,
             'violations_actual': maps_violations,
+            'email_qualified_supply': email_qualified_supply,
+            'email_missing_excluded': email_missing_excluded,
+            'airtable_quarantined': int(quarantine.get('updated') or 0),
+            'airtable_quarantine_errors': quarantine_errors,
             'rule': 'No researched public business email = no Visibility, Sales Queue or outreach-ready handoff.'
         },
-        'manager_accountability_rule': 'CEO holds department heads accountable for TARGET -> ACTUAL -> EXPECTED-BY-NOW -> GAP -> ACTION -> RE-MEASURE. Workflow success without target execution is not success.',
+        'manager_accountability_rule': 'CEO holds department heads accountable for TARGET -> ACTUAL -> EXPECTED-BY-NOW -> GAP -> ROOT CAUSE -> ACTION -> RE-MEASURE. Workflow success without target execution is not success.',
         'reason': reason,
         'owner': owner,
     }
@@ -135,6 +161,8 @@ def main() -> None:
     state['daily_email_actual'] = email_actual
     state['daily_email_gap'] = email_gap
     state['daily_email_expected_by_now'] = email_expected
+    state['daily_email_qualified_supply'] = email_qualified_supply
+    state['daily_email_missing_excluded'] = email_missing_excluded
     state['daily_linkedin_targets'] = linkedin_targets
     state['daily_linkedin_actual'] = linkedin_actual
     state['daily_linkedin_gaps'] = linkedin_gaps

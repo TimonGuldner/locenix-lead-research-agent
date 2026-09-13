@@ -9,6 +9,7 @@ on:
       - 'tasks/departments/**'
       - 'tasks/agents/**'
       - 'agent/department_head_agent.py'
+      - 'agent/hard_email_gate_enforcer.py'
       - 'results/email_conversation_state.json'
       - 'results/email_sender_state.json'
       - 'results/sales_queue_state.json'
@@ -28,10 +29,12 @@ concurrency:
 jobs:
   manager:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Europe Berlin business-hours gate
         if: github.event_name == 'schedule'
@@ -49,20 +52,34 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Enforce hard Maps email gate
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: appuPKnVyLsbWbxMR
+          AIRTABLE_TABLE_ID: tblF4ghkYFzkeQwsT
+        run: python -m agent.hard_email_gate_enforcer
+
       - name: Run LOCENIX Growth Manager
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python -m agent.department_head_agent
 
-      - name: Commit manager report
+      - name: Commit manager and gate reports
         run: |
           git config user.name 'locenix-growth-manager'
           git config user.email 'actions@users.noreply.github.com'
-          git add results/department_head_latest.json results/department_head_state.json
+          git add \
+            results/department_head_latest.json \
+            results/department_head_state.json \
+            results/hard_email_gate_latest.json \
+            results/hard_email_gate_state.json \
+            results/deep_qa_state.json \
+            results/visibility_results.json \
+            results/visibility_state.json
           if git diff --cached --quiet; then
-            echo 'No manager report changes'
+            echo 'No manager or gate report changes'
           else
-            git commit -m 'Update LOCENIX department head report'
+            git commit -m 'Update LOCENIX hard email gate and department head report'
             git pull --rebase
             git push
           fi

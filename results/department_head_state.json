@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-13T07:05:43.473195+00:00",
+  "last_run_at": "2026-09-13T07:08:52.727849+00:00",
   "department_status": "BACKLOG",
   "next_agent": "sales_queue",
   "reason": "Qualified FINAL_A leads have not all reached Airtable.",
@@ -11,7 +11,7 @@
   "dispatch_detail": "HTTP 204",
   "maps_learning_available": true,
   "maps_learning_status": "OK",
-  "maps_learning_runs": 1,
+  "maps_learning_runs": 2,
   "maps_learning_recommended_industry": "Physiotherapie",
   "maps_learning_recommended_city": "Berlin",
   "maps_learning_errors": 0,

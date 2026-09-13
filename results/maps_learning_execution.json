@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 4,
-  "focus": "city_exploitation",
+  "learning_run_count": 5,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Berlin"
+    "Siegburg",
+    "Troisdorf",
+    "Wiesbaden"
   ],
   "selected_industries": [
-    "Nagelstudio",
-    "Zahnarzt",
-    "Immobilienmakler"
+    "Physiotherapie"
   ],
   "selected_pairs": [
     {
-      "city": "Berlin",
-      "industry": "Nagelstudio",
-      "query": "Nagelstudio Berlin"
+      "city": "Siegburg",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Siegburg"
     },
     {
-      "city": "Berlin",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Berlin"
+      "city": "Troisdorf",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Troisdorf"
     },
     {
-      "city": "Berlin",
-      "industry": "Immobilienmakler",
-      "query": "Immobilienmakler Berlin"
+      "city": "Wiesbaden",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Wiesbaden"
     }
   ],
   "queries_per_run": 3

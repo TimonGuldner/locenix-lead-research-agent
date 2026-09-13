@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 2,
-  "focus": "city_exploitation",
+  "learning_run_count": 3,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Berlin"
+    "Sankt Augustin",
+    "Siegburg",
+    "Stuttgart"
   ],
   "selected_industries": [
-    "Sanitaer Heizung",
-    "Autowerkstatt",
-    "Tierarzt"
+    "Physiotherapie"
   ],
   "selected_pairs": [
     {
-      "city": "Berlin",
-      "industry": "Sanitaer Heizung",
-      "query": "Sanitaer Heizung Berlin"
+      "city": "Sankt Augustin",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Sankt Augustin"
     },
     {
-      "city": "Berlin",
-      "industry": "Autowerkstatt",
-      "query": "Autowerkstatt Berlin"
+      "city": "Siegburg",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Siegburg"
     },
     {
-      "city": "Berlin",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Berlin"
+      "city": "Stuttgart",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Stuttgart"
     }
   ],
   "queries_per_run": 3

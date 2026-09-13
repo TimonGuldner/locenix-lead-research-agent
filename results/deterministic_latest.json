@@ -1,340 +1,45 @@
 {
   "accepted": [
     {
-      "company_name": "Zimmermann Sanitär, Heizung und Umwelttechnik",
-      "industry": "Sanitaer Heizung",
-      "city": "Berlin",
-      "address": "Eiswerderstraße 20a, 13585 Bezirk Spandau, Deutschland",
-      "website": "https://www.zimmermann-installation.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Zimmermann+Sanit%C3%A4r,+Heizung+und+Umwelttechnik/data=!4m7!3m6!1s0x47a8564036342f2f:0x5d2acca0fac4d504!8m2!3d52.548708!4d13.221002!16s%2Fg%2F1hc2ywwbc!19sChIJLy80NkBWqEcRBNXE-qDMKl0?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 30 94889901",
-      "public_business_email": "info@zimmermann-installation.de",
-      "email_source_url": "https://www.zimmermann-installation.de/",
-      "contact_form_url": "https://www.zimmermann-installation.de/kontakt/",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.0,
-      "google_review_count": 25,
-      "main_category": "Sanitaer Heizung",
-      "website_services": [
-        "heizung",
-        "wartung",
-        "notdienst"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: wartung, notdienst"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Schwalm Heizung & Sanitär GmbH",
-      "competitor_1_reviews": 121,
-      "competitor_2": "Lenke - Sanitär & Heizung",
-      "competitor_2_reviews": 117,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "25 eigene Bewertungen vs. lokaler Wettbewerbsmedian 88; Gap 63."
-        },
-        {
-          "type": "low_review_volume",
-          "proof": "Nur 25 Google-Bewertungen."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.0; sichtbares Reputationspotenzial."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: wartung, notdienst",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 3,
-      "report_potential_score": 24,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 8,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 83,
-      "competitor_review_median": 88,
-      "review_gap": 63,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "25 eigene Bewertungen vs. lokaler Wettbewerbsmedian 88; Gap 63.",
-      "proof": [
-        "25 eigene Bewertungen vs. lokaler Wettbewerbsmedian 88; Gap 63.",
-        "Nur 25 Google-Bewertungen.",
-        "Google-Bewertung 4.0; sichtbares Reputationspotenzial."
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "25 eigene Bewertungen vs. lokaler Wettbewerbsmedian 88; Gap 63.",
-      "second_outreach_angle": "Nur 25 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Sanitaer Heizung Berlin. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-13",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Tierarztpraxis Bärenwiese, Tierarzt Berlin-Wilmersdorf",
-      "industry": "Tierarzt",
-      "city": "Berlin",
-      "address": "Uhlandstraße 151, 10719 Berlin, Deutschland",
-      "website": "https://www.tierarzt-baerenwiese.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+B%C3%A4renwiese,+Tierarzt+Berlin-Wilmersdorf/data=!4m7!3m6!1s0x47a850f0c946619d:0x53b9600ffa29d53d!8m2!3d52.4974137!4d13.3248514!16s%2Fg%2F1tk_hr6h!19sChIJnWFGyfBQqEcRPdUp-g9guVM?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 30 23362627",
+      "company_name": "Praxis für Krankengymnastik Krämer",
+      "industry": "Physiotherapie",
+      "city": "Sankt Augustin",
+      "address": "Uhlandstraße 10, 53757 Sankt Augustin, Deutschland",
+      "website": "http://www.krankengymnastik-kraemer.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Praxis+f%C3%BCr+Krankengymnastik+Kr%C3%A4mer/data=!4m7!3m6!1s0x47bee740afdf122f:0x305c8a0648c242!8m2!3d50.7709954!4d7.1853099!16s%2Fg%2F11bw560kk3!19sChIJLxLfr0DnvkcRQsJIBopcMAA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 2241 202099",
       "public_business_email": null,
       "email_source_url": null,
-      "contact_form_url": "https://tierarzt-baerenwiese.de/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.css?ver=8.1",
+      "contact_form_url": "https://www.krankengymnastik-kraemer.de/kontakt/",
       "contact_basis": "CONTACT_FORM",
-      "google_rating": 4.4,
-      "google_review_count": 1149,
-      "main_category": "Tierarzt",
+      "google_rating": 4.7,
+      "google_review_count": 12,
+      "main_category": "Physiotherapie",
       "website_services": [
-        "chirurgie",
-        "ultraschall"
+        "lymphdrainage",
+        "cmd",
+        "krankengymnastik",
+        "manuelle therapie",
+        "massage"
       ],
       "google_visible_services": [],
       "service_gap": [],
       "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall"
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: lymphdrainage, cmd, manuelle therapie, massage"
       ],
       "service_gap_status": "UNVERIFIED",
-      "competitor_1": "felmo Mobiler Tierarzt Berlin",
-      "competitor_1_reviews": 8399,
-      "competitor_2": "Tierarztpraxis Rödiger - Das Veterinärmedizinische Zentrum Berlin - 24h geöffnet",
-      "competitor_2_reviews": 2146,
+      "competitor_1": "MOJO GmbH",
+      "competitor_1_reviews": 114,
+      "competitor_2": "PHYSIO CKI – Sankt Augustin I",
+      "competitor_2_reviews": 93,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "1149 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 795."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.4; sichtbares Reputationspotenzial."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 2,
-      "report_potential_score": 22,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 83,
-      "competitor_review_median": 1944,
-      "review_gap": 795,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "1149 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 795.",
-      "proof": [
-        "1149 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 795.",
-        "Google-Bewertung 4.4; sichtbares Reputationspotenzial.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "1149 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 795.",
-      "second_outreach_angle": "Google-Bewertung 4.4; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Berlin. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-13",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Tiermedizinzentrum Berlin",
-      "industry": "Tierarzt",
-      "city": "Berlin",
-      "address": "Kufsteiner Str. 22, 10825 Berlin-Bezirk Charlottenburg-Wilmersdorf, Deutschland",
-      "website": "http://www.tiermedizinzentrum.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Tiermedizinzentrum+Berlin/data=!4m7!3m6!1s0x47a8506759401557:0x649b4111c0e61131!8m2!3d52.4853661!4d13.3367677!16s%2Fg%2F1thvrqll!19sChIJVxVAWWdQqEcRMRHmwBFBm2Q?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 30 8542050",
-      "public_business_email": "info@tiermedizinzentrum.de",
-      "email_source_url": "https://www.tiermedizinzentrum-berlin.de/",
-      "contact_form_url": "https://www.tiermedizinzentrum-berlin.de/kontakt",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 3.7,
-      "google_review_count": 399,
-      "main_category": "Tierarzt",
-      "website_services": [
-        "chirurgie"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "felmo Mobiler Tierarzt Berlin",
-      "competitor_1_reviews": 8399,
-      "competitor_2": "Tierarztpraxis Rödiger - Das Veterinärmedizinische Zentrum Berlin - 24h geöffnet",
-      "competitor_2_reviews": 2146,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "399 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 1545."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 3.7; sichtbares Reputationspotenzial."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 2,
-      "report_potential_score": 22,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 83,
-      "competitor_review_median": 1944,
-      "review_gap": 1545,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "399 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 1545.",
-      "proof": [
-        "399 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 1545.",
-        "Google-Bewertung 3.7; sichtbares Reputationspotenzial.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "399 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 1545.",
-      "second_outreach_angle": "Google-Bewertung 3.7; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Berlin. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-13",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Tier Tour Berlin - Mobiler Tierarzt",
-      "industry": "Tierarzt",
-      "city": "Berlin",
-      "address": "Allee der Kosmonauten 151f, 12685 Berlin, Deutschland",
-      "website": "https://www.tiertour-berlin.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Tier+Tour+Berlin+-+Mobiler+Tierarzt/data=!4m7!3m6!1s0x48c99d6cb588b5ff:0xdc6108d3307fc4d2!8m2!3d52.53481!4d13.5517!16s%2Fg%2F11xvcc7p1y!19sChIJ_7WItWydyUgR0sR_MNMIYdw?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 177 8023567",
-      "public_business_email": "info@tiertour-berlin.de",
-      "email_source_url": "https://www.tiertour-berlin.de/",
-      "contact_form_url": "https://www.tiertour-berlin.de/mobile-tierarztpraxis-berlin-kontakt/",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.9,
-      "google_review_count": 42,
-      "main_category": "Tierarzt",
-      "website_services": [
-        "impfung"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "felmo Mobiler Tierarzt Berlin",
-      "competitor_1_reviews": 8399,
-      "competitor_2": "Tierarztpraxis Rödiger - Das Veterinärmedizinische Zentrum Berlin - 24h geöffnet",
-      "competitor_2_reviews": 2146,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "42 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 1902."
+          "proof": "12 eigene Bewertungen vs. lokaler Wettbewerbsmedian 50; Gap 38."
         },
         {
           "type": "low_review_volume",
-          "proof": "Nur 42 Google-Bewertungen."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 2,
-      "report_potential_score": 26,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 87,
-      "competitor_review_median": 1944,
-      "review_gap": 1902,
-      "grade": "A",
-      "lead_class": "A_LEAD",
-      "qa_gate": "PASS",
-      "primary_pitch": "42 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 1902.",
-      "proof": [
-        "42 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 1902.",
-        "Nur 42 Google-Bewertungen.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "42 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 1902.",
-      "second_outreach_angle": "Nur 42 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Berlin. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-13",
-      "research_status": "QUALIFIED",
-      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Valera Tierklinik Berlin",
-      "industry": "Tierarzt",
-      "city": "Berlin",
-      "address": "Potsdamer Str. 23/24, 14163 Berlin-Bezirk Steglitz-Zehlendorf, Deutschland",
-      "website": "https://www.valeratierklinikberlin.com/",
-      "google_maps_url": "https://www.google.com/maps/place/Valera+Tierklinik+Berlin/data=!4m7!3m6!1s0x47a85bc4b5b44561:0x815ff66b6440125e!8m2!3d52.4337469!4d13.2467881!16s%2Fg%2F11t28f8n9h!19sChIJYUW0tcRbqEcRXhJAZGv2X4E?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 30 201805750",
-      "public_business_email": "info@valeratierklinikberlin.com",
-      "email_source_url": "https://www.valeratierklinikberlin.com/",
-      "contact_form_url": "https://www.valeratierklinikberlin.com/kontakt-öffnungszeiten/",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.7,
-      "google_review_count": 637,
-      "main_category": "Tierarzt",
-      "website_services": [
-        "chirurgie"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "felmo Mobiler Tierarzt Berlin",
-      "competitor_1_reviews": 8399,
-      "competitor_2": "Tierarztpraxis Rödiger - Das Veterinärmedizinische Zentrum Berlin - 24h geöffnet",
-      "competitor_2_reviews": 2146,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "637 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 1307."
+          "proof": "Nur 12 Google-Bewertungen."
         },
         {
           "type": "rating_headroom",
@@ -344,53 +49,194 @@
       "soft_optimization_signals": [
         {
           "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: lymphdrainage, cmd, manuelle therapie, massage",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 3,
+      "report_potential_score": 24,
+      "visible_value_score": 11,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 8,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 80,
+      "competitor_review_median": 50,
+      "review_gap": 38,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "12 eigene Bewertungen vs. lokaler Wettbewerbsmedian 50; Gap 38.",
+      "proof": [
+        "12 eigene Bewertungen vs. lokaler Wettbewerbsmedian 50; Gap 38.",
+        "Nur 12 Google-Bewertungen.",
+        "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "12 eigene Bewertungen vs. lokaler Wettbewerbsmedian 50; Gap 38.",
+      "second_outreach_angle": "Nur 12 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Physiotherapie Sankt Augustin. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Physiotherapiepraxis Monolith",
+      "industry": "Physiotherapie",
+      "city": "Stuttgart",
+      "address": "Jahnstraße 4, 70597 Stuttgart-Degerloch, Deutschland",
+      "website": "https://www.physiomonolith.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Physiotherapiepraxis+Monolith/data=!4m7!3m6!1s0x4799dde9d738c3d7:0xeb264a12557d9aef!8m2!3d48.749466!4d9.170493!16s%2Fg%2F11zgv2dvg4!19sChIJ18M41-ndmUcR75p9VRJKJus?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 711 60168533",
+      "public_business_email": "praxis@physiomonolith.de",
+      "email_source_url": "https://www.physiomonolith.de/",
+      "contact_form_url": "https://www.physiomonolith.de/kontakt",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 5.0,
+      "google_review_count": 5,
+      "main_category": "Physiotherapie",
+      "website_services": [
+        "lymphdrainage",
+        "cmd",
+        "krankengymnastik",
+        "manuelle therapie",
+        "massage"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: lymphdrainage, cmd, krankengymnastik, manuelle therapie, massage"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "PTA Center GmbH Praxis für Physiotherapie",
+      "competitor_1_reviews": 243,
+      "competitor_2": "corpusmed Physiotherapie - Stuttgart",
+      "competitor_2_reviews": 233,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "5 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 98."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 5 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: lymphdrainage, cmd, krankengymnastik, manuelle therapie, massage",
           "verification": "REQUIRES_FINAL_QA"
         }
       ],
       "verified_signal_count": 2,
-      "report_potential_score": 22,
+      "report_potential_score": 25,
       "visible_value_score": 14,
       "maps_importance_score": 14,
       "customer_value_score": 8,
       "competitive_pressure_score": 10,
       "digital_readiness_score": 10,
       "saas_fit_score": 5,
-      "total_score": 83,
-      "competitor_review_median": 1944,
-      "review_gap": 1307,
+      "total_score": 86,
+      "competitor_review_median": 103,
+      "review_gap": 98,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "5 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 98.",
+      "proof": [
+        "5 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 98.",
+        "Nur 5 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: lymphdrainage, cmd, krankengymnastik, manuelle therapie, massage"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "5 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 98.",
+      "second_outreach_angle": "Nur 5 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Physiotherapie Stuttgart. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Physio-Park GmbH",
+      "industry": "Physiotherapie",
+      "city": "Stuttgart",
+      "address": "Felix-Wankel-Straße 41, 70794 Filderstadt, Deutschland",
+      "website": "http://www.physio-park-filderstadt.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Physio-Park+GmbH/data=!4m7!3m6!1s0x4799c366f0bb5a09:0x38da9016de1882ec!8m2!3d48.677069!4d9.193854!16s%2Fg%2F11rskskn5c!19sChIJCVq78GbDmUcR7IIY3haQ2jg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 711 9077976",
+      "public_business_email": "info@physio-park-filderstadt.de",
+      "email_source_url": "https://physio-park-filderstadt.de",
+      "contact_form_url": null,
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 5.0,
+      "google_review_count": 15,
+      "main_category": "Physiotherapie",
+      "website_services": [],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [],
+      "service_gap_status": "NOT_DETECTED",
+      "competitor_1": "PTA Center GmbH Praxis für Physiotherapie",
+      "competitor_1_reviews": 243,
+      "competitor_2": "corpusmed Physiotherapie - Stuttgart",
+      "competitor_2_reviews": 233,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "15 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 88."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 15 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [],
+      "verified_signal_count": 2,
+      "report_potential_score": 25,
+      "visible_value_score": 12,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 84,
+      "competitor_review_median": 103,
+      "review_gap": 88,
       "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "637 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 1307.",
+      "primary_pitch": "15 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 88.",
       "proof": [
-        "637 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 1307.",
-        "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie"
+        "15 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 88.",
+        "Nur 15 Google-Bewertungen."
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "637 eigene Bewertungen vs. lokaler Wettbewerbsmedian 1944; Gap 1307.",
-      "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Berlin. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "15 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 88.",
+      "second_outreach_angle": "Nur 15 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Physiotherapie Stuttgart. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-13",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
-  "accepted_count": 5,
-  "rejected_count": 19,
+  "accepted_count": 3,
+  "rejected_count": 21,
   "inspected": 24,
   "state": {
-    "query_cursor": 102,
-    "runs": 34,
-    "lead_count": 79,
+    "query_cursor": 105,
+    "runs": 35,
+    "lead_count": 82,
     "target_leads": 999999999,
-    "last_accepted": 5,
+    "last_accepted": 3,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 19,
-    "a_leads": 10,
-    "b_leads": 38
+    "last_rejected": 21,
+    "a_leads": 11,
+    "b_leads": 40
   }
 }

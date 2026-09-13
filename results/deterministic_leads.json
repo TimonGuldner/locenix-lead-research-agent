@@ -867,6 +867,103 @@
     "final_qa_required": true
   },
   {
+    "company_name": "Physiotherapiepraxis Monolith",
+    "industry": "Physiotherapie",
+    "city": "Stuttgart",
+    "address": "Jahnstraße 4, 70597 Stuttgart-Degerloch, Deutschland",
+    "website": "https://www.physiomonolith.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Physiotherapiepraxis+Monolith/data=!4m7!3m6!1s0x4799dde9d738c3d7:0xeb264a12557d9aef!8m2!3d48.749466!4d9.170493!16s%2Fg%2F11zgv2dvg4!19sChIJ18M41-ndmUcR75p9VRJKJus?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 711 60168533",
+    "public_business_email": "praxis@physiomonolith.de",
+    "email_source_url": "https://www.physiomonolith.de/",
+    "contact_form_url": "https://www.physiomonolith.de/kontakt",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 5.0,
+    "google_review_count": 5,
+    "main_category": "Physiotherapie",
+    "website_services": [
+      "lymphdrainage",
+      "cmd",
+      "krankengymnastik",
+      "manuelle therapie",
+      "massage"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: lymphdrainage, cmd, krankengymnastik, manuelle therapie, massage"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "PTA Center GmbH Praxis für Physiotherapie",
+    "competitor_1_reviews": 243,
+    "competitor_2": "corpusmed Physiotherapie - Stuttgart",
+    "competitor_2_reviews": 233,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "5 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 98."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 5 Google-Bewertungen."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: lymphdrainage, cmd, krankengymnastik, manuelle therapie, massage",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 2,
+    "report_potential_score": 25,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 86,
+    "competitor_review_median": 103,
+    "review_gap": 98,
+    "grade": "A",
+    "lead_class": "A_LEAD",
+    "qa_gate": "PASS_PRE_AIRTABLE_QA",
+    "primary_pitch": "5 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 98.",
+    "proof": [
+      "5 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 98.",
+      "Nur 5 Google-Bewertungen.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: lymphdrainage, cmd, krankengymnastik, manuelle therapie, massage"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "5 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 98.",
+    "second_outreach_angle": "Nur 5 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Physiotherapie Stuttgart. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-13",
+    "research_status": "QUALIFIED",
+    "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 9,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 98; Kaufwahrscheinlichkeit 9/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
     "company_name": "Tierarztpraxis Tiergesundheitszentrum München",
     "industry": "Tierarzt",
     "city": "Muenchen",
@@ -1966,6 +2063,87 @@
     "signal_confidence": "MEDIUM",
     "obvious_chain_candidate": false,
     "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 129; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 9/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "Physio-Park GmbH",
+    "industry": "Physiotherapie",
+    "city": "Stuttgart",
+    "address": "Felix-Wankel-Straße 41, 70794 Filderstadt, Deutschland",
+    "website": "http://www.physio-park-filderstadt.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Physio-Park+GmbH/data=!4m7!3m6!1s0x4799c366f0bb5a09:0x38da9016de1882ec!8m2!3d48.677069!4d9.193854!16s%2Fg%2F11rskskn5c!19sChIJCVq78GbDmUcR7IIY3haQ2jg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 711 9077976",
+    "public_business_email": "info@physio-park-filderstadt.de",
+    "email_source_url": "https://physio-park-filderstadt.de",
+    "contact_form_url": null,
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 5.0,
+    "google_review_count": 15,
+    "main_category": "Physiotherapie",
+    "website_services": [],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [],
+    "service_gap_status": "NOT_DETECTED",
+    "competitor_1": "PTA Center GmbH Praxis für Physiotherapie",
+    "competitor_1_reviews": 243,
+    "competitor_2": "corpusmed Physiotherapie - Stuttgart",
+    "competitor_2_reviews": 233,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "15 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 88."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 15 Google-Bewertungen."
+      }
+    ],
+    "soft_optimization_signals": [],
+    "verified_signal_count": 2,
+    "report_potential_score": 25,
+    "visible_value_score": 12,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 84,
+    "competitor_review_median": 103,
+    "review_gap": 88,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "15 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 88.",
+    "proof": [
+      "15 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 88.",
+      "Nur 15 Google-Bewertungen."
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "15 eigene Bewertungen vs. lokaler Wettbewerbsmedian 103; Gap 88.",
+    "second_outreach_angle": "Nur 15 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Physiotherapie Stuttgart. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-13",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 9,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 9,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 88; Kaufwahrscheinlichkeit 9/10; Kontaktqualität 9/10.",
     "airtable_ready": false,
     "final_qa_required": true
   },
@@ -5113,6 +5291,105 @@
     "signal_confidence": "HIGH",
     "obvious_chain_candidate": false,
     "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 73; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 4/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "Praxis für Krankengymnastik Krämer",
+    "industry": "Physiotherapie",
+    "city": "Sankt Augustin",
+    "address": "Uhlandstraße 10, 53757 Sankt Augustin, Deutschland",
+    "website": "http://www.krankengymnastik-kraemer.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Praxis+f%C3%BCr+Krankengymnastik+Kr%C3%A4mer/data=!4m7!3m6!1s0x47bee740afdf122f:0x305c8a0648c242!8m2!3d50.7709954!4d7.1853099!16s%2Fg%2F11bw560kk3!19sChIJLxLfr0DnvkcRQsJIBopcMAA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 2241 202099",
+    "public_business_email": null,
+    "email_source_url": null,
+    "contact_form_url": "https://www.krankengymnastik-kraemer.de/kontakt/",
+    "contact_basis": "CONTACT_FORM",
+    "google_rating": 4.7,
+    "google_review_count": 12,
+    "main_category": "Physiotherapie",
+    "website_services": [
+      "lymphdrainage",
+      "cmd",
+      "krankengymnastik",
+      "manuelle therapie",
+      "massage"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: lymphdrainage, cmd, manuelle therapie, massage"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "MOJO GmbH",
+    "competitor_1_reviews": 114,
+    "competitor_2": "PHYSIO CKI – Sankt Augustin I",
+    "competitor_2_reviews": 93,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "12 eigene Bewertungen vs. lokaler Wettbewerbsmedian 50; Gap 38."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 12 Google-Bewertungen."
+      },
+      {
+        "type": "rating_headroom",
+        "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: lymphdrainage, cmd, manuelle therapie, massage",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 3,
+    "report_potential_score": 24,
+    "visible_value_score": 11,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 8,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 80,
+    "competitor_review_median": 50,
+    "review_gap": 38,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "12 eigene Bewertungen vs. lokaler Wettbewerbsmedian 50; Gap 38.",
+    "proof": [
+      "12 eigene Bewertungen vs. lokaler Wettbewerbsmedian 50; Gap 38.",
+      "Nur 12 Google-Bewertungen.",
+      "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "12 eigene Bewertungen vs. lokaler Wettbewerbsmedian 50; Gap 38.",
+    "second_outreach_angle": "Nur 12 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Physiotherapie Sankt Augustin. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-13",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 7,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife"
+    ],
+    "contact_quality_score": 5,
+    "contact_quality_reasons": [
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 38; Kaufwahrscheinlichkeit 7/10; Kontaktqualität 5/10.",
     "airtable_ready": false,
     "final_qa_required": true
   },

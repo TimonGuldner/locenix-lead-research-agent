@@ -15,6 +15,7 @@ CHILDREN = {
     'platform_access': Path('results/platform_access_state.json'),
     'intent_response': Path('results/intent_response_state.json'),
     'intent_conversation': Path('results/intent_conversation_state.json'),
+    'intent_learning': Path('results/intent_learning_state.json'),
 }
 
 
@@ -46,9 +47,6 @@ def fallback_recovered(states: dict[str, dict]) -> bool:
 def decide(states: dict[str, dict]) -> tuple[str, str, str]:
     recovered = fallback_recovered(states)
     for name, state in states.items():
-        # HTTP/API discovery failures are considered recovered when the rendered-browser
-        # fallback itself completed cleanly. Keep them visible as transport metrics,
-        # but do not force the whole department into ATTENTION.
         if name == 'intent_scout' and recovered:
             continue
         if n(state, 'errors') or n(state, 'error_count'):
@@ -72,7 +70,7 @@ def decide(states: dict[str, dict]) -> tuple[str, str, str]:
         return 'ACTIVE', 'intent_conversation', 'Existing intent conversations need attention before adding volume.'
     if recovered and n(scout, 'errors'):
         return 'HEALTHY', 'intent_scout', 'Direct discovery endpoints were blocked, but the cloud-browser fallback recovered successfully.'
-    return 'HEALTHY', 'intent_scout', 'No downstream backlog observed; find fresh high-intent DACH opportunities.'
+    return 'HEALTHY', 'intent_scout', 'No downstream backlog observed; find fresh high-intent DACH opportunities using the learned source/query priorities.'
 
 
 def main() -> None:
@@ -106,6 +104,12 @@ def main() -> None:
         'browser_fallback_added': n(states['browser_fallback'], 'signals_added'),
         'browser_stale_removed': n(states['browser_fallback'], 'stale_signals_removed'),
         'transport_errors_recovered': transport_errors if recovered else 0,
+        'learning_runs': n(states['intent_learning'], 'learning_run_count'),
+        'learning_queries': n(states['intent_learning'], 'queries_learned'),
+        'learning_sources': n(states['intent_learning'], 'sources_learned'),
+        'learning_boosted_queries': n(states['intent_learning'], 'boosted_queries'),
+        'learning_paused_queries': n(states['intent_learning'], 'paused_queries'),
+        'learning_provider_cooldowns': n(states['intent_learning'], 'provider_cooldowns'),
         'human_action_required': sum(n(s, 'human_action_required') for s in states.values()),
         'errors': unresolved_errors,
     }
@@ -125,11 +129,13 @@ def main() -> None:
         'sales_handoff': 'existing_sales_pipeline',
         'customer_success_handoff': 'existing_customer_success_pipeline',
         'browser_policy': task.get('browser', {}),
+        'learning_policy': task.get('learning', {}),
         'guardrails': {
             'excluded_professions': task.get('excluded_professions', []),
             'captcha_bypass_allowed': False,
             'security_bypass_allowed': False,
             'new_linkedin_account_allowed': False,
+            'autonomous_code_rewrite_allowed': False,
         },
     }
 

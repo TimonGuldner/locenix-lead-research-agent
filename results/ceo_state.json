@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-13T07:51:27.993052+00:00",
+  "last_run_at": "2026-09-13T07:51:51.485032+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "priority_1": "Move remaining FINAL_A leads through Sales Queue/Airtable.",
@@ -33,5 +33,5 @@
   "linkedin_created_jobs": [],
   "linkedin_ceo_attention_required": false,
   "linkedin_control_last_run_at": "2026-09-13T05:57:08.604397+00:00",
-  "linkedin_control_checked_by_ceo_at": "2026-09-13T07:51:28.407218+00:00"
+  "linkedin_control_checked_by_ceo_at": "2026-09-13T07:51:51.683682+00:00"
 }

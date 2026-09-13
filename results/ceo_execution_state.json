@@ -1,4 +1,43 @@
 {
-  "status": "outside_business_hours",
-  "checked_at": "2026-09-13T05:22:00.934840+00:00"
+  "status": "HEALTHY",
+  "checked_at": "2026-09-13T06:20:19.243358+00:00",
+  "rule": "CEO_ENFORCES_DEPARTMENT_EXECUTION_NOT_JUST_REPORTING",
+  "department_reviews": {
+    "growth": {
+      "last_manager_run_at": "2026-09-13T05:21:52.220888+00:00",
+      "age_minutes_before_dispatch": 58.45037485,
+      "last_status": "BACKLOG",
+      "last_next_agent": "sales_queue",
+      "last_dispatch_success": true
+    },
+    "customer_success": {
+      "last_manager_run_at": "2026-09-12T17:13:53.211851+00:00",
+      "age_minutes_before_dispatch": 786.4338590000001,
+      "last_status": "HEALTHY",
+      "last_next_agent": "AGENT_11",
+      "active_trials": 0,
+      "paid_customers": 0
+    }
+  },
+  "actions": [
+    {
+      "department": "growth",
+      "manager": "AGENT_7",
+      "workflow": "department-head.yml",
+      "dispatched": true,
+      "detail": "HTTP 204"
+    },
+    {
+      "department": "customer_success",
+      "manager": "AGENT_10",
+      "workflow": "customer-success.yml",
+      "dispatched": true,
+      "detail": "HTTP 204"
+    }
+  ],
+  "success_criteria": {
+    "growth": "manager reviews pipeline and dispatches the highest-value approved child workflow",
+    "customer_success": "manager reviews every active trial/customer and runs lifecycle communication/actions when due",
+    "linkedin": "Agent 8 independently enforces hourly daily lead/contact targets in browser-agent and reports to CEO"
+  }
 }

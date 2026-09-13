@@ -13,6 +13,7 @@ QA_PATH = ROOT / "results" / "deep_qa_results.json"
 RESULTS_PATH = ROOT / "results" / "visibility_results.json"
 STATE_PATH = ROOT / "results" / "visibility_state.json"
 LATEST_PATH = ROOT / "results" / "visibility_latest.json"
+ALLOWED_EMAIL_STATUSES = {"PUBLICLY_OBSERVED", "VERIFIED"}
 
 
 def load_json(path, default):
@@ -96,10 +97,17 @@ async def main():
     processed = set(state.get("processed_ids", []))
     decisions = set(task.get("eligible_decisions", ["FINAL_A", "FINAL_B"]))
 
+    email_gate_rejected = [
+        x for x in qa_results
+        if x.get("deep_qa_decision") in decisions
+        and not (x.get("email") and x.get("email_verification_status") in ALLOWED_EMAIL_STATUSES)
+    ]
     candidates = [
         x for x in qa_results
         if x.get("lead_id") not in processed
         and x.get("deep_qa_decision") in decisions
+        and x.get("email")
+        and x.get("email_verification_status") in ALLOWED_EMAIL_STATUSES
         and x.get("company_name")
         and x.get("city")
         and x.get("industry")
@@ -155,6 +163,8 @@ async def main():
                 "company_name": qa.get("company_name"),
                 "industry": qa.get("industry"),
                 "city": qa.get("city"),
+                "email": qa.get("email"),
+                "email_verification_status": qa.get("email_verification_status"),
                 "deep_qa_decision": qa.get("deep_qa_decision"),
                 "deep_qa_score": qa.get("deep_qa_score"),
                 "visibility_tests": tests,
@@ -162,7 +172,7 @@ async def main():
                 "visibility_opportunity_score": visibility_score,
                 "visibility_evidence": [t.get("evidence") for t in tests if t.get("evidence")],
                 "visibility_date": date.today().isoformat(),
-                "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V1",
+                "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
                 "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
                 "outreach_status": "NOT_CONTACTED"
             }
@@ -181,6 +191,9 @@ async def main():
         "last_batch_count": len(new_results),
         "remaining_eligible": max(0, len(candidates) - len(batch)),
         "weak_visibility_total": sum(1 for x in all_results if x.get("weak_visibility_observed")),
+        "email_gate_rejected_count": len(email_gate_rejected),
+        "downstream_email_gate_violations": 0,
+        "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
     }
     save_json(RESULTS_PATH, all_results)
     save_json(STATE_PATH, state)

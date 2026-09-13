@@ -1,6 +1,6 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-13T10:43:17.964039+00:00",
+  "generated_at": "2026-09-13T10:43:44.996976+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "funnel_metrics": {
@@ -170,7 +170,7 @@
     "priority": 3,
     "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
     "created_at": "2026-09-12T12:08:42.961312+00:00",
-    "updated_at": "2026-09-13T10:43:17.964039+00:00",
+    "updated_at": "2026-09-13T10:43:44.996976+00:00",
     "status": "QUEUED",
     "external_action_authorized": false
   },
@@ -245,8 +245,8 @@
   },
   "linkedin_manager_accountability_rule": "Agent 0 checks whether Agent 8 converted targets into executed work and funnel movement, not merely whether workflows are healthy.",
   "daily_outbound_accountability": {
-    "generated_at": "2026-09-13T10:43:18.351422+00:00",
-    "berlin_time": "2026-09-13T12:43:18.351422+02:00",
+    "generated_at": "2026-09-13T10:43:45.259628+00:00",
+    "berlin_time": "2026-09-13T12:43:45.259628+02:00",
     "status": "ATTENTION",
     "hard_deadline_hour": 18,
     "email": {
@@ -256,7 +256,7 @@
       "gap": 5,
       "expected_by_now": 3,
       "pacing_gap": 3,
-      "email_qualified_supply": 31,
+      "email_qualified_supply": 36,
       "email_missing_excluded": 21,
       "counting_rule": "Only provider-confirmed sends from records with explicit Airtable approval, researched public business email and allowed legal basis count."
     },
@@ -307,7 +307,7 @@
       "manager": "AGENT_7_LOCENIX_GROWTH_MANAGER",
       "violations_target": 0,
       "violations_actual": 0,
-      "email_qualified_supply": 31,
+      "email_qualified_supply": 36,
       "email_missing_excluded": 21,
       "airtable_quarantined": 0,
       "airtable_quarantine_errors": [],

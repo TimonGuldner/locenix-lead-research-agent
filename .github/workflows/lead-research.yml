@@ -7,6 +7,10 @@ on:
     paths:
       - wake.txt
       - tasks/current_task.json
+      - tasks/maps_learning_task.json
+      - agent/maps_learning_optimizer.py
+      - agent/learned_maps_research.py
+      - .github/workflows/lead-research.yml
   schedule:
     - cron: "17,47 6-15 * * *"
 
@@ -73,13 +77,21 @@ jobs:
           pip install -e .
           python -m playwright install --with-deps chromium
 
+      - name: Run Maps Research Learning Optimizer Agent 4L
+        if: steps.gate.outputs.run == 'true' && steps.gate.outputs.mode == 'deterministic_research'
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: appuPKnVyLsbWbxMR
+          AIRTABLE_TABLE_ID: tblF4ghkYFzkeQwsT
+        run: python -m agent.maps_learning_optimizer
+
       - name: Run Google Maps smoke test
         if: steps.gate.outputs.run == 'true' && steps.gate.outputs.mode == 'smoke_test'
         run: python -m agent.maps_smoke_test
 
-      - name: Run deterministic Germany-wide research batch
+      - name: Run learned deterministic Germany-wide research batch
         if: steps.gate.outputs.run == 'true' && steps.gate.outputs.mode == 'deterministic_research'
-        run: python -m agent.deterministic_research
+        run: python -m agent.learned_maps_research
 
       - name: Run LOCENIX sales intelligence qualification
         if: steps.gate.outputs.run == 'true' && steps.gate.outputs.mode == 'deterministic_research'

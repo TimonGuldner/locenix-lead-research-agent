@@ -1,6 +1,6 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-13T10:26:12.668004+00:00",
+  "generated_at": "2026-09-13T10:26:34.469716+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "funnel_metrics": {
@@ -30,7 +30,7 @@
     "email_positive_replies": 0,
     "email_trial_interest": 0,
     "email_human_reviews_required": 0,
-    "email_last_run_at": "2026-09-13T05:21:38.266918+00:00",
+    "email_last_run_at": "2026-09-13T10:26:09.657033+00:00",
     "linkedin_department_status": "HEALTHY",
     "linkedin_biggest_bottleneck": "POSITIVE_REPLIES",
     "linkedin_leads": 61,
@@ -64,7 +64,7 @@
       "trial_interest": 0,
       "human_reviews_required": 0,
       "errors": 0,
-      "last_run_at": "2026-09-13T05:21:38.266918+00:00"
+      "last_run_at": "2026-09-13T10:26:09.657033+00:00"
     },
     "linkedin": {
       "manager": "AGENT_8_LINKEDIN_DEPARTMENT_HEAD",
@@ -135,7 +135,7 @@
       "human_reviews_required": 0,
       "biggest_bottleneck": "NONE",
       "recommended_next_action": "Monitor for new qualified trials and conversion opportunities.",
-      "last_run_at": "2026-09-13T10:26:03.569986+00:00"
+      "last_run_at": "2026-09-13T10:26:21.791392+00:00"
     }
   },
   "biggest_bottleneck": "Qualified input is waiting for validation.",
@@ -170,7 +170,7 @@
     "priority": 3,
     "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
     "created_at": "2026-09-12T12:08:42.961312+00:00",
-    "updated_at": "2026-09-13T10:26:12.668004+00:00",
+    "updated_at": "2026-09-13T10:26:34.469716+00:00",
     "status": "QUEUED",
     "external_action_authorized": false
   },
@@ -245,8 +245,8 @@
   },
   "linkedin_manager_accountability_rule": "Agent 0 checks whether Agent 8 converted targets into executed work and funnel movement, not merely whether workflows are healthy.",
   "daily_outbound_accountability": {
-    "generated_at": "2026-09-13T10:26:13.014034+00:00",
-    "berlin_time": "2026-09-13T12:26:13.014034+02:00",
+    "generated_at": "2026-09-13T10:26:34.868750+00:00",
+    "berlin_time": "2026-09-13T12:26:34.868750+02:00",
     "status": "ATTENTION",
     "hard_deadline_hour": 18,
     "email": {

@@ -582,6 +582,103 @@
     "final_qa_required": true
   },
   {
+    "company_name": "DOM Haustechnik e.K. Sanitär | Heizung | Badsanierung | Wärmepumpe",
+    "industry": "Sanitaer Heizung",
+    "city": "Koeln",
+    "address": "Rilkestraße 2, 50997 Köln-Büro, Deutschland",
+    "website": "https://www.dom-haustechnik.de/",
+    "google_maps_url": "https://www.google.com/maps/place/DOM+Haustechnik+e.K.+Sanit%C3%A4r+%7C+Heizung+%7C+Badsanierung+%7C+W%C3%A4rmepumpe/data=!4m7!3m6!1s0x47bf23a926d4d681:0x65b0a2751f3709ba!8m2!3d50.8579316!4d6.9608174!16s%2Fg%2F11rsc26zz5!19sChIJgdbUJqkjv0cRugk3H3WisGU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 2236 3320158",
+    "public_business_email": "info@dom-haustechnik.de",
+    "email_source_url": "https://dom-haustechnik.de/",
+    "contact_form_url": "https://dom-haustechnik.de/kontakt/",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 5.0,
+    "google_review_count": 23,
+    "main_category": "Sanitaer Heizung",
+    "website_services": [
+      "heizung",
+      "bad",
+      "wartung",
+      "notdienst"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: notdienst"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "Helmut Hinz GmbH & Co.",
+    "competitor_1_reviews": 643,
+    "competitor_2": "SHK-KYRIAKIDIS SANITÄR-HEIZUNG KÖLN",
+    "competitor_2_reviews": 164,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "23 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 91."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 23 Google-Bewertungen."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: notdienst",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 2,
+    "report_potential_score": 25,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 86,
+    "competitor_review_median": 114,
+    "review_gap": 91,
+    "grade": "A",
+    "lead_class": "A_LEAD",
+    "qa_gate": "PASS_PRE_AIRTABLE_QA",
+    "primary_pitch": "23 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 91.",
+    "proof": [
+      "23 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 91.",
+      "Nur 23 Google-Bewertungen.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: notdienst"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "23 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 91.",
+    "second_outreach_angle": "Nur 23 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Sanitaer Heizung Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-13",
+    "research_status": "QUALIFIED",
+    "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 91; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
     "company_name": "Tierarztpraxis Tiergesundheitszentrum München",
     "industry": "Tierarzt",
     "city": "Muenchen",
@@ -3984,6 +4081,189 @@
     "signal_confidence": "MEDIUM",
     "obvious_chain_candidate": false,
     "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 113; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 5/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "AS Auto-Service GmbH - Kfz.-Werkstatt Köln - automacher",
+    "industry": "Autowerkstatt",
+    "city": "Koeln",
+    "address": "Frohnhofstraße 10, 50827 Ehrenfeld, Deutschland",
+    "website": "https://www.automacher.net/",
+    "google_maps_url": "https://www.google.com/maps/place/AS+Auto-Service+GmbH+-+Kfz.-Werkstatt+K%C3%B6ln+-+automacher/data=!4m7!3m6!1s0x47bf255075b6545f:0xdb98184798307206!8m2!3d50.966751!4d6.910926!16s%2Fg%2F1tgh22_l!19sChIJX1S2dVAlv0cRBnIwmEcYmNs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 221 592576",
+    "public_business_email": "kfz@automacher.net",
+    "email_source_url": "https://www.automacher.net/",
+    "contact_form_url": "https://www.automacher.net/kontakt/",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.7,
+    "google_review_count": 134,
+    "main_category": "Autowerkstatt",
+    "website_services": [
+      "inspektion",
+      "reifen",
+      "bremsen",
+      "klima",
+      "diagnose"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: reifen, bremsen, diagnose"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "Auto Top GmbH - Bosch Car Service",
+    "competitor_1_reviews": 465,
+    "competitor_2": "D&M KFZ-Meisterbetrieb GmbH - Köln",
+    "competitor_2_reviews": 401,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "134 eigene Bewertungen vs. lokaler Wettbewerbsmedian 236; Gap 102."
+      },
+      {
+        "type": "rating_headroom",
+        "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: reifen, bremsen, diagnose",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 2,
+    "report_potential_score": 19,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 80,
+    "competitor_review_median": 236,
+    "review_gap": 102,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "134 eigene Bewertungen vs. lokaler Wettbewerbsmedian 236; Gap 102.",
+    "proof": [
+      "134 eigene Bewertungen vs. lokaler Wettbewerbsmedian 236; Gap 102.",
+      "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: reifen, bremsen, diagnose"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "134 eigene Bewertungen vs. lokaler Wettbewerbsmedian 236; Gap 102.",
+    "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+    "research_notes": "Deterministic research v2. Query: Autowerkstatt Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-13",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 102; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "Heizung Sanitär Köln | Ebi's Haustechnik",
+    "industry": "Sanitaer Heizung",
+    "city": "Koeln",
+    "address": "Eythstraße 44a, 51103 Köln-Kalk, Deutschland",
+    "website": "http://www.ebis-haustechnik.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Heizung+Sanit%C3%A4r+K%C3%B6ln+%7C+Ebi%27s+Haustechnik/data=!4m7!3m6!1s0x47bf25b076e71b09:0xba3db3a9fb4ae4d0!8m2!3d50.941804!4d7.010669!16s%2Fg%2F1thlm6bc!19sChIJCRvndrAlv0cR0ORK-6mzPbo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 221 2870756",
+    "public_business_email": null,
+    "email_source_url": null,
+    "contact_form_url": null,
+    "contact_basis": "UNKNOWN",
+    "google_rating": 4.6,
+    "google_review_count": 41,
+    "main_category": "Sanitaer Heizung",
+    "website_services": [],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [],
+    "service_gap_status": "NOT_DETECTED",
+    "competitor_1": "Helmut Hinz GmbH & Co.",
+    "competitor_1_reviews": 643,
+    "competitor_2": "SHK-KYRIAKIDIS SANITÄR-HEIZUNG KÖLN",
+    "competitor_2_reviews": 164,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "41 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 73."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 41 Google-Bewertungen."
+      },
+      {
+        "type": "rating_headroom",
+        "proof": "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
+      }
+    ],
+    "soft_optimization_signals": [],
+    "verified_signal_count": 3,
+    "report_potential_score": 22,
+    "visible_value_score": 12,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 9,
+    "saas_fit_score": 5,
+    "total_score": 80,
+    "competitor_review_median": 114,
+    "review_gap": 73,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "41 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 73.",
+    "proof": [
+      "41 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 73.",
+      "Nur 41 Google-Bewertungen.",
+      "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "41 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 73.",
+    "second_outreach_angle": "Nur 41 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Sanitaer Heizung Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-13",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 4,
+    "contact_quality_reasons": [
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 73; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 4/10.",
     "airtable_ready": false,
     "final_qa_required": true
   },

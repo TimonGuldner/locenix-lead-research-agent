@@ -11,9 +11,11 @@ on:
       - 'agent/ceo_agent.py'
       - 'agent/ceo_customer_success_bridge.py'
       - 'agent/ceo_linkedin_control_bridge.py'
+      - 'agent/ceo_outbound_accountability_bridge.py'
       - 'agent/ceo_execution_enforcer.py'
       - 'results/department_head_state.json'
       - 'results/customer_success_state.json'
+      - 'results/email_sender_state.json'
   schedule:
     - cron: '15 6-18 * * *'
 
@@ -65,6 +67,10 @@ jobs:
       - name: Verify LinkedIn department execution control
         if: steps.gate.outputs.run_review == 'true'
         run: python -m agent.ceo_linkedin_control_bridge
+
+      - name: Enforce hard daily outbound accountability
+        if: steps.gate.outputs.run_review == 'true'
+        run: python -m agent.ceo_outbound_accountability_bridge
 
       - name: Enforce department execution
         if: steps.gate.outputs.run_review == 'true'

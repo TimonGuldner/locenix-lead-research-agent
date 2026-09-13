@@ -1,12 +1,12 @@
 {
   "agent": "AGENT_15B_INTENT_QA",
-  "last_run_at": "2026-09-13T18:49:18.522135+00:00",
+  "last_run_at": "2026-09-13T22:24:43.885326+00:00",
   "pending": 0,
-  "hot": 0,
+  "hot": 7,
   "warm": 3,
   "watch": 0,
   "rejected": 4,
-  "airtable_created": 0,
+  "airtable_created": 7,
   "airtable_updated": 4,
   "quarantined": 4,
   "errors": 0

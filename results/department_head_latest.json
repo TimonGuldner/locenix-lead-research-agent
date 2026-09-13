@@ -1,8 +1,8 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-13T10:48:48.768239+00:00",
-  "department_status": "BACKLOG",
+  "generated_at": "2026-09-13T10:49:07.840202+00:00",
+  "department_status": "DAILY_TARGET_GAP",
   "metrics": {
     "lead_count": 82,
     "lead_a": 11,
@@ -31,8 +31,8 @@
     "airtable_errors": [],
     "sales_hard_email_gate_rejected": 22,
     "downstream_email_gate_violations": 0,
-    "drafts_eligible": 11,
-    "drafts_stored": 11,
+    "drafts_eligible": 18,
+    "drafts_stored": 18,
     "draft_errors": 0,
     "sent_count": 0,
     "email_sender_available": false,
@@ -385,8 +385,8 @@
       "_kind": "agent"
     }
   ],
-  "next_agent": "outreach_controller",
-  "reason": "Airtable-ready email-qualified leads are missing outreach drafts.",
+  "next_agent": "email_sender",
+  "reason": "Approved email daily target is behind: 0/5 provider-confirmed sends today.",
   "dispatch_attempted": true,
   "dispatch_success": true,
   "dispatch_detail": "HTTP 204",

@@ -1,3 +1,4 @@
 LOCENIX lead research agent wake trigger.
-Automation continuation: Germany-wide qualified lead mission resumed 2026-09-13 13:39 Europe/Berlin.
+Automation continuation: Germany-wide qualified lead mission resumed 2026-09-13 14:49 Europe/Berlin.
 Current qualified Airtable leads: 30/200.
+GitHub deterministic pool: 86 leads total; latest batch 0 accepted / 23 rejected from 24 inspected.

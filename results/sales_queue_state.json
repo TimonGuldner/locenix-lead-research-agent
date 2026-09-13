@@ -11,7 +11,7 @@
   "airtable_errors": [],
   "priority_a_count": 37,
   "priority_b_count": 3,
-  "visibility_pending_count": 40,
+  "visibility_pending_count": 15,
   "last_run_date": "2026-09-13",
   "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_DOWNSTREAM_HANDOFF"
 }

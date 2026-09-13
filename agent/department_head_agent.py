@@ -14,6 +14,7 @@ AGENTS_DIR = Path('tasks/agents')
 
 STATE_FILES = {
     'lead_research': Path('results/deterministic_state.json'),
+    'maps_learning': Path('results/maps_learning_state.json'),
     'deep_qa': Path('results/deep_qa_state.json'),
     'visibility': Path('results/visibility_state.json'),
     'sales_queue': Path('results/sales_queue_state.json'),
@@ -48,10 +49,19 @@ def summarize(states: dict, departments: list[dict], agents: list[dict]) -> dict
     proposed_departments = [d for d in departments if str(d.get('status', '')).upper() == 'PROPOSED']
     proposed_agents = [a for a in agents if str(a.get('status', '')).upper() == 'PROPOSED']
     email = states.get('email_conversation') or {}
+    learning = states.get('maps_learning') or {}
     return {
         'lead_count': int(states['lead_research'].get('lead_count') or 0),
         'lead_a': int(states['lead_research'].get('a_leads') or 0),
         'lead_b': int(states['lead_research'].get('b_leads') or 0),
+        'maps_learning_available': bool(learning),
+        'maps_learning_status': learning.get('status', 'UNKNOWN'),
+        'maps_learning_runs': int(learning.get('learning_run_count') or 0),
+        'maps_learning_evaluated': int(learning.get('research_leads_evaluated') or 0),
+        'maps_learning_downstream_evidence': int(learning.get('leads_with_downstream_evidence') or 0),
+        'maps_learning_recommended_industry': learning.get('recommended_industry'),
+        'maps_learning_recommended_city': learning.get('recommended_city'),
+        'maps_learning_errors': int(learning.get('errors') or 0),
         'qa_remaining': int(states['deep_qa'].get('remaining_eligible') or 0),
         'qa_final_a': int(states['deep_qa'].get('final_a_total') or 0),
         'qa_final_b': int(states['deep_qa'].get('final_b_total') or 0),
@@ -103,7 +113,7 @@ def decide(metrics: dict) -> dict:
         return {'status': 'BACKLOG', 'next_agent': 'sales_queue', 'reason': 'Qualified FINAL_A leads have not all reached Airtable.'}
     if metrics['drafts_stored'] < metrics['airtable_ready']:
         return {'status': 'BACKLOG', 'next_agent': 'outreach_controller', 'reason': 'Airtable-ready leads are missing outreach drafts.'}
-    return {'status': 'HEALTHY', 'next_agent': 'lead_research', 'reason': 'Downstream pipeline is clear; add new qualified leads.'}
+    return {'status': 'HEALTHY', 'next_agent': 'lead_research', 'reason': 'Downstream pipeline is clear; add new qualified leads using Agent 4L learned Maps priorities.'}
 
 
 def dispatch(workflow_file: str) -> tuple[bool, str]:
@@ -155,6 +165,17 @@ def main() -> None:
         'generated_at': now,
         'department_status': decision['status'],
         'metrics': metrics,
+        'learning': {
+            'agent': 'AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER',
+            'available': metrics['maps_learning_available'],
+            'status': metrics['maps_learning_status'],
+            'learning_runs': metrics['maps_learning_runs'],
+            'research_leads_evaluated': metrics['maps_learning_evaluated'],
+            'leads_with_downstream_evidence': metrics['maps_learning_downstream_evidence'],
+            'recommended_industry': metrics['maps_learning_recommended_industry'],
+            'recommended_city': metrics['maps_learning_recommended_city'],
+            'errors': metrics['maps_learning_errors'],
+        },
         'channels': {
             'email': {
                 'agent': 'AGENT_9_EMAIL_CONVERSATION_AGENT',
@@ -177,6 +198,9 @@ def main() -> None:
         'guardrails': {
             'outreach_send_allowed': False,
             'email_agent_managed_separately': True,
+            'maps_learning_can_rewrite_code': False,
+            'maps_learning_can_raise_contact_limits': False,
+            'maps_learning_keeps_exploration': True,
             'contact_form_submit_allowed': False,
             'unknown_workflow_dispatch_allowed': False,
             'max_child_workflows_this_run': 1,
@@ -196,6 +220,12 @@ def main() -> None:
         'agents_proposed': metrics['agents_proposed'],
         'dispatch_success': dispatched,
         'dispatch_detail': dispatch_detail,
+        'maps_learning_available': metrics['maps_learning_available'],
+        'maps_learning_status': metrics['maps_learning_status'],
+        'maps_learning_runs': metrics['maps_learning_runs'],
+        'maps_learning_recommended_industry': metrics['maps_learning_recommended_industry'],
+        'maps_learning_recommended_city': metrics['maps_learning_recommended_city'],
+        'maps_learning_errors': metrics['maps_learning_errors'],
         'email_agent_available': metrics['email_agent_available'],
         'email_positive_replies': metrics['email_positive_replies'],
         'email_trial_interest': metrics['email_trial_interest'],

@@ -3,7 +3,7 @@
   "department": "intent_opportunity_acquisition",
   "manager": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
   "parent": "AGENT_0_LOCENIX_CEO",
-  "mode": "ORCHESTRATE_AND_MEASURE",
+  "mode": "ORCHESTRATE_MEASURE_AND_LEARN",
   "airtable_base_id": "appuPKnVyLsbWbxMR",
   "airtable_table_id": "tblF4ghkYFzkeQwsT",
   "registration_email": "hello@locenix.com",
@@ -15,7 +15,19 @@
   "dedupe_keys": ["Lead ID", "Website", "Email", "Phone", "Company"],
   "handoff": {"sales": "existing_sales_pipeline", "customer_success": "existing_customer_success_pipeline"},
   "browser": {"reuse_existing_first": true, "allow_new_worker_if_blocked": true, "captcha_bypass": false, "security_bypass": false},
+  "learning": {
+    "enabled": true,
+    "agent": "AGENT_15F_LEARNING_OPTIMIZER",
+    "mode": "SAFE_OUTCOME_LEARNING",
+    "minimum_samples_before_pause": 5,
+    "learn_query_priority": true,
+    "learn_source_priority": true,
+    "learn_provider_health": true,
+    "learn_from_conversation_outcomes": true,
+    "autonomous_code_rewrite": false,
+    "guardrail": "Only tune data-driven priorities/cooldowns. Never autonomously rewrite executable code or weaken safety/legal filters."
+  },
   "max_child_dispatches_per_run": 1,
   "auto_dispatch": false,
-  "notes": "Intent department. Airtable remains source of truth. HOT/WARM intent leads outrank cold leads. Do not create a new LinkedIn account. hello@locenix.com is the only registration address."
+  "notes": "Intent department. Airtable remains source of truth. HOT/WARM intent leads outrank cold leads. Do not create a new LinkedIn account. hello@locenix.com is the only registration address. Agent 15F learns source/query/provider priorities from measured outcomes without autonomous code mutation."
 }

@@ -1,18 +1,300 @@
 {
-  "accepted": [],
-  "accepted_count": 0,
-  "rejected_count": 23,
+  "accepted": [
+    {
+      "company_name": "TIERARZTPRAXIS KÖLN-LANGEL GmbH",
+      "industry": "Tierarzt",
+      "city": "Koeln",
+      "address": "Cohnenhofstraße 83, 50769 Chorweiler, Deutschland",
+      "website": "http://www.tierarztpraxis-koeln-langel.de/",
+      "google_maps_url": "https://www.google.com/maps/place/TIERARZTPRAXIS+K%C3%96LN-LANGEL+GmbH/data=!4m7!3m6!1s0x47bf31fd7aade47f:0x28a3169b83a0bd89!8m2!3d51.0500562!4d6.9180082!16s%2Fg%2F1v1vc9yz!19sChIJf-Stev0xv0cRib2gg5sWoyg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 221 9704400",
+      "public_business_email": "info@tierarztpraxis-koeln-langel.de",
+      "email_source_url": "https://www.tierarztpraxis-koeln-langel.de/",
+      "contact_form_url": "https://www.tierarztpraxis-koeln-langel.de/kontakt",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.7,
+      "google_review_count": 150,
+      "main_category": "Tierarzt",
+      "website_services": [],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [],
+      "service_gap_status": "NOT_DETECTED",
+      "competitor_1": "felmo Mobiler Tierarzt Köln",
+      "competitor_1_reviews": 2519,
+      "competitor_2": "Vet Zentrum Köln – Tierärztliche Klinik für Kleintiere, 24 Stunden Notdienst",
+      "competitor_2_reviews": 1822,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "150 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 391."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [],
+      "verified_signal_count": 2,
+      "report_potential_score": 22,
+      "visible_value_score": 12,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 81,
+      "competitor_review_median": 541,
+      "review_gap": 391,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "150 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 391.",
+      "proof": [
+        "150 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 391.",
+        "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "150 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 391.",
+      "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Tiergesundheitszentrum an der Flora (ex Tierarztpraxis am Nippeser Tälchen)",
+      "industry": "Tierarzt",
+      "city": "Koeln",
+      "address": "Xantener Str. 105, 50733 Nippes, Deutschland",
+      "website": "https://www.vet-nippes.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Tiergesundheitszentrum+an+der+Flora+%28ex+Tierarztpraxis+am+Nippeser+T%C3%A4lchen%29/data=!4m7!3m6!1s0x47bf2581ec348819:0xefafa6d117c7aec1!8m2!3d50.9670622!4d6.9677389!16s%2Fg%2F1tcyk55w!19sChIJGYg07IElv0cRwa7HF9Gmr-8?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 221 767878",
+      "public_business_email": "info@vet-nippes.de",
+      "email_source_url": "https://www.vet-nippes.de/",
+      "contact_form_url": "https://www.vet-nippes.de/kontakt-tierarzt-koeln-nippes/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.7,
+      "google_review_count": 311,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "impfung",
+        "chirurgie",
+        "ultraschall",
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "felmo Mobiler Tierarzt Köln",
+      "competitor_1_reviews": 2519,
+      "competitor_2": "Vet Zentrum Köln – Tierärztliche Klinik für Kleintiere, 24 Stunden Notdienst",
+      "competitor_2_reviews": 1822,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "311 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 230."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 22,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 83,
+      "competitor_review_median": 541,
+      "review_gap": 230,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "311 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 230.",
+      "proof": [
+        "311 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 230.",
+        "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "311 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 230.",
+      "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "filu Tierarztpraxis Rudolfplatz - Allgemein- und Notfallmedizin",
+      "industry": "Tierarzt",
+      "city": "Koeln",
+      "address": "Pilgrimstraße 6, 50674 Köln, Deutschland",
+      "website": "https://www.filu.vet/standorte/koeln?utm_source=google&utm_medium=gmb",
+      "google_maps_url": "https://www.google.com/maps/place/filu+Tierarztpraxis+Rudolfplatz+-+Allgemein-+und+Notfallmedizin/data=!4m7!3m6!1s0x47bf254997802d13:0xe56eac512485e26f!8m2!3d50.9356395!4d6.9396672!16s%2Fg%2F11wp6z9hnv!19sChIJEy2Al0klv0cRb-KFJFGsbuU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 221 58609808",
+      "public_business_email": null,
+      "email_source_url": null,
+      "contact_form_url": null,
+      "contact_basis": "UNKNOWN",
+      "google_rating": 4.8,
+      "google_review_count": 334,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "impfung",
+        "chirurgie",
+        "ultraschall",
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "felmo Mobiler Tierarzt Köln",
+      "competitor_1_reviews": 2519,
+      "competitor_2": "Vet Zentrum Köln – Tierärztliche Klinik für Kleintiere, 24 Stunden Notdienst",
+      "competitor_2_reviews": 1822,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "334 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 207."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 20,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 9,
+      "saas_fit_score": 5,
+      "total_score": 80,
+      "competitor_review_median": 541,
+      "review_gap": 207,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "334 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 207.",
+      "proof": [
+        "334 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 207.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "334 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 207.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Tierärztliche Gemeinschaftspraxis Viola Daub & Dr. med. vet. Claudia Szattelberger",
+      "industry": "Tierarzt",
+      "city": "Koeln",
+      "address": "Marthastraße 16, 51069 Mülheim, Deutschland",
+      "website": "http://www.tierarztpraxis-koeln-dellbrueck.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Tier%C3%A4rztliche+Gemeinschaftspraxis+Viola+Daub+%26+Dr.+med.+vet.+Claudia+Szattelberger/data=!4m7!3m6!1s0x47bf2865185b52d3:0xf606d90f4189eb65!8m2!3d50.977388!4d7.069823!16s%2Fg%2F1thvxdk5!19sChIJ01JbGGUov0cRZeuJQQ_ZBvY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 221 683802",
+      "public_business_email": "info@tierarztpraxis-koeln-dellbrueck.de",
+      "email_source_url": "https://tierarztpraxis-koeln-dellbrueck.de/",
+      "contact_form_url": "https://tierarztpraxis-koeln-dellbrueck.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.3",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.8,
+      "google_review_count": 271,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "chirurgie"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "felmo Mobiler Tierarzt Köln",
+      "competitor_1_reviews": 2519,
+      "competitor_2": "Vet Zentrum Köln – Tierärztliche Klinik für Kleintiere, 24 Stunden Notdienst",
+      "competitor_2_reviews": 1822,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "271 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 270."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 20,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 81,
+      "competitor_review_median": 541,
+      "review_gap": 270,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "271 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 270.",
+      "proof": [
+        "271 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 270.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "271 eigene Bewertungen vs. lokaler Wettbewerbsmedian 541; Gap 270.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
+  "accepted_count": 4,
+  "rejected_count": 15,
   "inspected": 24,
   "state": {
-    "query_cursor": 120,
-    "runs": 40,
-    "lead_count": 86,
+    "query_cursor": 123,
+    "runs": 41,
+    "lead_count": 90,
     "target_leads": 999999999,
-    "last_accepted": 0,
+    "last_accepted": 4,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 23,
+    "last_rejected": 15,
     "a_leads": 13,
-    "b_leads": 42
+    "b_leads": 46
   }
 }

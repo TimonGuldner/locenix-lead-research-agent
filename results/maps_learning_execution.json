@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 16,
-  "focus": "city_exploitation",
+  "learning_run_count": 17,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Augsburg",
+    "Bielefeld",
+    "Bochum"
   ],
   "selected_industries": [
-    "Fotograf",
-    "Heilpraktiker",
-    "Logopaedie"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Fotograf",
-      "query": "Fotograf Hamburg"
+      "city": "Augsburg",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Augsburg"
     },
     {
-      "city": "Hamburg",
-      "industry": "Heilpraktiker",
-      "query": "Heilpraktiker Hamburg"
+      "city": "Bielefeld",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Bielefeld"
     },
     {
-      "city": "Hamburg",
-      "industry": "Logopaedie",
-      "query": "Logopaedie Hamburg"
+      "city": "Bochum",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Bochum"
     }
   ],
   "queries_per_run": 3

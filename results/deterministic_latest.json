@@ -1,18 +1,238 @@
 {
-  "accepted": [],
-  "accepted_count": 0,
-  "rejected_count": 24,
+  "accepted": [
+    {
+      "company_name": "Fachtierarztpraxis Dr. A. Hettling",
+      "industry": "Tierarzt",
+      "city": "Bielefeld",
+      "address": "Quellenhofweg 114, 33617 Bielefeld-Bethel, Deutschland",
+      "website": "http://www.tierarztpraxis-hettling.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Fachtierarztpraxis+Dr.+A.+Hettling/data=!4m7!3m6!1s0x47ba3cc6763ce5e1:0xc5a4beef91cc69a2!8m2!3d51.9996392!4d8.5305394!16s%2Fg%2F1td_9spb!19sChIJ4eU8dsY8ukcRomnMke--pMU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 521 32923344",
+      "public_business_email": "info@tierarztpraxis-hettling.de",
+      "email_source_url": "https://tierarztpraxis-hettling.de/",
+      "contact_form_url": "https://tierarztpraxis-hettling.de/kontakt",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.4,
+      "google_review_count": 315,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "impfung",
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, labor"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "AniCura Bielefeld",
+      "competitor_1_reviews": 3039,
+      "competitor_2": "Teuto Vets",
+      "competitor_2_reviews": 543,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "315 eigene Bewertungen vs. lokaler Wettbewerbsmedian 449; Gap 134."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.4; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, labor",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 19,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 80,
+      "competitor_review_median": 449,
+      "review_gap": 134,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "315 eigene Bewertungen vs. lokaler Wettbewerbsmedian 449; Gap 134.",
+      "proof": [
+        "315 eigene Bewertungen vs. lokaler Wettbewerbsmedian 449; Gap 134.",
+        "Google-Bewertung 4.4; sichtbares Reputationspotenzial.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, labor"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "315 eigene Bewertungen vs. lokaler Wettbewerbsmedian 449; Gap 134.",
+      "second_outreach_angle": "Google-Bewertung 4.4; sichtbares Reputationspotenzial.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Bielefeld. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "felmo Mobiler Tierarzt Bielefeld",
+      "industry": "Tierarzt",
+      "city": "Bielefeld",
+      "address": "Industriestraße 33, 33689 Bielefeld, Deutschland",
+      "website": "https://felmo.de/tierarzt/bielefeld?utm_medium=referral&utm_source=google_my_business&utm_term=bielefeld",
+      "google_maps_url": "https://www.google.com/maps/place/felmo+Mobiler+Tierarzt+Bielefeld/data=!4m7!3m6!1s0x47ba3b3f93582709:0xe38b6050a10c347e!8m2!3d51.9574629!4d8.5768621!16s%2Fg%2F11nb4n4mk7!19sChIJCSdYkz87ukcRfjQMoVBgi-M?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 30 31197554",
+      "public_business_email": "info@mail.felmo.de",
+      "email_source_url": "https://felmo.de/tierarzt/bielefeld?utm_medium=referral&utm_source=google_my_business&utm_term=bielefeld",
+      "contact_form_url": "https://felmo.de/build/assets/useContactData.hook-C4aUDEse.js",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.9,
+      "google_review_count": 53,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "impfung",
+        "chirurgie",
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, labor"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "AniCura Bielefeld",
+      "competitor_1_reviews": 3039,
+      "competitor_2": "Teuto Vets",
+      "competitor_2_reviews": 543,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "53 eigene Bewertungen vs. lokaler Wettbewerbsmedian 449; Gap 396."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, labor",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 24,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 85,
+      "competitor_review_median": 449,
+      "review_gap": 396,
+      "grade": "A",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "53 eigene Bewertungen vs. lokaler Wettbewerbsmedian 449; Gap 396.",
+      "proof": [
+        "53 eigene Bewertungen vs. lokaler Wettbewerbsmedian 449; Gap 396.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, labor"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "53 eigene Bewertungen vs. lokaler Wettbewerbsmedian 449; Gap 396.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, labor",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Bielefeld. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Tierarztpraxis felmo Bochum",
+      "industry": "Tierarzt",
+      "city": "Bochum",
+      "address": "Wittener Str. 56, 44789 Bochum, Deutschland",
+      "website": "https://felmo.de/tierarztpraxis/bochum?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+felmo+Bochum/data=!4m7!3m6!1s0x47b8e12768a8a93f:0x63b3f2a50f3d7e06!8m2!3d51.4780365!4d7.227045!16s%2Fg%2F11yz8958_n!19sChIJP6moaCfhuEcRBn49D6Xys2M?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 234 97849273",
+      "public_business_email": "Berlin@1x.png",
+      "email_source_url": "https://felmo.de/tierarztpraxis/bochum?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
+      "contact_form_url": "https://felmo.de/build/assets/useContactData.hook-C4aUDEse.js",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.9,
+      "google_review_count": 139,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "impfung",
+        "chirurgie",
+        "zahnsanierung",
+        "ultraschall",
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, zahnsanierung, ultraschall, labor"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Tierärztliche Praxis für Kleintiere Dres. Baade & Weber",
+      "competitor_1_reviews": 513,
+      "competitor_2": "Tierärztliche Praxis für Kleintiere",
+      "competitor_2_reviews": 383,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "139 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 209."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, zahnsanierung, ultraschall, labor",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 20,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 81,
+      "competitor_review_median": 348,
+      "review_gap": 209,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "139 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 209.",
+      "proof": [
+        "139 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 209.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, zahnsanierung, ultraschall, labor"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "139 eigene Bewertungen vs. lokaler Wettbewerbsmedian 348; Gap 209.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, zahnsanierung, ultraschall, labor",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Bochum. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
+  "accepted_count": 3,
+  "rejected_count": 20,
   "inspected": 24,
   "state": {
-    "query_cursor": 144,
-    "runs": 48,
-    "lead_count": 98,
+    "query_cursor": 147,
+    "runs": 49,
+    "lead_count": 101,
     "target_leads": 999999999,
-    "last_accepted": 0,
+    "last_accepted": 3,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 24,
+    "last_rejected": 20,
     "a_leads": 16,
-    "b_leads": 51
+    "b_leads": 54
   }
 }

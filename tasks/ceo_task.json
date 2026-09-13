@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "mode": "EXECUTIVE_ORCHESTRATOR",
+  "mode": "DAILY_TARGET_ACCOUNTABILITY_CEO",
   "agent": "LOCENIX_CEO_AGENT_0",
-  "north_star": "paid_customers",
+  "north_star": "zero_daily_target_gaps",
   "max_priorities": 3,
   "executive_reviews_per_day": 12,
   "event_driven": true,
@@ -35,45 +35,39 @@
       "rule": "No Maps lead may enter Visibility, Sales Queue or outreach-ready downstream processing without a researched public business email. Missing-email leads are rejected from downstream handoff, never treated as sales-ready."
     }
   },
-  "objective_window": {
-    "start_date": "2026-09-12",
-    "end_date": "2026-09-15",
-    "source_of_truth": "Airtable LOCENIX LinkedIn Growth OS / CEO Objectives",
-    "binding": true
-  },
   "objectives": [
     {
       "priority": 1,
-      "objective": "Ersten LOCENIX Trial gewinnen",
-      "owner": "Agent 0 CEO",
-      "kpi": "Trials",
-      "target": 1,
-      "rule": "Bestehende aktive Gespräche und positive Signale vor neuer Lead-Masse priorisieren. Agent 8 auf Conversation -> Visibility Check -> Trial ausrichten."
-    },
-    {
-      "priority": 2,
-      "objective": "Tägliche Outbound-Ziele über die Abteilungsleiter einhalten",
+      "objective": "Alle Tagesziele der Abteilungsleiter bis Tagesende erfüllen",
       "owner": "Agent 0 CEO",
       "kpi": "Daily target gaps",
       "target": 0,
-      "rule": "Agent 0 prüft bei jedem Review TARGET -> ACTUAL -> EXPECTED-BY-NOW -> GAP -> ACTION. Abteilungsleiter müssen Lücken mit ausführbarer Arbeit schließen und beim nächsten Review erneut gemessen werden."
+      "rule": "Bei jedem Review TARGET -> ACTUAL -> EXPECTED-BY-NOW -> GAP -> ROOT CAUSE -> CORRECTIVE JOB -> RE-MEASURE. Ein laufender Job ohne messbaren Fortschritt zählt nicht als Erfüllung. Stale oder nicht performende Arbeit muss ersetzt oder eskaliert werden."
     },
     {
-      "priority": 3,
-      "objective": "Maps-Pipeline nur mit recherchierter öffentlicher Business-E-Mail",
+      "priority": 2,
+      "objective": "Maps-Pipeline ausschließlich mit recherchierter öffentlicher Business-E-Mail versorgen",
       "owner": "Agent 7 Growth Manager",
       "kpi": "Downstream email gate violations",
       "target": 0,
-      "rule": "Ohne recherchierte öffentliche Business-E-Mail kein Visibility-/Sales-/Outreach-Handoff."
+      "rule": "Ohne recherchierte öffentliche Business-E-Mail kein Visibility-, Sales- oder Outreach-Handoff."
+    },
+    {
+      "priority": 3,
+      "objective": "Jede fällige Antwort und jedes fällige Follow-up am selben Tag bearbeiten",
+      "owner": "Department Heads",
+      "kpi": "Overdue actionable replies/follow-ups",
+      "target": 0,
+      "rule": "Inbound und fällige Follow-ups haben Vorrang vor zusätzlicher kalter Aktivität; nur technisch bestätigte Aktionen zählen."
     }
   ],
-  "objective_execution_rule": "CEO-Prioritäten und Delegationen müssen zuerst tägliche Outbound-Lücken, Conversion und harte Pipeline-Qualitätsgates schließen. Workflow-Health allein ist niemals Zielerfüllung.",
+  "objective_execution_rule": "Agent 0 ist ein Accountability-CEO. Seine operative Hauptaufgabe ist, die definierten Tagesziele aller Abteilungsleiter auf null Restlücke zu bringen. Workflow-Health, queued/running Jobs oder Absichtserklärungen sind kein Erfolg. Erfolg zählt nur aus beobachteter, technisch bestätigter Ausführung. Bei Abweichung muss Agent 0 den verantwortlichen Abteilungsleiter zur Korrektur veranlassen und beim nächsten Review erneut messen.",
   "autonomy": {
     "internal_analysis": true,
     "prioritization": true,
     "safe_workflow_directives": true,
-    "propose_agents": true,
-    "propose_departments": true,
+    "propose_agents": false,
+    "propose_departments": false,
     "activate_new_agents": false,
     "activate_new_departments": false,
     "external_messages": false,
@@ -85,16 +79,13 @@
   "rules": {
     "unknown_is_never_zero": true,
     "quality_over_activity": true,
-    "stability_before_growth": true,
-    "optimize_biggest_bottleneck": true,
-    "existing_agent_before_new_agent": true,
-    "new_agents_start_proposed": true,
-    "new_departments_start_proposed": true,
-    "human_approval_for_costs_external_actions_and_activation": true,
-    "do_nothing_when_no_action_is_useful": true,
     "department_heads_are_accountable_for_daily_targets": true,
     "daily_target_gap_must_trigger_corrective_action": true,
+    "running_without_verified_progress_is_not_success": true,
+    "stale_work_must_be_recovered_or_replaced": true,
+    "remeasure_after_corrective_action": true,
     "hard_deadline_requires_zero_target_gap_or_explicit_blocker": true,
-    "no_email_means_no_maps_sales_handoff": true
+    "no_email_means_no_maps_sales_handoff": true,
+    "only_verified_external_actions_count": true
   }
 }

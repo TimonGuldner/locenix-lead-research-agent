@@ -10,8 +10,12 @@ on:
       - 'tasks/agents/**'
       - 'agent/department_head_agent.py'
       - 'results/email_conversation_state.json'
+      - 'results/email_sender_state.json'
+      - 'results/sales_queue_state.json'
+      - 'results/deep_qa_state.json'
+      - 'results/visibility_state.json'
   schedule:
-    - cron: '12,42 6-15 * * *'
+    - cron: '12,42 6-18 * * *'
 
 permissions:
   contents: write
@@ -36,8 +40,8 @@ jobs:
           from datetime import datetime
           from zoneinfo import ZoneInfo
           now = datetime.now(ZoneInfo('Europe/Berlin'))
-          if not (8 <= now.hour < 16):
-              raise SystemExit('Outside 08:00-16:00 Europe/Berlin')
+          if not (8 <= now.hour < 20):
+              raise SystemExit('Outside 08:00-20:00 Europe/Berlin')
           PY
 
       - name: Set up Python

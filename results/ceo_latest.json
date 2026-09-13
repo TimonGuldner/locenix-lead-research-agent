@@ -1,12 +1,12 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-13T05:22:00.589635+00:00",
+  "generated_at": "2026-09-13T06:18:58.248226+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "funnel_metrics": {
-    "research_leads": 70,
-    "research_a": 8,
-    "research_b": 31,
+    "research_leads": 74,
+    "research_a": 9,
+    "research_b": 34,
     "qa_remaining": 0,
     "final_a": 11,
     "final_b": 6,
@@ -31,7 +31,7 @@
     "email_trial_interest": 0,
     "email_human_reviews_required": 0,
     "email_last_run_at": "2026-09-13T05:21:38.266918+00:00",
-    "linkedin_department_status": "ATTENTION",
+    "linkedin_department_status": "HEALTHY",
     "linkedin_biggest_bottleneck": "POSITIVE_REPLIES",
     "linkedin_leads": 61,
     "linkedin_qualified_leads": 13,
@@ -43,7 +43,7 @@
     "linkedin_trials": 0,
     "linkedin_paid_customers": 0,
     "linkedin_queue_backlog": 8,
-    "linkedin_failed_jobs": 4,
+    "linkedin_failed_jobs": 0,
     "proposed_agents": 0,
     "proposed_departments": 0,
     "customer_success_active_trials": 0,
@@ -68,8 +68,8 @@
     },
     "linkedin": {
       "manager": "AGENT_8_LINKEDIN_DEPARTMENT_HEAD",
-      "health": "ATTENTION",
-      "status": "ATTENTION",
+      "health": "HEALTHY",
+      "status": "HEALTHY",
       "biggest_bottleneck": "POSITIVE_REPLIES",
       "priority_1": {
         "type": "POSITIVE_REPLIES",
@@ -77,7 +77,7 @@
         "owner": "Conversation / Inbox Agent"
       },
       "ceo_escalation_required": false,
-      "last_run_at": "2026-09-12T19:09:23.829841+00:00",
+      "last_run_at": "2026-09-13T05:57:08.474460+00:00",
       "execution_control": {
         "status": "OUTSIDE_BUSINESS_HOURS",
         "targets": {
@@ -91,7 +91,7 @@
         "active_roles": [],
         "corrective_action": "No new external LinkedIn work is started outside the configured business-hours window.",
         "ceo_attention_required": false,
-        "last_control_at": "2026-09-12T19:09:23.977125+00:00"
+        "last_control_at": "2026-09-13T05:57:08.604397+00:00"
       }
     },
     "customer_success": {
@@ -142,7 +142,7 @@
     "priority": 2,
     "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
     "created_at": "2026-09-12T12:08:42.961312+00:00",
-    "updated_at": "2026-09-13T05:22:00.589635+00:00",
+    "updated_at": "2026-09-13T06:18:58.248226+00:00",
     "status": "QUEUED",
     "external_action_authorized": false
   },
@@ -191,7 +191,7 @@
     "active_roles": [],
     "corrective_action": "No new external LinkedIn work is started outside the configured business-hours window.",
     "ceo_attention_required": false,
-    "last_control_at": "2026-09-12T19:09:23.977125+00:00"
+    "last_control_at": "2026-09-13T05:57:08.604397+00:00"
   },
   "linkedin_manager_accountability_rule": "Agent 0 checks whether Agent 8 converted targets into executed work and funnel movement, not merely whether workflows are healthy."
 }

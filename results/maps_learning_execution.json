@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 7,
-  "focus": "exploration",
-  "exploration": true,
+  "learning_run_count": 8,
+  "focus": "city_exploitation",
+  "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Moenchengladbach",
-    "Krefeld",
-    "Oberhausen"
+    "Hamburg"
   ],
   "selected_industries": [
-    "Nagelstudio"
+    "Beauty Aesthetik",
+    "Gebaeudereinigung",
+    "Osteopathie"
   ],
   "selected_pairs": [
     {
-      "city": "Moenchengladbach",
-      "industry": "Nagelstudio",
-      "query": "Nagelstudio Moenchengladbach"
+      "city": "Hamburg",
+      "industry": "Beauty Aesthetik",
+      "query": "Beauty Aesthetik Hamburg"
     },
     {
-      "city": "Krefeld",
-      "industry": "Nagelstudio",
-      "query": "Nagelstudio Krefeld"
+      "city": "Hamburg",
+      "industry": "Gebaeudereinigung",
+      "query": "Gebaeudereinigung Hamburg"
     },
     {
-      "city": "Oberhausen",
-      "industry": "Nagelstudio",
-      "query": "Nagelstudio Oberhausen"
+      "city": "Hamburg",
+      "industry": "Osteopathie",
+      "query": "Osteopathie Hamburg"
     }
   ],
   "queries_per_run": 3

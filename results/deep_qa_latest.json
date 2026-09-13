@@ -1,14 +1,159 @@
 {
   "results": [
     {
-      "lead_id": "maison de nails berlin|berlin|https://maisondenails.de/",
-      "company_name": "Maison De Nails Berlin",
-      "industry": "Nagelstudio",
-      "city": "Berlin",
-      "source_total_score": 82,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Maison+De+Nails+Berlin/data=!4m7!3m6!1s0x47a853a6eeaba31d:0x544ce179cd300621!8m2!3d52.5656369!4d13.3991799!16s%2Fg%2F11ynbb17f4!19sChIJHaOr7qZTqEcRIQYwzXnhTFQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://maisondenails.de/",
+      "lead_id": "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
+      "company_name": "Tierarztpraxis Tierärztlicher Notfalldienst - in der HAFENCITY- jeden Tag am selben Ort",
+      "industry": "Tierarzt",
+      "city": "Hamburg",
+      "source_total_score": 89,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Tier%C3%A4rztlicher+Notfalldienst+-+in+der+HAFENCITY-+jeden+Tag+am+selben+Ort/data=!4m7!3m6!1s0x47b18f89e4c1fc05:0xa777d06c300625b1!8m2!3d53.5366587!4d10.0169295!16s%2Fg%2F11j53d341_!19sChIJBfzB5ImPsUcRsSUGMGzQd6c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://tierarzt-notdienst-hamburg.com/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://tierarzt-notdienst-hamburg.com/",
+        "booking_link": null,
+        "social_links": [
+          "https://www.facebook.com/profile.php?id=100064015926084",
+          "https://www.instagram.com/tieraerztlicher_notfalldienst/"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "chirurgie",
+          "labor"
+        ],
+        "website_evidence": [
+          "Active social-link footprint observed (2 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "ahoi@vetzentrum-hafencity.de",
+        "email_source_url": "https://tierarzt-notdienst-hamburg.com/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:16:48.984479+00:00"
+      },
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 96,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 37 reviews vs. comparison median 348; gap 311."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 37 reviews vs. comparison median 348; gap 311.",
+      "proof": [
+        "Verified source data: 37 reviews vs. comparison median 348; gap 311.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "ahoi@vetzentrum-hafencity.de",
+      "email_source_url": "https://tierarzt-notdienst-hamburg.com/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:16:48.984479+00:00",
+      "airtable_ready": true,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
+      "company_name": "Immobilienmakler Köln",
+      "industry": "Immobilienmakler",
+      "city": "Koeln",
+      "source_total_score": 88,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Immobilienmakler+K%C3%B6ln/data=!4m7!3m6!1s0x47bf259a5b728dc5:0xed7aa6f0eadf745a!8m2!3d50.9341586!4d6.9710197!16s%2Fg%2F11x8152b7t!19sChIJxY1yW5olv0cRWnTf6vCmeu0?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "verkauf",
+          "vermietung",
+          "bewertung",
+          "kapitalanlage",
+          "immobilienbewertung"
+        ],
+        "website_evidence": [
+          "Contact/imprint page observed on website."
+        ],
+        "email": null,
+        "email_source_url": null,
+        "email_verification_status": "EMAIL_MISSING",
+        "email_found_at": null
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 90,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 10 reviews vs. comparison median 177; gap 167."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [
+        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+      ],
+      "primary_sales_angle_verified": "Verified source data: 10 reviews vs. comparison median 177; gap 167.",
+      "proof": [
+        "Verified source data: 10 reviews vs. comparison median 177; gap 167."
+      ],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null,
+      "airtable_ready": false,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/",
+      "company_name": "Zahnarzt München Zentrum Dr. Rüdiger Hansen",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "source_total_score": 87,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+M%C3%BCnchen+Zentrum+Dr.+R%C3%BCdiger+Hansen/data=!4m7!3m6!1s0x479e75f53d746681:0x3c9692da1f21ff09!8m2!3d48.136622!4d11.573294!16s%2Fg%2F1td3kl2x!19sChIJgWZ0PfV1nkcRCf8hH9qSljw?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.zahnarzt-muenchen-zentrum.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -21,109 +166,69 @@
         "address_observed": true,
         "maps_evidence": [
           "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile.",
-          "Booking/appointment wording observed in current Maps page text."
-        ]
-      },
-      "website_check": {
-        "website_accessible": false,
-        "website_final_url": "https://www.maisondenails.de/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": false,
-        "website_service_matches": [],
-        "website_evidence": []
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 47 reviews vs. comparison median 298; gap 251."
-        },
-        {
-          "type": "profile_completeness_core",
-          "proof": "Current Maps page exposes both phone and website actions."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Website could not be verified as accessible in this run."
-      ],
-      "primary_sales_angle_verified": "Verified source data: 47 reviews vs. comparison median 298; gap 251.",
-      "proof": [
-        "Verified source data: 47 reviews vs. comparison median 298; gap 251."
-      ],
-      "airtable_ready": false,
-      "qa_date": "2026-09-12",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
-      "company_name": "Julcy Nails - Berlin",
-      "industry": "Nagelstudio",
-      "city": "Berlin",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Julcy+Nails+-+Berlin/data=!4m7!3m6!1s0x47a851afa372f84d:0xe42f0016b6e6a24!8m2!3d52.5086911!4d13.393526!16s%2Fg%2F11srqg14km!19sChIJTfhyo69RqEcRJGpuawHwQg4?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://nail.beauty.ivof.com/julcy-nails/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
           "Phone action observed on Google Maps profile."
         ]
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://nail.beauty.ivof.com/julcy-nails/",
-        "booking_link": null,
+        "website_final_url": "https://www.zahnarzt-muenchen-zentrum.de/",
+        "booking_link": "https://www.doctolib.de/praxis/muenchen/dr-ruediger-hansen",
         "social_links": [],
-        "contact_page_observed": false,
-        "website_service_matches": [],
-        "website_evidence": []
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "implantate",
+          "prophylaxe",
+          "bleaching",
+          "parodontologie",
+          "wurzelbehandlung"
+        ],
+        "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@zahnarzt-muenchen-zentrum.de",
+        "email_source_url": "https://www.zahnarzt-muenchen-zentrum.de/impressum",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:17:05.908729+00:00"
       },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 94,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 136 reviews vs. comparison median 298; gap 162."
+          "proof": "Verified source data: 33 reviews vs. comparison median 306; gap 273."
         },
         {
-          "type": "profile_completeness_core",
-          "proof": "Current Maps page exposes both phone and website actions."
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
         }
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 136 reviews vs. comparison median 298; gap 162.",
+      "primary_sales_angle_verified": "Verified source data: 33 reviews vs. comparison median 306; gap 273.",
       "proof": [
-        "Verified source data: 136 reviews vs. comparison median 298; gap 162."
+        "Verified source data: 33 reviews vs. comparison median 306; gap 273.",
+        "Online booking/appointment link observed on website."
       ],
-      "airtable_ready": false,
-      "qa_date": "2026-09-12",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+      "email": "info@zahnarzt-muenchen-zentrum.de",
+      "email_source_url": "https://www.zahnarzt-muenchen-zentrum.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:17:05.908729+00:00",
+      "airtable_ready": true,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
-      "company_name": "Reifen-Müller, Georg Müller GmbH & Co.KG",
-      "industry": "Reifenservice",
+      "lead_id": "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
+      "company_name": "Tier Tour Berlin - Mobiler Tierarzt",
+      "industry": "Tierarzt",
       "city": "Berlin",
-      "source_total_score": 81,
-      "source_lead_class": "REJECT",
-      "google_maps_url": "https://www.google.com/maps/place/Reifen-M%C3%BCller,+Georg+M%C3%BCller+GmbH+%26+Co.KG/data=!4m7!3m6!1s0x47a84e37e72ee605:0x5421510b1cd4e6c0!8m2!3d52.5060012!4d13.4300898!16s%2Fg%2F1tgf27gh!19sChIJBeYu5zdOqEcRwObUHAtRIVQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
+      "source_total_score": 87,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Tier+Tour+Berlin+-+Mobiler+Tierarzt/data=!4m7!3m6!1s0x48c99d6cb588b5ff:0xdc6108d3307fc4d2!8m2!3d52.53481!4d13.5517!16s%2Fg%2F11xvcc7p1y!19sChIJ_7WItWydyUgR0sR_MNMIYdw?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.tiertour-berlin.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -141,56 +246,61 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
+        "website_final_url": "https://www.tiertour-berlin.de/",
         "booking_link": null,
         "social_links": [
-          "https://reifen-mueller.de/facebook",
-          "https://reifen-mueller.de/instagram"
+          "https://www.instagram.com/tiertour",
+          "https://de.linkedin.com/in/azam-sultan-7b553aa1"
         ],
         "contact_page_observed": true,
         "website_service_matches": [],
         "website_evidence": [
           "Active social-link footprint observed (2 link(s)).",
-          "Contact page/link observed on website."
-        ]
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@tiertour-berlin.de",
+        "email_source_url": "https://www.tiertour-berlin.de/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:17:20.067077+00:00"
       },
       "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
+      "deep_qa_score": 94,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 182 reviews vs. comparison median 357; gap 175."
+          "proof": "Verified source data: 42 reviews vs. comparison median 1944; gap 1902."
         },
         {
           "type": "digital_maturity_social",
           "proof": "Business website links to at least one social profile."
-        },
-        {
-          "type": "profile_completeness_core",
-          "proof": "Current Maps page exposes both phone and website actions."
         }
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 182 reviews vs. comparison median 357; gap 175.",
+      "primary_sales_angle_verified": "Verified source data: 42 reviews vs. comparison median 1944; gap 1902.",
       "proof": [
-        "Verified source data: 182 reviews vs. comparison median 357; gap 175.",
+        "Verified source data: 42 reviews vs. comparison median 1944; gap 1902.",
         "Business website links to at least one social profile."
       ],
+      "email": "info@tiertour-berlin.de",
+      "email_source_url": "https://www.tiertour-berlin.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:17:20.067077+00:00",
       "airtable_ready": true,
-      "qa_date": "2026-09-12",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
-      "company_name": "Reifendienst - All Inn Performance",
-      "industry": "Reifenservice",
-      "city": "Berlin",
-      "source_total_score": 80,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Reifendienst+-+All+Inn+Performance/data=!4m7!3m6!1s0x47a84460ddb3d411:0x1cc5362a9f142d7d!8m2!3d52.388357!4d13.4091684!16s%2Fg%2F11g7zdt245!19sChIJEdSz3WBEqEcRfS0Unyo2xRw?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://facebook.com/allinnperformance",
+      "lead_id": "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
+      "company_name": "myPhysio Physiotherapie Köln Am Gürzenich (Privatpatienten&Selbstzahler)",
+      "industry": "Physiotherapie",
+      "city": "Koeln",
+      "source_total_score": 86,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/myPhysio+Physiotherapie+K%C3%B6ln+Am+G%C3%BCrzenich+%28Privatpatienten%26Selbstzahler%29/data=!4m7!3m6!1s0x47bf25fb66bdb28d:0xf24d7f19787f5550!8m2!3d50.9360306!4d6.9575354!16s%2Fg%2F11mz9fvh0l!19sChIJjbK9Zvslv0cRUFV_eBl_TfI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://myphysio-deutschland.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -208,72 +318,74 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.facebook.com/Allinnperformance/",
+        "website_final_url": "https://myphysiodeutschland.de/",
         "booking_link": null,
         "social_links": [
-          "https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=https%3A%2F%2Fwww.facebook.com%2FAllinnperformance%2F",
-          "https://www.facebook.com/recover/initiate?ars=royal_blue_bar",
-          "https://www.facebook.com/photo/?fbid=755617742286359&set=a.755617705619696",
-          "https://www.facebook.com/photo/?fbid=755617738953026&set=a.755617708953029&__tn__=%3C",
-          "https://www.facebook.com/Allinnperformance/followers/",
-          "https://www.facebook.com/Allinnperformance/following/",
-          "https://www.facebook.com/Allinnperformance/about",
-          "https://www.facebook.com/Allinnperformance/photos",
-          "https://www.facebook.com/Allinnperformance",
-          "https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.all-inn-performance.de%2F&h=AUAyP_9fKXwrTnZushf98eSnYsY_wOYcgHjfarkcZa_FCxaMwYUXWjoAqOW7kPl0f01FeILZrZXP8s1FtaTXUIuHo1GPwWUlqSSQzXzCc9JthfjccaS6XInNYxVkfpBTB8D9m2t0TI4uKQ",
-          "https://www.facebook.com/Allinnperformance?__cft__[0]=AZiKFz8Gnpiyyte6rCZAdq84Fo6PqXW-bkTUnlFGtlPwvncEbWl0Bq0MDMcZwZteGQgIMfAVlLc0CiV5J95b2i2p7ROlKE5P_msnyCPrXGa6lcUZ3n3qPBfLF6y0-7PpvXF-cBzQ4JYCR5U_5cz-q1n-PZ-4a1YI3KnJTlmbFRpZZ1G_FWvAOpVsx8M&__tn__=%3C%3C%2CP-R",
-          "https://www.facebook.com/Allinnperformance?__cft__[0]=AZiKFz8Gnpiyyte6rCZAdq84Fo6PqXW-bkTUnlFGtlPwvncEbWl0Bq0MDMcZwZteGQgIMfAVlLc0CiV5J95b2i2p7ROlKE5P_msnyCPrXGa6lcUZ3n3qPBfLF6y0-7PpvXF-cBzQ4JYCR5U_5cz-q1n-PZ-4a1YI3KnJTlmbFRpZZ1G_FWvAOpVsx8M&__tn__=-UC%2CP-R",
-          "https://www.facebook.com/Allinnperformance/posts/pfbid0o8HJ8aurTJvtrmETxyriakSe6ktvWHNFfaimgjvMAhJnF7CeEsb4B4tvCETHi69rl?__cft__[0]=AZiKFz8Gnpiyyte6rCZAdq84Fo6PqXW-bkTUnlFGtlPwvncEbWl0Bq0MDMcZwZteGQgIMfAVlLc0CiV5J95b2i2p7ROlKE5P_msnyCPrXGa6lcUZ3n3qPBfLF6y0-7PpvXF-cBzQ4JYCR5U_5cz-q1n-PZ-4a1YI3KnJTlmbFRpZZ1G_FWvAOpVsx8M&__tn__=%2CO%2CP-R",
-          "https://www.facebook.com/photo/?fbid=2544692045593146&set=pcb.2544696448926039&__cft__[0]=AZiKFz8Gnpiyyte6rCZAdq84Fo6PqXW-bkTUnlFGtlPwvncEbWl0Bq0MDMcZwZteGQgIMfAVlLc0CiV5J95b2i2p7ROlKE5P_msnyCPrXGa6lcUZ3n3qPBfLF6y0-7PpvXF-cBzQ4JYCR5U_5cz-q1n-PZ-4a1YI3KnJTlmbFRpZZ1G_FWvAOpVsx8M&__tn__=*b0H-R",
-          "https://www.facebook.com/photo/?fbid=2544692055593145&set=pcb.2544696448926039&__cft__[0]=AZiKFz8Gnpiyyte6rCZAdq84Fo6PqXW-bkTUnlFGtlPwvncEbWl0Bq0MDMcZwZteGQgIMfAVlLc0CiV5J95b2i2p7ROlKE5P_msnyCPrXGa6lcUZ3n3qPBfLF6y0-7PpvXF-cBzQ4JYCR5U_5cz-q1n-PZ-4a1YI3KnJTlmbFRpZZ1G_FWvAOpVsx8M&__tn__=*b1H-R",
-          "https://www.facebook.com/photo/?fbid=2544692158926468&set=pcb.2544696448926039&__cft__[0]=AZiKFz8Gnpiyyte6rCZAdq84Fo6PqXW-bkTUnlFGtlPwvncEbWl0Bq0MDMcZwZteGQgIMfAVlLc0CiV5J95b2i2p7ROlKE5P_msnyCPrXGa6lcUZ3n3qPBfLF6y0-7PpvXF-cBzQ4JYCR5U_5cz-q1n-PZ-4a1YI3KnJTlmbFRpZZ1G_FWvAOpVsx8M&__tn__=*b2H-R"
+          "https://www.facebook.com/myphysio.de/",
+          "https://www.instagram.com/myphysio.deutschland",
+          "https://www.instagram.com/myphysio.deutschland/"
         ],
-        "contact_page_observed": false,
-        "website_service_matches": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "lymphdrainage",
+          "cmd",
+          "krankengymnastik",
+          "manuelle therapie",
+          "sportphysio",
+          "massage"
+        ],
         "website_evidence": [
-          "Active social-link footprint observed (16 link(s))."
-        ]
+          "Active social-link footprint observed (3 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "guerzenich@myphysio-deutschland.de",
+        "email_source_url": "https://myphysiodeutschland.de/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:17:28.247611+00:00"
       },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 89,
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 93,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 89 reviews vs. comparison median 357; gap 268."
+          "proof": "Verified source data: 18 reviews vs. comparison median 114; gap 96."
         },
         {
           "type": "digital_maturity_social",
           "proof": "Business website links to at least one social profile."
-        },
-        {
-          "type": "profile_completeness_core",
-          "proof": "Current Maps page exposes both phone and website actions."
         }
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 89 reviews vs. comparison median 357; gap 268.",
+      "primary_sales_angle_verified": "Verified source data: 18 reviews vs. comparison median 114; gap 96.",
       "proof": [
-        "Verified source data: 89 reviews vs. comparison median 357; gap 268.",
+        "Verified source data: 18 reviews vs. comparison median 114; gap 96.",
         "Business website links to at least one social profile."
       ],
-      "airtable_ready": false,
-      "qa_date": "2026-09-12",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+      "email": "guerzenich@myphysio-deutschland.de",
+      "email_source_url": "https://myphysiodeutschland.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:17:28.247611+00:00",
+      "airtable_ready": true,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
   "state": {
-    "runs": 4,
+    "runs": 5,
     "processed_ids": [
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
       "backroom physio berlin|berlin|https://backroomphysio.de/",
       "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
       "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
       "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
+      "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
       "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
       "maison de nails berlin|berlin|https://maisondenails.de/",
       "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
+      "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
       "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
       "podologie edelmann|berlin|https://podologie-edelmann.com/",
       "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
@@ -281,13 +393,18 @@
       "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
       "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
       "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
+      "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
+      "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
       "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
-      "walk again center|berlin|https://walk-again.de/"
+      "walk again center|berlin|https://walk-again.de/",
+      "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/"
     ],
-    "processed_count": 17,
-    "remaining_eligible": 0,
-    "last_batch_count": 4,
-    "final_a_total": 11,
-    "final_b_total": 6
+    "processed_count": 22,
+    "remaining_eligible": 40,
+    "last_batch_count": 5,
+    "final_a_total": 15,
+    "final_b_total": 7,
+    "email_ready_total": 4,
+    "email_missing_total": 18
   }
 }

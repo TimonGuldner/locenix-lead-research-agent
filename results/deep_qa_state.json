@@ -1,14 +1,16 @@
 {
-  "runs": 4,
+  "runs": 5,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "backroom physio berlin|berlin|https://backroomphysio.de/",
     "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
+    "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
     "maison de nails berlin|berlin|https://maisondenails.de/",
     "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
+    "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
     "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
     "podologie edelmann|berlin|https://podologie-edelmann.com/",
     "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
@@ -16,12 +18,17 @@
     "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
     "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
     "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
+    "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
+    "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
     "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
-    "walk again center|berlin|https://walk-again.de/"
+    "walk again center|berlin|https://walk-again.de/",
+    "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/"
   ],
-  "processed_count": 17,
-  "remaining_eligible": 0,
-  "last_batch_count": 4,
-  "final_a_total": 11,
-  "final_b_total": 6
+  "processed_count": 22,
+  "remaining_eligible": 40,
+  "last_batch_count": 5,
+  "final_a_total": 15,
+  "final_b_total": 7,
+  "email_ready_total": 4,
+  "email_missing_total": 18
 }

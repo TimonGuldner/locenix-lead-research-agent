@@ -1,9 +1,9 @@
 {
-  "last_run_at": "2026-09-13T10:16:42.323639+00:00",
+  "last_run_at": "2026-09-13T10:17:00.272824+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "priority_1": "Move remaining FINAL_A leads through Sales Queue/Airtable.",
-  "manager_directive": "LinkedIn is behind today's required pace. Close pacing gaps now: {'qualified_leads_found': 5, 'engagement_actions': 2, 'connection_requests': 3, 'direct_messages': 2, 'reply_actions': 0}. Agent 8 must assign executable work and re-measure.",
+  "manager_directive": "Approved email outbound is behind pace: 0/5 sent today; expected by now 3.",
   "email_channel_status": "AVAILABLE",
   "email_positive_replies": 0,
   "email_trial_interest": 0,
@@ -55,5 +55,43 @@
   "linkedin_created_jobs": [],
   "linkedin_ceo_attention_required": true,
   "linkedin_control_last_run_at": "2026-09-13T10:12:28.438224+00:00",
-  "linkedin_control_checked_by_ceo_at": "2026-09-13T10:16:42.505191+00:00"
+  "linkedin_control_checked_by_ceo_at": "2026-09-13T10:17:00.592569+00:00",
+  "daily_outbound_accountability_status": "ATTENTION",
+  "daily_email_target": 5,
+  "daily_email_actual": 0,
+  "daily_email_gap": 5,
+  "daily_email_expected_by_now": 3,
+  "daily_linkedin_targets": {
+    "qualified_leads_found": 10,
+    "engagement_actions": 3,
+    "connection_requests": 5,
+    "direct_messages": 3,
+    "reply_actions": 0
+  },
+  "daily_linkedin_actual": {
+    "qualified_leads_found": 0,
+    "engagement_actions": 0,
+    "connection_requests": 0,
+    "direct_messages": 0,
+    "reply_actions": 0,
+    "replies_received": 0,
+    "positive_replies": 0,
+    "active_conversations": 0
+  },
+  "daily_linkedin_gaps": {
+    "qualified_leads_found": 10,
+    "engagement_actions": 3,
+    "connection_requests": 5,
+    "direct_messages": 3,
+    "reply_actions": 0
+  },
+  "daily_linkedin_pacing_gaps": {
+    "qualified_leads_found": 5,
+    "engagement_actions": 2,
+    "connection_requests": 3,
+    "direct_messages": 2,
+    "reply_actions": 0
+  },
+  "maps_downstream_email_gate_violations": 0,
+  "outbound_accountability_checked_at": "2026-09-13T10:17:00.759160+00:00"
 }

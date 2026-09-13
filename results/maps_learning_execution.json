@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 13,
-  "focus": "industry_exploitation",
-  "exploration": false,
+  "learning_run_count": 14,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Stuttgart",
-    "Krefeld",
-    "Sankt Augustin"
+    "Muenster",
+    "Karlsruhe",
+    "Mannheim"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Autowerkstatt"
   ],
   "selected_pairs": [
     {
-      "city": "Stuttgart",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Stuttgart"
+      "city": "Muenster",
+      "industry": "Autowerkstatt",
+      "query": "Autowerkstatt Muenster"
     },
     {
-      "city": "Krefeld",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Krefeld"
+      "city": "Karlsruhe",
+      "industry": "Autowerkstatt",
+      "query": "Autowerkstatt Karlsruhe"
     },
     {
-      "city": "Sankt Augustin",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Sankt Augustin"
+      "city": "Mannheim",
+      "industry": "Autowerkstatt",
+      "query": "Autowerkstatt Mannheim"
     }
   ],
   "queries_per_run": 3

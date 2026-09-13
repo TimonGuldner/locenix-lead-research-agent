@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 12,
-  "focus": "city_exploitation",
+  "learning_run_count": 13,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Stuttgart",
+    "Krefeld",
+    "Sankt Augustin"
   ],
   "selected_industries": [
-    "Dachdecker",
-    "Elektriker",
-    "Ergotherapie"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Dachdecker",
-      "query": "Dachdecker Hamburg"
+      "city": "Stuttgart",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Stuttgart"
     },
     {
-      "city": "Hamburg",
-      "industry": "Elektriker",
-      "query": "Elektriker Hamburg"
+      "city": "Krefeld",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Krefeld"
     },
     {
-      "city": "Hamburg",
-      "industry": "Ergotherapie",
-      "query": "Ergotherapie Hamburg"
+      "city": "Sankt Augustin",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Sankt Augustin"
     }
   ],
   "queries_per_run": 3

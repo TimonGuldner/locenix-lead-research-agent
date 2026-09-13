@@ -1,18 +1,228 @@
 {
-  "accepted": [],
-  "accepted_count": 0,
-  "rejected_count": 24,
+  "accepted": [
+    {
+      "company_name": "Tierarztpraxis Lisa Plagge",
+      "industry": "Tierarzt",
+      "city": "Krefeld",
+      "address": "Gahlingspfad 31, 47803 Krefeld, Deutschland",
+      "website": "https://tierarzt-plagge.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Lisa+Plagge/data=!4m7!3m6!1s0x47b8a57dddfeb591:0xcf1a49b6cc8143b8!8m2!3d51.3421087!4d6.5643241!16s%2Fg%2F11tghbdqwt!19sChIJkbX-3X2luEcRuEOBzLZJGs8?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 2151 1501236",
+      "public_business_email": "mail@tierarzt-plagge.de",
+      "email_source_url": "https://tierarzt-plagge.de/",
+      "contact_form_url": "https://tierarzt-plagge.de/kontakt/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.8,
+      "google_review_count": 66,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "impfung",
+        "chirurgie"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "AniCura Tierärztliche Praxis für Kleintiere Krefeld",
+      "competitor_1_reviews": 539,
+      "competitor_2": "Zentrum für Tierzahnheilkunde Tierarztpraxis Dr. Alexander Hendricks Krefeld",
+      "competitor_2_reviews": 532,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "66 eigene Bewertungen vs. lokaler Wettbewerbsmedian 384; Gap 318."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 24,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 85,
+      "competitor_review_median": 384,
+      "review_gap": 318,
+      "grade": "A",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "66 eigene Bewertungen vs. lokaler Wettbewerbsmedian 384; Gap 318.",
+      "proof": [
+        "66 eigene Bewertungen vs. lokaler Wettbewerbsmedian 384; Gap 318.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "66 eigene Bewertungen vs. lokaler Wettbewerbsmedian 384; Gap 318.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Krefeld. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Tierarztpraxis am Wohnpark",
+      "industry": "Tierarzt",
+      "city": "Sankt Augustin",
+      "address": "Im Feldchen 3, 53757 Sankt Augustin, Deutschland",
+      "website": "https://kleintierpraxis-spieker.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+am+Wohnpark/data=!4m7!3m6!1s0x47bee7479fea0323:0xe32b625214a61382!8m2!3d50.7817393!4d7.2006308!16s%2Fg%2F11n8dqv1k0!19sChIJIwPqn0fnvkcRghOmFFJiK-M?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 2241 8940512",
+      "public_business_email": "info@kleintierpraxis-spieker.de",
+      "email_source_url": "https://kleintierpraxis-spieker.de/",
+      "contact_form_url": "https://kleintierpraxis-spieker.de/kontakt/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.9,
+      "google_review_count": 47,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "impfung"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "AniCura Tiergesundheitszentrum Sankt Augustin",
+      "competitor_1_reviews": 1033,
+      "competitor_2": "AniCura Tiergesundheitszentrum Sankt Augustin",
+      "competitor_2_reviews": 1033,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "47 eigene Bewertungen vs. lokaler Wettbewerbsmedian 266; Gap 219."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 47 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 26,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 87,
+      "competitor_review_median": 266,
+      "review_gap": 219,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "47 eigene Bewertungen vs. lokaler Wettbewerbsmedian 266; Gap 219.",
+      "proof": [
+        "47 eigene Bewertungen vs. lokaler Wettbewerbsmedian 266; Gap 219.",
+        "Nur 47 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "47 eigene Bewertungen vs. lokaler Wettbewerbsmedian 266; Gap 219.",
+      "second_outreach_angle": "Nur 47 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Sankt Augustin. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Tierarztpraxis Hernández",
+      "industry": "Tierarzt",
+      "city": "Sankt Augustin",
+      "address": "Zeithstraße 298, 53721 Siegburg, Deutschland",
+      "website": "https://tierarztpraxishernandez.com/",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Hern%C3%A1ndez/data=!4m7!3m6!1s0x47bedda562fdac9d:0x91974cd7188e959a!8m2!3d50.8065417!4d7.2290017!16s%2Fg%2F11w299jxxz!19sChIJnaz9YqXdvkcRmpWOGNdMl5E?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 2241 9325210",
+      "public_business_email": "info@tierarztpraxishernandez.com",
+      "email_source_url": "https://tierarztpraxishernandez.com/",
+      "contact_form_url": "https://tierarztpraxishernandez.com/kontakt/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.7,
+      "google_review_count": 79,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [],
+      "service_gap_status": "NOT_DETECTED",
+      "competitor_1": "AniCura Tiergesundheitszentrum Sankt Augustin",
+      "competitor_1_reviews": 1033,
+      "competitor_2": "AniCura Tiergesundheitszentrum Sankt Augustin",
+      "competitor_2_reviews": 1033,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "79 eigene Bewertungen vs. lokaler Wettbewerbsmedian 266; Gap 187."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [],
+      "verified_signal_count": 2,
+      "report_potential_score": 26,
+      "visible_value_score": 12,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 85,
+      "competitor_review_median": 266,
+      "review_gap": 187,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "79 eigene Bewertungen vs. lokaler Wettbewerbsmedian 266; Gap 187.",
+      "proof": [
+        "79 eigene Bewertungen vs. lokaler Wettbewerbsmedian 266; Gap 187.",
+        "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "79 eigene Bewertungen vs. lokaler Wettbewerbsmedian 266; Gap 187.",
+      "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Sankt Augustin. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
+  "accepted_count": 3,
+  "rejected_count": 21,
   "inspected": 24,
   "state": {
-    "query_cursor": 132,
-    "runs": 44,
-    "lead_count": 93,
+    "query_cursor": 135,
+    "runs": 45,
+    "lead_count": 96,
     "target_leads": 999999999,
-    "last_accepted": 0,
+    "last_accepted": 3,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 24,
-    "a_leads": 14,
-    "b_leads": 48
+    "last_rejected": 21,
+    "a_leads": 16,
+    "b_leads": 49
   }
 }

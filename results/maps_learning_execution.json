@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 10,
-  "focus": "city_exploitation",
+  "learning_run_count": 11,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Muenchen",
+    "Berlin",
+    "Stuttgart"
   ],
   "selected_industries": [
-    "Osteopathie",
-    "Barbershop",
-    "Dachdecker"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Osteopathie",
-      "query": "Osteopathie Hamburg"
+      "city": "Muenchen",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Muenchen"
     },
     {
-      "city": "Hamburg",
-      "industry": "Barbershop",
-      "query": "Barbershop Hamburg"
+      "city": "Berlin",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Berlin"
     },
     {
-      "city": "Hamburg",
-      "industry": "Dachdecker",
-      "query": "Dachdecker Hamburg"
+      "city": "Stuttgart",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Stuttgart"
     }
   ],
   "queries_per_run": 3

@@ -1,223 +1,14 @@
 {
   "results": [
     {
-      "lead_id": "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
-      "company_name": "DOM Haustechnik e.K. Sanitär | Heizung | Badsanierung | Wärmepumpe",
-      "industry": "Sanitaer Heizung",
-      "city": "Koeln",
-      "source_total_score": 86,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/DOM+Haustechnik+e.K.+Sanit%C3%A4r+%7C+Heizung+%7C+Badsanierung+%7C+W%C3%A4rmepumpe/data=!4m7!3m6!1s0x47bf23a926d4d681:0x65b0a2751f3709ba!8m2!3d50.8579316!4d6.9608174!16s%2Fg%2F11rsc26zz5!19sChIJgdbUJqkjv0cRugk3H3WisGU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.dom-haustechnik.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://dom-haustechnik.de/",
-        "booking_link": null,
-        "social_links": [
-          "https://www.facebook.com/DOM.Haustechnik",
-          "https://www.instagram.com/dom_haustechnik/"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "heizung",
-          "bad",
-          "wartung",
-          "notdienst"
-        ],
-        "website_evidence": [
-          "Active social-link footprint observed (2 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@dom-haustechnik.de",
-        "email_source_url": "https://dom-haustechnik.de/impressum/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:20:13.020226+00:00"
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 93,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 23 reviews vs. comparison median 114; gap 91."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 23 reviews vs. comparison median 114; gap 91.",
-      "proof": [
-        "Verified source data: 23 reviews vs. comparison median 114; gap 91.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "info@dom-haustechnik.de",
-      "email_source_url": "https://dom-haustechnik.de/impressum/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:20:13.020226+00:00",
-      "airtable_ready": true,
-      "qa_date": "2026-09-13",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
-      "company_name": "Physiotherapiepraxis Monolith",
-      "industry": "Physiotherapie",
-      "city": "Stuttgart",
-      "source_total_score": 86,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Physiotherapiepraxis+Monolith/data=!4m7!3m6!1s0x4799dde9d738c3d7:0xeb264a12557d9aef!8m2!3d48.749466!4d9.170493!16s%2Fg%2F11zgv2dvg4!19sChIJ18M41-ndmUcR75p9VRJKJus?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.physiomonolith.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.physiomonolith.de/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "lymphdrainage",
-          "cmd",
-          "krankengymnastik",
-          "manuelle therapie",
-          "massage"
-        ],
-        "website_evidence": [
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "praxis@physiomonolith.de",
-        "email_source_url": "https://www.physiomonolith.de/#kontakt",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:20:19.701865+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 91,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 5 reviews vs. comparison median 103; gap 98."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 5 reviews vs. comparison median 103; gap 98.",
-      "proof": [
-        "Verified source data: 5 reviews vs. comparison median 103; gap 98."
-      ],
-      "email": "praxis@physiomonolith.de",
-      "email_source_url": "https://www.physiomonolith.de/#kontakt",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:20:19.701865+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-13",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "tierarztpraxis tiergesundheitszentrum münchen|muenchen|http://www.verhaltenstherapie-tier.de/",
-      "company_name": "Tierarztpraxis Tiergesundheitszentrum München",
-      "industry": "Tierarzt",
+      "lead_id": "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
+      "company_name": "Zahnarzt München am Marienplatz - Dr. Tomas Hoischen & Dr. Matthias Kelch",
+      "industry": "Zahnarzt",
       "city": "Muenchen",
       "source_total_score": 85,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Tiergesundheitszentrum+M%C3%BCnchen/data=!4m7!3m6!1s0x479ddf114d696a7d:0x90d1520b043cdae4!8m2!3d48.1094221!4d11.570112!16s%2Fg%2F12q4scd5g!19sChIJfWppTRHfnUcR5No8BAtS0ZA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.verhaltenstherapie-tier.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://verhaltenstherapie-tier.de/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [],
-        "website_evidence": [],
-        "email": null,
-        "email_source_url": null,
-        "email_verification_status": "EMAIL_MISSING",
-        "email_found_at": null,
-        "website_error": "Error"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 90,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 75 reviews vs. comparison median 555; gap 480."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
-      ],
-      "primary_sales_angle_verified": "Verified source data: 75 reviews vs. comparison median 555; gap 480.",
-      "proof": [
-        "Verified source data: 75 reviews vs. comparison median 555; gap 480."
-      ],
-      "email": null,
-      "email_source_url": null,
-      "email_verification_status": "EMAIL_MISSING",
-      "email_found_at": null,
-      "airtable_ready": false,
-      "qa_date": "2026-09-13",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
-      "company_name": "Exclusive barbershop - Hamburg",
-      "industry": "Friseur",
-      "city": "Hamburg",
-      "source_total_score": 85,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Exclusive+barbershop+-+Hamburg/data=!4m7!3m6!1s0x47b18feb2f737ca1:0xb40f1c876beb194d!8m2!3d53.5671992!4d10.0226314!16s%2Fg%2F11svbg901w!19sChIJoXxzL-uPsUcRTRnra4ccD7Q?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://barber.de.ivof.com/exclusive-barbershop/",
+      "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+M%C3%BCnchen+am+Marienplatz+-+Dr.+Tomas+Hoischen+%26+Dr.+Matthias+Kelch/data=!4m7!3m6!1s0x479e75f53ae5b487:0xfa87352a11318705!8m2!3d48.136583!4d11.5735509!16s%2Fg%2F1tj20jjz!19sChIJh7TlOvV1nkcRBYcxESo1h_o?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.zahnaerzte-marienplatz.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -235,101 +26,109 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://barber.de.ivof.com/exclusive-barbershop/",
-        "booking_link": null,
+        "website_final_url": "https://www.zahnaerzte-marienplatz.de/",
+        "booking_link": "https://www.zahnaerzte-marienplatz.de/?rest_route=/drflex/v1/booking/website-plugin-api/v1/embed/de",
         "social_links": [],
-        "contact_page_observed": false,
-        "website_service_matches": [
-          "haarschnitt"
-        ],
-        "website_evidence": [
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@ivof.com",
-        "email_source_url": "https://barber.de.ivof.com/exclusive-barbershop/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:20:37.247307+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 90,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 58 reviews vs. comparison median 300; gap 242."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 58 reviews vs. comparison median 300; gap 242.",
-      "proof": [
-        "Verified source data: 58 reviews vs. comparison median 300; gap 242."
-      ],
-      "email": "info@ivof.com",
-      "email_source_url": "https://barber.de.ivof.com/exclusive-barbershop/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:20:37.247307+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-13",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
-      "company_name": "Hair Atelier Hamburg",
-      "industry": "Friseur",
-      "city": "Hamburg",
-      "source_total_score": 85,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Hair+Atelier+Hamburg/data=!4m7!3m6!1s0x47b18f8a58dc7bd1:0x18a78b8458c3d4ef!8m2!3d53.5471391!4d9.9942259!16s%2Fg%2F11ln_321gg!19sChIJ0XvcWIqPsUcR79TDWISLpxg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://atelierhamburg.net/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://atelierhamburg.net/",
-        "booking_link": null,
-        "social_links": [
-          "https://www.instagram.com/reel/DbvvX_StoYW/",
-          "https://www.instagram.com/p/DZNvLFyDbf-/",
-          "https://www.instagram.com/reel/DT-pZ5UDFtK/",
-          "https://www.instagram.com/reel/DT9ovCuCCci/",
-          "https://www.instagram.com/reel/DTbLfAYDVQU/",
-          "https://www.instagram.com/reel/DSYM9x-DVMo/",
-          "https://www.instagram.com/hairatelierhamburg"
-        ],
         "contact_page_observed": true,
         "website_service_matches": [
-          "extensions"
+          "implantate",
+          "prophylaxe",
+          "bleaching",
+          "invisalign",
+          "parodontologie"
         ],
         "website_evidence": [
-          "Active social-link footprint observed (7 link(s)).",
+          "Online booking/appointment link observed on website.",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@atelierhamburg.net",
-        "email_source_url": "https://atelierhamburg.net/impressum",
+        "email": "info@zahnaerzte-marienplatz.de",
+        "email_source_url": "https://www.zahnaerzte-marienplatz.de/impressum/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:20:43.097641+00:00"
+        "email_found_at": "2026-09-13T10:23:15.404828+00:00"
       },
       "deep_qa_decision": "FINAL_A",
       "deep_qa_score": 92,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 56 reviews vs. comparison median 300; gap 244."
+          "proof": "Verified source data: 70 reviews vs. comparison median 306; gap 236."
+        },
+        {
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 70 reviews vs. comparison median 306; gap 236.",
+      "proof": [
+        "Verified source data: 70 reviews vs. comparison median 306; gap 236.",
+        "Online booking/appointment link observed on website."
+      ],
+      "email": "info@zahnaerzte-marienplatz.de",
+      "email_source_url": "https://www.zahnaerzte-marienplatz.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:23:15.404828+00:00",
+      "airtable_ready": true,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
+      "company_name": "Hundesalon Paws and Tails Kreuzberg",
+      "industry": "Hundefriseur",
+      "city": "Berlin",
+      "source_total_score": 84,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Hundesalon+Paws+and+Tails+Kreuzberg/data=!4m7!3m6!1s0x47a84fa08757f15f:0xc200bedecc9cfe40!8m2!3d52.4923999!4d13.3973014!16s%2Fg%2F11z3wr5g72!19sChIJX_FXh6BPqEcRQP6czN6-AMI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.paws-tails.eu/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": false,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://paws-tails.eu/",
+        "booking_link": "https://paws-tails.eu/",
+        "social_links": [
+          "https://www.facebook.com/paws.tails.eu",
+          "https://www.instagram.com/paws_tails_germany"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [],
+        "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Active social-link footprint observed (2 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "hello@paws-tails.eu",
+        "email_source_url": "https://paws-tails.eu/impressum",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:23:23.801671+00:00"
+      },
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 93,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 20 reviews vs. comparison median 134; gap 114."
+        },
+        {
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
         },
         {
           "type": "digital_maturity_social",
@@ -338,23 +137,228 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 56 reviews vs. comparison median 300; gap 244.",
+      "primary_sales_angle_verified": "Verified source data: 20 reviews vs. comparison median 134; gap 114.",
       "proof": [
-        "Verified source data: 56 reviews vs. comparison median 300; gap 244.",
+        "Verified source data: 20 reviews vs. comparison median 134; gap 114.",
+        "Online booking/appointment link observed on website.",
         "Business website links to at least one social profile."
       ],
-      "email": "info@atelierhamburg.net",
-      "email_source_url": "https://atelierhamburg.net/impressum",
+      "email": "hello@paws-tails.eu",
+      "email_source_url": "https://paws-tails.eu/impressum",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:20:43.097641+00:00",
+      "email_found_at": "2026-09-13T10:23:23.801671+00:00",
       "airtable_ready": true,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
+      "company_name": "Wohlfühlen in Hamburg/ Massagepraxis Christiane Kirsten",
+      "industry": "Massagepraxis",
+      "city": "Hamburg",
+      "source_total_score": 84,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Wohlf%C3%BChlen+in+Hamburg%2F+Massagepraxis+Christiane+Kirsten/data=!4m7!3m6!1s0x47b187ac4306a3fb:0x17b38c955c382ace!8m2!3d53.6294763!4d9.9281304!16s%2Fg%2F11bzyn9jgp!19sChIJ-6MGQ6yHsUcRzio4XJWMsxc?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.wohlfuehlen-in-hamburg.com/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.wohlfuehlen-in-hamburg.com/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "hh-kirsten@web.de",
+        "email_source_url": "https://www.wohlfuehlen-in-hamburg.com/kontakt/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:23:32.042748+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 89,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 24 reviews vs. comparison median 112; gap 88."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 24 reviews vs. comparison median 112; gap 88.",
+      "proof": [
+        "Verified source data: 24 reviews vs. comparison median 112; gap 88."
+      ],
+      "email": "hh-kirsten@web.de",
+      "email_source_url": "https://www.wohlfuehlen-in-hamburg.com/kontakt/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:23:32.042748+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
+      "company_name": "Kosmetikstudio Köln Leyla Ertural skin training & more Kosmetik Schulungen since 2008",
+      "industry": "Kosmetikstudio",
+      "city": "Koeln",
+      "source_total_score": 84,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Kosmetikstudio+K%C3%B6ln+Leyla+Ertural+skin+training+%26+more+Kosmetik+Schulungen+since+2008/data=!4m7!3m6!1s0x47bf2f0d53b1b21f:0x84e9874003ded702!8m2!3d51.0620788!4d6.90857!16s%2Fg%2F11lgrv6mkb!19sChIJH7KxUw0vv0cRAtfeA0CH6YQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.leyla-kosmetikstudio.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": false,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.leyla-kosmetikstudio.de/",
+        "booking_link": null,
+        "social_links": [
+          "https://www.instagram.com/leyla.ertural/"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "microneedling",
+          "gesichtsbehandlung",
+          "aquafacial",
+          "permanent make-up",
+          "wimpern",
+          "augenbrauen"
+        ],
+        "website_evidence": [
+          "Active social-link footprint observed (1 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "leyla_ertural@icloud.com",
+        "email_source_url": "https://www.leyla-kosmetikstudio.de/impressum",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:23:37.322011+00:00"
+      },
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 91,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 43 reviews vs. comparison median 172; gap 129."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 43 reviews vs. comparison median 172; gap 129.",
+      "proof": [
+        "Verified source data: 43 reviews vs. comparison median 172; gap 129.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "leyla_ertural@icloud.com",
+      "email_source_url": "https://www.leyla-kosmetikstudio.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:23:37.322011+00:00",
+      "airtable_ready": true,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
+      "company_name": "Physio-Park GmbH",
+      "industry": "Physiotherapie",
+      "city": "Stuttgart",
+      "source_total_score": 84,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Physio-Park+GmbH/data=!4m7!3m6!1s0x4799c366f0bb5a09:0x38da9016de1882ec!8m2!3d48.677069!4d9.193854!16s%2Fg%2F11rskskn5c!19sChIJCVq78GbDmUcR7IIY3haQ2jg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.physio-park-filderstadt.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://physio-park-filderstadt.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@physio-park-filderstadt.de",
+        "email_source_url": "https://physio-park-filderstadt.de/impressum",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:23:44.046450+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 89,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 15 reviews vs. comparison median 103; gap 88."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 15 reviews vs. comparison median 103; gap 88.",
+      "proof": [
+        "Verified source data: 15 reviews vs. comparison median 103; gap 88."
+      ],
+      "email": "info@physio-park-filderstadt.de",
+      "email_source_url": "https://physio-park-filderstadt.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:23:44.046450+00:00",
+      "airtable_ready": false,
       "qa_date": "2026-09-13",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
   "state": {
-    "runs": 6,
+    "runs": 7,
     "processed_ids": [
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
       "backroom physio berlin|berlin|https://backroomphysio.de/",
@@ -364,12 +368,15 @@
       "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
       "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
       "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
+      "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
       "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
       "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
+      "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
       "maison de nails berlin|berlin|https://maisondenails.de/",
       "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
       "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
       "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
+      "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
       "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
       "podologie edelmann|berlin|https://podologie-edelmann.com/",
       "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
@@ -382,14 +389,16 @@
       "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
       "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
       "walk again center|berlin|https://walk-again.de/",
+      "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
+      "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
       "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/"
     ],
-    "processed_count": 27,
-    "remaining_eligible": 35,
+    "processed_count": 32,
+    "remaining_eligible": 30,
     "last_batch_count": 5,
-    "final_a_total": 17,
-    "final_b_total": 10,
-    "email_ready_total": 6,
+    "final_a_total": 20,
+    "final_b_total": 12,
+    "email_ready_total": 9,
     "email_missing_total": 19
   }
 }

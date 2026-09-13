@@ -1,5 +1,5 @@
 {
-  "runs": 6,
+  "runs": 7,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "backroom physio berlin|berlin|https://backroomphysio.de/",
@@ -9,12 +9,15 @@
     "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
     "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
     "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
+    "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
     "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
+    "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
     "maison de nails berlin|berlin|https://maisondenails.de/",
     "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
     "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
+    "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
     "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
     "podologie edelmann|berlin|https://podologie-edelmann.com/",
     "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
@@ -27,13 +30,15 @@
     "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
     "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
     "walk again center|berlin|https://walk-again.de/",
+    "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
+    "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
     "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/"
   ],
-  "processed_count": 27,
-  "remaining_eligible": 35,
+  "processed_count": 32,
+  "remaining_eligible": 30,
   "last_batch_count": 5,
-  "final_a_total": 17,
-  "final_b_total": 10,
-  "email_ready_total": 6,
+  "final_a_total": 20,
+  "final_b_total": 12,
+  "email_ready_total": 9,
   "email_missing_total": 19
 }

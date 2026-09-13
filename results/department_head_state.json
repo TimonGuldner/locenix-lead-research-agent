@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-13T06:58:50.062856+00:00",
+  "last_run_at": "2026-09-13T06:59:04.086619+00:00",
   "department_status": "BACKLOG",
   "next_agent": "sales_queue",
   "reason": "Qualified FINAL_A leads have not all reached Airtable.",

@@ -1,9 +1,9 @@
 {
-  "last_run_at": "2026-09-13T12:00:11.995011+00:00",
+  "last_run_at": "2026-09-13T12:00:59.609213+00:00",
   "company_status": "ATTENTION",
   "north_star": "zero_daily_target_gaps",
   "priority_1": "Move remaining FINAL_A leads through Sales Queue/Airtable.",
-  "manager_directive": "Approved email outbound is behind pace: 0/5 sent today; expected by now 3. Agent 7 must close the provider-confirmed send gap using only approved, email-qualified records.",
+  "manager_directive": "Approved email outbound is behind pace: 0/5 sent today; expected by now 4. Agent 7 must close the provider-confirmed send gap using only approved, email-qualified records.",
   "email_channel_status": "AVAILABLE",
   "email_positive_replies": 0,
   "email_trial_interest": 0,
@@ -20,7 +20,7 @@
   "customer_success_customers_at_risk": 0,
   "customer_success_human_reviews_required": 0,
   "customer_success_biggest_bottleneck": "NONE",
-  "customer_success_last_run_at": "2026-09-13T11:59:15.320906+00:00",
+  "customer_success_last_run_at": "2026-09-13T12:00:28.650992+00:00",
   "linkedin_control_status": "ATTENTION",
   "linkedin_targets": {
     "qualified_leads_found": 10,
@@ -72,12 +72,12 @@
   ],
   "linkedin_ceo_attention_required": true,
   "linkedin_control_last_run_at": "2026-09-13T11:35:27.830617+00:00",
-  "linkedin_control_checked_by_ceo_at": "2026-09-13T12:00:12.164535+00:00",
+  "linkedin_control_checked_by_ceo_at": "2026-09-13T12:00:59.908332+00:00",
   "daily_outbound_accountability_status": "ATTENTION",
   "daily_email_target": 5,
   "daily_email_actual": 0,
   "daily_email_gap": 5,
-  "daily_email_expected_by_now": 3,
+  "daily_email_expected_by_now": 4,
   "daily_email_qualified_supply": 40,
   "daily_email_missing_excluded": 22,
   "daily_linkedin_targets": {
@@ -112,5 +112,5 @@
     "reply_actions": 0
   },
   "maps_downstream_email_gate_violations": 0,
-  "outbound_accountability_checked_at": "2026-09-13T12:00:12.295278+00:00"
+  "outbound_accountability_checked_at": "2026-09-13T12:01:00.045299+00:00"
 }

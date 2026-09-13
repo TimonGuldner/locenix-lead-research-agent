@@ -641,6 +641,103 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
+    "company_name": "Wohlfühlen in Hamburg/ Massagepraxis Christiane Kirsten",
+    "industry": "Massagepraxis",
+    "city": "Hamburg",
+    "email": "hh-kirsten@web.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "visibility_tests": [
+      {
+        "query": "Massagepraxis Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 3,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Anima Massagepraxis",
+          "Minh Mr. Hung Massage"
+        ],
+        "evidence": "Business observed at position 3 among the first 8 Maps results returned in this run."
+      },
+      {
+        "query": "Massagepraxis in Hamburg",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "ML Massage",
+          "Anima Massagepraxis",
+          "Minh Mr. Hung Massage",
+          "Praxis für Massage und Körpertherapie",
+          "Sala Isaan Massage & Spa Hamburg/Winterhude"
+        ],
+        "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business observed at position 3 among the first 8 Maps results returned in this run.",
+      "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
+    "company_name": "Physio-Park GmbH",
+    "industry": "Physiotherapie",
+    "city": "Stuttgart",
+    "email": "info@physio-park-filderstadt.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "visibility_tests": [
+      {
+        "query": "Physiotherapie Stuttgart",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "corpusmed Physiotherapie - Stuttgart",
+          "reset - Die Gesundheitsmanufaktur Physiotherapie Stuttgart",
+          "UNICUM » Physiotherapie & Logopädie Stuttgart Mitte",
+          "Therapiewerk Praxis für Physiotherapie Pavlos Mitrou",
+          "PTA Center GmbH Praxis für Physiotherapie"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      },
+      {
+        "query": "Physiotherapie in Stuttgart",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "corpusmed Physiotherapie - Stuttgart",
+          "UNICUM » Physiotherapie & Logopädie Stuttgart Mitte",
+          "reset - Die Gesundheitsmanufaktur Physiotherapie Stuttgart",
+          "Praxis für Physiotherapie Stuttgart Nord – NeoNorth",
+          "Physio West"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
     "company_name": "Tierarztpraxis Tierärztlicher Notfalldienst - in der HAFENCITY- jeden Tag am selben Ort",
     "industry": "Tierarzt",
@@ -880,6 +977,52 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
+    "company_name": "Immobilien55 | Immobilienmakler Köln",
+    "industry": "Immobilienmakler",
+    "city": "Koeln",
+    "email": "kontakt@immobilien55.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "visibility_tests": [
+      {
+        "query": "Immobilienmakler Koeln",
+        "status": "OBSERVED",
+        "observed_position": 4,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "McMakler GmbH - Immobilienmakler Köln",
+          "KAMPMEYER Immobilien | Immobilienmakler Köln",
+          "ImmoBiehler e.K."
+        ],
+        "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Immobilienmakler in Koeln",
+        "status": "OBSERVED",
+        "observed_position": 4,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "KAMPMEYER Immobilien | Immobilienmakler Köln",
+          "McMakler GmbH - Immobilienmakler Köln",
+          "ImmoBiehler e.K."
+        ],
+        "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 3,
+    "visibility_evidence": [
+      "Business observed at position 4 among the first 11 Maps results returned in this run.",
+      "Business observed at position 4 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
     "company_name": "Tierarztpraxis Bärenwiese, Tierarzt Berlin-Wilmersdorf",
     "industry": "Tierarzt",
@@ -958,6 +1101,96 @@
     "visibility_evidence": [
       "Business observed at position 1 among the first 8 Maps results returned in this run.",
       "Business observed at position 3 among the first 8 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
+    "company_name": "Makler mit Herz Immobilienmakler Hamburg",
+    "industry": "Immobilienmakler",
+    "city": "Hamburg",
+    "email": "kvl@maklermitherz-hamburg.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "visibility_tests": [
+      {
+        "query": "Immobilienmakler Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 2,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "David & Jacques Immobilienmakler Hamburg"
+        ],
+        "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Immobilienmakler in Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 4,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Sparda Immobilienmakler Hamburg",
+          "McMakler GmbH - Immobilienmakler Hamburg",
+          "Leonhard Immobilien | Immobilienmakler Hamburg"
+        ],
+        "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 2 among the first 11 Maps results returned in this run.",
+      "Business observed at position 4 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
+    "company_name": "Kosmetik BelaTime I Kosmetikstudio Köln",
+    "industry": "Kosmetikstudio",
+    "city": "Koeln",
+    "email": "hello@belatime-kosmetik.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "visibility_tests": [
+      {
+        "query": "Kosmetikstudio Koeln",
+        "status": "OBSERVED",
+        "observed_position": 2,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Kosmetikstudio Köln I Modern MONA LISA"
+        ],
+        "evidence": "Business observed at position 2 among the first 8 Maps results returned in this run."
+      },
+      {
+        "query": "Kosmetikstudio in Koeln",
+        "status": "OBSERVED",
+        "observed_position": 8,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Kosmetikstudio Köln I Modern MONA LISA",
+          "Gvantsa Rott Beauty Kosmetikstudio",
+          "Pure Beauty Köln",
+          "JG Kosmetikstudio Köln - HydraFacial / MicroNeedling / Haarentfernung",
+          "Kosmetik & Medizinische Fußpflege TAM Beauty"
+        ],
+        "evidence": "Business observed at position 8 among the first 8 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 2 among the first 8 Maps results returned in this run.",
+      "Business observed at position 8 among the first 8 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-13",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",

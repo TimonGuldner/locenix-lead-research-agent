@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-13T17:33:41.827009+00:00",
+  "last_run_at": "2026-09-13T17:34:22.015252+00:00",
   "department_status": "DAILY_TARGET_GAP",
   "next_agent": "email_sender",
   "reason": "Approved email daily target is behind: 0/5 provider-confirmed sends today.",

@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-13T10:32:20.806581+00:00",
+  "last_run_at": "2026-09-13T10:32:39.239609+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "priority_1": "Prioritize Deep QA until backlog falls below 5; current observed backlog: 20.",
@@ -55,7 +55,7 @@
   "linkedin_created_jobs": [],
   "linkedin_ceo_attention_required": true,
   "linkedin_control_last_run_at": "2026-09-13T10:12:28.438224+00:00",
-  "linkedin_control_checked_by_ceo_at": "2026-09-13T10:32:20.967422+00:00",
+  "linkedin_control_checked_by_ceo_at": "2026-09-13T10:32:39.420049+00:00",
   "daily_outbound_accountability_status": "ATTENTION",
   "daily_email_target": 5,
   "daily_email_actual": 0,
@@ -93,5 +93,5 @@
     "reply_actions": 0
   },
   "maps_downstream_email_gate_violations": 0,
-  "outbound_accountability_checked_at": "2026-09-13T10:32:21.094966+00:00"
+  "outbound_accountability_checked_at": "2026-09-13T10:32:39.555460+00:00"
 }

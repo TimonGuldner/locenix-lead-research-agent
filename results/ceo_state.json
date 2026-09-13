@@ -1,8 +1,8 @@
 {
-  "last_run_at": "2026-09-13T10:17:24.582479+00:00",
+  "last_run_at": "2026-09-13T10:17:42.470804+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
-  "priority_1": "Move remaining FINAL_A leads through Sales Queue/Airtable.",
+  "priority_1": "Prioritize Deep QA until backlog falls below 5; current observed backlog: 40.",
   "manager_directive": "Approved email outbound is behind pace: 0/5 sent today; expected by now 3.",
   "email_channel_status": "AVAILABLE",
   "email_positive_replies": 0,
@@ -55,7 +55,7 @@
   "linkedin_created_jobs": [],
   "linkedin_ceo_attention_required": true,
   "linkedin_control_last_run_at": "2026-09-13T10:12:28.438224+00:00",
-  "linkedin_control_checked_by_ceo_at": "2026-09-13T10:17:24.757059+00:00",
+  "linkedin_control_checked_by_ceo_at": "2026-09-13T10:17:42.632196+00:00",
   "daily_outbound_accountability_status": "ATTENTION",
   "daily_email_target": 5,
   "daily_email_actual": 0,
@@ -93,5 +93,5 @@
     "reply_actions": 0
   },
   "maps_downstream_email_gate_violations": 0,
-  "outbound_accountability_checked_at": "2026-09-13T10:17:24.889332+00:00"
+  "outbound_accountability_checked_at": "2026-09-13T10:17:42.782030+00:00"
 }

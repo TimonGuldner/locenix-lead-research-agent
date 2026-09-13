@@ -1,6 +1,6 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-13T10:52:51.819217+00:00",
+  "generated_at": "2026-09-13T10:53:14.320457+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "funnel_metrics": {
@@ -108,12 +108,13 @@
         "active_roles": [
           "dm_outreach",
           "engagement",
+          "inbox",
           "lead",
           "outreach"
         ],
         "corrective_action": "LinkedIn is behind today's required pace. Close pacing gaps now: {'qualified_leads_found': 5, 'engagement_actions': 2, 'connection_requests': 3, 'direct_messages': 2, 'reply_actions': 0}. Agent 8 must assign executable work and re-measure.",
         "ceo_attention_required": true,
-        "last_control_at": "2026-09-13T10:12:28.438224+00:00"
+        "last_control_at": "2026-09-13T10:51:30.587244+00:00"
       }
     },
     "customer_success": {
@@ -164,7 +165,7 @@
     "priority": 2,
     "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
     "created_at": "2026-09-12T12:08:42.961312+00:00",
-    "updated_at": "2026-09-13T10:52:51.819217+00:00",
+    "updated_at": "2026-09-13T10:53:14.320457+00:00",
     "status": "QUEUED",
     "external_action_authorized": false
   },
@@ -230,17 +231,18 @@
     "active_roles": [
       "dm_outreach",
       "engagement",
+      "inbox",
       "lead",
       "outreach"
     ],
     "corrective_action": "LinkedIn is behind today's required pace. Close pacing gaps now: {'qualified_leads_found': 5, 'engagement_actions': 2, 'connection_requests': 3, 'direct_messages': 2, 'reply_actions': 0}. Agent 8 must assign executable work and re-measure.",
     "ceo_attention_required": true,
-    "last_control_at": "2026-09-13T10:12:28.438224+00:00"
+    "last_control_at": "2026-09-13T10:51:30.587244+00:00"
   },
   "linkedin_manager_accountability_rule": "Agent 0 checks whether Agent 8 converted targets into executed work and funnel movement, not merely whether workflows are healthy.",
   "daily_outbound_accountability": {
-    "generated_at": "2026-09-13T10:52:52.161752+00:00",
-    "berlin_time": "2026-09-13T12:52:52.161752+02:00",
+    "generated_at": "2026-09-13T10:53:14.648769+00:00",
+    "berlin_time": "2026-09-13T12:53:14.648769+02:00",
     "status": "ATTENTION",
     "hard_deadline_hour": 18,
     "email": {

@@ -1,6 +1,6 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-13T10:51:28.776210+00:00",
+  "generated_at": "2026-09-13T10:52:03.493598+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "funnel_metrics": {
@@ -31,7 +31,7 @@
     "email_trial_interest": 0,
     "email_human_reviews_required": 0,
     "email_last_run_at": "2026-09-13T10:26:09.657033+00:00",
-    "linkedin_department_status": "HEALTHY",
+    "linkedin_department_status": "ATTENTION",
     "linkedin_biggest_bottleneck": "POSITIVE_REPLIES",
     "linkedin_leads": 61,
     "linkedin_qualified_leads": 13,
@@ -43,7 +43,7 @@
     "linkedin_trials": 0,
     "linkedin_paid_customers": 0,
     "linkedin_queue_backlog": 8,
-    "linkedin_failed_jobs": 0,
+    "linkedin_failed_jobs": 3,
     "proposed_agents": 0,
     "proposed_departments": 0,
     "customer_success_active_trials": 0,
@@ -68,8 +68,8 @@
     },
     "linkedin": {
       "manager": "AGENT_8_LINKEDIN_DEPARTMENT_HEAD",
-      "health": "HEALTHY",
-      "status": "HEALTHY",
+      "health": "ATTENTION",
+      "status": "ATTENTION",
       "biggest_bottleneck": "POSITIVE_REPLIES",
       "priority_1": {
         "type": "POSITIVE_REPLIES",
@@ -77,7 +77,7 @@
         "owner": "Conversation / Inbox Agent"
       },
       "ceo_escalation_required": false,
-      "last_run_at": "2026-09-13T10:12:27.663748+00:00",
+      "last_run_at": "2026-09-13T10:51:29.984162+00:00",
       "execution_control": {
         "status": "ATTENTION",
         "targets": {
@@ -135,7 +135,7 @@
       "human_reviews_required": 0,
       "biggest_bottleneck": "NONE",
       "recommended_next_action": "Monitor for new qualified trials and conversion opportunities.",
-      "last_run_at": "2026-09-13T10:50:59.740109+00:00"
+      "last_run_at": "2026-09-13T10:51:52.620156+00:00"
     }
   },
   "biggest_bottleneck": "Qualified leads have not all reached sales readiness.",
@@ -164,7 +164,7 @@
     "priority": 2,
     "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
     "created_at": "2026-09-12T12:08:42.961312+00:00",
-    "updated_at": "2026-09-13T10:51:28.776210+00:00",
+    "updated_at": "2026-09-13T10:52:03.493598+00:00",
     "status": "QUEUED",
     "external_action_authorized": false
   },
@@ -239,8 +239,8 @@
   },
   "linkedin_manager_accountability_rule": "Agent 0 checks whether Agent 8 converted targets into executed work and funnel movement, not merely whether workflows are healthy.",
   "daily_outbound_accountability": {
-    "generated_at": "2026-09-13T10:51:29.060577+00:00",
-    "berlin_time": "2026-09-13T12:51:29.060577+02:00",
+    "generated_at": "2026-09-13T10:52:03.802581+00:00",
+    "berlin_time": "2026-09-13T12:52:03.802581+02:00",
     "status": "ATTENTION",
     "hard_deadline_hour": 18,
     "email": {

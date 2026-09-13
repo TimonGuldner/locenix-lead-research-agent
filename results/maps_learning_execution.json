@@ -1,0 +1,34 @@
+{
+  "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
+  "status": "EXECUTED",
+  "learning_run_count": 1,
+  "focus": "industry_exploitation",
+  "exploration": false,
+  "exploration_share": 0.15,
+  "selected_cities": [
+    "Potsdam",
+    "Rostock",
+    "Sankt Augustin"
+  ],
+  "selected_industries": [
+    "Physiotherapie"
+  ],
+  "selected_pairs": [
+    {
+      "city": "Potsdam",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Potsdam"
+    },
+    {
+      "city": "Rostock",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Rostock"
+    },
+    {
+      "city": "Sankt Augustin",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Sankt Augustin"
+    }
+  ],
+  "queries_per_run": 3
+}

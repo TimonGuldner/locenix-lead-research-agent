@@ -1,20 +1,12 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V3",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-13T06:19:39.702281+00:00",
+  "generated_at": "2026-09-13T05:21:52.220888+00:00",
   "department_status": "BACKLOG",
   "metrics": {
-    "lead_count": 74,
-    "lead_a": 9,
-    "lead_b": 34,
-    "maps_learning_available": false,
-    "maps_learning_status": "UNKNOWN",
-    "maps_learning_runs": 0,
-    "maps_learning_evaluated": 0,
-    "maps_learning_downstream_evidence": 0,
-    "maps_learning_recommended_industry": null,
-    "maps_learning_recommended_city": null,
-    "maps_learning_errors": 0,
+    "lead_count": 70,
+    "lead_a": 8,
+    "lead_b": 31,
     "qa_remaining": 0,
     "qa_final_a": 11,
     "qa_final_b": 6,
@@ -42,17 +34,6 @@
     "agents_total": 9,
     "agents_proposed": 0,
     "proposed_names": []
-  },
-  "learning": {
-    "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-    "available": false,
-    "status": "UNKNOWN",
-    "learning_runs": 0,
-    "research_leads_evaluated": 0,
-    "leads_with_downstream_evidence": 0,
-    "recommended_industry": null,
-    "recommended_city": null,
-    "errors": 0
   },
   "channels": {
     "email": {
@@ -318,9 +299,6 @@
   "guardrails": {
     "outreach_send_allowed": false,
     "email_agent_managed_separately": true,
-    "maps_learning_can_rewrite_code": false,
-    "maps_learning_can_raise_contact_limits": false,
-    "maps_learning_keeps_exploration": true,
     "contact_form_submit_allowed": false,
     "unknown_workflow_dispatch_allowed": false,
     "max_child_workflows_this_run": 1,

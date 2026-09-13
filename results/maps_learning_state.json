@@ -1,0 +1,17 @@
+{
+  "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
+  "last_run_at": "2026-09-13T06:17:40.203797+00:00",
+  "status": "OK",
+  "learning_run_count": 1,
+  "research_leads_evaluated": 74,
+  "leads_with_downstream_evidence": 17,
+  "airtable_leads_deduped": 11,
+  "industries_learned": 17,
+  "cities_learned": 4,
+  "pairs_learned": 32,
+  "recommended_industry": "Physiotherapie",
+  "recommended_city": "Berlin",
+  "exploration_share": 0.15,
+  "errors": 0,
+  "error_details": []
+}

@@ -1,7 +1,8 @@
 {
-  "runs": 4,
+  "runs": 5,
   "processed_ids": [
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
+    "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
     "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
     "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
@@ -11,18 +12,21 @@
     "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
     "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
     "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
+    "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
     "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
     "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
     "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
     "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
-    "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/"
+    "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/",
+    "zahnärzte im asamhof - dr. ihor prokhorenko - cmd-zentrum münchen-innenstadt|muenchen|http://zahnaerzte-im-asamhof.de/",
+    "zentrum für kleintiermedizin münchen|muenchen|https://www.zk-muc.de/",
+    "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 15,
+  "processed_count": 20,
   "last_batch_count": 5,
-  "remaining_eligible": 25,
-  "weak_visibility_total": 12,
+  "remaining_eligible": 20,
+  "weak_visibility_total": 16,
   "email_gate_rejected_count": 22,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

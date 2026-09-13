@@ -441,6 +441,206 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "zentrum für kleintiermedizin münchen|muenchen|https://www.zk-muc.de/",
+    "company_name": "Zentrum für Kleintiermedizin München",
+    "industry": "Tierarzt",
+    "city": "Muenchen",
+    "email": "service@vkb.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Muenchen",
+        "status": "OBSERVED",
+        "observed_position": 6,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Tierarzt München, Team für Tiere – Tierarztpraxis am Gasteig (vormals Dr. Maul & Dr. Herget)",
+          "Kleintierklinik München Riem - Dres. med. vet. Lutz",
+          "Kleintierklinik der LMU München",
+          "felmo Mobiler Tierarzt München",
+          "Tierarztpraxis Tiergesundheitszentrum München"
+        ],
+        "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Muenchen",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Tierarztpraxis München Laim Dr. med. vet. Ursula Link",
+          "Rex Tierarztpraxis München-Schwabing",
+          "Tierarzt München, Team für Tiere – Tierarztpraxis am Gasteig (vormals Dr. Maul & Dr. Herget)",
+          "Kleintierklinik München Riem - Dres. med. vet. Lutz",
+          "felmo Mobiler Tierarzt München"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business observed at position 6 among the first 11 Maps results returned in this run.",
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
+    "company_name": "BK Hairstyle Hamburg",
+    "industry": "Friseur",
+    "city": "Hamburg",
+    "email": "anfrage@bk-hairstyle.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "visibility_tests": [
+      {
+        "query": "Friseur Hamburg",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Cut for Friends GmbH Hamburg",
+          "AVEDA Secret Garden Hamburg",
+          "Löwenmähne Friseursalon Hamburg Innenstadt",
+          "Exclusive barbershop - Hamburg",
+          "dennis friseur"
+        ],
+        "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+      },
+      {
+        "query": "Friseur in Hamburg",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Hilke Friseur Kopffabrik",
+          "Cut for Friends GmbH Hamburg",
+          "dennis friseur",
+          "Alsterschnitt",
+          "Morè than Hair - Hamburg"
+        ],
+        "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim.",
+      "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
+    "company_name": "Tierarztpraxis ElbVet Hamburg",
+    "industry": "Tierarzt",
+    "city": "Hamburg",
+    "email": "info@elbvet-hamburg.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Hamburg",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "AniCura Quickborn GbR",
+          "felmo Mobiler Tierarzt Hamburg",
+          "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
+          "Die Hamburger Tierärzte - Florian Grosser und Dr. med. vet. Ulf Krohn",
+          "Rex Tierarztpraxis Hamburg-Ottensen"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      },
+      {
+        "query": "Tierarzt in Hamburg",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Hamburg",
+          "Dr. Fenske Tierarztpraxis Hamburg Bergedorf für Kleintiere und Vögel",
+          "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
+          "Tiermedizin am Rothenbaum Deckena & Dr. Elsner GmbH",
+          "Tierarztpraxis Dr. Eva Tutlies"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "zahnärzte im asamhof - dr. ihor prokhorenko - cmd-zentrum münchen-innenstadt|muenchen|http://zahnaerzte-im-asamhof.de/",
+    "company_name": "Zahnärzte im Asamhof - Dr. Ihor Prokhorenko - CMD-Zentrum München-Innenstadt",
+    "industry": "Zahnarzt",
+    "city": "Muenchen",
+    "email": "info@zahnaerzte-im-asamhof.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "visibility_tests": [
+      {
+        "query": "Zahnarzt Muenchen",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
+          "AllDent Zahnzentrum München",
+          "dent + face Zahnzentrum München",
+          "Zahnarzt München am Marienplatz - Dr. Tomas Hoischen & Dr. Matthias Kelch",
+          "Zahnärzte am Gärtnerplatz 1"
+        ],
+        "evidence": "Business observed at position 7 among the first 8 Maps results returned in this run."
+      },
+      {
+        "query": "Zahnarzt in Muenchen",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
+          "AllDent Zahnzentrum München Ost",
+          "AllDent Zahnzentrum München",
+          "Zahnarzt München - Dental21",
+          "Zahngesundheitszentrum Dr. Berand"
+        ],
+        "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business observed at position 7 among the first 8 Maps results returned in this run.",
+      "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
     "company_name": "Tierarztpraxis Tierärztlicher Notfalldienst - in der HAFENCITY- jeden Tag am selben Ort",
     "industry": "Tierarzt",
@@ -717,6 +917,47 @@
     "visibility_evidence": [
       "Business observed at position 2 among the first 11 Maps results returned in this run.",
       "Business observed at position 4 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/",
+    "company_name": "Ästhetik Hamburg",
+    "industry": "Beauty Aesthetik",
+    "city": "Hamburg",
+    "email": "info@aesthetikhamburg.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "visibility_tests": [
+      {
+        "query": "Beauty Aesthetik Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 1,
+        "results_checked": 8,
+        "competitors_ahead": [],
+        "evidence": "Business observed at position 1 among the first 8 Maps results returned in this run."
+      },
+      {
+        "query": "Beauty Aesthetik in Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 3,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Beauty Klinik an der Alster",
+          "Aesthetic & Academy by Smileperfecto"
+        ],
+        "evidence": "Business observed at position 3 among the first 8 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 1 among the first 8 Maps results returned in this run.",
+      "Business observed at position 3 among the first 8 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-13",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",

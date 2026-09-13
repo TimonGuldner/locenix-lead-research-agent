@@ -4,9 +4,37 @@
   "agent": "LOCENIX_CEO_AGENT_0",
   "north_star": "paid_customers",
   "max_priorities": 3,
-  "executive_reviews_per_day": 2,
+  "executive_reviews_per_day": 12,
   "event_driven": true,
   "department_head": "LOCENIX_GROWTH_MANAGER",
+  "daily_outbound_accountability": {
+    "timezone": "Europe/Berlin",
+    "business_hours": {"start_hour": 8, "end_hour": 20},
+    "hard_deadline_hour": 18,
+    "linkedin": {
+      "manager": "AGENT_8_LINKEDIN_DEPARTMENT_HEAD",
+      "qualified_leads_found": 10,
+      "engagement_actions": 3,
+      "connection_requests": 5,
+      "direct_messages": 3,
+      "all_inbound_replies_handled_same_day": true,
+      "source_of_truth": "browser-agent/results/linkedin_control_state.json"
+    },
+    "email": {
+      "manager": "AGENT_7_LOCENIX_GROWTH_MANAGER",
+      "sent": 5,
+      "only_explicitly_approved_records": true,
+      "documented_legal_basis_required": true,
+      "source_of_truth": "results/email_sender_state.json"
+    },
+    "maps_research_quality_gate": {
+      "manager": "AGENT_7_LOCENIX_GROWTH_MANAGER",
+      "required_public_business_email": true,
+      "allowed_email_statuses": ["PUBLICLY_OBSERVED", "VERIFIED"],
+      "downstream_email_gate_violations_target": 0,
+      "rule": "No Maps lead may enter Visibility, Sales Queue or outreach-ready downstream processing without a researched public business email. Missing-email leads are rejected from downstream handoff, never treated as sales-ready."
+    }
+  },
   "objective_window": {
     "start_date": "2026-09-12",
     "end_date": "2026-09-15",
@@ -24,22 +52,22 @@
     },
     {
       "priority": 2,
-      "objective": "Alle 10 FINAL-A Leads vollständig outreach-ready machen",
-      "owner": "Agent 7 Growth Manager",
-      "kpi": "FINAL-A Leads outreach-ready",
-      "target": 10,
-      "rule": "Fehlende Drafts und nächste Schritte für vorhandene hochwertige Leads schließen, bevor neue Lead-Masse priorisiert wird."
+      "objective": "Tägliche Outbound-Ziele über die Abteilungsleiter einhalten",
+      "owner": "Agent 0 CEO",
+      "kpi": "Daily target gaps",
+      "target": 0,
+      "rule": "Agent 0 prüft bei jedem Review TARGET -> ACTUAL -> EXPECTED-BY-NOW -> GAP -> ACTION. Abteilungsleiter müssen Lücken mit ausführbarer Arbeit schließen und beim nächsten Review erneut gemessen werden."
     },
     {
       "priority": 3,
-      "objective": "LinkedIn-Agentensystem stabil und gesund betreiben",
-      "owner": "Agent 8 LinkedIn Department Head",
-      "kpi": "kritische technische Blocker",
+      "objective": "Maps-Pipeline nur mit recherchierter öffentlicher Business-E-Mail",
+      "owner": "Agent 7 Growth Manager",
+      "kpi": "Downstream email gate violations",
       "target": 0,
-      "rule": "Technische Workflow-Fehler von echten Account-Risiken trennen, False-Positive Security-Blocker vermeiden und Schrittlimit-/Senden-Button-Probleme gezielt beheben."
+      "rule": "Ohne recherchierte öffentliche Business-E-Mail kein Visibility-/Sales-/Outreach-Handoff."
     }
   ],
-  "objective_execution_rule": "Während des 3-Tage-Fensters müssen CEO-Prioritäten und Delegationen primär auf diese drei Ziele einzahlen. Neue Initiativen nur, wenn sie einen direkten Engpass dieser Ziele lösen oder einen echten Sicherheits-/Produktionsblocker beheben.",
+  "objective_execution_rule": "CEO-Prioritäten und Delegationen müssen zuerst tägliche Outbound-Lücken, Conversion und harte Pipeline-Qualitätsgates schließen. Workflow-Health allein ist niemals Zielerfüllung.",
   "autonomy": {
     "internal_analysis": true,
     "prioritization": true,
@@ -63,6 +91,10 @@
     "new_agents_start_proposed": true,
     "new_departments_start_proposed": true,
     "human_approval_for_costs_external_actions_and_activation": true,
-    "do_nothing_when_no_action_is_useful": true
+    "do_nothing_when_no_action_is_useful": true,
+    "department_heads_are_accountable_for_daily_targets": true,
+    "daily_target_gap_must_trigger_corrective_action": true,
+    "hard_deadline_requires_zero_target_gap_or_explicit_blocker": true,
+    "no_email_means_no_maps_sales_handoff": true
   }
 }

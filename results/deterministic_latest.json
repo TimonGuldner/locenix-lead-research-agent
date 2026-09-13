@@ -1,18 +1,168 @@
 {
-  "accepted": [],
-  "accepted_count": 0,
-  "rejected_count": 24,
+  "accepted": [
+    {
+      "company_name": "myPhysio Physiotherapie Köln Am Gürzenich (Privatpatienten&Selbstzahler)",
+      "industry": "Physiotherapie",
+      "city": "Koeln",
+      "address": "Gürzenichstraße 6-16, 50667 Köln, Deutschland",
+      "website": "https://myphysio-deutschland.de/",
+      "google_maps_url": "https://www.google.com/maps/place/myPhysio+Physiotherapie+K%C3%B6ln+Am+G%C3%BCrzenich+%28Privatpatienten%26Selbstzahler%29/data=!4m7!3m6!1s0x47bf25fb66bdb28d:0xf24d7f19787f5550!8m2!3d50.9360306!4d6.9575354!16s%2Fg%2F11mz9fvh0l!19sChIJjbK9Zvslv0cRUFV_eBl_TfI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 221 96260786",
+      "public_business_email": "info@myphysio-deutschland.de",
+      "email_source_url": "https://myphysiodeutschland.de/",
+      "contact_form_url": null,
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 5.0,
+      "google_review_count": 18,
+      "main_category": "Physiotherapie",
+      "website_services": [
+        "lymphdrainage",
+        "cmd",
+        "krankengymnastik",
+        "manuelle therapie",
+        "sportphysio",
+        "massage"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: lymphdrainage, cmd, krankengymnastik, manuelle therapie, sportphysio"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Physiotherapie Köln Agnesviertel - ReBuild",
+      "competitor_1_reviews": 176,
+      "competitor_2": "Physiotherapie Vanessa Lorre - Köln Ehrenfeld",
+      "competitor_2_reviews": 174,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "18 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 96."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 18 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: lymphdrainage, cmd, krankengymnastik, manuelle therapie, sportphysio",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 25,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 86,
+      "competitor_review_median": 114,
+      "review_gap": 96,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "18 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 96.",
+      "proof": [
+        "18 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 96.",
+        "Nur 18 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: lymphdrainage, cmd, krankengymnastik, manuelle therapie, sportphysio"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "18 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 96.",
+      "second_outreach_angle": "Nur 18 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Physiotherapie Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Podologie Praxis Marina Schwingeler-Hühne (Podologin)",
+      "industry": "Podologie",
+      "city": "Koeln",
+      "address": "Weyerstraße 94, 50676 Köln, Deutschland",
+      "website": "https://podologekoeln.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Podologie+Praxis+Marina+Schwingeler-H%C3%BChne+%28Podologin%29/data=!4m7!3m6!1s0x417186898de510c9:0x3aeba9bc1a534951!8m2!3d50.930366!4d6.942971!16s%2Fg%2F1tf3yhs0!19sChIJyRDljYmGcUERUUlTGryp6zo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 221 210576",
+      "public_business_email": "webanfrage@podologekoeln.de",
+      "email_source_url": "https://podologekoeln.de/",
+      "contact_form_url": "https://podologekoeln.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.3",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.5,
+      "google_review_count": 24,
+      "main_category": "Podologie",
+      "website_services": [
+        "podologie"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [],
+      "service_gap_status": "NOT_DETECTED",
+      "competitor_1": "diehuehneraugen - medizinische Fußpflege in Köln Nippes",
+      "competitor_1_reviews": 317,
+      "competitor_2": "Fachpraxis für Podologie Suzan",
+      "competitor_2_reviews": 248,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "24 eigene Bewertungen vs. lokaler Wettbewerbsmedian 91; Gap 67."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 24 Google-Bewertungen."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.5; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [],
+      "verified_signal_count": 3,
+      "report_potential_score": 24,
+      "visible_value_score": 12,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 8,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 81,
+      "competitor_review_median": 91,
+      "review_gap": 67,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "24 eigene Bewertungen vs. lokaler Wettbewerbsmedian 91; Gap 67.",
+      "proof": [
+        "24 eigene Bewertungen vs. lokaler Wettbewerbsmedian 91; Gap 67.",
+        "Nur 24 Google-Bewertungen.",
+        "Google-Bewertung 4.5; sichtbares Reputationspotenzial."
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "24 eigene Bewertungen vs. lokaler Wettbewerbsmedian 91; Gap 67.",
+      "second_outreach_angle": "Nur 24 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Podologie Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
+  "accepted_count": 2,
+  "rejected_count": 22,
   "inspected": 24,
   "state": {
-    "query_cursor": 81,
-    "runs": 27,
-    "lead_count": 61,
+    "query_cursor": 84,
+    "runs": 28,
+    "lead_count": 63,
     "target_leads": 999999999,
-    "last_accepted": 0,
+    "last_accepted": 2,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 24,
-    "a_leads": 6,
-    "b_leads": 24
+    "last_rejected": 22,
+    "a_leads": 7,
+    "b_leads": 25
   }
 }

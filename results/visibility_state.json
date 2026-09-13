@@ -28,5 +28,6 @@
   "weak_visibility_total": 16,
   "email_gate_rejected_count": 22,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
+  "legacy_visibility_rows_purged": 0
 }

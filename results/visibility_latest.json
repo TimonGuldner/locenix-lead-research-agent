@@ -1,49 +1,40 @@
 {
   "results": [
     {
-      "lead_id": "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
-      "company_name": "Glow Kosmetik Hamburg",
-      "industry": "Kosmetikstudio",
-      "city": "Hamburg",
-      "email": "kontakt@planity.com",
+      "lead_id": "gebäudereinigung köln|koeln|https://xn--gebudereinigungkoeln-dzb.de/",
+      "company_name": "gebäudereinigung Köln",
+      "industry": "Gebaeudereinigung",
+      "city": "Koeln",
+      "email": "ahmadalnafe3@gmail.com",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 87,
+      "deep_qa_score": 86,
       "visibility_tests": [
         {
-          "query": "Kosmetikstudio Hamburg",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 8,
-          "competitors_ahead": [
-            "Dermastil Kosmetikstudio Ottensen Hamburg",
-            "Yasmin Beauty Kosmetikstudio",
-            "NICE Aesthetic - Kosmetikstudio Hamburg",
-            "Kosmetikstudio Individual Beauty Hamburg",
-            "Lamea Studio - Head Spa & Skin Treatments"
-          ],
-          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+          "query": "Gebaeudereinigung Koeln",
+          "status": "OBSERVED",
+          "observed_position": 1,
+          "results_checked": 11,
+          "competitors_ahead": [],
+          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Kosmetikstudio in Hamburg",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 8,
+          "query": "Gebaeudereinigung in Koeln",
+          "status": "OBSERVED",
+          "observed_position": 3,
+          "results_checked": 10,
           "competitors_ahead": [
-            "Beautéboom Studio & Akademie",
-            "Dermatologikum Hamburg",
-            "Dermastil Kosmetikstudio Ottensen Hamburg",
-            "Yasmin Beauty Kosmetikstudio",
-            "ELENA ANTONOVA I Skin Health Hamburg"
+            "FERMA Gebäudereinigung GmbH",
+            "Merbeck Gebäudeservice GmbH – Gebäudereinigung in Köln"
           ],
-          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+          "evidence": "Business observed at position 3 among the first 10 Maps results returned in this run."
         }
       ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
       "visibility_evidence": [
-        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim.",
-        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+        "Business observed at position 1 among the first 11 Maps results returned in this run.",
+        "Business observed at position 3 among the first 10 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-13",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -51,40 +42,84 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
-      "company_name": "Hundesalon Miez&Mops",
-      "industry": "Hundefriseur",
-      "city": "Berlin",
-      "email": "info@miez-mops.com",
+      "lead_id": "gebäudereinigung köln i zana reinigung & pflege|koeln|https://zana-reinigung.de/",
+      "company_name": "Gebäudereinigung Köln I Zana Reinigung & Pflege",
+      "industry": "Gebaeudereinigung",
+      "city": "Koeln",
+      "email": "info@zana-reinigung.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 87,
+      "deep_qa_score": 86,
       "visibility_tests": [
         {
-          "query": "Hundefriseur Berlin",
+          "query": "Gebaeudereinigung Koeln",
           "status": "OBSERVED",
-          "observed_position": 9,
+          "observed_position": 3,
           "results_checked": 11,
           "competitors_ahead": [
-            "Yorkis Hunde- und Katzensalon",
-            "Hundesalon Paws and Tails Mitte",
-            "Hundesalon Paws and Tails Kreuzberg",
-            "Hundesalon Amling",
-            "Hundesalon GroomRoom"
+            "Merbeck Gebäudeservice GmbH – Gebäudereinigung in Köln",
+            "FERMA Gebäudereinigung GmbH"
           ],
-          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Hundefriseur in Berlin",
+          "query": "Gebaeudereinigung in Koeln",
+          "status": "OBSERVED",
+          "observed_position": 3,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "FERMA Gebäudereinigung GmbH",
+            "GDK - Gebäudedienste Kleinstück UG"
+          ],
+          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
+      "visibility_evidence": [
+        "Business observed at position 3 among the first 11 Maps results returned in this run.",
+        "Business observed at position 3 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-13",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
+      "company_name": "AS Auto-Service GmbH - Kfz.-Werkstatt Köln - automacher",
+      "industry": "Autowerkstatt",
+      "city": "Koeln",
+      "email": "kfz@automacher.net",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 85,
+      "visibility_tests": [
+        {
+          "query": "Autowerkstatt Koeln",
+          "status": "OBSERVED",
+          "observed_position": 8,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "KFZ-Technik Köln Meisterbetrieb",
+            "F & R KFZ Meisterbetriebs Service",
+            "KFZ Service Köln Süd",
+            "Sven Servatius KFZ Werkstatt - Köln",
+            "KFZ-Profis Köln Meisterbetrieb"
+          ],
+          "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Autowerkstatt in Koeln",
           "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
           "observed_position": null,
           "results_checked": 11,
           "competitors_ahead": [
-            "Yorkis Hunde- und Katzensalon",
-            "Hundesalon Grewatsch Berlin",
-            "Hundesalon Paws and Tails Mitte",
-            "Fellpflegerei Berlin - Hundefriseur",
-            "Hundesalon Paws and Tails Kreuzberg"
+            "KFZ-Technik Köln Meisterbetrieb",
+            "West KFZ Meisterbetrieb",
+            "F & R KFZ Meisterbetriebs Service",
+            "OTTOMANN Kfz Meisterbetriebs GmbH",
+            "Auto Top GmbH - Bosch Car Service"
           ],
           "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
         }
@@ -92,7 +127,7 @@
       "weak_visibility_observed": true,
       "visibility_opportunity_score": 10,
       "visibility_evidence": [
-        "Business observed at position 9 among the first 11 Maps results returned in this run.",
+        "Business observed at position 8 among the first 11 Maps results returned in this run.",
         "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
       ],
       "visibility_date": "2026-09-13",
@@ -101,138 +136,99 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
-      "company_name": "Kleintierklinik München Riem - Dres. med. vet. Lutz",
-      "industry": "Tierarzt",
-      "city": "Muenchen",
-      "email": "info@kleintierklinik.vet",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 87,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Muenchen",
-          "status": "OBSERVED",
-          "observed_position": 4,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Rex Tierarztpraxis München-Schwabing",
-            "Tierarztpraxis Trudering Dr. Horst Möritz | München",
-            "Tierarzt München, Team für Tiere – Tierarztpraxis am Gasteig (vormals Dr. Maul & Dr. Herget)"
-          ],
-          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Muenchen",
-          "status": "OBSERVED",
-          "observed_position": 3,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Rex Tierarztpraxis München-Schwabing",
-            "Tierarzt München, Team für Tiere – Tierarztpraxis am Gasteig (vormals Dr. Maul & Dr. Herget)"
-          ],
-          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
-      "visibility_evidence": [
-        "Business observed at position 4 among the first 11 Maps results returned in this run.",
-        "Business observed at position 3 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-13",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
-      "company_name": "R&RRR Reifennotdienst 24h",
-      "industry": "Reifenservice",
-      "city": "Hamburg",
-      "email": "rundrrr@yahoo.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "visibility_tests": [
-        {
-          "query": "Reifenservice Hamburg",
-          "status": "OBSERVED",
-          "observed_position": 5,
-          "results_checked": 8,
-          "competitors_ahead": [
-            "Hugo Pfohe GmbH",
-            "Reifennotdienst Michalak",
-            "EuroPlus Reifenservice",
-            "Premio Reifen + Autoservice Reifendienst Hamburg GmbH"
-          ],
-          "evidence": "Business observed at position 5 among the first 8 Maps results returned in this run."
-        },
-        {
-          "query": "Reifenservice in Hamburg",
-          "status": "OBSERVED",
-          "observed_position": 4,
-          "results_checked": 8,
-          "competitors_ahead": [
-            "Fellyfix Smart Repair Center Hamburg",
-            "Hugo Pfohe GmbH",
-            "Reifennotdienst Michalak"
-          ],
-          "evidence": "Business observed at position 4 among the first 8 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 3,
-      "visibility_evidence": [
-        "Business observed at position 5 among the first 8 Maps results returned in this run.",
-        "Business observed at position 4 among the first 8 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-13",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
-      "company_name": "Podologie Praxis Marina Schwingeler-Hühne (Podologin)",
-      "industry": "Podologie",
+      "lead_id": "heizung sanitär köln | ebi's haustechnik|koeln|http://www.ebis-haustechnik.de/",
+      "company_name": "Heizung Sanitär Köln | Ebi's Haustechnik",
+      "industry": "Sanitaer Heizung",
       "city": "Koeln",
-      "email": "webanfrage@podologekoeln.de",
+      "email": "ebis-haustechnik@web.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
+      "deep_qa_score": 85,
       "visibility_tests": [
         {
-          "query": "Podologie Koeln",
+          "query": "Sanitaer Heizung Koeln",
+          "status": "OBSERVED",
+          "observed_position": 9,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Mai Haustechnik GmbH | Köln",
+            "YILMAZ Sanitär- und Heizungstechnik Köln",
+            "SHK-KYRIAKIDIS SANITÄR-HEIZUNG KÖLN",
+            "YILMAZ Sanitär- und Heizungstechnik Köln",
+            "H. J. Lohmar GmbH Köln"
+          ],
+          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Sanitaer Heizung in Koeln",
           "status": "OBSERVED",
           "observed_position": 6,
-          "results_checked": 11,
+          "results_checked": 10,
           "competitors_ahead": [
-            "Pedikorn Praxis für Podologie",
-            "diehuehneraugen - medizinische Fußpflege in Köln Nippes",
-            "Podologikum Cologne Fatma Köse",
-            "Fachpraxis für Podologie Suzan",
-            "Praxis für Podologie Zoi Lioumi/Heilpraktikerin für Podologie"
+            "Mai Haustechnik GmbH | Köln",
+            "SHK-KYRIAKIDIS SANITÄR-HEIZUNG KÖLN",
+            "YILMAZ Sanitär- und Heizungstechnik Köln",
+            "H. J. Lohmar GmbH Köln",
+            "Sanitär & Heizung - HDS GmbH Köln"
           ],
-          "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Podologie in Koeln",
-          "status": "OBSERVED",
-          "observed_position": 3,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "diehuehneraugen - medizinische Fußpflege in Köln Nippes",
-            "Pedikorn Praxis für Podologie"
-          ],
-          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 6 among the first 10 Maps results returned in this run."
         }
       ],
       "weak_visibility_observed": true,
-      "visibility_opportunity_score": 1,
+      "visibility_opportunity_score": 6,
       "visibility_evidence": [
-        "Business observed at position 6 among the first 11 Maps results returned in this run.",
-        "Business observed at position 3 among the first 11 Maps results returned in this run."
+        "Business observed at position 9 among the first 11 Maps results returned in this run.",
+        "Business observed at position 6 among the first 10 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-13",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
+      "company_name": "Praxis für Krankengymnastik Krämer",
+      "industry": "Physiotherapie",
+      "city": "Sankt Augustin",
+      "email": "info@krankengymnastik-kraemer.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 82,
+      "visibility_tests": [
+        {
+          "query": "Physiotherapie Sankt Augustin",
+          "status": "OBSERVED",
+          "observed_position": 7,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "PHYSIO CKI – Sankt Augustin I",
+            "Isla Vitalis - Praxis für Physiotherapie",
+            "PHYSIO CKI – Sankt Augustin II",
+            "OsteoForum - Ganzheitliche Physiotherapie in Hangelar / Joanna Wagner und Wilhelm Müller",
+            "Wolff No1 Physio & Reformer-Pilates"
+          ],
+          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Physiotherapie in Sankt Augustin",
+          "status": "OBSERVED",
+          "observed_position": 7,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "PHYSIO CKI – Sankt Augustin I",
+            "Praxis für Physiotherapie Rafael Weiss",
+            "Isla Vitalis - Praxis für Physiotherapie",
+            "PHYSIO CKI – Sankt Augustin II",
+            "Wolff No1 Physio & Reformer-Pilates"
+          ],
+          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 6,
+      "visibility_evidence": [
+        "Business observed at position 7 among the first 11 Maps results returned in this run.",
+        "Business observed at position 7 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-13",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -241,16 +237,20 @@
     }
   ],
   "state": {
-    "runs": 8,
+    "runs": 9,
     "processed_ids": [
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
+      "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
       "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
       "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
       "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
       "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
+      "gebäudereinigung köln i zana reinigung & pflege|koeln|https://zana-reinigung.de/",
+      "gebäudereinigung köln|koeln|https://xn--gebudereinigungkoeln-dzb.de/",
       "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
       "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
       "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
+      "heizung sanitär köln | ebi's haustechnik|koeln|http://www.ebis-haustechnik.de/",
       "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
       "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
       "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
@@ -262,6 +262,7 @@
       "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
       "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
       "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
+      "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
       "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
       "since eleven - friseure|koeln|https://www.since-eleven.de/",
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -279,10 +280,10 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 35,
+    "processed_count": 40,
     "last_batch_count": 5,
-    "remaining_eligible": 5,
-    "weak_visibility_total": 25,
+    "remaining_eligible": 0,
+    "weak_visibility_total": 28,
     "email_gate_rejected_count": 22,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

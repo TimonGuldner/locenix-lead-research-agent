@@ -1,10 +1,11 @@
 {
-  "runs": 9,
+  "runs": 10,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
     "backroom physio berlin|berlin|https://backroomphysio.de/",
     "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
+    "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
@@ -12,6 +13,7 @@
     "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
     "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
     "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
+    "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
     "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
     "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
@@ -39,16 +41,19 @@
     "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
     "walk again center|berlin|https://walk-again.de/",
     "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
+    "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
     "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
     "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/",
+    "zahnärzte in der hamburger city - dr. med. dent. daria von riewel (ehem. niemietz)|hamburg|https://zahnarzt.hamburg/",
     "zentrum für kleintiermedizin münchen|muenchen|https://www.zk-muc.de/",
-    "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/"
+    "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
+    "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 42,
-  "remaining_eligible": 20,
+  "processed_count": 47,
+  "remaining_eligible": 15,
   "last_batch_count": 5,
-  "final_a_total": 26,
-  "final_b_total": 16,
-  "email_ready_total": 14,
-  "email_missing_total": 20
+  "final_a_total": 28,
+  "final_b_total": 19,
+  "email_ready_total": 16,
+  "email_missing_total": 21
 }

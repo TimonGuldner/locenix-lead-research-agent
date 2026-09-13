@@ -2225,6 +2225,171 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/",
+    "company_name": "Ästhetik Hamburg",
+    "industry": "Beauty Aesthetik",
+    "city": "Hamburg",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/%C3%84sthetik+Hamburg/data=!4m7!3m6!1s0x47b189eec1d8673f:0x35090a064aa13b7f!8m2!3d53.571063!4d10.06237!16s%2Fg%2F11fqcb47rs!19sChIJP2fYwe6JsUcRfzuhSgYKCTU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://aesthetikhamburg.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://aesthetikhamburg.de/",
+      "booking_link": "https://connect.shore.com/bookings/asthetik-hamburg--2/services",
+      "social_links": [
+        "https://www.instagram.com/aesthetik_hamburg_anna_babs/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "hyaluron",
+        "microneedling",
+        "aesthetik"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (1 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@aesthetikhamburg.de",
+      "email_source_url": "https://aesthetikhamburg.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:33:38.579923+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 22 reviews vs. comparison median 84; gap 62."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 22 reviews vs. comparison median 84; gap 62.",
+    "proof": [
+      "Verified source data: 22 reviews vs. comparison median 84; gap 62.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@aesthetikhamburg.de",
+    "email_source_url": "https://aesthetikhamburg.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:33:38.579923+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
+    "company_name": "BK Hairstyle Hamburg",
+    "industry": "Friseur",
+    "city": "Hamburg",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/BK+Hairstyle+Hamburg/data=!4m7!3m6!1s0x47b18fc4d382c7a5:0xc89f8187e2435670!8m2!3d53.551028!4d10.0030044!16s%2Fg%2F11vkqhhv4t!19sChIJpceC08SPsUcRcFZD4oeBn8g?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://bk-hairstyle.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://bk-hairstyle.de/",
+      "booking_link": "https://bk-hairstyle.de/friseur-hamburg-online-termin/",
+      "social_links": [
+        "https://www.instagram.com/bk.hairstyle.hamburg/",
+        "https://www.facebook.com/profile.php?id=61552112211623"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "balayage",
+        "coloration",
+        "haarschnitt",
+        "extensions",
+        "brautfrisur"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "anfrage@bk-hairstyle.de",
+      "email_source_url": "https://bk-hairstyle.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:33:50.527951+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 112 reviews vs. comparison median 300; gap 188."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 112 reviews vs. comparison median 300; gap 188.",
+    "proof": [
+      "Verified source data: 112 reviews vs. comparison median 300; gap 188.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "anfrage@bk-hairstyle.de",
+    "email_source_url": "https://bk-hairstyle.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:33:50.527951+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "walk again center|berlin|https://walk-again.de/",
     "company_name": "WALK AGAIN Center",
     "industry": "Physiotherapie",
@@ -2635,6 +2800,86 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
+    "company_name": "Immobilien55 | Immobilienmakler Köln",
+    "industry": "Immobilienmakler",
+    "city": "Koeln",
+    "source_total_score": 82,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Immobilien55+%7C+Immobilienmakler+K%C3%B6ln/data=!4m7!3m6!1s0x47bf255dfbadfa0f:0xd09d7a2bf6c410b9!8m2!3d50.9426151!4d6.9401815!16s%2Fg%2F11qswntdsz!19sChIJD_qt-10lv0cRuRDE9it6ndA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.immobilien55.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://immobilien55.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.instagram.com/immobilien.55/",
+        "https://de.linkedin.com/company/immobilien-55",
+        "https://www.facebook.com/Immobilien55/",
+        "https://www.instagram.com/immobilien_55/",
+        "https://www.linkedin.com/company/immobilien-55/",
+        "https://www.linkedin.com/company/immobilien55/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "verkauf",
+        "vermietung",
+        "kapitalanlage"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (6 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "kontakt@immobilien55.de",
+      "email_source_url": "https://immobilien55.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:33:31.425657+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 67 reviews vs. comparison median 177; gap 110."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 67 reviews vs. comparison median 177; gap 110.",
+    "proof": [
+      "Verified source data: 67 reviews vs. comparison median 177; gap 110.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "kontakt@immobilien55.de",
+    "email_source_url": "https://immobilien55.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:33:31.425657+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "company_name": "MANU Elektrobau GmbH",
     "industry": "Elektriker",
@@ -2810,6 +3055,85 @@
     "email_source_url": "https://www.zimmermann-installation.de/kontakt/",
     "email_verification_status": "PUBLICLY_OBSERVED",
     "email_found_at": "2026-09-13T10:26:52.579589+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "company_name": "Zahnarzt Hamburg - Dental21",
+    "industry": "Zahnarzt",
+    "city": "Hamburg",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+Hamburg+-+Dental21/data=!4m7!3m6!1s0x47b191baa9166919:0xd2afe0471e3c0c0d!8m2!3d53.5508818!4d9.9967372!16s%2Fg%2F1tfxfr8d!19sChIJGWkWqbqRsUcRDQw8Hkfgr9I?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/dental21.de",
+        "https://www.instagram.com/dental21_de/",
+        "https://de.linkedin.com/company/dental21"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "implantate",
+        "prophylaxe",
+        "bleaching",
+        "invisalign",
+        "parodontologie"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (3 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@dental21-europapassage.de",
+      "email_source_url": "https://www.dental21-europapassage.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:33:56.007595+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 525 reviews vs. comparison median 742; gap 217."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 525 reviews vs. comparison median 742; gap 217.",
+    "proof": [
+      "Verified source data: 525 reviews vs. comparison median 742; gap 217.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@dental21-europapassage.de",
+    "email_source_url": "https://www.dental21-europapassage.de/impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:33:56.007595+00:00",
     "airtable_ready": false,
     "qa_date": "2026-09-13",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
@@ -2998,6 +3322,70 @@
     "airtable_ready": false,
     "qa_date": "2026-09-12",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "zahnärzte in der hamburger city - dr. med. dent. daria von riewel (ehem. niemietz)|hamburg|https://zahnarzt.hamburg/",
+    "company_name": "Zahnärzte in der Hamburger City - Dr. med. dent. Daria von Riewel (ehem. Niemietz)",
+    "industry": "Zahnarzt",
+    "city": "Hamburg",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Zahn%C3%A4rzte+in+der+Hamburger+City+-+Dr.+med.+dent.+Daria+von+Riewel+%28ehem.+Niemietz%29/data=!4m7!3m6!1s0x47b18f1df6737915:0x707e946858b82224!8m2!3d53.5512086!4d10.0000082!16s%2Fg%2F1vgw_tbs!19sChIJFXlz9h2PsUcRJCK4WGiUfnA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://zahnarzt.hamburg/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": false,
+      "website_final_url": null,
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": false,
+      "website_service_matches": [],
+      "website_evidence": [],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null,
+      "website_error": "TimeoutError"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 86,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 190 reviews vs. comparison median 695; gap 505."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "Website could not be verified as accessible in this run.",
+      "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+    ],
+    "primary_sales_angle_verified": "Verified source data: 190 reviews vs. comparison median 695; gap 505.",
+    "proof": [
+      "Verified source data: 190 reviews vs. comparison median 695; gap 505."
+    ],
+    "email": null,
+    "email_source_url": null,
+    "email_verification_status": "EMAIL_MISSING",
+    "email_found_at": null,
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
   }
 ]

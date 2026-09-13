@@ -738,6 +738,156 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
+    "company_name": "Zimmermann Sanitär, Heizung und Umwelttechnik",
+    "industry": "Sanitaer Heizung",
+    "city": "Berlin",
+    "email": "info@zimmermann-installation.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_tests": [
+      {
+        "query": "Sanitaer Heizung Berlin",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Schwalm Heizung & Sanitär GmbH",
+          "Kuzey Haustechnik Sanitär & Rohrreinigung Notdienst",
+          "RohrKlar Klempner Berlin - Mitte 24h Notdienst",
+          "SANA-TEC GmbH - Gas, Wasser, Heizung, Sanitär Installateur und Notdienst",
+          "Lenke - Sanitär & Heizung"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      },
+      {
+        "query": "Sanitaer Heizung in Berlin",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Schwalm Heizung & Sanitär GmbH",
+          "Kuzey Haustechnik Sanitär & Rohrreinigung Notdienst",
+          "SANA-TEC GmbH - Gas, Wasser, Heizung, Sanitär Installateur und Notdienst",
+          "RohrKlar Klempner Berlin - Mitte 24h Notdienst",
+          "Lenke - Sanitär & Heizung"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
+    "company_name": "Glam – Beauty & Nails Nagelstudio & Wimpernverlängerung Isartor München",
+    "industry": "Nagelstudio",
+    "city": "Muenchen",
+    "email": "info@glambeautynails.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_tests": [
+      {
+        "query": "Nagelstudio Muenchen",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Leoni´s Nails & Hair Munich (Leoni’s Nagelstudio)",
+          "VIP BEAUTY LOUNGE - Nails Nagelstudio & Lashes Wimpernverlängerung / SENDLINGER TOR (München)",
+          "GOLD NAILS BEAUTY & SPA - Nails Nagelstudio & Lashes Wimpernverlängerung / MÜNCHNER FREIHEIT (München)",
+          "CITY NAILS & SPA München",
+          "An‘s Lashes & nails - München"
+        ],
+        "evidence": "Business observed at position 7 among the first 8 Maps results returned in this run."
+      },
+      {
+        "query": "Nagelstudio in Muenchen",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Leoni´s Nails & Hair Munich (Leoni’s Nagelstudio)",
+          "VIP BEAUTY LOUNGE - Nails Nagelstudio & Lashes Wimpernverlängerung / SENDLINGER TOR (München)",
+          "GOLD NAILS BEAUTY & SPA - Nails Nagelstudio & Lashes Wimpernverlängerung / MÜNCHNER FREIHEIT (München)",
+          "An‘s Lashes & nails - München",
+          "Luxury Nails Beauty München"
+        ],
+        "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business observed at position 7 among the first 8 Maps results returned in this run.",
+      "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "since eleven - friseure|koeln|https://www.since-eleven.de/",
+    "company_name": "Since Eleven - Friseure",
+    "industry": "Friseur",
+    "city": "Koeln",
+    "email": "info@since-eleven.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_tests": [
+      {
+        "query": "Friseur Koeln",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Clement Hair Studio Friseur Salon Köln",
+          "One Head Friseure Köln Neusser Str",
+          "Walthers Friseur Köln",
+          "Shinzo | Dein Friseur in Köln",
+          "WE LOVE HAIR"
+        ],
+        "evidence": "Business observed at position 7 among the first 8 Maps results returned in this run."
+      },
+      {
+        "query": "Friseur in Koeln",
+        "status": "OBSERVED",
+        "observed_position": 8,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Clement Hair Studio Friseur Salon Köln",
+          "Bauer Bauer Hairdressers Südstadt | Balayage | Cut | Farbe | seit 18 Jahren in Köln",
+          "Domino Friseur",
+          "Shinzo | Dein Friseur in Köln",
+          "Friseur Style & Bloom - Köln"
+        ],
+        "evidence": "Business observed at position 8 among the first 8 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 7 among the first 8 Maps results returned in this run.",
+      "Business observed at position 8 among the first 8 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
     "company_name": "Tierarztpraxis Tierärztlicher Notfalldienst - in der HAFENCITY- jeden Tag am selben Ort",
     "industry": "Tierarzt",
@@ -1191,6 +1341,92 @@
     "visibility_evidence": [
       "Business observed at position 2 among the first 8 Maps results returned in this run.",
       "Business observed at position 8 among the first 8 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
+    "company_name": "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
+    "industry": "Tierarzt",
+    "city": "Hamburg",
+    "email": "info@filu.vet",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 3,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Hamburg",
+          "Die Hamburger Tierärzte - Florian Grosser und Dr. med. vet. Ulf Krohn"
+        ],
+        "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 4,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Hamburg",
+          "Dr. Fenske Tierarztpraxis Hamburg Bergedorf für Kleintiere und Vögel",
+          "Tiermedizin am Rothenbaum Deckena & Dr. Elsner GmbH"
+        ],
+        "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 3 among the first 11 Maps results returned in this run.",
+      "Business observed at position 4 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "company_name": "Zahnarzt Hamburg - Dental21",
+    "industry": "Zahnarzt",
+    "city": "Hamburg",
+    "email": "info@dental21-europapassage.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_tests": [
+      {
+        "query": "Zahnarzt Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 1,
+        "results_checked": 8,
+        "competitors_ahead": [],
+        "evidence": "Business observed at position 1 among the first 8 Maps results returned in this run."
+      },
+      {
+        "query": "Zahnarzt in Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 3,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Zahnarzt Hamburg City - Z-24",
+          "AllDent Zahnzentrum Hamburg"
+        ],
+        "evidence": "Business observed at position 3 among the first 8 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 1 among the first 8 Maps results returned in this run.",
+      "Business observed at position 3 among the first 8 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-13",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",

@@ -988,6 +988,156 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
+    "company_name": "AS Auto-Service GmbH - Kfz.-Werkstatt Köln - automacher",
+    "industry": "Autowerkstatt",
+    "city": "Koeln",
+    "email": "kfz@automacher.net",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 85,
+    "visibility_tests": [
+      {
+        "query": "Autowerkstatt Koeln",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Autoglaserei Neck",
+          "KFZ-Technik Köln Meisterbetrieb",
+          "F & R KFZ Meisterbetriebs Service",
+          "KFZ Service Köln Süd",
+          "Sven Servatius KFZ Werkstatt - Köln"
+        ],
+        "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Autowerkstatt in Koeln",
+        "status": "OBSERVED",
+        "observed_position": 11,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "KFZ-Technik Köln Meisterbetrieb",
+          "West KFZ Meisterbetrieb",
+          "F & R KFZ Meisterbetriebs Service",
+          "Auto Top GmbH - Bosch Car Service",
+          "OTTOMANN Kfz Meisterbetriebs GmbH"
+        ],
+        "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 7 among the first 11 Maps results returned in this run.",
+      "Business observed at position 11 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "heizung sanitär köln | ebi's haustechnik|koeln|http://www.ebis-haustechnik.de/",
+    "company_name": "Heizung Sanitär Köln | Ebi's Haustechnik",
+    "industry": "Sanitaer Heizung",
+    "city": "Koeln",
+    "email": "ebis-haustechnik@web.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 85,
+    "visibility_tests": [
+      {
+        "query": "Sanitaer Heizung Koeln",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "SHK-KYRIAKIDIS SANITÄR-HEIZUNG KÖLN",
+          "YILMAZ Sanitär- und Heizungstechnik Köln",
+          "H. J. Lohmar GmbH Köln",
+          "DOM Haustechnik e.K. Sanitär | Heizung | Badsanierung | Wärmepumpe",
+          "Helmut Hinz GmbH & Co."
+        ],
+        "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Sanitaer Heizung in Koeln",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "SHK-KYRIAKIDIS SANITÄR-HEIZUNG KÖLN",
+          "YILMAZ Sanitär- und Heizungstechnik Köln",
+          "H. J. Lohmar GmbH Köln",
+          "Helmut Hinz GmbH & Co.",
+          "DOM Haustechnik e.K. Sanitär | Heizung | Badsanierung | Wärmepumpe"
+        ],
+        "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 7 among the first 11 Maps results returned in this run.",
+      "Business observed at position 7 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
+    "company_name": "Praxis für Krankengymnastik Krämer",
+    "industry": "Physiotherapie",
+    "city": "Sankt Augustin",
+    "email": "info@krankengymnastik-kraemer.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 82,
+    "visibility_tests": [
+      {
+        "query": "Physiotherapie Sankt Augustin",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "PHYSIO CKI – Sankt Augustin I",
+          "Isla Vitalis - Praxis für Physiotherapie",
+          "PHYSIO CKI – Sankt Augustin II",
+          "Wolff No1 Physio & Reformer-Pilates",
+          "OsteoForum - Ganzheitliche Physiotherapie in Hangelar / Joanna Wagner und Wilhelm Müller"
+        ],
+        "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Physiotherapie in Sankt Augustin",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "PHYSIO CKI – Sankt Augustin I",
+          "Praxis für Physiotherapie Rafael Weiss",
+          "Isla Vitalis - Praxis für Physiotherapie",
+          "PHYSIO CKI – Sankt Augustin II",
+          "Wolff No1 Physio & Reformer-Pilates"
+        ],
+        "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 7 among the first 11 Maps results returned in this run.",
+      "Business observed at position 7 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
     "company_name": "Tierarztpraxis Tierärztlicher Notfalldienst - in der HAFENCITY- jeden Tag am selben Ort",
     "industry": "Tierarzt",
@@ -1666,6 +1816,85 @@
     "visibility_evidence": [
       "Business observed at position 6 among the first 11 Maps results returned in this run.",
       "Business observed at position 3 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "gebäudereinigung köln|koeln|https://xn--gebudereinigungkoeln-dzb.de/",
+    "company_name": "gebäudereinigung Köln",
+    "industry": "Gebaeudereinigung",
+    "city": "Koeln",
+    "email": "ahmadalnafe3@gmail.com",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 86,
+    "visibility_tests": [
+      {
+        "query": "Gebaeudereinigung Koeln",
+        "status": "OBSERVED",
+        "observed_position": 1,
+        "results_checked": 11,
+        "competitors_ahead": [],
+        "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Gebaeudereinigung in Koeln",
+        "status": "OBSERVED",
+        "observed_position": 1,
+        "results_checked": 11,
+        "competitors_ahead": [],
+        "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 1 among the first 11 Maps results returned in this run.",
+      "Business observed at position 1 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "gebäudereinigung köln i zana reinigung & pflege|koeln|https://zana-reinigung.de/",
+    "company_name": "Gebäudereinigung Köln I Zana Reinigung & Pflege",
+    "industry": "Gebaeudereinigung",
+    "city": "Koeln",
+    "email": "info@zana-reinigung.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 86,
+    "visibility_tests": [
+      {
+        "query": "Gebaeudereinigung Koeln",
+        "status": "OBSERVED",
+        "observed_position": 3,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "FERMA Gebäudereinigung GmbH",
+          "Merbeck Gebäudeservice GmbH – Gebäudereinigung in Köln"
+        ],
+        "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Gebaeudereinigung in Koeln",
+        "status": "OBSERVED",
+        "observed_position": 1,
+        "results_checked": 11,
+        "competitors_ahead": [],
+        "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 3 among the first 11 Maps results returned in this run.",
+      "Business observed at position 1 among the first 11 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-13",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",

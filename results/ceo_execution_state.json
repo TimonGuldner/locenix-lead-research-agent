@@ -1,18 +1,18 @@
 {
   "status": "HEALTHY",
-  "checked_at": "2026-09-13T10:55:25.557121+00:00",
+  "checked_at": "2026-09-13T10:55:49.605974+00:00",
   "rule": "CEO_ENFORCES_DEPARTMENT_EXECUTION_NOT_JUST_REPORTING",
   "department_reviews": {
     "growth": {
-      "last_manager_run_at": "2026-09-13T10:54:48.204130+00:00",
-      "age_minutes_before_dispatch": 0.6225502333333334,
+      "last_manager_run_at": "2026-09-13T10:55:22.517275+00:00",
+      "age_minutes_before_dispatch": 0.45147865000000004,
       "last_status": "DAILY_TARGET_GAP",
       "last_next_agent": "email_sender",
       "last_dispatch_success": true
     },
     "customer_success": {
-      "last_manager_run_at": "2026-09-13T10:55:12.648578+00:00",
-      "age_minutes_before_dispatch": 0.21514298333333332,
+      "last_manager_run_at": "2026-09-13T10:55:32.574805+00:00",
+      "age_minutes_before_dispatch": 0.2838533333333333,
       "last_status": "HEALTHY",
       "last_next_agent": "AGENT_11",
       "active_trials": 0,

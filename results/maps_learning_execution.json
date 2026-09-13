@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 11,
-  "focus": "industry_exploitation",
+  "learning_run_count": 12,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen",
-    "Berlin",
-    "Stuttgart"
+    "Hamburg"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Dachdecker",
+    "Elektriker",
+    "Ergotherapie"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Muenchen"
+      "city": "Hamburg",
+      "industry": "Dachdecker",
+      "query": "Dachdecker Hamburg"
     },
     {
-      "city": "Berlin",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Berlin"
+      "city": "Hamburg",
+      "industry": "Elektriker",
+      "query": "Elektriker Hamburg"
     },
     {
-      "city": "Stuttgart",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Stuttgart"
+      "city": "Hamburg",
+      "industry": "Ergotherapie",
+      "query": "Ergotherapie Hamburg"
     }
   ],
   "queries_per_run": 3

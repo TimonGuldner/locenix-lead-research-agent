@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-13T10:21:15.188026+00:00",
+  "last_run_at": "2026-09-13T10:21:28.631555+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "priority_1": "Prioritize Deep QA until backlog falls below 5; current observed backlog: 35.",
@@ -20,7 +20,7 @@
   "customer_success_customers_at_risk": 0,
   "customer_success_human_reviews_required": 0,
   "customer_success_biggest_bottleneck": "NONE",
-  "customer_success_last_run_at": "2026-09-13T10:20:43.891501+00:00",
+  "customer_success_last_run_at": "2026-09-13T10:21:14.897608+00:00",
   "linkedin_control_status": "ATTENTION",
   "linkedin_targets": {
     "qualified_leads_found": 10,
@@ -55,7 +55,7 @@
   "linkedin_created_jobs": [],
   "linkedin_ceo_attention_required": true,
   "linkedin_control_last_run_at": "2026-09-13T10:12:28.438224+00:00",
-  "linkedin_control_checked_by_ceo_at": "2026-09-13T10:21:15.337711+00:00",
+  "linkedin_control_checked_by_ceo_at": "2026-09-13T10:21:28.869648+00:00",
   "daily_outbound_accountability_status": "ATTENTION",
   "daily_email_target": 5,
   "daily_email_actual": 0,
@@ -93,5 +93,5 @@
     "reply_actions": 0
   },
   "maps_downstream_email_gate_violations": 0,
-  "outbound_accountability_checked_at": "2026-09-13T10:21:15.513700+00:00"
+  "outbound_accountability_checked_at": "2026-09-13T10:21:29.057668+00:00"
 }

@@ -1,0 +1,44 @@
+{
+  "state": {
+    "agent": "LOCENIX_HARD_EMAIL_GATE_ENFORCER",
+    "last_run_at": "2026-09-13T10:38:36.369108+00:00",
+    "qualified_qa_total": 52,
+    "downstream_email_qualified_total": 31,
+    "email_missing_excluded_total": 21,
+    "visibility_rows_before": 5,
+    "visibility_rows_after": 0,
+    "visibility_rows_purged_this_run": 5,
+    "downstream_email_gate_violations": 0,
+    "airtable_quarantine": {
+      "matched": 6,
+      "updated": 0,
+      "already_safe": 6,
+      "errors": []
+    },
+    "status": "OK",
+    "rule": "NO VERIFIED PUBLIC BUSINESS EMAIL = NO VISIBILITY, SALES QUEUE OR OUTBOUND-READY HANDOFF"
+  },
+  "excluded_lead_ids": [
+    "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
+    "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
+    "backroom physio berlin|berlin|https://backroomphysio.de/",
+    "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
+    "podologie edelmann|berlin|https://podologie-edelmann.com/",
+    "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
+    "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
+    "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
+    "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
+    "kosmetikstudio la perla - lehel münchen|muenchen|https://www.laperla-beauty.de/",
+    "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
+    "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
+    "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
+    "tierarztpraxis tiergesundheitszentrum münchen|muenchen|http://www.verhaltenstherapie-tier.de/",
+    "walk again center|berlin|https://walk-again.de/",
+    "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
+    "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
+    "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
+    "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
+    "maison de nails berlin|berlin|https://maisondenails.de/",
+    "zahnärzte in der hamburger city - dr. med. dent. daria von riewel (ehem. niemietz)|hamburg|https://zahnarzt.hamburg/"
+  ]
+}

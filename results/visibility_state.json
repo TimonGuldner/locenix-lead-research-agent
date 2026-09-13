@@ -1,14 +1,12 @@
 {
   "runs": 1,
-  "processed_ids": [
-    "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
-    "backroom physio berlin|berlin|https://backroomphysio.de/",
-    "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
-    "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
-    "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/"
-  ],
-  "processed_count": 5,
+  "processed_ids": [],
+  "processed_count": 0,
   "last_batch_count": 5,
   "remaining_eligible": 0,
-  "weak_visibility_total": 3
+  "weak_visibility_total": 0,
+  "email_gate_rejected_count": 21,
+  "downstream_email_gate_violations": 0,
+  "legacy_visibility_rows_purged": 5,
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

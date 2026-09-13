@@ -1,0 +1,19 @@
+{
+  "agent": "LOCENIX_HARD_EMAIL_GATE_ENFORCER",
+  "last_run_at": "2026-09-13T10:38:36.369108+00:00",
+  "qualified_qa_total": 52,
+  "downstream_email_qualified_total": 31,
+  "email_missing_excluded_total": 21,
+  "visibility_rows_before": 5,
+  "visibility_rows_after": 0,
+  "visibility_rows_purged_this_run": 5,
+  "downstream_email_gate_violations": 0,
+  "airtable_quarantine": {
+    "matched": 6,
+    "updated": 0,
+    "already_safe": 6,
+    "errors": []
+  },
+  "status": "OK",
+  "rule": "NO VERIFIED PUBLIC BUSINESS EMAIL = NO VISIBILITY, SALES QUEUE OR OUTBOUND-READY HANDOFF"
+}

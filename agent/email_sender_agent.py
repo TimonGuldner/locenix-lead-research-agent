@@ -8,6 +8,7 @@ import urllib.error
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 
 TASK = Path('tasks/email_sender_task.json')
 STATE = Path('results/email_sender_state.json')
@@ -102,19 +103,44 @@ def send_resend(to_email: str, subject: str, text: str) -> str:
     return message_id
 
 
+def sent_today_from_records(records: list[dict[str, Any]], berlin_day: str) -> int:
+    count = 0
+    for rec in records:
+        f = rec.get('fields') or {}
+        if str(f.get('Email Send Status') or '') != 'SENT':
+            continue
+        raw = str(f.get('Email Sent At') or '').strip()
+        if not raw:
+            continue
+        try:
+            dt = datetime.fromisoformat(raw.replace('Z', '+00:00'))
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            if dt.astimezone(ZoneInfo('Europe/Berlin')).date().isoformat() == berlin_day:
+                count += 1
+        except Exception:
+            continue
+    return count
+
+
 def main() -> None:
     cfg = load_json(TASK, {})
-    now = datetime.now(timezone.utc).isoformat()
+    now_dt = datetime.now(timezone.utc)
+    now = now_dt.isoformat()
+    berlin_day = now_dt.astimezone(ZoneInfo('Europe/Berlin')).date().isoformat()
     dry_run = os.getenv('EMAIL_DRY_RUN', 'true').strip().lower() not in {'0', 'false', 'no'}
     if not cfg.get('enabled', False):
         print(json.dumps({'status': 'disabled'})); return
 
     allowed_bases = set(cfg.get('allowed_legal_bases') or [])
     max_per_run = int(cfg.get('max_emails_per_run') or 5)
+    daily_target = int(cfg.get('daily_target') or max_per_run)
     required_send_status = str(cfg.get('required_send_status') or 'READY_TO_SEND')
     required_draft_status = str(cfg.get('required_draft_status') or 'APPROVED')
 
     records = airtable_list(int(cfg.get('scan_limit') or 200))
+    sent_today_before = sent_today_from_records(records, berlin_day)
+    remaining_daily_capacity = max(0, daily_target - sent_today_before)
     candidates: list[dict[str, Any]] = []
     skipped: list[dict[str, Any]] = []
 
@@ -135,7 +161,8 @@ def main() -> None:
         candidates.append(rec)
 
     sent = []; failed = []
-    for rec in candidates[:max_per_run]:
+    run_limit = min(max_per_run, remaining_daily_capacity) if not dry_run else min(max_per_run, max(remaining_daily_capacity, 1))
+    for rec in candidates[:run_limit]:
         f = rec.get('fields') or {}
         item = {'record_id': rec.get('id'), 'company': f.get('Company'), 'to': f.get('Email'), 'subject': f.get('Outreach Subject')}
         if dry_run:
@@ -150,10 +177,16 @@ def main() -> None:
             except Exception: pass
             item.update({'status': 'FAILED', 'error': err}); failed.append(item)
 
+    sent_this_run = sum(1 for x in sent if x.get('status') == 'SENT')
+    sent_today = sent_today_before + sent_this_run
     state = {
         'agent': 'LOCENIX_EMAIL_SENDER', 'mode': 'DRY_RUN' if dry_run else 'LIVE_SEND', 'provider': 'resend',
+        'day': berlin_day,
+        'daily_target': daily_target,
+        'sent_today': sent_today,
+        'daily_gap': max(0, daily_target - sent_today),
         'scanned': len(records), 'eligible': len(candidates), 'processed': len(sent) + len(failed),
-        'sent_count': sum(1 for x in sent if x.get('status') == 'SENT'),
+        'sent_count': sent_this_run,
         'dry_run_ready_count': sum(1 for x in sent if x.get('status') == 'DRY_RUN_READY'),
         'failed_count': len(failed), 'skipped_count': len(skipped), 'last_run_at': now,
         'guardrails': {
@@ -163,6 +196,8 @@ def main() -> None:
             'excluded_professions_blocked': True,
             'excluded_professions': list(EXCLUDED_PROFESSION_TERMS),
             'max_emails_per_run': max_per_run,
+            'hard_daily_target': daily_target,
+            'provider_confirmed_sends_only': True,
         },
     }
     LATEST.parent.mkdir(parents=True, exist_ok=True)

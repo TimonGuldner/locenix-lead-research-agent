@@ -5,7 +5,7 @@
   "last_batch_count": 5,
   "remaining_eligible": 0,
   "weak_visibility_total": 0,
-  "email_gate_rejected_count": 21,
+  "email_gate_rejected_count": 22,
   "downstream_email_gate_violations": 0,
   "legacy_visibility_rows_purged": 5,
   "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

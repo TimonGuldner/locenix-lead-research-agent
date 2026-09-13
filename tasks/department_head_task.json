@@ -6,7 +6,11 @@
   "business_hours": {
     "timezone": "Europe/Berlin",
     "start_hour": 8,
-    "end_hour": 16
+    "end_hour": 20
+  },
+  "daily_targets": {
+    "approved_emails_sent": 5,
+    "maps_downstream_email_gate_violations": 0
   },
   "workflows": {
     "lead_research": "lead-research.yml",
@@ -14,20 +18,26 @@
     "visibility": "visibility.yml",
     "sales_queue": "sales-queue.yml",
     "outreach_controller": "outreach-controller.yml",
+    "email_sender": "email-sender.yml",
     "email_conversation": "email-conversation.yml"
   },
   "priorities": [
     "BLOCKERS_FIRST",
     "CUSTOMER_CONVERSATIONS_BEFORE_NEW_OUTREACH",
+    "HARD_EMAIL_GATE",
+    "DAILY_APPROVED_EMAIL_TARGET",
     "CLEAR_DOWNSTREAM_BACKLOG",
     "KEEP_QUALIFIED_LEADS_MOVING",
     "RESEARCH_WHEN_PIPELINE_NEEDS_INPUT"
   ],
   "safety": {
-    "never_send_outreach": true,
+    "never_send_unapproved_outreach": true,
+    "approved_email_sender_dispatch_allowed": true,
+    "email_sender_must_enforce_record_level_approval_and_legal_basis": true,
     "never_submit_contact_forms": true,
     "never_change_customer_data_outside_pipeline_fields": true,
     "never_dispatch_unknown_workflows": true,
-    "max_one_child_workflow_per_run": true
+    "max_one_child_workflow_per_run": true,
+    "missing_email_never_enters_visibility_sales_or_outreach": true
   }
 }

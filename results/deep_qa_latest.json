@@ -1,14 +1,14 @@
 {
   "results": [
     {
-      "lead_id": "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
-      "company_name": "Tierarztpraxis ElbVet Hamburg",
-      "industry": "Tierarzt",
-      "city": "Hamburg",
+      "lead_id": "since eleven - friseure|koeln|https://www.since-eleven.de/",
+      "company_name": "Since Eleven - Friseure",
+      "industry": "Friseur",
+      "city": "Koeln",
       "source_total_score": 81,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+ElbVet+Hamburg/data=!4m7!3m6!1s0x47b1856fe7d43e95:0x6934c6336fc69d77!8m2!3d53.56439!4d9.91812!16s%2Fg%2F11h0zbm_6t!19sChIJlT7U52-FsUcRd53GbzPGNGk?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.elbvet-hamburg.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Since+Eleven+-+Friseure/data=!4m7!3m6!1s0x47bf2446158f7601:0x93f7c4fc18a947e2!8m2!3d50.9188036!4d6.9605182!16s%2Fg%2F1ptxwtjbt!19sChIJAXaPFUYkv0cR4kepGPzE95M?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.since-eleven.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -26,280 +26,39 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.elbvet-hamburg.de/",
-        "booking_link": "https://www.elbvet-hamburg.de/online-terminvergabe/",
-        "social_links": [
-          "https://www.instagram.com/elbvet/?hl=de"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "impfung",
-          "ultraschall",
-          "labor"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (1 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@elbvet-hamburg.de",
-        "email_source_url": "https://www.elbvet-hamburg.de/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:37:28.579410+00:00"
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 147 reviews vs. comparison median 348; gap 201."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 147 reviews vs. comparison median 348; gap 201.",
-      "proof": [
-        "Verified source data: 147 reviews vs. comparison median 348; gap 201.",
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "info@elbvet-hamburg.de",
-      "email_source_url": "https://www.elbvet-hamburg.de/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:37:28.579410+00:00",
-      "airtable_ready": true,
-      "qa_date": "2026-09-13",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
-      "company_name": "R&RRR Reifennotdienst 24h",
-      "industry": "Reifenservice",
-      "city": "Hamburg",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/R%26RRR+Reifennotdienst+24h/data=!4m7!3m6!1s0x47b1f2dafc8d6ec7:0x36c28917a11fed21!8m2!3d53.5113594!4d10.1850543!16s%2Fg%2F11c1qydf2y!19sChIJx26N_NrysUcRIe0foReJwjY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.rundrrr.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.rundrrr.de/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [],
-        "website_evidence": [
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "rundrrr@yahoo.de",
-        "email_source_url": "https://www.rundrrr.de/impressum",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:37:38.739302+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 155 reviews vs. comparison median 408; gap 253."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 155 reviews vs. comparison median 408; gap 253.",
-      "proof": [
-        "Verified source data: 155 reviews vs. comparison median 408; gap 253."
-      ],
-      "email": "rundrrr@yahoo.de",
-      "email_source_url": "https://www.rundrrr.de/impressum",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:37:38.739302+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-13",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "zahnärzte im asamhof - dr. ihor prokhorenko - cmd-zentrum münchen-innenstadt|muenchen|http://zahnaerzte-im-asamhof.de/",
-      "company_name": "Zahnärzte im Asamhof - Dr. Ihor Prokhorenko - CMD-Zentrum München-Innenstadt",
-      "industry": "Zahnarzt",
-      "city": "Muenchen",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Zahn%C3%A4rzte+im+Asamhof+-+Dr.+Ihor+Prokhorenko+-+CMD-Zentrum+M%C3%BCnchen-Innenstadt/data=!4m7!3m6!1s0x479e75f587d95b4f:0x1ffdd240c177ca00!8m2!3d48.1353169!4d11.5700721!16s%2Fg%2F1tfsgd3l!19sChIJT1vZh_V1nkcRAMp3wUDS_R8?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://zahnaerzte-im-asamhof.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://zahnaerzte-im-asamhof.de/",
-        "booking_link": "https://www.doctolib.de/zahnarztpraxis/muenchen/praxis-dr-max-muggenthaler",
-        "social_links": [
-          "https://www.instagram.com/zahnaerzte.asamhof/",
-          "https://www.facebook.com/Zahn%C3%A4rzte-im-Asamhof-1817229718533671/",
-          "https://www.instagram.com/p/C-pYA1kt18y/",
-          "https://www.instagram.com/reel/C-dCIkUtReZ/",
-          "https://www.instagram.com/p/C-R9_ocNw96/",
-          "https://www.instagram.com/p/C-NAxAcNhMM/",
-          "https://www.instagram.com/p/C-JDq2BthIo/",
-          "https://www.instagram.com/p/C-D9ABXt5NL/",
-          "https://www.instagram.com/reel/C9wcnf3NtdC/",
-          "https://www.instagram.com/reel/C9kRyELtZOF/",
-          "https://www.instagram.com/p/C9cD9pvtVdx/",
-          "https://www.instagram.com/reel/C9ReXUBNy94/",
-          "https://www.instagram.com/reel/C9E6fG9t_0E/",
-          "https://www.instagram.com/p/C6jUMZptVZU/",
-          "https://www.instagram.com/p/C6LwdWmN8iO/",
-          "https://www.instagram.com/p/C55dynZtVRG/",
-          "https://www.instagram.com/reel/C51ehYLN3Bh/",
-          "https://www.instagram.com/reel/C5yjsquNoBr/",
-          "https://www.instagram.com/reel/C5oizdlN25s/",
-          "https://www.instagram.com/p/C5oZiyQNpw6/",
-          "https://www.instagram.com/reel/C5jRzEBNIxs/",
-          "https://www.instagram.com/p/C5jOjdDtkvy/",
-          "https://www.facebook.com/privacy/explanation",
-          "https://www.instagram.com/legal/privacy/"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "implantate",
-          "prophylaxe",
-          "bleaching",
-          "invisalign",
-          "wurzelbehandlung"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (24 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@zahnaerzte-im-asamhof.de",
-        "email_source_url": "https://zahnaerzte-im-asamhof.de/impressum/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:37:46.878999+00:00"
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 133 reviews vs. comparison median 306; gap 173."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 133 reviews vs. comparison median 306; gap 173.",
-      "proof": [
-        "Verified source data: 133 reviews vs. comparison median 306; gap 173.",
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "info@zahnaerzte-im-asamhof.de",
-      "email_source_url": "https://zahnaerzte-im-asamhof.de/impressum/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:37:46.878999+00:00",
-      "airtable_ready": true,
-      "qa_date": "2026-09-13",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
-      "company_name": "Glam – Beauty & Nails Nagelstudio & Wimpernverlängerung Isartor München",
-      "industry": "Nagelstudio",
-      "city": "Muenchen",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Glam+%E2%80%93+Beauty+%26+Nails+Nagelstudio+%26+Wimpernverl%C3%A4ngerung+Isartor+M%C3%BCnchen/data=!4m7!3m6!1s0x479ddf968e6fb785:0x68497e29893198fb!8m2!3d48.1339065!4d11.5823467!16s%2Fg%2F11hzsllf7v!19sChIJhbdvjpbfnUcR-5gxiSl-SWg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.glambeautynails.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.glambeautynails.de/",
+        "website_final_url": "https://www.since-eleven.de/",
         "booking_link": null,
         "social_links": [
-          "https://www.facebook.com/glammunich",
-          "https://www.instagram.com/glammunich/"
+          "https://de-de.facebook.com/sinceeleven",
+          "https://www.instagram.com/sinceeleven/",
+          "https://www.since-eleven.de/images/gallery/instagram/1.jpg",
+          "https://www.since-eleven.de/images/gallery/instagram/2.jpg",
+          "https://www.since-eleven.de/images/gallery/instagram/3.jpg",
+          "https://www.since-eleven.de/images/gallery/instagram/4.jpg",
+          "https://www.since-eleven.de/images/gallery/instagram/8.jpg",
+          "https://www.since-eleven.de/images/gallery/instagram/6.jpg",
+          "https://www.since-eleven.de/images/gallery/instagram/7.jpg",
+          "https://www.since-eleven.de/images/gallery/instagram/5.jpg",
+          "https://www.facebook.com/sinceeleven"
         ],
         "contact_page_observed": true,
         "website_service_matches": [],
         "website_evidence": [
-          "Active social-link footprint observed (2 link(s)).",
+          "Active social-link footprint observed (11 link(s)).",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@glambeautynails.de",
-        "email_source_url": "https://www.glambeautynails.de/impressum",
+        "email": "info@since-eleven.de",
+        "email_source_url": "https://www.since-eleven.de/#contact",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:37:54.592344+00:00"
+        "email_found_at": "2026-09-13T10:42:09.994402+00:00"
       },
       "deep_qa_decision": "FINAL_B",
       "deep_qa_score": 88,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 239 reviews vs. comparison median 395; gap 156."
+          "proof": "Verified source data: 146 reviews vs. comparison median 360; gap 214."
         },
         {
           "type": "digital_maturity_social",
@@ -308,29 +67,29 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 239 reviews vs. comparison median 395; gap 156.",
+      "primary_sales_angle_verified": "Verified source data: 146 reviews vs. comparison median 360; gap 214.",
       "proof": [
-        "Verified source data: 239 reviews vs. comparison median 395; gap 156.",
+        "Verified source data: 146 reviews vs. comparison median 360; gap 214.",
         "Business website links to at least one social profile."
       ],
-      "email": "info@glambeautynails.de",
-      "email_source_url": "https://www.glambeautynails.de/impressum",
+      "email": "info@since-eleven.de",
+      "email_source_url": "https://www.since-eleven.de/#contact",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:37:54.592344+00:00",
+      "email_found_at": "2026-09-13T10:42:09.994402+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-13",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
-      "company_name": "Podologie Praxis Marina Schwingeler-Hühne (Podologin)",
-      "industry": "Podologie",
+      "lead_id": "gebäudereinigung köln|koeln|https://xn--gebudereinigungkoeln-dzb.de/",
+      "company_name": "gebäudereinigung Köln",
+      "industry": "Gebaeudereinigung",
       "city": "Koeln",
       "source_total_score": 81,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Podologie+Praxis+Marina+Schwingeler-H%C3%BChne+%28Podologin%29/data=!4m7!3m6!1s0x417186898de510c9:0x3aeba9bc1a534951!8m2!3d50.930366!4d6.942971!16s%2Fg%2F1tf3yhs0!19sChIJyRDljYmGcUERUUlTGryp6zo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://podologekoeln.de/",
+      "google_maps_url": "https://www.google.com/maps/place/geb%C3%A4udereinigung+K%C3%B6ln/data=!4m7!3m6!1s0x47bf25eda79cfa5b:0x87b4a39264ebf963!8m2!3d50.9322066!4d6.9572447!16s%2Fg%2F11n3k895wd!19sChIJW_qcp-0lv0cRY_nrZJKjtIc?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://xn--gebudereinigungkoeln-dzb.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -348,40 +107,259 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://podologekoeln.de/",
+        "website_final_url": "https://xn--gebudereinigungkoeln-dzb.de/",
         "booking_link": null,
         "social_links": [],
         "contact_page_observed": true,
         "website_service_matches": [
-          "podologie"
+          "fenster",
+          "grundreinigung",
+          "treppenhaus"
         ],
         "website_evidence": [
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "webanfrage@podologekoeln.de",
-        "email_source_url": "https://podologekoeln.de/kontakt/",
+        "email": "ahmadalnafe3@gmail.com",
+        "email_source_url": "https://xn--gebudereinigungkoeln-dzb.de/#kontakt",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:38:03.867885+00:00"
+        "email_found_at": "2026-09-13T10:42:15.769513+00:00"
       },
       "deep_qa_decision": "FINAL_B",
       "deep_qa_score": 86,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 24 reviews vs. comparison median 91; gap 67."
+          "proof": "Verified source data: 12 reviews vs. comparison median 69; gap 57."
         }
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 24 reviews vs. comparison median 91; gap 67.",
+      "primary_sales_angle_verified": "Verified source data: 12 reviews vs. comparison median 69; gap 57.",
       "proof": [
-        "Verified source data: 24 reviews vs. comparison median 91; gap 67."
+        "Verified source data: 12 reviews vs. comparison median 69; gap 57."
       ],
-      "email": "webanfrage@podologekoeln.de",
-      "email_source_url": "https://podologekoeln.de/kontakt/",
+      "email": "ahmadalnafe3@gmail.com",
+      "email_source_url": "https://xn--gebudereinigungkoeln-dzb.de/#kontakt",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:38:03.867885+00:00",
+      "email_found_at": "2026-09-13T10:42:15.769513+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "gebäudereinigung köln i zana reinigung & pflege|koeln|https://zana-reinigung.de/",
+      "company_name": "Gebäudereinigung Köln I Zana Reinigung & Pflege",
+      "industry": "Gebaeudereinigung",
+      "city": "Koeln",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Geb%C3%A4udereinigung+K%C3%B6ln+I+Zana+Reinigung+%26+Pflege/data=!4m7!3m6!1s0x47bf2759ae4cb291:0xdd041e6bbdb321c8!8m2!3d50.9514917!4d7.016973!16s%2Fg%2F11yrpdf2nx!19sChIJkbJMrlknv0cRyCGzvWseBN0?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://zana-reinigung.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://zana-reinigung.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": false,
+        "website_service_matches": [],
+        "website_evidence": [
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@zana-reinigung.de",
+        "email_source_url": "https://zana-reinigung.de/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:42:25.441603+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 14 reviews vs. comparison median 69; gap 55."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 14 reviews vs. comparison median 69; gap 55.",
+      "proof": [
+        "Verified source data: 14 reviews vs. comparison median 69; gap 55."
+      ],
+      "email": "info@zana-reinigung.de",
+      "email_source_url": "https://zana-reinigung.de/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:42:25.441603+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
+      "company_name": "Hundesalon Miez&Mops",
+      "industry": "Hundefriseur",
+      "city": "Berlin",
+      "source_total_score": 80,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Hundesalon+Miez%26Mops/data=!4m7!3m6!1s0x2d55c2fdd1a9d6b7:0xb753dd12c467c8de!8m2!3d52.5874255!4d13.2840105!16s%2Fg%2F11yfr0x2h1!19sChIJt9ap0f3CVS0R3shnxBLdU7c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.miez-mops.com/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.miez-mops.com/",
+        "booking_link": null,
+        "social_links": [
+          "https://www.instagram.com/hundefriseur_akademie_berlin/"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [],
+        "website_evidence": [
+          "Active social-link footprint observed (1 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@miez-mops.com",
+        "email_source_url": "https://www.miez-mops.com/impressum",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:42:31.970568+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 87,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 59 reviews vs. comparison median 134; gap 75."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 59 reviews vs. comparison median 134; gap 75.",
+      "proof": [
+        "Verified source data: 59 reviews vs. comparison median 134; gap 75.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "info@miez-mops.com",
+      "email_source_url": "https://www.miez-mops.com/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:42:31.970568+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
+      "company_name": "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
+      "industry": "Tierarzt",
+      "city": "Hamburg",
+      "source_total_score": 80,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/filu+Tierarztpraxis+Hoheluft+-+Allgemein-+und+Notfallmedizin/data=!4m7!3m6!1s0x47b18972ebcbfe8d:0xf7ef9d636576fb44!8m2!3d53.5828202!4d9.9713742!16s%2Fg%2F11ml03xnkz!19sChIJjf7L63KJsUcRRPt2ZWOd7_c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
+        "booking_link": "https://my.filu.vet/book/?lang=de&clinic_id=10",
+        "social_links": [
+          "https://www.instagram.com/filu_vet/",
+          "https://www.linkedin.com/company/filu-gmbh/",
+          "https://www.facebook.com/filuvet"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "impfung",
+          "chirurgie",
+          "ultraschall",
+          "labor"
+        ],
+        "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Active social-link footprint observed (3 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@filu.vet",
+        "email_source_url": "https://www.filu.vet/rechtliches?tab=impressum",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:42:43.090999+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 89,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 128 reviews vs. comparison median 348; gap 220."
+        },
+        {
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 128 reviews vs. comparison median 348; gap 220.",
+      "proof": [
+        "Verified source data: 128 reviews vs. comparison median 348; gap 220.",
+        "Online booking/appointment link observed on website.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "info@filu.vet",
+      "email_source_url": "https://www.filu.vet/rechtliches?tab=impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:42:43.090999+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-13",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
@@ -389,7 +367,7 @@
     }
   ],
   "state": {
-    "runs": 11,
+    "runs": 12,
     "processed_ids": [
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -399,10 +377,14 @@
       "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
       "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
       "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
+      "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
       "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
+      "gebäudereinigung köln i zana reinigung & pflege|koeln|https://zana-reinigung.de/",
+      "gebäudereinigung köln|koeln|https://xn--gebudereinigungkoeln-dzb.de/",
       "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
       "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
       "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
+      "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
       "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
       "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
       "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
@@ -424,6 +406,7 @@
       "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
       "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
       "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
+      "since eleven - friseure|koeln|https://www.since-eleven.de/",
       "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
       "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
@@ -444,11 +427,11 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 52,
-    "remaining_eligible": 10,
+    "processed_count": 57,
+    "remaining_eligible": 5,
     "last_batch_count": 5,
     "final_a_total": 30,
-    "final_b_total": 22,
+    "final_b_total": 27,
     "email_ready_total": 18,
     "email_missing_total": 21
   }

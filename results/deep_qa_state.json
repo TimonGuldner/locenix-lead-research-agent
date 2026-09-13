@@ -1,5 +1,5 @@
 {
-  "runs": 11,
+  "runs": 12,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -9,10 +9,14 @@
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
+    "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
     "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
+    "gebäudereinigung köln i zana reinigung & pflege|koeln|https://zana-reinigung.de/",
+    "gebäudereinigung köln|koeln|https://xn--gebudereinigungkoeln-dzb.de/",
     "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
     "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
     "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
+    "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
     "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
     "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
     "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
@@ -34,6 +38,7 @@
     "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
     "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
     "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
+    "since eleven - friseure|koeln|https://www.since-eleven.de/",
     "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
     "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
     "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
@@ -54,15 +59,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 52,
-  "remaining_eligible": 10,
+  "processed_count": 57,
+  "remaining_eligible": 5,
   "last_batch_count": 5,
   "final_a_total": 30,
-  "final_b_total": 22,
+  "final_b_total": 27,
   "email_ready_total": 18,
-  "email_missing_total": 21,
-  "email_gate_qualified_total": 31,
-  "email_missing_excluded_total": 21,
-  "downstream_eligible_total": 31,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "email_missing_total": 21
 }

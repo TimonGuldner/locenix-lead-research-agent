@@ -1,47 +1,47 @@
 {
   "results": [
     {
-      "lead_id": "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
-      "company_name": "Tierarztpraxis Tierärztlicher Notfalldienst - in der HAFENCITY- jeden Tag am selben Ort",
-      "industry": "Tierarzt",
-      "city": "Hamburg",
-      "email": "ahoi@vetzentrum-hafencity.de",
+      "lead_id": "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
+      "company_name": "Hundesalon Paws and Tails Kreuzberg",
+      "industry": "Hundefriseur",
+      "city": "Berlin",
+      "email": "hello@paws-tails.eu",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 96,
+      "deep_qa_score": 93,
       "visibility_tests": [
         {
-          "query": "Tierarzt Hamburg",
+          "query": "Hundefriseur Berlin",
           "status": "OBSERVED",
-          "observed_position": 5,
+          "observed_position": 4,
           "results_checked": 11,
           "competitors_ahead": [
-            "felmo Mobiler Tierarzt Hamburg",
-            "Die Hamburger Tierärzte - Florian Grosser und Dr. med. vet. Ulf Krohn",
-            "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
-            "Rex Tierarztpraxis Hamburg-Ottensen"
+            "Yorkis Hunde- und Katzensalon",
+            "Hundesalon Paws and Tails Mitte",
+            "Hundesalon Amling"
           ],
-          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Tierarzt in Hamburg",
+          "query": "Hundefriseur in Berlin",
           "status": "OBSERVED",
-          "observed_position": 5,
+          "observed_position": 8,
           "results_checked": 11,
           "competitors_ahead": [
-            "felmo Mobiler Tierarzt Hamburg",
-            "Dr. Fenske Tierarztpraxis Hamburg Bergedorf für Kleintiere und Vögel",
-            "Tiermedizin am Rothenbaum Deckena & Dr. Elsner GmbH",
-            "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin"
+            "Paws and Tails Charlottenburg",
+            "Yorkis Hunde- und Katzensalon",
+            "Hundesalon Paws and Tails Mitte",
+            "Hundesalon Grewatsch Berlin",
+            "Hundesalon Amling"
           ],
-          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
         }
       ],
-      "weak_visibility_observed": false,
+      "weak_visibility_observed": true,
       "visibility_opportunity_score": 3,
       "visibility_evidence": [
-        "Business observed at position 5 among the first 11 Maps results returned in this run.",
-        "Business observed at position 5 among the first 11 Maps results returned in this run."
+        "Business observed at position 4 among the first 11 Maps results returned in this run.",
+        "Business observed at position 8 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-13",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -49,40 +49,40 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/",
-      "company_name": "Zahnarzt München Zentrum Dr. Rüdiger Hansen",
-      "industry": "Zahnarzt",
-      "city": "Muenchen",
-      "email": "info@zahnarzt-muenchen-zentrum.de",
+      "lead_id": "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
+      "company_name": "Hair Atelier Hamburg",
+      "industry": "Friseur",
+      "city": "Hamburg",
+      "email": "info@atelierhamburg.net",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 94,
+      "deep_qa_score": 92,
       "visibility_tests": [
         {
-          "query": "Zahnarzt Muenchen",
+          "query": "Friseur Hamburg",
           "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
           "observed_position": null,
           "results_checked": 8,
           "competitors_ahead": [
-            "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
-            "AllDent Zahnzentrum München",
-            "AllDent Zahnzentrum München Ost",
-            "dent + face Zahnzentrum München",
-            "Zahnarzt München am Marienplatz - Dr. Tomas Hoischen & Dr. Matthias Kelch"
+            "Hilke Friseur Kopffabrik",
+            "Cut for Friends GmbH Hamburg",
+            "AVEDA Secret Garden Hamburg",
+            "Löwenmähne Friseursalon Hamburg Innenstadt",
+            "dennis friseur"
           ],
           "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
         },
         {
-          "query": "Zahnarzt in Muenchen",
+          "query": "Friseur in Hamburg",
           "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
           "observed_position": null,
           "results_checked": 8,
           "competitors_ahead": [
-            "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
-            "AllDent Zahnzentrum München Ost",
-            "AllDent Zahnzentrum München",
-            "Zahnarzt Stachus München Innenstadt - Munich Dental Works",
-            "Zahnarzt München - Dental21"
+            "Cut for Friends GmbH Hamburg",
+            "dennis friseur",
+            "Alsterschnitt",
+            "Morè than Hair - Hamburg",
+            "Löwenmähne Friseursalon Hamburg Innenstadt"
           ],
           "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
         }
@@ -99,148 +99,137 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
-      "company_name": "Tier Tour Berlin - Mobiler Tierarzt",
-      "industry": "Tierarzt",
-      "city": "Berlin",
-      "email": "info@tiertour-berlin.de",
+      "lead_id": "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
+      "company_name": "Zahnarzt München am Marienplatz - Dr. Tomas Hoischen & Dr. Matthias Kelch",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "email": "info@zahnaerzte-marienplatz.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 94,
+      "deep_qa_score": 92,
+      "visibility_tests": [
+        {
+          "query": "Zahnarzt Muenchen",
+          "status": "OBSERVED",
+          "observed_position": 4,
+          "results_checked": 8,
+          "competitors_ahead": [
+            "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
+            "AllDent Zahnzentrum München",
+            "dent + face Zahnzentrum München"
+          ],
+          "evidence": "Business observed at position 4 among the first 8 Maps results returned in this run."
+        },
+        {
+          "query": "Zahnarzt in Muenchen",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 8,
+          "competitors_ahead": [
+            "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
+            "AllDent Zahnzentrum München",
+            "AllDent Zahnzentrum München Ost",
+            "Zahnarzt Stachus München Innenstadt - Munich Dental Works",
+            "Zahngesundheitszentrum Dr. Berand"
+          ],
+          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
+      "visibility_evidence": [
+        "Business observed at position 4 among the first 8 Maps results returned in this run.",
+        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+      ],
+      "visibility_date": "2026-09-13",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
+      "company_name": "An‘s Lashes & nails - München",
+      "industry": "Nagelstudio",
+      "city": "Muenchen",
+      "email": "ans-lashes@web.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 92,
+      "visibility_tests": [
+        {
+          "query": "Nagelstudio Muenchen",
+          "status": "OBSERVED",
+          "observed_position": 4,
+          "results_checked": 8,
+          "competitors_ahead": [
+            "Leoni´s Nails & Hair Munich (Leoni’s Nagelstudio)",
+            "VIP BEAUTY LOUNGE - Nails Nagelstudio & Lashes Wimpernverlängerung / SENDLINGER TOR (München)",
+            "GOLD NAILS BEAUTY & SPA - Nails Nagelstudio & Lashes Wimpernverlängerung / MÜNCHNER FREIHEIT (München)"
+          ],
+          "evidence": "Business observed at position 4 among the first 8 Maps results returned in this run."
+        },
+        {
+          "query": "Nagelstudio in Muenchen",
+          "status": "OBSERVED",
+          "observed_position": 4,
+          "results_checked": 8,
+          "competitors_ahead": [
+            "Leoni´s Nails & Hair Munich (Leoni’s Nagelstudio)",
+            "VIP BEAUTY LOUNGE - Nails Nagelstudio & Lashes Wimpernverlängerung / SENDLINGER TOR (München)",
+            "GOLD NAILS BEAUTY & SPA - Nails Nagelstudio & Lashes Wimpernverlängerung / MÜNCHNER FREIHEIT (München)"
+          ],
+          "evidence": "Business observed at position 4 among the first 8 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 3,
+      "visibility_evidence": [
+        "Business observed at position 4 among the first 8 Maps results returned in this run.",
+        "Business observed at position 4 among the first 8 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-13",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
+      "company_name": "Tierarztpraxis Bärenwiese, Tierarzt Berlin-Wilmersdorf",
+      "industry": "Tierarzt",
+      "city": "Berlin",
+      "email": "mail@tierarzt-baerenwiese.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 92,
       "visibility_tests": [
         {
           "query": "Tierarzt Berlin",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
+          "status": "OBSERVED",
+          "observed_position": 2,
           "results_checked": 11,
           "competitors_ahead": [
-            "Tierarztpraxis Rödiger - Das Veterinärmedizinische Zentrum Berlin - 24h geöffnet",
-            "Tierarztpraxis Bärenwiese, Tierarzt Berlin-Wilmersdorf",
-            "Pfotendoctor - dein digitaler Tierarzt (kein Praxisstandort vor Ort)",
-            "Tierarztpraxis am Tierheim Berlin",
-            "felmo Mobiler Tierarzt Berlin"
+            "Tierarztpraxis Rödiger - Das Veterinärmedizinische Zentrum Berlin - 24h geöffnet"
           ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
         },
         {
           "query": "Tierarzt in Berlin",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
+          "status": "OBSERVED",
+          "observed_position": 4,
           "results_checked": 11,
           "competitors_ahead": [
             "Tierarztpraxis Rödiger - Das Veterinärmedizinische Zentrum Berlin - 24h geöffnet",
-            "Pfotendoctor - dein digitaler Tierarzt (kein Praxisstandort vor Ort)",
             "Rex Tierarztpraxis Berlin-Schöneberg",
-            "Tierarztpraxis Bärenwiese, Tierarzt Berlin-Wilmersdorf",
-            "Tierarztpraxis am Tierheim Berlin"
+            "Pfotendoctor - dein digitaler Tierarzt (kein Praxisstandort vor Ort)"
           ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
         }
       ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
       "visibility_evidence": [
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-      ],
-      "visibility_date": "2026-09-13",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
-      "company_name": "myPhysio Physiotherapie Köln Am Gürzenich (Privatpatienten&Selbstzahler)",
-      "industry": "Physiotherapie",
-      "city": "Koeln",
-      "email": "guerzenich@myphysio-deutschland.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 93,
-      "visibility_tests": [
-        {
-          "query": "Physiotherapie Koeln",
-          "status": "OBSERVED",
-          "observed_position": 11,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Physios Köln",
-            "Kölner.Physio.Kollektiv.",
-            "Beweglichmacher Köln Aachener Straße Physiotherapie",
-            "IFS Köln Physiotherapie und Osteopathie",
-            "Physiotherapiezentrum Köln & Rückenzentrum Köln"
-          ],
-          "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Physiotherapie in Koeln",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Praxis Andreas Wimmer Physiotherapie Manuelle Therapie",
-            "Beweglichmacher Köln Aachener Straße Physiotherapie",
-            "Physio Forte Praxis für Physiotherapie | Krankengymnastik",
-            "Physiotherapie Vanessa Lorre - Köln Ehrenfeld",
-            "Physiotherapie Köln Ehrenfeld - ReBuild"
-          ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
-      "visibility_evidence": [
-        "Business observed at position 11 among the first 11 Maps results returned in this run.",
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-      ],
-      "visibility_date": "2026-09-13",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
-      "company_name": "DOM Haustechnik e.K. Sanitär | Heizung | Badsanierung | Wärmepumpe",
-      "industry": "Sanitaer Heizung",
-      "city": "Koeln",
-      "email": "info@dom-haustechnik.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 93,
-      "visibility_tests": [
-        {
-          "query": "Sanitaer Heizung Koeln",
-          "status": "OBSERVED",
-          "observed_position": 5,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "SHK-KYRIAKIDIS SANITÄR-HEIZUNG KÖLN",
-            "YILMAZ Sanitär- und Heizungstechnik Köln",
-            "H. J. Lohmar GmbH Köln",
-            "Helmut Hinz GmbH & Co."
-          ],
-          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Sanitaer Heizung in Koeln",
-          "status": "OBSERVED",
-          "observed_position": 7,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "SHK-KYRIAKIDIS SANITÄR-HEIZUNG KÖLN",
-            "YILMAZ Sanitär- und Heizungstechnik Köln",
-            "H. J. Lohmar GmbH Köln",
-            "Sanitär & Heizung - HDS GmbH Köln",
-            "Heizung Sanitär Köln | Ebi's Haustechnik"
-          ],
-          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 3,
-      "visibility_evidence": [
-        "Business observed at position 5 among the first 11 Maps results returned in this run.",
-        "Business observed at position 7 among the first 11 Maps results returned in this run."
+        "Business observed at position 2 among the first 11 Maps results returned in this run.",
+        "Business observed at position 4 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-13",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -249,18 +238,23 @@
     }
   ],
   "state": {
-    "runs": 2,
+    "runs": 3,
     "processed_ids": [
+      "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
       "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
+      "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
+      "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
       "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
+      "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
       "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
+      "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
       "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/"
     ],
-    "processed_count": 5,
+    "processed_count": 10,
     "last_batch_count": 5,
-    "remaining_eligible": 35,
-    "weak_visibility_total": 4,
+    "remaining_eligible": 30,
+    "weak_visibility_total": 7,
     "email_gate_rejected_count": 22,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

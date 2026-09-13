@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
+  "reports_to": "AGENT_7_GROWTH_MANAGER",
+  "feeds_agents": ["AGENT_1_RESEARCH", "AGENT_2_DEEP_QA", "AGENT_4_MAPS_VISIBILITY", "AGENT_3_SALES_QUEUE"],
+  "mode": "SAFE_OUTCOME_LEARNING",
+  "exploration_share": 0.15,
+  "minimum_samples_before_downweight": 5,
+  "minimum_samples_before_boost": 2,
+  "weight_min": 0.70,
+  "weight_max": 1.40,
+  "airtable_base_id": "appuPKnVyLsbWbxMR",
+  "airtable_table_id": "tblF4ghkYFzkeQwsT",
+  "rules": {
+    "optimize_for_downstream_quality_not_raw_volume": true,
+    "never_rewrite_executable_code": true,
+    "never_raise_contact_limits": true,
+    "never_override_do_not_contact": true,
+    "never_remove_excluded_professions": true,
+    "never_bypass_captcha_or_security": true,
+    "keep_exploration_active": true,
+    "dedupe_airtable_by_lead_id": true
+  }
+}

@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 15,
-  "focus": "industry_exploitation",
+  "learning_run_count": 16,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Sankt Augustin",
-    "Aachen",
-    "Augsburg"
+    "Hamburg"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Fotograf",
+    "Heilpraktiker",
+    "Logopaedie"
   ],
   "selected_pairs": [
     {
-      "city": "Sankt Augustin",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Sankt Augustin"
+      "city": "Hamburg",
+      "industry": "Fotograf",
+      "query": "Fotograf Hamburg"
     },
     {
-      "city": "Aachen",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Aachen"
+      "city": "Hamburg",
+      "industry": "Heilpraktiker",
+      "query": "Heilpraktiker Hamburg"
     },
     {
-      "city": "Augsburg",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Augsburg"
+      "city": "Hamburg",
+      "industry": "Logopaedie",
+      "query": "Logopaedie Hamburg"
     }
   ],
   "queries_per_run": 3

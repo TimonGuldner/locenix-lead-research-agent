@@ -1,43 +1,45 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-  "generated_at": "2026-09-13T18:45:15.564710+00:00",
-  "learning_run_count": 15,
+  "generated_at": "2026-09-13T19:31:54.315880+00:00",
+  "learning_run_count": 16,
   "mode": "SAFE_OUTCOME_LEARNING",
   "principle": "Optimize Google Maps research toward downstream sales quality, not raw lead count; never rewrite code or relax safety/legal guardrails.",
   "exploration_share": 0.15,
   "minimum_samples_before_downweight": 5,
   "minimum_samples_before_boost": 2,
   "industry_weights": {
-    "Autowerkstatt": 1.045,
-    "Tierarzt": 1.218,
-    "Immobilienmakler": 1.06,
-    "Zahnarzt": 1.119,
-    "Sanitaer Heizung": 1.092,
+    "Autowerkstatt": 1.046,
+    "Tierarzt": 1.212,
+    "Immobilienmakler": 1.062,
+    "Zahnarzt": 1.121,
+    "Sanitaer Heizung": 1.094,
     "Elektriker": 1.0,
-    "Physiotherapie": 1.213,
-    "Nagelstudio": 1.125,
+    "Physiotherapie": 1.215,
+    "Nagelstudio": 1.128,
     "Kosmetikstudio": 1.153,
     "Podologie": 1.055,
-    "Friseur": 1.173,
-    "Hundefriseur": 1.044,
+    "Friseur": 1.176,
+    "Hundefriseur": 1.046,
     "Massagepraxis": 1.0,
-    "Reifenservice": 1.046,
+    "Reifenservice": 1.047,
     "Beauty Aesthetik": 1.027,
-    "Gebaeudereinigung": 1.027,
+    "Gebaeudereinigung": 1.028,
     "Osteopathie": 1.0
   },
   "city_weights": {
-    "Berlin": 1.157,
-    "Hamburg": 1.287,
-    "Koeln": 1.22,
-    "Muenchen": 1.235,
-    "Sankt Augustin": 1.013,
-    "Stuttgart": 1.044,
-    "Krefeld": 1.044
+    "Berlin": 1.159,
+    "Hamburg": 1.291,
+    "Koeln": 1.221,
+    "Muenchen": 1.236,
+    "Sankt Augustin": 1.018,
+    "Stuttgart": 1.045,
+    "Krefeld": 1.048,
+    "Augsburg": 1.0,
+    "Aachen": 1.0
   },
   "recommended_industries": [
-    "Tierarzt",
     "Physiotherapie",
+    "Tierarzt",
     "Friseur",
     "Kosmetikstudio",
     "Nagelstudio",
@@ -48,8 +50,8 @@
     "Reifenservice",
     "Autowerkstatt",
     "Hundefriseur",
-    "Beauty Aesthetik",
     "Gebaeudereinigung",
+    "Beauty Aesthetik",
     "Osteopathie"
   ],
   "recommended_cities": [
@@ -59,7 +61,9 @@
     "Berlin",
     "Krefeld",
     "Stuttgart",
-    "Sankt Augustin"
+    "Sankt Augustin",
+    "Aachen",
+    "Augsburg"
   ],
   "industry_stats": {
     "Autowerkstatt": {
@@ -70,10 +74,10 @@
       "negative_rate": 0.0
     },
     "Tierarzt": {
-      "samples": 20,
-      "reward": 60.9,
-      "avg_reward": 3.045,
-      "positive_rate": 0.35,
+      "samples": 22,
+      "reward": 61.6,
+      "avg_reward": 2.8,
+      "positive_rate": 0.318,
       "negative_rate": 0.0
     },
     "Immobilienmakler": {
@@ -230,6 +234,20 @@
       "reward": 10.05,
       "avg_reward": 2.512,
       "positive_rate": 0.25,
+      "negative_rate": 0.0
+    },
+    "Augsburg": {
+      "samples": 1,
+      "reward": 0.35,
+      "avg_reward": 0.35,
+      "positive_rate": 0.0,
+      "negative_rate": 0.0
+    },
+    "Aachen": {
+      "samples": 1,
+      "reward": 0.35,
+      "avg_reward": 0.35,
+      "positive_rate": 0.0,
       "negative_rate": 0.0
     }
   },
@@ -437,6 +455,13 @@
       "positive_rate": 0.0,
       "negative_rate": 0.0
     },
+    "Tierarzt|Augsburg": {
+      "samples": 1,
+      "reward": 0.35,
+      "avg_reward": 0.35,
+      "positive_rate": 0.0,
+      "negative_rate": 0.0
+    },
     "Reifenservice|Berlin": {
       "samples": 2,
       "reward": 4.85,
@@ -486,6 +511,13 @@
       "positive_rate": 0.0,
       "negative_rate": 0.0
     },
+    "Tierarzt|Aachen": {
+      "samples": 1,
+      "reward": 0.35,
+      "avg_reward": 0.35,
+      "positive_rate": 0.0,
+      "negative_rate": 0.0
+    },
     "Autowerkstatt|Koeln": {
       "samples": 1,
       "reward": 4.5,
@@ -517,38 +549,38 @@
   },
   "feature_stats": {
     "rating_4.8_plus": {
-      "samples": 63,
-      "reward": 191.8,
-      "avg_reward": 3.044,
-      "positive_rate": 0.508,
+      "samples": 65,
+      "reward": 192.5,
+      "avg_reward": 2.962,
+      "positive_rate": 0.492,
       "negative_rate": 0.0
     },
     "reviews_0_29": {
-      "samples": 25,
-      "reward": 93.3,
-      "avg_reward": 3.732,
-      "positive_rate": 0.68,
+      "samples": 26,
+      "reward": 93.65,
+      "avg_reward": 3.602,
+      "positive_rate": 0.654,
       "negative_rate": 0.0
     },
     "gap_150_plus": {
-      "samples": 40,
-      "reward": 147.35,
-      "avg_reward": 3.684,
-      "positive_rate": 0.525,
+      "samples": 42,
+      "reward": 148.05,
+      "avg_reward": 3.525,
+      "positive_rate": 0.5,
       "negative_rate": 0.0
     },
     "website_ready": {
-      "samples": 96,
-      "reward": 287.1,
-      "avg_reward": 2.991,
-      "positive_rate": 0.49,
+      "samples": 98,
+      "reward": 287.8,
+      "avg_reward": 2.937,
+      "positive_rate": 0.48,
       "negative_rate": 0.0
     },
     "email_missing": {
-      "samples": 54,
-      "reward": 70.15,
-      "avg_reward": 1.299,
-      "positive_rate": 0.204,
+      "samples": 56,
+      "reward": 70.85,
+      "avg_reward": 1.265,
+      "positive_rate": 0.196,
       "negative_rate": 0.0
     },
     "rating_4.0_4.49": {
@@ -608,10 +640,10 @@
       "negative_rate": 0.0
     },
     "reviews_80_199": {
-      "samples": 20,
-      "reward": 49.85,
-      "avg_reward": 2.493,
-      "positive_rate": 0.4,
+      "samples": 21,
+      "reward": 50.2,
+      "avg_reward": 2.39,
+      "positive_rate": 0.381,
       "negative_rate": 0.0
     },
     "reviews_200_plus": {

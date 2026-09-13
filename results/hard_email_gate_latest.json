@@ -1,10 +1,10 @@
 {
   "state": {
     "agent": "LOCENIX_HARD_EMAIL_GATE_ENFORCER",
-    "last_run_at": "2026-09-13T12:11:01.860652+00:00",
-    "qualified_qa_total": 62,
-    "downstream_email_qualified_total": 40,
-    "email_missing_excluded_total": 22,
+    "last_run_at": "2026-09-13T12:11:41.429713+00:00",
+    "qualified_qa_total": 66,
+    "downstream_email_qualified_total": 42,
+    "email_missing_excluded_total": 24,
     "visibility_rows_before": 40,
     "visibility_rows_after": 40,
     "visibility_rows_purged_this_run": 0,
@@ -36,10 +36,12 @@
     "walk again center|berlin|https://walk-again.de/",
     "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
     "jg kosmetikstudio köln - hydrafacial / microneedling / haarentfernung|koeln|https://jgkosmetik-koeln.de/",
+    "city nails - krefeld|krefeld|https://esinafsar.com/city-nails/",
     "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "maison de nails berlin|berlin|https://maisondenails.de/",
-    "zahnärzte in der hamburger city - dr. med. dent. daria von riewel (ehem. niemietz)|hamburg|https://zahnarzt.hamburg/"
+    "zahnärzte in der hamburger city - dr. med. dent. daria von riewel (ehem. niemietz)|hamburg|https://zahnarzt.hamburg/",
+    "torami nails · lashes|krefeld|https://beacons.ai/torami.co"
   ]
 }

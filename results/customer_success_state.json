@@ -15,10 +15,10 @@
   "customer_success_email_agent_available": true,
   "customer_success_email_sent_last_run": 0,
   "customer_success_email_failed_last_run": 0,
-  "customer_success_email_last_run_at": "2026-09-13T15:00:12.996634+00:00",
+  "customer_success_email_last_run_at": "2026-09-13T15:00:30.910275+00:00",
   "biggest_bottleneck": "NONE",
   "recommended_next_action": "Monitor for new qualified trials and conversion opportunities.",
   "next_agent": "AGENT_11",
   "errors": [],
-  "last_run_at": "2026-09-13T15:00:13.055306+00:00"
+  "last_run_at": "2026-09-13T15:00:30.958175+00:00"
 }

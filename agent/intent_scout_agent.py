@@ -7,6 +7,7 @@ from pathlib import Path
 OUT = Path('results/intent_scout_results.json')
 STATE = Path('results/intent_scout_state.json')
 LATEST = Path('results/intent_scout_latest.json')
+LEARNING = Path('results/intent_learning_config.json')
 
 QUERIES = [
     '"Google Business Profile" German Local SEO freelancer job',
@@ -47,7 +48,7 @@ def load(path, default):
 
 
 def fetch_text(url: str) -> str:
-    req = urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0 (compatible; LOCENIX-IntentScout/3.0; +https://locenix.com)'})
+    req = urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0 (compatible; LOCENIX-IntentScout/4.0; +https://locenix.com)'})
     with urllib.request.urlopen(req, timeout=35) as r:
         return r.read().decode('utf-8', errors='replace')
 
@@ -55,6 +56,20 @@ def fetch_text(url: str) -> str:
 def clean(s: str) -> str:
     s = re.sub(r'<[^>]+>', ' ', s)
     return re.sub(r'\s+', ' ', html.unescape(s)).strip()
+
+
+def provider_allowed(config: dict, provider: str) -> bool:
+    policy = (config.get('provider_policy') or {}).get(provider) or {}
+    return not bool(policy.get('cooldown'))
+
+
+def query_plan(config: dict) -> list[str]:
+    paused = set(config.get('paused_queries') or [])
+    weights = config.get('query_weights') or {}
+    active = [q for q in QUERIES if q not in paused]
+    if len(active) < 3:
+        active = list(QUERIES)
+    return sorted(active, key=lambda q: float(weights.get(q, 1.0)), reverse=True)
 
 
 def qualify(url: str, title: str, snippet: str, query: str, provider: str):
@@ -93,7 +108,7 @@ def search_ddg(query: str) -> list[dict]:
 
 def search_reddit(query: str) -> list[dict]:
     url='https://www.reddit.com/search.json?'+urllib.parse.urlencode({'q':query,'sort':'new','t':'month','limit':25,'raw_json':1})
-    req=urllib.request.Request(url,headers={'User-Agent':'LOCENIX-IntentScout/3.0 by locenix.com'})
+    req=urllib.request.Request(url,headers={'User-Agent':'LOCENIX-IntentScout/4.0 by locenix.com'})
     with urllib.request.urlopen(req,timeout=30) as r: data=json.loads(r.read().decode('utf-8'))
     out=[]
     for child in data.get('data',{}).get('children',[]):
@@ -105,9 +120,10 @@ def search_reddit(query: str) -> list[dict]:
 
 
 def main():
-    now=datetime.now(timezone.utc).isoformat(); prev=load(OUT,{'signals':[]})
+    now=datetime.now(timezone.utc).isoformat(); prev=load(OUT,{'signals':[]}); learning=load(LEARNING,{})
     existing={x.get('source_url'):x for x in prev.get('signals',[]) if x.get('source_url')}
-    errors=[]; new=0; provider_hits={'verified_seed':0,'reddit_api':0,'jina_search':0,'duckduckgo':0}
+    errors=[]; new=0; provider_hits={'verified_seed':0,'reddit_api':0,'jina_search':0,'duckduckgo':0}; skipped=[]
+    plan=query_plan(learning)
 
     for s in SEEDS:
         item=qualify(s['url'],s['title'],s['snippet'],'verified current opportunity','verified_seed')
@@ -117,20 +133,29 @@ def main():
                 item.update({'detected_at':now,'review_status':'PENDING_QA','department':'intent_opportunity_acquisition'})
                 existing[item['source_url']]=item; new+=1
 
-    for q in REDDIT_QUERIES:
-        try:
-            for item in search_reddit(q):
-                provider_hits['reddit_api']+=1
-                if item['source_url'] in existing: continue
-                item.update({'detected_at':now,'review_status':'PENDING_QA','department':'intent_opportunity_acquisition'})
-                existing[item['source_url']]=item; new+=1
-        except Exception as e: errors.append({'provider':'reddit_api','query':q,'error':str(e)[:250]})
+    if provider_allowed(learning, 'reddit_api'):
+        for q in REDDIT_QUERIES:
+            try:
+                for item in search_reddit(q):
+                    provider_hits['reddit_api']+=1
+                    if item['source_url'] in existing: continue
+                    item.update({'detected_at':now,'review_status':'PENDING_QA','department':'intent_opportunity_acquisition'})
+                    existing[item['source_url']]=item; new+=1
+            except Exception as e: errors.append({'provider':'reddit_api','query':q,'error':str(e)[:250]})
+    else:
+        skipped.append('reddit_api')
 
-    for q in QUERIES:
+    jina_allowed=provider_allowed(learning,'jina_search')
+    ddg_allowed=provider_allowed(learning,'duckduckgo')
+    if not jina_allowed: skipped.append('jina_search')
+    if not ddg_allowed: skipped.append('duckduckgo')
+
+    for q in plan:
         found=[]
-        try: found=search_jina(q)
-        except Exception as e: errors.append({'provider':'jina_search','query':q,'error':str(e)[:250]})
-        if not found:
+        if jina_allowed:
+            try: found=search_jina(q)
+            except Exception as e: errors.append({'provider':'jina_search','query':q,'error':str(e)[:250]})
+        if not found and ddg_allowed:
             try: found=search_ddg(q)
             except Exception as e: errors.append({'provider':'duckduckgo','query':q,'error':str(e)[:250]})
         for item in found:
@@ -140,9 +165,16 @@ def main():
             existing[item['source_url']]=item; new+=1
 
     signals=sorted(existing.values(),key=lambda x:x.get('detected_at',''),reverse=True)[:500]
-    state={'agent':'AGENT_15A_INTENT_SCOUT','last_run_at':now,'signals_found':len(signals),'new_signals':new,'unreviewed':sum(1 for x in signals if x.get('review_status')=='PENDING_QA'),'queries_run':len(QUERIES)+len(REDDIT_QUERIES),'errors':len(errors),'query_errors':errors[:10],'provider_hits':provider_hits,'sources':sorted({x.get('source') for x in signals if x.get('source')})}
+    state={
+        'agent':'AGENT_15A_INTENT_SCOUT','last_run_at':now,'signals_found':len(signals),'new_signals':new,
+        'unreviewed':sum(1 for x in signals if x.get('review_status')=='PENDING_QA'),
+        'queries_run':len(plan)+(len(REDDIT_QUERIES) if provider_allowed(learning,'reddit_api') else 0),
+        'errors':len(errors),'query_errors':errors[:10],'provider_hits':provider_hits,
+        'providers_skipped_by_learning':sorted(set(skipped)),'learning_config_used':bool(learning),
+        'sources':sorted({x.get('source') for x in signals if x.get('source')})
+    }
     OUT.parent.mkdir(parents=True,exist_ok=True); OUT.write_text(json.dumps({'generated_at':now,'signals':signals},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    STATE.write_text(json.dumps(state,ensure_ascii=False,indent=2)+'\n',encoding='utf-8'); LATEST.write_text(json.dumps({'state':state,'newest':signals[:25]},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    STATE.write_text(json.dumps(state,ensure_ascii=False,indent=2)+'\n',encoding='utf-8'); LATEST.write_text(json.dumps({'state':state,'query_plan':plan,'newest':signals[:25]},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(state,ensure_ascii=False))
 
 if __name__=='__main__': main()

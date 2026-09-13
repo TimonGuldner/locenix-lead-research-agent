@@ -1,224 +1,14 @@
 {
   "results": [
     {
-      "lead_id": "since eleven - friseure|koeln|https://www.since-eleven.de/",
-      "company_name": "Since Eleven - Friseure",
-      "industry": "Friseur",
-      "city": "Koeln",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Since+Eleven+-+Friseure/data=!4m7!3m6!1s0x47bf2446158f7601:0x93f7c4fc18a947e2!8m2!3d50.9188036!4d6.9605182!16s%2Fg%2F1ptxwtjbt!19sChIJAXaPFUYkv0cR4kepGPzE95M?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.since-eleven.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.since-eleven.de/",
-        "booking_link": null,
-        "social_links": [
-          "https://de-de.facebook.com/sinceeleven",
-          "https://www.instagram.com/sinceeleven/",
-          "https://www.since-eleven.de/images/gallery/instagram/1.jpg",
-          "https://www.since-eleven.de/images/gallery/instagram/2.jpg",
-          "https://www.since-eleven.de/images/gallery/instagram/3.jpg",
-          "https://www.since-eleven.de/images/gallery/instagram/4.jpg",
-          "https://www.since-eleven.de/images/gallery/instagram/8.jpg",
-          "https://www.since-eleven.de/images/gallery/instagram/6.jpg",
-          "https://www.since-eleven.de/images/gallery/instagram/7.jpg",
-          "https://www.since-eleven.de/images/gallery/instagram/5.jpg",
-          "https://www.facebook.com/sinceeleven"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [],
-        "website_evidence": [
-          "Active social-link footprint observed (11 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@since-eleven.de",
-        "email_source_url": "https://www.since-eleven.de/#contact",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:42:09.994402+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 146 reviews vs. comparison median 360; gap 214."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 146 reviews vs. comparison median 360; gap 214.",
-      "proof": [
-        "Verified source data: 146 reviews vs. comparison median 360; gap 214.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "info@since-eleven.de",
-      "email_source_url": "https://www.since-eleven.de/#contact",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:42:09.994402+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-13",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "gebäudereinigung köln|koeln|https://xn--gebudereinigungkoeln-dzb.de/",
-      "company_name": "gebäudereinigung Köln",
-      "industry": "Gebaeudereinigung",
-      "city": "Koeln",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/geb%C3%A4udereinigung+K%C3%B6ln/data=!4m7!3m6!1s0x47bf25eda79cfa5b:0x87b4a39264ebf963!8m2!3d50.9322066!4d6.9572447!16s%2Fg%2F11n3k895wd!19sChIJW_qcp-0lv0cRY_nrZJKjtIc?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://xn--gebudereinigungkoeln-dzb.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://xn--gebudereinigungkoeln-dzb.de/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "fenster",
-          "grundreinigung",
-          "treppenhaus"
-        ],
-        "website_evidence": [
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "ahmadalnafe3@gmail.com",
-        "email_source_url": "https://xn--gebudereinigungkoeln-dzb.de/#kontakt",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:42:15.769513+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 12 reviews vs. comparison median 69; gap 57."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 12 reviews vs. comparison median 69; gap 57.",
-      "proof": [
-        "Verified source data: 12 reviews vs. comparison median 69; gap 57."
-      ],
-      "email": "ahmadalnafe3@gmail.com",
-      "email_source_url": "https://xn--gebudereinigungkoeln-dzb.de/#kontakt",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:42:15.769513+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-13",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "gebäudereinigung köln i zana reinigung & pflege|koeln|https://zana-reinigung.de/",
-      "company_name": "Gebäudereinigung Köln I Zana Reinigung & Pflege",
-      "industry": "Gebaeudereinigung",
-      "city": "Koeln",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Geb%C3%A4udereinigung+K%C3%B6ln+I+Zana+Reinigung+%26+Pflege/data=!4m7!3m6!1s0x47bf2759ae4cb291:0xdd041e6bbdb321c8!8m2!3d50.9514917!4d7.016973!16s%2Fg%2F11yrpdf2nx!19sChIJkbJMrlknv0cRyCGzvWseBN0?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://zana-reinigung.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://zana-reinigung.de/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": false,
-        "website_service_matches": [],
-        "website_evidence": [
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@zana-reinigung.de",
-        "email_source_url": "https://zana-reinigung.de/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:42:25.441603+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 14 reviews vs. comparison median 69; gap 55."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 14 reviews vs. comparison median 69; gap 55.",
-      "proof": [
-        "Verified source data: 14 reviews vs. comparison median 69; gap 55."
-      ],
-      "email": "info@zana-reinigung.de",
-      "email_source_url": "https://zana-reinigung.de/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:42:25.441603+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-13",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
-      "company_name": "Hundesalon Miez&Mops",
-      "industry": "Hundefriseur",
-      "city": "Berlin",
+      "lead_id": "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
+      "company_name": "Kleintierklinik München Riem - Dres. med. vet. Lutz",
+      "industry": "Tierarzt",
+      "city": "Muenchen",
       "source_total_score": 80,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Hundesalon+Miez%26Mops/data=!4m7!3m6!1s0x2d55c2fdd1a9d6b7:0xb753dd12c467c8de!8m2!3d52.5874255!4d13.2840105!16s%2Fg%2F11yfr0x2h1!19sChIJt9ap0f3CVS0R3shnxBLdU7c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.miez-mops.com/",
+      "google_maps_url": "https://www.google.com/maps/place/Kleintierklinik+M%C3%BCnchen+Riem+-+Dres.+med.+vet.+Lutz/data=!4m7!3m6!1s0x479e0abe18e1d64b:0xf16e349be3bf11d4!8m2!3d48.1401286!4d11.6811747!16s%2Fg%2F1tt8b7gm!19sChIJS9bhGL4KnkcR1BG_45s0bvE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.kleintierklinik-lutz.vet/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -236,29 +26,33 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.miez-mops.com/",
+        "website_final_url": "https://www.kleintierklinik-lutz.vet/",
         "booking_link": null,
         "social_links": [
-          "https://www.instagram.com/hundefriseur_akademie_berlin/"
+          "https://web.facebook.com/Kleintierklinik-Dr-Lutz-214042738614802",
+          "https://www.instagram.com/tierliebedrlutz/"
         ],
         "contact_page_observed": true,
-        "website_service_matches": [],
+        "website_service_matches": [
+          "chirurgie",
+          "labor"
+        ],
         "website_evidence": [
-          "Active social-link footprint observed (1 link(s)).",
+          "Active social-link footprint observed (2 link(s)).",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@miez-mops.com",
-        "email_source_url": "https://www.miez-mops.com/impressum",
+        "email": "info@kleintierklinik.vet",
+        "email_source_url": "https://www.kleintierklinik-lutz.vet/impressum",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:42:31.970568+00:00"
+        "email_found_at": "2026-09-13T10:45:20.785832+00:00"
       },
       "deep_qa_decision": "FINAL_B",
       "deep_qa_score": 87,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 59 reviews vs. comparison median 134; gap 75."
+          "proof": "Verified source data: 432 reviews vs. comparison median 555; gap 123."
         },
         {
           "type": "digital_maturity_social",
@@ -267,36 +61,36 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 59 reviews vs. comparison median 134; gap 75.",
+      "primary_sales_angle_verified": "Verified source data: 432 reviews vs. comparison median 555; gap 123.",
       "proof": [
-        "Verified source data: 59 reviews vs. comparison median 134; gap 75.",
+        "Verified source data: 432 reviews vs. comparison median 555; gap 123.",
         "Business website links to at least one social profile."
       ],
-      "email": "info@miez-mops.com",
-      "email_source_url": "https://www.miez-mops.com/impressum",
+      "email": "info@kleintierklinik.vet",
+      "email_source_url": "https://www.kleintierklinik-lutz.vet/impressum",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:42:31.970568+00:00",
+      "email_found_at": "2026-09-13T10:45:20.785832+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-13",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
-      "company_name": "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
-      "industry": "Tierarzt",
-      "city": "Hamburg",
+      "lead_id": "jg kosmetikstudio köln - hydrafacial / microneedling / haarentfernung|koeln|https://jgkosmetik-koeln.de/",
+      "company_name": "JG Kosmetikstudio Köln - HydraFacial / MicroNeedling / Haarentfernung",
+      "industry": "Kosmetikstudio",
+      "city": "Koeln",
       "source_total_score": 80,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/filu+Tierarztpraxis+Hoheluft+-+Allgemein-+und+Notfallmedizin/data=!4m7!3m6!1s0x47b18972ebcbfe8d:0xf7ef9d636576fb44!8m2!3d53.5828202!4d9.9713742!16s%2Fg%2F11ml03xnkz!19sChIJjf7L63KJsUcRRPt2ZWOd7_c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
+      "google_maps_url": "https://www.google.com/maps/place/JG+Kosmetikstudio+K%C3%B6ln+-+HydraFacial+%2F+MicroNeedling+%2F+Haarentfernung/data=!4m7!3m6!1s0x47bf250833f8f00b:0x8b4e7557a1e6e05e!8m2!3d50.9420428!4d6.9367915!16s%2Fg%2F11gcm12v04!19sChIJC_D4Mwglv0cRXuDmoVd1Tos?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://jgkosmetik-koeln.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
         "maps_text_observed": true,
         "posts_signal": "NOT_OBSERVED",
         "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
         "website_link_observed": true,
         "phone_observed": true,
         "address_observed": true,
@@ -307,37 +101,32 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
-        "booking_link": "https://my.filu.vet/book/?lang=de&clinic_id=10",
+        "website_final_url": "https://jgkosmetik-koeln.de/",
+        "booking_link": "http://buchung.treatwell.de/ort/kosmetikstudio-julia-gaun/?utm_source=partner&utm_medium=salon-site-embedded-book-now-widget",
         "social_links": [
-          "https://www.instagram.com/filu_vet/",
-          "https://www.linkedin.com/company/filu-gmbh/",
-          "https://www.facebook.com/filuvet"
+          "https://www.instagram.com/jgkosmetik_koeln/"
         ],
         "contact_page_observed": true,
         "website_service_matches": [
-          "impfung",
-          "chirurgie",
-          "ultraschall",
-          "labor"
+          "microneedling",
+          "hydrafacial"
         ],
         "website_evidence": [
           "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (3 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
+          "Active social-link footprint observed (1 link(s)).",
+          "Contact/imprint page observed on website."
         ],
-        "email": "info@filu.vet",
-        "email_source_url": "https://www.filu.vet/rechtliches?tab=impressum",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-13T10:42:43.090999+00:00"
+        "email": null,
+        "email_source_url": null,
+        "email_verification_status": "EMAIL_MISSING",
+        "email_found_at": null
       },
       "deep_qa_decision": "FINAL_B",
       "deep_qa_score": 89,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 128 reviews vs. comparison median 348; gap 220."
+          "proof": "Verified source data: 59 reviews vs. comparison median 172; gap 113."
         },
         {
           "type": "digital_maturity_booking",
@@ -349,17 +138,218 @@
         }
       ],
       "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 128 reviews vs. comparison median 348; gap 220.",
+      "deep_qa_cautions": [
+        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+      ],
+      "primary_sales_angle_verified": "Verified source data: 59 reviews vs. comparison median 172; gap 113.",
       "proof": [
-        "Verified source data: 128 reviews vs. comparison median 348; gap 220.",
+        "Verified source data: 59 reviews vs. comparison median 172; gap 113.",
         "Online booking/appointment link observed on website.",
         "Business website links to at least one social profile."
       ],
-      "email": "info@filu.vet",
-      "email_source_url": "https://www.filu.vet/rechtliches?tab=impressum",
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null,
+      "airtable_ready": false,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
+      "company_name": "AS Auto-Service GmbH - Kfz.-Werkstatt Köln - automacher",
+      "industry": "Autowerkstatt",
+      "city": "Koeln",
+      "source_total_score": 80,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/AS+Auto-Service+GmbH+-+Kfz.-Werkstatt+K%C3%B6ln+-+automacher/data=!4m7!3m6!1s0x47bf255075b6545f:0xdb98184798307206!8m2!3d50.966751!4d6.910926!16s%2Fg%2F1tgh22_l!19sChIJX1S2dVAlv0cRBnIwmEcYmNs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.automacher.net/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.automacher.net/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "inspektion",
+          "bremsen",
+          "diagnose"
+        ],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "kfz@automacher.net",
+        "email_source_url": "https://www.automacher.net/kontakt/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:45:46.691373+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 85,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 134 reviews vs. comparison median 236; gap 102."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 134 reviews vs. comparison median 236; gap 102.",
+      "proof": [
+        "Verified source data: 134 reviews vs. comparison median 236; gap 102."
+      ],
+      "email": "kfz@automacher.net",
+      "email_source_url": "https://www.automacher.net/kontakt/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:42:43.090999+00:00",
+      "email_found_at": "2026-09-13T10:45:46.691373+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "heizung sanitär köln | ebi's haustechnik|koeln|http://www.ebis-haustechnik.de/",
+      "company_name": "Heizung Sanitär Köln | Ebi's Haustechnik",
+      "industry": "Sanitaer Heizung",
+      "city": "Koeln",
+      "source_total_score": 80,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Heizung+Sanit%C3%A4r+K%C3%B6ln+%7C+Ebi%27s+Haustechnik/data=!4m7!3m6!1s0x47bf25b076e71b09:0xba3db3a9fb4ae4d0!8m2!3d50.941804!4d7.010669!16s%2Fg%2F1thlm6bc!19sChIJCRvndrAlv0cR0ORK-6mzPbo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.ebis-haustechnik.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.ebis-haustechnik.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "ebis-haustechnik@web.de",
+        "email_source_url": "https://www.ebis-haustechnik.de/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:45:54.355768+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 85,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 41 reviews vs. comparison median 114; gap 73."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 41 reviews vs. comparison median 114; gap 73.",
+      "proof": [
+        "Verified source data: 41 reviews vs. comparison median 114; gap 73."
+      ],
+      "email": "ebis-haustechnik@web.de",
+      "email_source_url": "https://www.ebis-haustechnik.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:45:54.355768+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-13",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
+      "company_name": "Praxis für Krankengymnastik Krämer",
+      "industry": "Physiotherapie",
+      "city": "Sankt Augustin",
+      "source_total_score": 80,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Praxis+f%C3%BCr+Krankengymnastik+Kr%C3%A4mer/data=!4m7!3m6!1s0x47bee740afdf122f:0x305c8a0648c242!8m2!3d50.7709954!4d7.1853099!16s%2Fg%2F11bw560kk3!19sChIJLxLfr0DnvkcRQsJIBopcMAA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.krankengymnastik-kraemer.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.krankengymnastik-kraemer.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "lymphdrainage",
+          "cmd",
+          "krankengymnastik",
+          "manuelle therapie",
+          "massage"
+        ],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@krankengymnastik-kraemer.de",
+        "email_source_url": "https://www.krankengymnastik-kraemer.de/kontakt/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-13T10:46:02.963516+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 82,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 12 reviews vs. comparison median 50; gap 38."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 12 reviews vs. comparison median 50; gap 38.",
+      "proof": [
+        "Verified source data: 12 reviews vs. comparison median 50; gap 38."
+      ],
+      "email": "info@krankengymnastik-kraemer.de",
+      "email_source_url": "https://www.krankengymnastik-kraemer.de/kontakt/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:46:02.963516+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-13",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
@@ -367,10 +357,11 @@
     }
   ],
   "state": {
-    "runs": 12,
+    "runs": 13,
     "processed_ids": [
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
+      "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
       "backroom physio berlin|berlin|https://backroomphysio.de/",
       "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
       "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
@@ -384,11 +375,14 @@
       "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
       "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
       "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
+      "heizung sanitär köln | ebi's haustechnik|koeln|http://www.ebis-haustechnik.de/",
       "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
       "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
       "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
       "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
+      "jg kosmetikstudio köln - hydrafacial / microneedling / haarentfernung|koeln|https://jgkosmetik-koeln.de/",
       "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
+      "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
       "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
       "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
       "kosmetikstudio la perla - lehel münchen|muenchen|https://www.laperla-beauty.de/",
@@ -402,6 +396,7 @@
       "podologie edelmann|berlin|https://podologie-edelmann.com/",
       "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
       "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
+      "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
       "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
       "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
       "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
@@ -427,12 +422,12 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 57,
-    "remaining_eligible": 5,
+    "processed_count": 62,
+    "remaining_eligible": 0,
     "last_batch_count": 5,
     "final_a_total": 30,
-    "final_b_total": 27,
+    "final_b_total": 32,
     "email_ready_total": 18,
-    "email_missing_total": 21
+    "email_missing_total": 22
   }
 }

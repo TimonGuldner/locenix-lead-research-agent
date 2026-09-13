@@ -3151,6 +3151,87 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "jg kosmetikstudio köln - hydrafacial / microneedling / haarentfernung|koeln|https://jgkosmetik-koeln.de/",
+    "company_name": "JG Kosmetikstudio Köln - HydraFacial / MicroNeedling / Haarentfernung",
+    "industry": "Kosmetikstudio",
+    "city": "Koeln",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/JG+Kosmetikstudio+K%C3%B6ln+-+HydraFacial+%2F+MicroNeedling+%2F+Haarentfernung/data=!4m7!3m6!1s0x47bf250833f8f00b:0x8b4e7557a1e6e05e!8m2!3d50.9420428!4d6.9367915!16s%2Fg%2F11gcm12v04!19sChIJC_D4Mwglv0cRXuDmoVd1Tos?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://jgkosmetik-koeln.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://jgkosmetik-koeln.de/",
+      "booking_link": "http://buchung.treatwell.de/ort/kosmetikstudio-julia-gaun/?utm_source=partner&utm_medium=salon-site-embedded-book-now-widget",
+      "social_links": [
+        "https://www.instagram.com/jgkosmetik_koeln/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "microneedling",
+        "hydrafacial"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (1 link(s)).",
+        "Contact/imprint page observed on website."
+      ],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 59 reviews vs. comparison median 172; gap 113."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+    ],
+    "primary_sales_angle_verified": "Verified source data: 59 reviews vs. comparison median 172; gap 113.",
+    "proof": [
+      "Verified source data: 59 reviews vs. comparison median 172; gap 113.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": null,
+    "email_source_url": null,
+    "email_verification_status": "EMAIL_MISSING",
+    "email_found_at": null,
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "company_name": "MANU Elektrobau GmbH",
     "industry": "Elektriker",
@@ -3761,6 +3842,81 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
+    "company_name": "Kleintierklinik München Riem - Dres. med. vet. Lutz",
+    "industry": "Tierarzt",
+    "city": "Muenchen",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Kleintierklinik+M%C3%BCnchen+Riem+-+Dres.+med.+vet.+Lutz/data=!4m7!3m6!1s0x479e0abe18e1d64b:0xf16e349be3bf11d4!8m2!3d48.1401286!4d11.6811747!16s%2Fg%2F1tt8b7gm!19sChIJS9bhGL4KnkcR1BG_45s0bvE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.kleintierklinik-lutz.vet/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.kleintierklinik-lutz.vet/",
+      "booking_link": null,
+      "social_links": [
+        "https://web.facebook.com/Kleintierklinik-Dr-Lutz-214042738614802",
+        "https://www.instagram.com/tierliebedrlutz/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "chirurgie",
+        "labor"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@kleintierklinik.vet",
+      "email_source_url": "https://www.kleintierklinik-lutz.vet/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:45:20.785832+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 432 reviews vs. comparison median 555; gap 123."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 432 reviews vs. comparison median 555; gap 123.",
+    "proof": [
+      "Verified source data: 432 reviews vs. comparison median 555; gap 123.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@kleintierklinik.vet",
+    "email_source_url": "https://www.kleintierklinik-lutz.vet/impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:45:20.785832+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "maison de nails berlin|berlin|https://maisondenails.de/",
     "company_name": "Maison De Nails Berlin",
     "industry": "Nagelstudio",
@@ -4135,6 +4291,205 @@
     "email_source_url": "https://zana-reinigung.de/",
     "email_verification_status": "PUBLICLY_OBSERVED",
     "email_found_at": "2026-09-13T10:42:25.441603+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
+    "company_name": "AS Auto-Service GmbH - Kfz.-Werkstatt Köln - automacher",
+    "industry": "Autowerkstatt",
+    "city": "Koeln",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/AS+Auto-Service+GmbH+-+Kfz.-Werkstatt+K%C3%B6ln+-+automacher/data=!4m7!3m6!1s0x47bf255075b6545f:0xdb98184798307206!8m2!3d50.966751!4d6.910926!16s%2Fg%2F1tgh22_l!19sChIJX1S2dVAlv0cRBnIwmEcYmNs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.automacher.net/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.automacher.net/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "inspektion",
+        "bremsen",
+        "diagnose"
+      ],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "kfz@automacher.net",
+      "email_source_url": "https://www.automacher.net/kontakt/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:45:46.691373+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 85,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 134 reviews vs. comparison median 236; gap 102."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 134 reviews vs. comparison median 236; gap 102.",
+    "proof": [
+      "Verified source data: 134 reviews vs. comparison median 236; gap 102."
+    ],
+    "email": "kfz@automacher.net",
+    "email_source_url": "https://www.automacher.net/kontakt/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:45:46.691373+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "heizung sanitär köln | ebi's haustechnik|koeln|http://www.ebis-haustechnik.de/",
+    "company_name": "Heizung Sanitär Köln | Ebi's Haustechnik",
+    "industry": "Sanitaer Heizung",
+    "city": "Koeln",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Heizung+Sanit%C3%A4r+K%C3%B6ln+%7C+Ebi%27s+Haustechnik/data=!4m7!3m6!1s0x47bf25b076e71b09:0xba3db3a9fb4ae4d0!8m2!3d50.941804!4d7.010669!16s%2Fg%2F1thlm6bc!19sChIJCRvndrAlv0cR0ORK-6mzPbo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.ebis-haustechnik.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.ebis-haustechnik.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "ebis-haustechnik@web.de",
+      "email_source_url": "https://www.ebis-haustechnik.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:45:54.355768+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 85,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 41 reviews vs. comparison median 114; gap 73."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 41 reviews vs. comparison median 114; gap 73.",
+    "proof": [
+      "Verified source data: 41 reviews vs. comparison median 114; gap 73."
+    ],
+    "email": "ebis-haustechnik@web.de",
+    "email_source_url": "https://www.ebis-haustechnik.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:45:54.355768+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
+    "company_name": "Praxis für Krankengymnastik Krämer",
+    "industry": "Physiotherapie",
+    "city": "Sankt Augustin",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Praxis+f%C3%BCr+Krankengymnastik+Kr%C3%A4mer/data=!4m7!3m6!1s0x47bee740afdf122f:0x305c8a0648c242!8m2!3d50.7709954!4d7.1853099!16s%2Fg%2F11bw560kk3!19sChIJLxLfr0DnvkcRQsJIBopcMAA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.krankengymnastik-kraemer.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.krankengymnastik-kraemer.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "lymphdrainage",
+        "cmd",
+        "krankengymnastik",
+        "manuelle therapie",
+        "massage"
+      ],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@krankengymnastik-kraemer.de",
+      "email_source_url": "https://www.krankengymnastik-kraemer.de/kontakt/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:46:02.963516+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 82,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 12 reviews vs. comparison median 50; gap 38."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 12 reviews vs. comparison median 50; gap 38.",
+    "proof": [
+      "Verified source data: 12 reviews vs. comparison median 50; gap 38."
+    ],
+    "email": "info@krankengymnastik-kraemer.de",
+    "email_source_url": "https://www.krankengymnastik-kraemer.de/kontakt/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:46:02.963516+00:00",
     "airtable_ready": false,
     "qa_date": "2026-09-13",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",

@@ -1,8 +1,9 @@
 {
-  "runs": 12,
+  "runs": 13,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
+    "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
     "backroom physio berlin|berlin|https://backroomphysio.de/",
     "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
     "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
@@ -16,11 +17,14 @@
     "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
     "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
     "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
+    "heizung sanitär köln | ebi's haustechnik|koeln|http://www.ebis-haustechnik.de/",
     "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
     "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
     "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
     "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
+    "jg kosmetikstudio köln - hydrafacial / microneedling / haarentfernung|koeln|https://jgkosmetik-koeln.de/",
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
+    "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
     "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
     "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
     "kosmetikstudio la perla - lehel münchen|muenchen|https://www.laperla-beauty.de/",
@@ -34,6 +38,7 @@
     "podologie edelmann|berlin|https://podologie-edelmann.com/",
     "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
     "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
+    "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
     "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
     "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
     "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
@@ -59,15 +64,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 57,
-  "remaining_eligible": 5,
+  "processed_count": 62,
+  "remaining_eligible": 0,
   "last_batch_count": 5,
   "final_a_total": 30,
-  "final_b_total": 27,
+  "final_b_total": 32,
   "email_ready_total": 18,
-  "email_missing_total": 21,
-  "email_gate_qualified_total": 36,
-  "email_missing_excluded_total": 21,
-  "downstream_eligible_total": 36,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "email_missing_total": 22
 }

@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-13T15:34:08.354214+00:00",
+  "last_run_at": "2026-09-13T15:34:45.135565+00:00",
   "company_status": "ATTENTION",
   "north_star": "zero_daily_target_gaps",
   "priority_1": "Move remaining FINAL_A leads through Sales Queue/Airtable.",
@@ -20,7 +20,7 @@
   "customer_success_customers_at_risk": 0,
   "customer_success_human_reviews_required": 0,
   "customer_success_biggest_bottleneck": "NONE",
-  "customer_success_last_run_at": "2026-09-13T15:33:45.079689+00:00",
+  "customer_success_last_run_at": "2026-09-13T15:34:21.551326+00:00",
   "linkedin_control_status": "ATTENTION",
   "linkedin_targets": {
     "qualified_leads_found": 10,
@@ -72,7 +72,7 @@
   ],
   "linkedin_ceo_attention_required": true,
   "linkedin_control_last_run_at": "2026-09-13T11:35:27.830617+00:00",
-  "linkedin_control_checked_by_ceo_at": "2026-09-13T15:34:08.621486+00:00",
+  "linkedin_control_checked_by_ceo_at": "2026-09-13T15:34:45.303194+00:00",
   "daily_outbound_accountability_status": "ATTENTION",
   "daily_email_target": 5,
   "daily_email_actual": 0,
@@ -112,5 +112,5 @@
     "reply_actions": 0
   },
   "maps_downstream_email_gate_violations": 0,
-  "outbound_accountability_checked_at": "2026-09-13T15:34:08.790011+00:00"
+  "outbound_accountability_checked_at": "2026-09-13T15:34:45.842910+00:00"
 }

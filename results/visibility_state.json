@@ -1,12 +1,17 @@
 {
-  "runs": 1,
-  "processed_ids": [],
-  "processed_count": 0,
+  "runs": 2,
+  "processed_ids": [
+    "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
+    "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
+    "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
+    "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
+    "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/"
+  ],
+  "processed_count": 5,
   "last_batch_count": 5,
-  "remaining_eligible": 0,
-  "weak_visibility_total": 0,
+  "remaining_eligible": 35,
+  "weak_visibility_total": 4,
   "email_gate_rejected_count": 22,
   "downstream_email_gate_violations": 0,
-  "legacy_visibility_rows_purged": 5,
   "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

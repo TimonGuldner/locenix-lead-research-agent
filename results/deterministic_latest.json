@@ -1,242 +1,321 @@
 {
   "accepted": [
     {
-      "company_name": "AS Auto-Service GmbH - Kfz.-Werkstatt Köln - automacher",
-      "industry": "Autowerkstatt",
+      "company_name": "gebäudereinigung Köln",
+      "industry": "Gebaeudereinigung",
       "city": "Koeln",
-      "address": "Frohnhofstraße 10, 50827 Ehrenfeld, Deutschland",
-      "website": "https://www.automacher.net/",
-      "google_maps_url": "https://www.google.com/maps/place/AS+Auto-Service+GmbH+-+Kfz.-Werkstatt+K%C3%B6ln+-+automacher/data=!4m7!3m6!1s0x47bf255075b6545f:0xdb98184798307206!8m2!3d50.966751!4d6.910926!16s%2Fg%2F1tgh22_l!19sChIJX1S2dVAlv0cRBnIwmEcYmNs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 221 592576",
-      "public_business_email": "kfz@automacher.net",
-      "email_source_url": "https://www.automacher.net/",
-      "contact_form_url": "https://www.automacher.net/kontakt/",
+      "address": "Georgstraße 5, 50676 Köln, Deutschland",
+      "website": "https://xn--gebudereinigungkoeln-dzb.de/",
+      "google_maps_url": "https://www.google.com/maps/place/geb%C3%A4udereinigung+K%C3%B6ln/data=!4m7!3m6!1s0x47bf25eda79cfa5b:0x87b4a39264ebf963!8m2!3d50.9322066!4d6.9572447!16s%2Fg%2F11n3k895wd!19sChIJW_qcp-0lv0cRY_nrZJKjtIc?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 1520 2072717",
+      "public_business_email": "ahmadalnafe3@gmail.com",
+      "email_source_url": "https://xn--gebudereinigungkoeln-dzb.de/",
+      "contact_form_url": null,
       "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.7,
-      "google_review_count": 134,
-      "main_category": "Autowerkstatt",
+      "google_rating": 5.0,
+      "google_review_count": 12,
+      "main_category": "Gebaeudereinigung",
       "website_services": [
-        "inspektion",
-        "reifen",
-        "bremsen",
-        "klima",
-        "diagnose"
+        "fenster",
+        "grundreinigung",
+        "treppenhaus"
       ],
       "google_visible_services": [],
       "service_gap": [],
       "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: reifen, bremsen, diagnose"
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: fenster, grundreinigung, treppenhaus"
       ],
       "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Auto Top GmbH - Bosch Car Service",
-      "competitor_1_reviews": 465,
-      "competitor_2": "D&M KFZ-Meisterbetrieb GmbH - Köln",
-      "competitor_2_reviews": 401,
+      "competitor_1": "YA-Gebäudereinigung & Hausmeisterservice",
+      "competitor_1_reviews": 140,
+      "competitor_2": "GDK - Gebäudedienste Kleinstück UG",
+      "competitor_2_reviews": 93,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "134 eigene Bewertungen vs. lokaler Wettbewerbsmedian 236; Gap 102."
+          "proof": "12 eigene Bewertungen vs. lokaler Wettbewerbsmedian 69; Gap 57."
         },
         {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+          "type": "low_review_volume",
+          "proof": "Nur 12 Google-Bewertungen."
         }
       ],
       "soft_optimization_signals": [
         {
           "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: reifen, bremsen, diagnose",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: fenster, grundreinigung, treppenhaus",
           "verification": "REQUIRES_FINAL_QA"
         }
       ],
       "verified_signal_count": 2,
-      "report_potential_score": 19,
+      "report_potential_score": 22,
       "visible_value_score": 14,
       "maps_importance_score": 14,
       "customer_value_score": 8,
-      "competitive_pressure_score": 10,
+      "competitive_pressure_score": 8,
       "digital_readiness_score": 10,
       "saas_fit_score": 5,
-      "total_score": 80,
-      "competitor_review_median": 236,
-      "review_gap": 102,
+      "total_score": 81,
+      "competitor_review_median": 69,
+      "review_gap": 57,
       "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "134 eigene Bewertungen vs. lokaler Wettbewerbsmedian 236; Gap 102.",
+      "primary_pitch": "12 eigene Bewertungen vs. lokaler Wettbewerbsmedian 69; Gap 57.",
       "proof": [
-        "134 eigene Bewertungen vs. lokaler Wettbewerbsmedian 236; Gap 102.",
-        "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: reifen, bremsen, diagnose"
+        "12 eigene Bewertungen vs. lokaler Wettbewerbsmedian 69; Gap 57.",
+        "Nur 12 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: fenster, grundreinigung, treppenhaus"
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "134 eigene Bewertungen vs. lokaler Wettbewerbsmedian 236; Gap 102.",
-      "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Autowerkstatt Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "12 eigene Bewertungen vs. lokaler Wettbewerbsmedian 69; Gap 57.",
+      "second_outreach_angle": "Nur 12 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Gebaeudereinigung Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-13",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "company_name": "DOM Haustechnik e.K. Sanitär | Heizung | Badsanierung | Wärmepumpe",
-      "industry": "Sanitaer Heizung",
+      "company_name": "Gebäudereinigung Köln I Zana Reinigung & Pflege",
+      "industry": "Gebaeudereinigung",
       "city": "Koeln",
-      "address": "Rilkestraße 2, 50997 Köln-Büro, Deutschland",
-      "website": "https://www.dom-haustechnik.de/",
-      "google_maps_url": "https://www.google.com/maps/place/DOM+Haustechnik+e.K.+Sanit%C3%A4r+%7C+Heizung+%7C+Badsanierung+%7C+W%C3%A4rmepumpe/data=!4m7!3m6!1s0x47bf23a926d4d681:0x65b0a2751f3709ba!8m2!3d50.8579316!4d6.9608174!16s%2Fg%2F11rsc26zz5!19sChIJgdbUJqkjv0cRugk3H3WisGU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 2236 3320158",
-      "public_business_email": "info@dom-haustechnik.de",
-      "email_source_url": "https://dom-haustechnik.de/",
-      "contact_form_url": "https://dom-haustechnik.de/kontakt/",
+      "address": "Modemannstraße, 51065 Mülheim, Deutschland",
+      "website": "https://zana-reinigung.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Geb%C3%A4udereinigung+K%C3%B6ln+I+Zana+Reinigung+%26+Pflege/data=!4m7!3m6!1s0x47bf2759ae4cb291:0xdd041e6bbdb321c8!8m2!3d50.9514917!4d7.016973!16s%2Fg%2F11yrpdf2nx!19sChIJkbJMrlknv0cRyCGzvWseBN0?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 176 55001502",
+      "public_business_email": "info@zana-reinigung.de",
+      "email_source_url": "https://zana-reinigung.de/",
+      "contact_form_url": null,
       "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
       "google_rating": 5.0,
-      "google_review_count": 23,
-      "main_category": "Sanitaer Heizung",
+      "google_review_count": 14,
+      "main_category": "Gebaeudereinigung",
       "website_services": [
-        "heizung",
-        "bad",
-        "wartung",
-        "notdienst"
+        "fenster",
+        "unterhaltsreinigung"
       ],
       "google_visible_services": [],
       "service_gap": [],
       "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: notdienst"
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: fenster, unterhaltsreinigung"
       ],
       "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Helmut Hinz GmbH & Co.",
-      "competitor_1_reviews": 643,
-      "competitor_2": "SHK-KYRIAKIDIS SANITÄR-HEIZUNG KÖLN",
-      "competitor_2_reviews": 164,
+      "competitor_1": "YA-Gebäudereinigung & Hausmeisterservice",
+      "competitor_1_reviews": 140,
+      "competitor_2": "GDK - Gebäudedienste Kleinstück UG",
+      "competitor_2_reviews": 93,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "23 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 91."
+          "proof": "14 eigene Bewertungen vs. lokaler Wettbewerbsmedian 69; Gap 55."
         },
         {
           "type": "low_review_volume",
-          "proof": "Nur 23 Google-Bewertungen."
+          "proof": "Nur 14 Google-Bewertungen."
         }
       ],
       "soft_optimization_signals": [
         {
           "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: notdienst",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: fenster, unterhaltsreinigung",
           "verification": "REQUIRES_FINAL_QA"
         }
       ],
       "verified_signal_count": 2,
-      "report_potential_score": 25,
+      "report_potential_score": 22,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 8,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 81,
+      "competitor_review_median": 69,
+      "review_gap": 55,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "14 eigene Bewertungen vs. lokaler Wettbewerbsmedian 69; Gap 55.",
+      "proof": [
+        "14 eigene Bewertungen vs. lokaler Wettbewerbsmedian 69; Gap 55.",
+        "Nur 14 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: fenster, unterhaltsreinigung"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "14 eigene Bewertungen vs. lokaler Wettbewerbsmedian 69; Gap 55.",
+      "second_outreach_angle": "Nur 14 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Gebaeudereinigung Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-13",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Immobilien55 | Immobilienmakler Köln",
+      "industry": "Immobilienmakler",
+      "city": "Koeln",
+      "address": "Hohenzollernring 103, 50672 Köln, Deutschland",
+      "website": "https://www.immobilien55.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Immobilien55+%7C+Immobilienmakler+K%C3%B6ln/data=!4m7!3m6!1s0x47bf255dfbadfa0f:0xd09d7a2bf6c410b9!8m2!3d50.9426151!4d6.9401815!16s%2Fg%2F11qswntdsz!19sChIJD_qt-10lv0cRuRDE9it6ndA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 221 2586890",
+      "public_business_email": "dpo-google@google.com",
+      "email_source_url": "https://immobilien55.de/",
+      "contact_form_url": null,
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.9,
+      "google_review_count": 67,
+      "main_category": "Immobilienmakler",
+      "website_services": [
+        "verkauf",
+        "vermietung",
+        "bewertung",
+        "kapitalanlage",
+        "immobilienbewertung"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: vermietung, bewertung, kapitalanlage, immobilienbewertung"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "KAMPMEYER Immobilien | Immobilienmakler Köln",
+      "competitor_1_reviews": 654,
+      "competitor_2": "McMakler GmbH - Immobilienmakler Köln",
+      "competitor_2_reviews": 363,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "67 eigene Bewertungen vs. lokaler Wettbewerbsmedian 177; Gap 110."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: vermietung, bewertung, kapitalanlage, immobilienbewertung",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 21,
       "visible_value_score": 14,
       "maps_importance_score": 14,
       "customer_value_score": 8,
       "competitive_pressure_score": 10,
       "digital_readiness_score": 10,
       "saas_fit_score": 5,
-      "total_score": 86,
-      "competitor_review_median": 114,
-      "review_gap": 91,
-      "grade": "A",
-      "lead_class": "A_LEAD",
-      "qa_gate": "PASS",
-      "primary_pitch": "23 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 91.",
+      "total_score": 82,
+      "competitor_review_median": 177,
+      "review_gap": 110,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "67 eigene Bewertungen vs. lokaler Wettbewerbsmedian 177; Gap 110.",
       "proof": [
-        "23 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 91.",
-        "Nur 23 Google-Bewertungen.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: notdienst"
+        "67 eigene Bewertungen vs. lokaler Wettbewerbsmedian 177; Gap 110.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: vermietung, bewertung, kapitalanlage, immobilienbewertung"
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "23 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 91.",
-      "second_outreach_angle": "Nur 23 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Sanitaer Heizung Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "67 eigene Bewertungen vs. lokaler Wettbewerbsmedian 177; Gap 110.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: vermietung, bewertung, kapitalanlage, immobilienbewertung",
+      "research_notes": "Deterministic research v2. Query: Immobilienmakler Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-13",
-      "research_status": "QUALIFIED",
-      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "company_name": "Heizung Sanitär Köln | Ebi's Haustechnik",
-      "industry": "Sanitaer Heizung",
+      "company_name": "Immobilienmakler Köln",
+      "industry": "Immobilienmakler",
       "city": "Koeln",
-      "address": "Eythstraße 44a, 51103 Köln-Kalk, Deutschland",
-      "website": "http://www.ebis-haustechnik.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Heizung+Sanit%C3%A4r+K%C3%B6ln+%7C+Ebi%27s+Haustechnik/data=!4m7!3m6!1s0x47bf25b076e71b09:0xba3db3a9fb4ae4d0!8m2!3d50.941804!4d7.010669!16s%2Fg%2F1thlm6bc!19sChIJCRvndrAlv0cR0ORK-6mzPbo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 221 2870756",
+      "address": "Weihofen, Siegburger Str. 87, 50679 Köln, Deutschland",
+      "website": "https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
+      "google_maps_url": "https://www.google.com/maps/place/Immobilienmakler+K%C3%B6ln/data=!4m7!3m6!1s0x47bf259a5b728dc5:0xed7aa6f0eadf745a!8m2!3d50.9341586!4d6.9710197!16s%2Fg%2F11x8152b7t!19sChIJxY1yW5olv0cRWnTf6vCmeu0?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 163 4509425",
       "public_business_email": null,
       "email_source_url": null,
       "contact_form_url": null,
       "contact_basis": "UNKNOWN",
-      "google_rating": 4.6,
-      "google_review_count": 41,
-      "main_category": "Sanitaer Heizung",
-      "website_services": [],
+      "google_rating": 5.0,
+      "google_review_count": 10,
+      "main_category": "Immobilienmakler",
+      "website_services": [
+        "verkauf",
+        "vermietung",
+        "bewertung",
+        "kapitalanlage",
+        "immobilienbewertung"
+      ],
       "google_visible_services": [],
       "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "Helmut Hinz GmbH & Co.",
-      "competitor_1_reviews": 643,
-      "competitor_2": "SHK-KYRIAKIDIS SANITÄR-HEIZUNG KÖLN",
-      "competitor_2_reviews": 164,
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: vermietung, bewertung, kapitalanlage, immobilienbewertung"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "KAMPMEYER Immobilien | Immobilienmakler Köln",
+      "competitor_1_reviews": 654,
+      "competitor_2": "McMakler GmbH - Immobilienmakler Köln",
+      "competitor_2_reviews": 363,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "41 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 73."
+          "proof": "10 eigene Bewertungen vs. lokaler Wettbewerbsmedian 177; Gap 167."
         },
         {
           "type": "low_review_volume",
-          "proof": "Nur 41 Google-Bewertungen."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
+          "proof": "Nur 10 Google-Bewertungen."
         }
       ],
-      "soft_optimization_signals": [],
-      "verified_signal_count": 3,
-      "report_potential_score": 22,
-      "visible_value_score": 12,
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: vermietung, bewertung, kapitalanlage, immobilienbewertung",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 28,
+      "visible_value_score": 14,
       "maps_importance_score": 14,
       "customer_value_score": 8,
       "competitive_pressure_score": 10,
       "digital_readiness_score": 9,
       "saas_fit_score": 5,
-      "total_score": 80,
-      "competitor_review_median": 114,
-      "review_gap": 73,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "41 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 73.",
+      "total_score": 88,
+      "competitor_review_median": 177,
+      "review_gap": 167,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "10 eigene Bewertungen vs. lokaler Wettbewerbsmedian 177; Gap 167.",
       "proof": [
-        "41 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 73.",
-        "Nur 41 Google-Bewertungen.",
-        "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
+        "10 eigene Bewertungen vs. lokaler Wettbewerbsmedian 177; Gap 167.",
+        "Nur 10 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: vermietung, bewertung, kapitalanlage, immobilienbewertung"
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "41 eigene Bewertungen vs. lokaler Wettbewerbsmedian 114; Gap 73.",
-      "second_outreach_angle": "Nur 41 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Sanitaer Heizung Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "10 eigene Bewertungen vs. lokaler Wettbewerbsmedian 177; Gap 167.",
+      "second_outreach_angle": "Nur 10 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Immobilienmakler Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-13",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
-  "accepted_count": 3,
-  "rejected_count": 21,
+  "accepted_count": 4,
+  "rejected_count": 20,
   "inspected": 24,
   "state": {
-    "query_cursor": 93,
-    "runs": 31,
-    "lead_count": 70,
+    "query_cursor": 96,
+    "runs": 32,
+    "lead_count": 74,
     "target_leads": 999999999,
-    "last_accepted": 3,
+    "last_accepted": 4,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 21,
-    "a_leads": 8,
-    "b_leads": 31
+    "last_rejected": 20,
+    "a_leads": 9,
+    "b_leads": 34
   }
 }

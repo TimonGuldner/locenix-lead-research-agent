@@ -464,6 +464,83 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
+    "company_name": "H-A Nails Krefeld",
+    "industry": "Nagelstudio",
+    "city": "Krefeld",
+    "source_total_score": 86,
+    "source_lead_class": "A_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/H-A+Nails+Krefeld/data=!4m7!3m6!1s0x47b8a5ee0cf579d9:0xc37461feeec7b00d!8m2!3d51.3324009!4d6.5626861!16s%2Fg%2F11nc03fdyh!19sChIJ2Xn1DO6luEcRDbDH7v5hdMM?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://hanailskrefeld.setmore.com/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://hanailskrefeld.setmore.com/",
+      "booking_link": "https://hanailskrefeld.setmore.com/#booking-page-hero-1",
+      "social_links": [
+        "https://www.instagram.com/hanails.krefeld/",
+        "https://www.facebook.com/profile.php?id=61577818757726"
+      ],
+      "contact_page_observed": false,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (2 link(s)).",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "nguyenvancuongna1995@gmail.com",
+      "email_source_url": "https://hanailskrefeld.setmore.com/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T12:11:20.540735+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 95,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 26 reviews vs. comparison median 129; gap 103."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 26 reviews vs. comparison median 129; gap 103.",
+    "proof": [
+      "Verified source data: 26 reviews vs. comparison median 129; gap 103.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "nguyenvancuongna1995@gmail.com",
+    "email_source_url": "https://hanailskrefeld.setmore.com/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T12:11:20.540735+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/",
     "company_name": "Zahnarzt München Zentrum Dr. Rüdiger Hansen",
     "industry": "Zahnarzt",
@@ -606,6 +683,74 @@
     "email_verification_status": "PUBLICLY_OBSERVED",
     "email_found_at": "2026-09-13T10:17:20.067077+00:00",
     "airtable_ready": true,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
+    "company_name": "BASTGEN BERLIN IMMOBILIEN - Makler in Berlin Mitte",
+    "industry": "Immobilienmakler",
+    "city": "Berlin",
+    "source_total_score": 89,
+    "source_lead_class": "A_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/BASTGEN+BERLIN+IMMOBILIEN+-+Makler+in+Berlin+Mitte/data=!4m7!3m6!1s0x47a8505712ff7735:0xcb436e994aac8dc6!8m2!3d52.5277511!4d13.4013225!16s%2Fg%2F1hhlq67fd!19sChIJNXf_EldQqEcRxo2sSpluQ8s?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.bastgen-berlin.com/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://bastgen-berlin.com/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "verkauf",
+        "bewertung",
+        "kapitalanlage",
+        "immobilienbewertung"
+      ],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "bastgen@bastgen-berlin.com",
+      "email_source_url": "https://bastgen-berlin.com/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T12:11:13.962573+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 94,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 25 reviews vs. comparison median 230; gap 205."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 25 reviews vs. comparison median 230; gap 205.",
+    "proof": [
+      "Verified source data: 25 reviews vs. comparison median 230; gap 205."
+    ],
+    "email": "bastgen@bastgen-berlin.com",
+    "email_source_url": "https://bastgen-berlin.com/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T12:11:13.962573+00:00",
+    "airtable_ready": false,
     "qa_date": "2026-09-13",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
@@ -3232,6 +3377,68 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "city nails - krefeld|krefeld|https://esinafsar.com/city-nails/",
+    "company_name": "City Nails - Krefeld",
+    "industry": "Nagelstudio",
+    "city": "Krefeld",
+    "source_total_score": 84,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/City+Nails+-+Krefeld/data=!4m7!3m6!1s0x47b8bb78011527f1:0xfc9f8b86868929a7!8m2!3d51.330857!4d6.5784178!16s%2Fg%2F11knchwl5c!19sChIJ8ScVAXi7uEcRpymJhoaLn_w?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://esinafsar.com/city-nails/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://esinafsar.com/city-nails/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": false,
+      "website_service_matches": [],
+      "website_evidence": [],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 48 reviews vs. comparison median 129; gap 81."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+    ],
+    "primary_sales_angle_verified": "Verified source data: 48 reviews vs. comparison median 129; gap 81.",
+    "proof": [
+      "Verified source data: 48 reviews vs. comparison median 129; gap 81."
+    ],
+    "email": null,
+    "email_source_url": null,
+    "email_verification_status": "EMAIL_MISSING",
+    "email_found_at": null,
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "company_name": "MANU Elektrobau GmbH",
     "industry": "Elektriker",
@@ -4421,6 +4628,69 @@
     "email_source_url": "https://www.ebis-haustechnik.de/impressum/",
     "email_verification_status": "PUBLICLY_OBSERVED",
     "email_found_at": "2026-09-13T10:45:54.355768+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "torami nails · lashes|krefeld|https://beacons.ai/torami.co",
+    "company_name": "TORAMI nails · lashes",
+    "industry": "Nagelstudio",
+    "city": "Krefeld",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/TORAMI+nails+%C2%B7+lashes/data=!4m7!3m6!1s0x47b8a5d20831d8bb:0x820a9816414f6dec!8m2!3d51.3321807!4d6.562825!16s%2Fg%2F11ywmgfyjh!19sChIJu9gxCNKluEcR7G1PQRaYCoI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://beacons.ai/torami.co",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": false,
+      "website_final_url": "https://beacons.ai/torami.co",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": false,
+      "website_service_matches": [],
+      "website_evidence": [],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 83,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 26 reviews vs. comparison median 129; gap 103."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "Website could not be verified as accessible in this run.",
+      "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+    ],
+    "primary_sales_angle_verified": "Verified source data: 26 reviews vs. comparison median 129; gap 103.",
+    "proof": [
+      "Verified source data: 26 reviews vs. comparison median 129; gap 103."
+    ],
+    "email": null,
+    "email_source_url": null,
+    "email_verification_status": "EMAIL_MISSING",
+    "email_found_at": null,
     "airtable_ready": false,
     "qa_date": "2026-09-13",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",

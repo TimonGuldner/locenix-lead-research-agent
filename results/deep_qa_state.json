@@ -1,12 +1,14 @@
 {
-  "runs": 13,
+  "runs": 14,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
     "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
     "backroom physio berlin|berlin|https://backroomphysio.de/",
+    "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
     "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
     "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
+    "city nails - krefeld|krefeld|https://esinafsar.com/city-nails/",
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
@@ -16,6 +18,7 @@
     "gebäudereinigung köln|koeln|https://xn--gebudereinigungkoeln-dzb.de/",
     "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
     "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
+    "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
     "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
     "heizung sanitär köln | ebi's haustechnik|koeln|http://www.ebis-haustechnik.de/",
     "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
@@ -51,6 +54,7 @@
     "tierarztpraxis tiergesundheitszentrum münchen|muenchen|http://www.verhaltenstherapie-tier.de/",
     "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
     "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
+    "torami nails · lashes|krefeld|https://beacons.ai/torami.co",
     "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
     "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
     "walk again center|berlin|https://walk-again.de/",
@@ -64,15 +68,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 62,
+  "processed_count": 66,
   "remaining_eligible": 0,
-  "last_batch_count": 5,
-  "final_a_total": 30,
-  "final_b_total": 32,
-  "email_ready_total": 18,
-  "email_missing_total": 22,
-  "email_gate_qualified_total": 40,
-  "email_missing_excluded_total": 22,
-  "downstream_eligible_total": 40,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "last_batch_count": 4,
+  "final_a_total": 31,
+  "final_b_total": 35,
+  "email_ready_total": 19,
+  "email_missing_total": 24
 }

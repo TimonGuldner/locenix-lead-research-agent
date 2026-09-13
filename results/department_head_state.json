@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-13T10:26:04.910619+00:00",
+  "last_run_at": "2026-09-13T10:26:26.126408+00:00",
   "department_status": "BACKLOG",
   "next_agent": "deep_qa",
   "reason": "19 A/B research lead(s) have not yet passed Deep QA/email research.",
@@ -26,5 +26,5 @@
   "email_trial_interest": 0,
   "email_human_reviews_required": 0,
   "email_errors": 0,
-  "email_last_run_at": "2026-09-13T05:21:38.266918+00:00"
+  "email_last_run_at": "2026-09-13T10:26:09.657033+00:00"
 }

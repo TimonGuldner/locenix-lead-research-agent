@@ -1,5 +1,5 @@
 {
-  "runs": 7,
+  "runs": 8,
   "processed_ids": [
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
     "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
@@ -7,15 +7,20 @@
     "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
     "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
     "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
+    "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
     "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
+    "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
     "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
     "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
+    "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
     "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
     "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
     "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
     "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
     "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
     "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
+    "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
+    "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
     "since eleven - friseure|koeln|https://www.since-eleven.de/",
     "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
     "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
@@ -32,12 +37,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 30,
+  "processed_count": 35,
   "last_batch_count": 5,
-  "remaining_eligible": 10,
-  "weak_visibility_total": 22,
+  "remaining_eligible": 5,
+  "weak_visibility_total": 25,
   "email_gate_rejected_count": 22,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

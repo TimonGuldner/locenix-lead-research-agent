@@ -1,176 +1,40 @@
 {
   "results": [
     {
-      "lead_id": "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
-      "company_name": "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
-      "industry": "Tierarzt",
+      "lead_id": "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
+      "company_name": "Glow Kosmetik Hamburg",
+      "industry": "Kosmetikstudio",
       "city": "Hamburg",
-      "email": "info@filu.vet",
+      "email": "kontakt@planity.com",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 89,
+      "deep_qa_score": 87,
       "visibility_tests": [
         {
-          "query": "Tierarzt Hamburg",
-          "status": "OBSERVED",
-          "observed_position": 3,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "felmo Mobiler Tierarzt Hamburg",
-            "Die Hamburger Tierärzte - Florian Grosser und Dr. med. vet. Ulf Krohn"
-          ],
-          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Hamburg",
-          "status": "OBSERVED",
-          "observed_position": 4,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "felmo Mobiler Tierarzt Hamburg",
-            "Dr. Fenske Tierarztpraxis Hamburg Bergedorf für Kleintiere und Vögel",
-            "Tiermedizin am Rothenbaum Deckena & Dr. Elsner GmbH"
-          ],
-          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
-      "visibility_evidence": [
-        "Business observed at position 3 among the first 11 Maps results returned in this run.",
-        "Business observed at position 4 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-13",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
-      "company_name": "Zimmermann Sanitär, Heizung und Umwelttechnik",
-      "industry": "Sanitaer Heizung",
-      "city": "Berlin",
-      "email": "info@zimmermann-installation.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
-      "visibility_tests": [
-        {
-          "query": "Sanitaer Heizung Berlin",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Schwalm Heizung & Sanitär GmbH",
-            "Kuzey Haustechnik Sanitär & Rohrreinigung Notdienst",
-            "RohrKlar Klempner Berlin - Mitte 24h Notdienst",
-            "SANA-TEC GmbH - Gas, Wasser, Heizung, Sanitär Installateur und Notdienst",
-            "Lenke - Sanitär & Heizung"
-          ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-        },
-        {
-          "query": "Sanitaer Heizung in Berlin",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Schwalm Heizung & Sanitär GmbH",
-            "Kuzey Haustechnik Sanitär & Rohrreinigung Notdienst",
-            "SANA-TEC GmbH - Gas, Wasser, Heizung, Sanitär Installateur und Notdienst",
-            "RohrKlar Klempner Berlin - Mitte 24h Notdienst",
-            "Lenke - Sanitär & Heizung"
-          ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
-      "visibility_evidence": [
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-      ],
-      "visibility_date": "2026-09-13",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
-      "company_name": "Zahnarzt Hamburg - Dental21",
-      "industry": "Zahnarzt",
-      "city": "Hamburg",
-      "email": "info@dental21-europapassage.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
-      "visibility_tests": [
-        {
-          "query": "Zahnarzt Hamburg",
-          "status": "OBSERVED",
-          "observed_position": 1,
-          "results_checked": 8,
-          "competitors_ahead": [],
-          "evidence": "Business observed at position 1 among the first 8 Maps results returned in this run."
-        },
-        {
-          "query": "Zahnarzt in Hamburg",
-          "status": "OBSERVED",
-          "observed_position": 3,
-          "results_checked": 8,
-          "competitors_ahead": [
-            "Zahnarzt Hamburg City - Z-24",
-            "AllDent Zahnzentrum Hamburg"
-          ],
-          "evidence": "Business observed at position 3 among the first 8 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
-      "visibility_evidence": [
-        "Business observed at position 1 among the first 8 Maps results returned in this run.",
-        "Business observed at position 3 among the first 8 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-13",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
-      "company_name": "Glam – Beauty & Nails Nagelstudio & Wimpernverlängerung Isartor München",
-      "industry": "Nagelstudio",
-      "city": "Muenchen",
-      "email": "info@glambeautynails.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
-      "visibility_tests": [
-        {
-          "query": "Nagelstudio Muenchen",
-          "status": "OBSERVED",
-          "observed_position": 7,
-          "results_checked": 8,
-          "competitors_ahead": [
-            "Leoni´s Nails & Hair Munich (Leoni’s Nagelstudio)",
-            "VIP BEAUTY LOUNGE - Nails Nagelstudio & Lashes Wimpernverlängerung / SENDLINGER TOR (München)",
-            "GOLD NAILS BEAUTY & SPA - Nails Nagelstudio & Lashes Wimpernverlängerung / MÜNCHNER FREIHEIT (München)",
-            "CITY NAILS & SPA München",
-            "An‘s Lashes & nails - München"
-          ],
-          "evidence": "Business observed at position 7 among the first 8 Maps results returned in this run."
-        },
-        {
-          "query": "Nagelstudio in Muenchen",
+          "query": "Kosmetikstudio Hamburg",
           "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
           "observed_position": null,
           "results_checked": 8,
           "competitors_ahead": [
-            "Leoni´s Nails & Hair Munich (Leoni’s Nagelstudio)",
-            "VIP BEAUTY LOUNGE - Nails Nagelstudio & Lashes Wimpernverlängerung / SENDLINGER TOR (München)",
-            "GOLD NAILS BEAUTY & SPA - Nails Nagelstudio & Lashes Wimpernverlängerung / MÜNCHNER FREIHEIT (München)",
-            "An‘s Lashes & nails - München",
-            "Luxury Nails Beauty München"
+            "Dermastil Kosmetikstudio Ottensen Hamburg",
+            "Yasmin Beauty Kosmetikstudio",
+            "NICE Aesthetic - Kosmetikstudio Hamburg",
+            "Kosmetikstudio Individual Beauty Hamburg",
+            "Lamea Studio - Head Spa & Skin Treatments"
+          ],
+          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+        },
+        {
+          "query": "Kosmetikstudio in Hamburg",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 8,
+          "competitors_ahead": [
+            "Beautéboom Studio & Akademie",
+            "Dermatologikum Hamburg",
+            "Dermastil Kosmetikstudio Ottensen Hamburg",
+            "Yasmin Beauty Kosmetikstudio",
+            "ELENA ANTONOVA I Skin Health Hamburg"
           ],
           "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
         }
@@ -178,7 +42,7 @@
       "weak_visibility_observed": true,
       "visibility_opportunity_score": 10,
       "visibility_evidence": [
-        "Business observed at position 7 among the first 8 Maps results returned in this run.",
+        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim.",
         "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
       ],
       "visibility_date": "2026-09-13",
@@ -187,49 +51,188 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "since eleven - friseure|koeln|https://www.since-eleven.de/",
-      "company_name": "Since Eleven - Friseure",
-      "industry": "Friseur",
-      "city": "Koeln",
-      "email": "info@since-eleven.de",
+      "lead_id": "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
+      "company_name": "Hundesalon Miez&Mops",
+      "industry": "Hundefriseur",
+      "city": "Berlin",
+      "email": "info@miez-mops.com",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
+      "deep_qa_score": 87,
       "visibility_tests": [
         {
-          "query": "Friseur Koeln",
+          "query": "Hundefriseur Berlin",
           "status": "OBSERVED",
-          "observed_position": 7,
-          "results_checked": 8,
+          "observed_position": 9,
+          "results_checked": 11,
           "competitors_ahead": [
-            "Clement Hair Studio Friseur Salon Köln",
-            "One Head Friseure Köln Neusser Str",
-            "Walthers Friseur Köln",
-            "Shinzo | Dein Friseur in Köln",
-            "WE LOVE HAIR"
+            "Yorkis Hunde- und Katzensalon",
+            "Hundesalon Paws and Tails Mitte",
+            "Hundesalon Paws and Tails Kreuzberg",
+            "Hundesalon Amling",
+            "Hundesalon GroomRoom"
           ],
-          "evidence": "Business observed at position 7 among the first 8 Maps results returned in this run."
+          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Friseur in Koeln",
-          "status": "OBSERVED",
-          "observed_position": 8,
-          "results_checked": 8,
+          "query": "Hundefriseur in Berlin",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 11,
           "competitors_ahead": [
-            "Clement Hair Studio Friseur Salon Köln",
-            "Bauer Bauer Hairdressers Südstadt | Balayage | Cut | Farbe | seit 18 Jahren in Köln",
-            "Domino Friseur",
-            "Shinzo | Dein Friseur in Köln",
-            "Friseur Style & Bloom - Köln"
+            "Yorkis Hunde- und Katzensalon",
+            "Hundesalon Grewatsch Berlin",
+            "Hundesalon Paws and Tails Mitte",
+            "Fellpflegerei Berlin - Hundefriseur",
+            "Hundesalon Paws and Tails Kreuzberg"
           ],
-          "evidence": "Business observed at position 8 among the first 8 Maps results returned in this run."
+          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
         }
       ],
       "weak_visibility_observed": true,
-      "visibility_opportunity_score": 6,
+      "visibility_opportunity_score": 10,
       "visibility_evidence": [
-        "Business observed at position 7 among the first 8 Maps results returned in this run.",
-        "Business observed at position 8 among the first 8 Maps results returned in this run."
+        "Business observed at position 9 among the first 11 Maps results returned in this run.",
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      ],
+      "visibility_date": "2026-09-13",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
+      "company_name": "Kleintierklinik München Riem - Dres. med. vet. Lutz",
+      "industry": "Tierarzt",
+      "city": "Muenchen",
+      "email": "info@kleintierklinik.vet",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 87,
+      "visibility_tests": [
+        {
+          "query": "Tierarzt Muenchen",
+          "status": "OBSERVED",
+          "observed_position": 4,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Rex Tierarztpraxis München-Schwabing",
+            "Tierarztpraxis Trudering Dr. Horst Möritz | München",
+            "Tierarzt München, Team für Tiere – Tierarztpraxis am Gasteig (vormals Dr. Maul & Dr. Herget)"
+          ],
+          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Tierarzt in Muenchen",
+          "status": "OBSERVED",
+          "observed_position": 3,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Rex Tierarztpraxis München-Schwabing",
+            "Tierarzt München, Team für Tiere – Tierarztpraxis am Gasteig (vormals Dr. Maul & Dr. Herget)"
+          ],
+          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
+      "visibility_evidence": [
+        "Business observed at position 4 among the first 11 Maps results returned in this run.",
+        "Business observed at position 3 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-13",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
+      "company_name": "R&RRR Reifennotdienst 24h",
+      "industry": "Reifenservice",
+      "city": "Hamburg",
+      "email": "rundrrr@yahoo.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "visibility_tests": [
+        {
+          "query": "Reifenservice Hamburg",
+          "status": "OBSERVED",
+          "observed_position": 5,
+          "results_checked": 8,
+          "competitors_ahead": [
+            "Hugo Pfohe GmbH",
+            "Reifennotdienst Michalak",
+            "EuroPlus Reifenservice",
+            "Premio Reifen + Autoservice Reifendienst Hamburg GmbH"
+          ],
+          "evidence": "Business observed at position 5 among the first 8 Maps results returned in this run."
+        },
+        {
+          "query": "Reifenservice in Hamburg",
+          "status": "OBSERVED",
+          "observed_position": 4,
+          "results_checked": 8,
+          "competitors_ahead": [
+            "Fellyfix Smart Repair Center Hamburg",
+            "Hugo Pfohe GmbH",
+            "Reifennotdienst Michalak"
+          ],
+          "evidence": "Business observed at position 4 among the first 8 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 3,
+      "visibility_evidence": [
+        "Business observed at position 5 among the first 8 Maps results returned in this run.",
+        "Business observed at position 4 among the first 8 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-13",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
+      "company_name": "Podologie Praxis Marina Schwingeler-Hühne (Podologin)",
+      "industry": "Podologie",
+      "city": "Koeln",
+      "email": "webanfrage@podologekoeln.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "visibility_tests": [
+        {
+          "query": "Podologie Koeln",
+          "status": "OBSERVED",
+          "observed_position": 6,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Pedikorn Praxis für Podologie",
+            "diehuehneraugen - medizinische Fußpflege in Köln Nippes",
+            "Podologikum Cologne Fatma Köse",
+            "Fachpraxis für Podologie Suzan",
+            "Praxis für Podologie Zoi Lioumi/Heilpraktikerin für Podologie"
+          ],
+          "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Podologie in Koeln",
+          "status": "OBSERVED",
+          "observed_position": 3,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "diehuehneraugen - medizinische Fußpflege in Köln Nippes",
+            "Pedikorn Praxis für Podologie"
+          ],
+          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 1,
+      "visibility_evidence": [
+        "Business observed at position 6 among the first 11 Maps results returned in this run.",
+        "Business observed at position 3 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-13",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -238,7 +241,7 @@
     }
   ],
   "state": {
-    "runs": 7,
+    "runs": 8,
     "processed_ids": [
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
       "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
@@ -246,15 +249,20 @@
       "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
       "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
       "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
+      "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
       "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
+      "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
       "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
       "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
+      "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
       "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
       "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
       "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
       "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
       "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
       "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
+      "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
+      "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
       "since eleven - friseure|koeln|https://www.since-eleven.de/",
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
       "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
@@ -271,10 +279,10 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 30,
+    "processed_count": 35,
     "last_batch_count": 5,
-    "remaining_eligible": 10,
-    "weak_visibility_total": 22,
+    "remaining_eligible": 5,
+    "weak_visibility_total": 25,
     "email_gate_rejected_count": 22,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

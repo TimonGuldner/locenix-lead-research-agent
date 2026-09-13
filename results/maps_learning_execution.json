@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 5,
-  "focus": "industry_exploitation",
+  "learning_run_count": 6,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Siegburg",
-    "Troisdorf",
-    "Wiesbaden"
+    "Berlin"
   ],
   "selected_industries": [
-    "Physiotherapie"
+    "Immobilienmakler",
+    "Beauty Aesthetik",
+    "Hundefriseur"
   ],
   "selected_pairs": [
     {
-      "city": "Siegburg",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Siegburg"
+      "city": "Berlin",
+      "industry": "Immobilienmakler",
+      "query": "Immobilienmakler Berlin"
     },
     {
-      "city": "Troisdorf",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Troisdorf"
+      "city": "Berlin",
+      "industry": "Beauty Aesthetik",
+      "query": "Beauty Aesthetik Berlin"
     },
     {
-      "city": "Wiesbaden",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Wiesbaden"
+      "city": "Berlin",
+      "industry": "Hundefriseur",
+      "query": "Hundefriseur Berlin"
     }
   ],
   "queries_per_run": 3

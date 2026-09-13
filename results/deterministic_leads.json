@@ -197,6 +197,103 @@
     "final_qa_required": true
   },
   {
+    "company_name": "BASTGEN BERLIN IMMOBILIEN - Makler in Berlin Mitte",
+    "industry": "Immobilienmakler",
+    "city": "Berlin",
+    "address": "Auguststraße 36, 10119 Berlin, Deutschland",
+    "website": "https://www.bastgen-berlin.com/",
+    "google_maps_url": "https://www.google.com/maps/place/BASTGEN+BERLIN+IMMOBILIEN+-+Makler+in+Berlin+Mitte/data=!4m7!3m6!1s0x47a8505712ff7735:0xcb436e994aac8dc6!8m2!3d52.5277511!4d13.4013225!16s%2Fg%2F1hhlq67fd!19sChIJNXf_EldQqEcRxo2sSpluQ8s?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 30 28040309",
+    "public_business_email": "bastgen@bastgen-berlin.com",
+    "email_source_url": "https://bastgen-berlin.com/",
+    "contact_form_url": "https://bastgen-berlin.com/kontakt/",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.9,
+    "google_review_count": 25,
+    "main_category": "Immobilienmakler",
+    "website_services": [
+      "verkauf",
+      "bewertung",
+      "kapitalanlage",
+      "immobilienbewertung"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: bewertung, kapitalanlage, immobilienbewertung"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "IMMODO Berlin",
+    "competitor_1_reviews": 304,
+    "competitor_2": "DAHLER Berlin - Immobilienmakler / Investment",
+    "competitor_2_reviews": 271,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "25 eigene Bewertungen vs. lokaler Wettbewerbsmedian 230; Gap 205."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 25 Google-Bewertungen."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: bewertung, kapitalanlage, immobilienbewertung",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 2,
+    "report_potential_score": 28,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 89,
+    "competitor_review_median": 230,
+    "review_gap": 205,
+    "grade": "A",
+    "lead_class": "A_LEAD",
+    "qa_gate": "PASS_PRE_AIRTABLE_QA",
+    "primary_pitch": "25 eigene Bewertungen vs. lokaler Wettbewerbsmedian 230; Gap 205.",
+    "proof": [
+      "25 eigene Bewertungen vs. lokaler Wettbewerbsmedian 230; Gap 205.",
+      "Nur 25 Google-Bewertungen.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: bewertung, kapitalanlage, immobilienbewertung"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "25 eigene Bewertungen vs. lokaler Wettbewerbsmedian 230; Gap 205.",
+    "second_outreach_angle": "Nur 25 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Immobilienmakler Berlin. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-13",
+    "research_status": "QUALIFIED",
+    "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 205; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
     "company_name": "Immobilienmakler Köln",
     "industry": "Immobilienmakler",
     "city": "Koeln",

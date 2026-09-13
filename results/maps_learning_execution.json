@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 1,
-  "focus": "industry_exploitation",
+  "learning_run_count": 2,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Potsdam",
-    "Rostock",
-    "Sankt Augustin"
+    "Berlin"
   ],
   "selected_industries": [
-    "Physiotherapie"
+    "Sanitaer Heizung",
+    "Autowerkstatt",
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Potsdam",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Potsdam"
+      "city": "Berlin",
+      "industry": "Sanitaer Heizung",
+      "query": "Sanitaer Heizung Berlin"
     },
     {
-      "city": "Rostock",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Rostock"
+      "city": "Berlin",
+      "industry": "Autowerkstatt",
+      "query": "Autowerkstatt Berlin"
     },
     {
-      "city": "Sankt Augustin",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Sankt Augustin"
+      "city": "Berlin",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Berlin"
     }
   ],
   "queries_per_run": 3

@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-13T12:12:26.561802+00:00",
+  "generated_at": "2026-09-13T12:13:00.737181+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 86,
@@ -26,10 +26,10 @@
     "visibility_remaining": 0,
     "visibility_email_gate_rejected": 24,
     "weak_visibility": 28,
-    "sales_queue_count": 40,
-    "airtable_ready": 18,
+    "sales_queue_count": 42,
+    "airtable_ready": 19,
     "airtable_errors": [],
-    "sales_hard_email_gate_rejected": 22,
+    "sales_hard_email_gate_rejected": 24,
     "downstream_email_gate_violations": 0,
     "drafts_eligible": 18,
     "drafts_stored": 18,
@@ -64,7 +64,7 @@
     "approved_email_gap": 5,
     "maps_downstream_email_gate_target": 0,
     "maps_downstream_email_gate_actual": 0,
-    "research_missing_email_rejected_from_sales": 22,
+    "research_missing_email_rejected_from_sales": 24,
     "rule": "TARGET -> ACTUAL -> GAP -> ACTION -> RE-MEASURE. Missing-email Maps leads never enter downstream sales/outreach."
   },
   "learning": {
@@ -385,8 +385,8 @@
       "_kind": "agent"
     }
   ],
-  "next_agent": "sales_queue",
-  "reason": "Email-qualified FINAL_A leads have not all reached Airtable Sales Queue.",
+  "next_agent": "outreach_controller",
+  "reason": "Airtable-ready email-qualified leads are missing outreach drafts.",
   "dispatch_attempted": true,
   "dispatch_success": true,
   "dispatch_detail": "HTTP 204",

@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 3,
-  "focus": "industry_exploitation",
+  "learning_run_count": 4,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Sankt Augustin",
-    "Siegburg",
-    "Stuttgart"
+    "Berlin"
   ],
   "selected_industries": [
-    "Physiotherapie"
+    "Nagelstudio",
+    "Zahnarzt",
+    "Immobilienmakler"
   ],
   "selected_pairs": [
     {
-      "city": "Sankt Augustin",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Sankt Augustin"
+      "city": "Berlin",
+      "industry": "Nagelstudio",
+      "query": "Nagelstudio Berlin"
     },
     {
-      "city": "Siegburg",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Siegburg"
+      "city": "Berlin",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Berlin"
     },
     {
-      "city": "Stuttgart",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Stuttgart"
+      "city": "Berlin",
+      "industry": "Immobilienmakler",
+      "query": "Immobilienmakler Berlin"
     }
   ],
   "queries_per_run": 3

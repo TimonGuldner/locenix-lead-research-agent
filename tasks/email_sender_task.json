@@ -3,7 +3,8 @@
   "provider": "resend",
   "scan_limit": 200,
   "max_emails_per_run": 5,
-  "required_draft_status": "READY_FOR_REVIEW",
+  "daily_target": 5,
+  "required_draft_status": "APPROVED",
   "required_send_status": "READY_TO_SEND",
   "allowed_legal_bases": [
     "OPT_IN",
@@ -16,6 +17,8 @@
     "never_send_twice_when_message_id_exists": true,
     "mark_sent_only_after_provider_message_id": true,
     "no_automatic_legal_inference": true,
-    "german_cold_email_not_auto_authorized": true
+    "german_cold_email_not_auto_authorized": true,
+    "missing_email_never_eligible": true,
+    "ceo_daily_target_counts_only_provider_confirmed_sends": true
   }
 }

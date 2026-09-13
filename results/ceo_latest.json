@@ -1,6 +1,6 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-13T10:46:35.405535+00:00",
+  "generated_at": "2026-09-13T10:47:23.940550+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "funnel_metrics": {
@@ -135,7 +135,7 @@
       "human_reviews_required": 0,
       "biggest_bottleneck": "NONE",
       "recommended_next_action": "Monitor for new qualified trials and conversion opportunities.",
-      "last_run_at": "2026-09-13T10:46:09.224748+00:00"
+      "last_run_at": "2026-09-13T10:47:09.119111+00:00"
     }
   },
   "biggest_bottleneck": "Qualified leads have not all reached sales readiness.",
@@ -164,7 +164,7 @@
     "priority": 2,
     "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
     "created_at": "2026-09-12T12:08:42.961312+00:00",
-    "updated_at": "2026-09-13T10:46:35.405535+00:00",
+    "updated_at": "2026-09-13T10:47:23.940550+00:00",
     "status": "QUEUED",
     "external_action_authorized": false
   },
@@ -239,8 +239,8 @@
   },
   "linkedin_manager_accountability_rule": "Agent 0 checks whether Agent 8 converted targets into executed work and funnel movement, not merely whether workflows are healthy.",
   "daily_outbound_accountability": {
-    "generated_at": "2026-09-13T10:46:35.845815+00:00",
-    "berlin_time": "2026-09-13T12:46:35.845815+02:00",
+    "generated_at": "2026-09-13T10:47:24.322812+00:00",
+    "berlin_time": "2026-09-13T12:47:24.322812+02:00",
     "status": "ATTENTION",
     "hard_deadline_hour": 18,
     "email": {
@@ -250,8 +250,8 @@
       "gap": 5,
       "expected_by_now": 3,
       "pacing_gap": 3,
-      "email_qualified_supply": 36,
-      "email_missing_excluded": 21,
+      "email_qualified_supply": 40,
+      "email_missing_excluded": 22,
       "counting_rule": "Only provider-confirmed sends from records with explicit Airtable approval, researched public business email and allowed legal basis count."
     },
     "linkedin": {
@@ -301,8 +301,8 @@
       "manager": "AGENT_7_LOCENIX_GROWTH_MANAGER",
       "violations_target": 0,
       "violations_actual": 0,
-      "email_qualified_supply": 36,
-      "email_missing_excluded": 21,
+      "email_qualified_supply": 40,
+      "email_missing_excluded": 22,
       "airtable_quarantined": 0,
       "airtable_quarantine_errors": [],
       "rule": "No researched public business email = no Visibility, Sales Queue or outreach-ready handoff."

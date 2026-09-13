@@ -1287,6 +1287,240 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
+    "company_name": "An‘s Lashes & nails - München",
+    "industry": "Nagelstudio",
+    "city": "Muenchen",
+    "source_total_score": 83,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/An%E2%80%98s+Lashes+%26+nails+-+M%C3%BCnchen/data=!4m7!3m6!1s0x479e7537ddcaf41f:0xddc7972782c6c81d!8m2!3d48.1497635!4d11.5607332!16s%2Fg%2F11l2kmxgsw!19sChIJH_TK3Td1nkcRHcjGgieXx90?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://ans-nails.com/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://ans-nails.com/",
+      "booking_link": "https://www.studiobookr.com/an-s-lashes-nails-73685#/book",
+      "social_links": [
+        "https://www.instagram.com/ans_nagel_wimpernstudio/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (1 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "ans-lashes@web.de",
+      "email_source_url": "https://ans-nails.com/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:26:42.595363+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 92,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 69 reviews vs. comparison median 395; gap 326."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 69 reviews vs. comparison median 395; gap 326.",
+    "proof": [
+      "Verified source data: 69 reviews vs. comparison median 395; gap 326.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "ans-lashes@web.de",
+    "email_source_url": "https://ans-nails.com/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:26:42.595363+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
+    "company_name": "Tierarztpraxis Bärenwiese, Tierarzt Berlin-Wilmersdorf",
+    "industry": "Tierarzt",
+    "city": "Berlin",
+    "source_total_score": 83,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+B%C3%A4renwiese,+Tierarzt+Berlin-Wilmersdorf/data=!4m7!3m6!1s0x47a850f0c946619d:0x53b9600ffa29d53d!8m2!3d52.4974137!4d13.3248514!16s%2Fg%2F1tk_hr6h!19sChIJnWFGyfBQqEcRPdUp-g9guVM?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.tierarzt-baerenwiese.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://tierarzt-baerenwiese.de/",
+      "booking_link": "https://tierarzt-baerenwiese.de/terminbuchung/",
+      "social_links": [
+        "https://www.instagram.com/tiernotarztberlin/?hl=de",
+        "https://www.facebook.com/TiernotarztBerlin/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "mail@tierarzt-baerenwiese.de",
+      "email_source_url": "https://tierarzt-baerenwiese.de/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:27:01.701638+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 92,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 1149 reviews vs. comparison median 1944; gap 795."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 1149 reviews vs. comparison median 1944; gap 795.",
+    "proof": [
+      "Verified source data: 1149 reviews vs. comparison median 1944; gap 795.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "mail@tierarzt-baerenwiese.de",
+    "email_source_url": "https://tierarzt-baerenwiese.de/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:27:01.701638+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
+    "company_name": "Tiermedizinzentrum Berlin",
+    "industry": "Tierarzt",
+    "city": "Berlin",
+    "source_total_score": 83,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Tiermedizinzentrum+Berlin/data=!4m7!3m6!1s0x47a8506759401557:0x649b4111c0e61131!8m2!3d52.4853661!4d13.3367677!16s%2Fg%2F1thvrqll!19sChIJVxVAWWdQqEcRMRHmwBFBm2Q?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.tiermedizinzentrum.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.tiermedizinzentrum-berlin.de/",
+      "booking_link": "https://www.tiermedizinzentrum-berlin.de/terminbuchung",
+      "social_links": [
+        "https://www.instagram.com/tiermedizinzentrum__berlin/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "chirurgie"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (1 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@tiermedizinzentrum.de",
+      "email_source_url": "https://www.tiermedizinzentrum-berlin.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:27:09.856024+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 92,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 399 reviews vs. comparison median 1944; gap 1545."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 399 reviews vs. comparison median 1944; gap 1545.",
+    "proof": [
+      "Verified source data: 399 reviews vs. comparison median 1944; gap 1545.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@tiermedizinzentrum.de",
+    "email_source_url": "https://www.tiermedizinzentrum-berlin.de/impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:27:09.856024+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
     "company_name": "Physiotherapiepraxis Monolith",
     "industry": "Physiotherapie",
@@ -1759,6 +1993,78 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "zentrum für kleintiermedizin münchen|muenchen|https://www.zk-muc.de/",
+    "company_name": "Zentrum für Kleintiermedizin München",
+    "industry": "Tierarzt",
+    "city": "Muenchen",
+    "source_total_score": 83,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Zentrum+f%C3%BCr+Kleintiermedizin+M%C3%BCnchen/data=!4m7!3m6!1s0x479dd92eaee0346f:0xce44b46517e8dcf6!8m2!3d48.0942391!4d11.5238016!16s%2Fg%2F11b6nvpd3t!19sChIJbzTgri7ZnUcR9tzoF2W0RM4?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.zk-muc.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.zk-muc.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/ZentrumfuerKleintiermedizinMuenchen/",
+        "https://www.instagram.com/zentrum_kleintiermedizin/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "service@vkb.de",
+      "email_source_url": "https://www.zk-muc.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:26:32.227878+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 290 reviews vs. comparison median 555; gap 265."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 290 reviews vs. comparison median 555; gap 265.",
+    "proof": [
+      "Verified source data: 290 reviews vs. comparison median 555; gap 265.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "service@vkb.de",
+    "email_source_url": "https://www.zk-muc.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:26:32.227878+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "walk again center|berlin|https://walk-again.de/",
     "company_name": "WALK AGAIN Center",
     "industry": "Physiotherapie",
@@ -2134,6 +2440,73 @@
     "airtable_ready": false,
     "qa_date": "2026-09-12",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V1",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
+    "company_name": "Zimmermann Sanitär, Heizung und Umwelttechnik",
+    "industry": "Sanitaer Heizung",
+    "city": "Berlin",
+    "source_total_score": 83,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Zimmermann+Sanit%C3%A4r,+Heizung+und+Umwelttechnik/data=!4m7!3m6!1s0x47a8564036342f2f:0x5d2acca0fac4d504!8m2!3d52.548708!4d13.221002!16s%2Fg%2F1hc2ywwbc!19sChIJLy80NkBWqEcRBNXE-qDMKl0?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.zimmermann-installation.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "NOT_OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.zimmermann-installation.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "heizung",
+        "wartung",
+        "notdienst"
+      ],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@zimmermann-installation.de",
+      "email_source_url": "https://www.zimmermann-installation.de/kontakt/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T10:26:52.579589+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 25 reviews vs. comparison median 88; gap 63."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 25 reviews vs. comparison median 88; gap 63.",
+    "proof": [
+      "Verified source data: 25 reviews vs. comparison median 88; gap 63."
+    ],
+    "email": "info@zimmermann-installation.de",
+    "email_source_url": "https://www.zimmermann-installation.de/kontakt/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-13T10:26:52.579589+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
   },
   {

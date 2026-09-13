@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-13T11:37:06.747660+00:00",
+  "last_run_at": "2026-09-13T11:37:24.957897+00:00",
   "company_status": "ATTENTION",
   "north_star": "zero_daily_target_gaps",
   "priority_1": "Prioritize Maps Visibility; current observed backlog: 5.",
@@ -20,7 +20,7 @@
   "customer_success_customers_at_risk": 0,
   "customer_success_human_reviews_required": 0,
   "customer_success_biggest_bottleneck": "NONE",
-  "customer_success_last_run_at": "2026-09-13T11:36:10.605892+00:00",
+  "customer_success_last_run_at": "2026-09-13T11:37:15.343990+00:00",
   "linkedin_control_status": "ATTENTION",
   "linkedin_targets": {
     "qualified_leads_found": 10,
@@ -30,9 +30,9 @@
     "reply_actions": 0
   },
   "linkedin_actual": {
-    "qualified_leads_found": 0,
+    "qualified_leads_found": 1,
     "engagement_actions": 0,
-    "connection_requests": 0,
+    "connection_requests": 1,
     "direct_messages": 0,
     "reply_actions": 0,
     "replies_received": 0,
@@ -40,23 +40,39 @@
     "active_conversations": 0
   },
   "linkedin_gaps": {
-    "qualified_leads_found": 10,
+    "qualified_leads_found": 9,
     "engagement_actions": 3,
-    "connection_requests": 5,
+    "connection_requests": 4,
     "direct_messages": 3,
     "reply_actions": 0
   },
   "linkedin_active_roles": [
     "dm_outreach",
     "engagement",
-    "inbox",
     "lead",
     "outreach"
   ],
-  "linkedin_created_jobs": [],
+  "linkedin_created_jobs": [
+    {
+      "role": "lead",
+      "job_id": "92af351b-9619-4cae-8bb6-d3334f40f6a1"
+    },
+    {
+      "role": "engagement",
+      "job_id": "02a700cd-a461-44a7-be5a-7625e8272649"
+    },
+    {
+      "role": "outreach",
+      "job_id": "ec7e429d-1573-4a52-9929-27f5c4cfb11e"
+    },
+    {
+      "role": "dm_outreach",
+      "job_id": "53f3c72b-d1ae-4b7e-b5f5-8a86d8bcde04"
+    }
+  ],
   "linkedin_ceo_attention_required": true,
-  "linkedin_control_last_run_at": "2026-09-13T10:51:30.587244+00:00",
-  "linkedin_control_checked_by_ceo_at": "2026-09-13T11:37:06.908747+00:00",
+  "linkedin_control_last_run_at": "2026-09-13T11:35:27.830617+00:00",
+  "linkedin_control_checked_by_ceo_at": "2026-09-13T11:37:25.102578+00:00",
   "daily_outbound_accountability_status": "ATTENTION",
   "daily_email_target": 5,
   "daily_email_actual": 0,
@@ -72,9 +88,9 @@
     "reply_actions": 0
   },
   "daily_linkedin_actual": {
-    "qualified_leads_found": 0,
+    "qualified_leads_found": 1,
     "engagement_actions": 0,
-    "connection_requests": 0,
+    "connection_requests": 1,
     "direct_messages": 0,
     "reply_actions": 0,
     "replies_received": 0,
@@ -82,19 +98,19 @@
     "active_conversations": 0
   },
   "daily_linkedin_gaps": {
-    "qualified_leads_found": 10,
+    "qualified_leads_found": 9,
     "engagement_actions": 3,
-    "connection_requests": 5,
+    "connection_requests": 4,
     "direct_messages": 3,
     "reply_actions": 0
   },
   "daily_linkedin_pacing_gaps": {
     "qualified_leads_found": 5,
     "engagement_actions": 2,
-    "connection_requests": 3,
+    "connection_requests": 2,
     "direct_messages": 2,
     "reply_actions": 0
   },
   "maps_downstream_email_gate_violations": 0,
-  "outbound_accountability_checked_at": "2026-09-13T11:37:07.023670+00:00"
+  "outbound_accountability_checked_at": "2026-09-13T11:37:25.272225+00:00"
 }

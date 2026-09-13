@@ -1,15 +1,15 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-09-13T05:40:21.276257+00:00",
-    "status": "OK",
+    "last_run_at": "2026-09-13T18:49:13.452452+00:00",
+    "status": "PARTIAL",
     "signals_added": 0,
     "stale_signals_removed": 0,
-    "pages_checked": 8,
+    "pages_checked": 6,
     "blocked_pages": 0,
     "human_action_required": 0,
-    "errors": 0,
-    "learning_config_used": false,
+    "errors": 2,
+    "learning_config_used": true,
     "queries_planned": 8,
     "blocked_domains_learned": 0
   },
@@ -25,5 +25,14 @@
   ],
   "added": [],
   "blockers": [],
-  "errors": []
+  "errors": [
+    {
+      "query": "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
+      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Google%20Business%20Profile%22%20German\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Google%20Business%20Profile%22%20German\", waiting until \"domcont"
+    },
+    {
+      "query": "site:freelancermap.de \"Local SEO\"",
+      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Afreelancermap.de%20%22Local%20SEO%22\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Afreelancermap.de%20%22Local%20SEO%22\", waiting until \"domcontentloaded\"\n"
+    }
+  ]
 }

@@ -1,9 +1,9 @@
 {
-  "last_run_at": "2026-09-13T10:39:16.450278+00:00",
+  "last_run_at": "2026-09-13T10:39:39.229326+00:00",
   "company_status": "ATTENTION",
   "north_star": "paid_customers",
   "priority_1": "Prioritize Deep QA until backlog falls below 5; current observed backlog: 10.",
-  "manager_directive": "Approved email outbound is behind pace: 0/5 sent today; expected by now 3.",
+  "manager_directive": "Approved email outbound is behind pace: 0/5 sent today; expected by now 3. Agent 7 must close the provider-confirmed send gap using only approved, email-qualified records.",
   "email_channel_status": "AVAILABLE",
   "email_positive_replies": 0,
   "email_trial_interest": 0,
@@ -20,7 +20,7 @@
   "customer_success_customers_at_risk": 0,
   "customer_success_human_reviews_required": 0,
   "customer_success_biggest_bottleneck": "NONE",
-  "customer_success_last_run_at": "2026-09-13T10:39:02.439197+00:00",
+  "customer_success_last_run_at": "2026-09-13T10:39:29.306381+00:00",
   "linkedin_control_status": "ATTENTION",
   "linkedin_targets": {
     "qualified_leads_found": 10,
@@ -55,12 +55,14 @@
   "linkedin_created_jobs": [],
   "linkedin_ceo_attention_required": true,
   "linkedin_control_last_run_at": "2026-09-13T10:12:28.438224+00:00",
-  "linkedin_control_checked_by_ceo_at": "2026-09-13T10:39:16.627450+00:00",
+  "linkedin_control_checked_by_ceo_at": "2026-09-13T10:39:39.470170+00:00",
   "daily_outbound_accountability_status": "ATTENTION",
   "daily_email_target": 5,
   "daily_email_actual": 0,
   "daily_email_gap": 5,
   "daily_email_expected_by_now": 3,
+  "daily_email_qualified_supply": 31,
+  "daily_email_missing_excluded": 21,
   "daily_linkedin_targets": {
     "qualified_leads_found": 10,
     "engagement_actions": 3,
@@ -93,5 +95,5 @@
     "reply_actions": 0
   },
   "maps_downstream_email_gate_violations": 0,
-  "outbound_accountability_checked_at": "2026-09-13T10:39:16.853067+00:00"
+  "outbound_accountability_checked_at": "2026-09-13T10:39:39.631453+00:00"
 }

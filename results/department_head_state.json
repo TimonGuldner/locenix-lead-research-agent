@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-13T12:50:41.995880+00:00",
+  "last_run_at": "2026-09-13T12:54:11.078391+00:00",
   "department_status": "DAILY_TARGET_GAP",
   "next_agent": "email_sender",
   "reason": "Approved email daily target is behind: 0/5 provider-confirmed sends today.",
@@ -12,7 +12,7 @@
   "research_unqa": 0,
   "maps_learning_available": true,
   "maps_learning_status": "OK",
-  "maps_learning_runs": 8,
+  "maps_learning_runs": 9,
   "maps_learning_recommended_industry": "Tierarzt",
   "maps_learning_recommended_city": "Hamburg",
   "maps_learning_errors": 0,

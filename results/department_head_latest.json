@@ -1,8 +1,8 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-13T11:44:04.580056+00:00",
-  "department_status": "BACKLOG",
+  "generated_at": "2026-09-13T11:44:35.711123+00:00",
+  "department_status": "DAILY_TARGET_GAP",
   "metrics": {
     "lead_count": 86,
     "lead_a": 13,
@@ -23,9 +23,9 @@
     "qa_final_b": 32,
     "qa_email_ready": 18,
     "qa_email_missing": 22,
-    "visibility_remaining": 5,
+    "visibility_remaining": 0,
     "visibility_email_gate_rejected": 22,
-    "weak_visibility": 25,
+    "weak_visibility": 28,
     "sales_queue_count": 40,
     "airtable_ready": 18,
     "airtable_errors": [],
@@ -385,8 +385,8 @@
       "_kind": "agent"
     }
   ],
-  "next_agent": "visibility",
-  "reason": "Visibility has 5 email-qualified leads waiting.",
+  "next_agent": "email_sender",
+  "reason": "Approved email daily target is behind: 0/5 provider-confirmed sends today.",
   "dispatch_attempted": true,
   "dispatch_success": true,
   "dispatch_detail": "HTTP 204",

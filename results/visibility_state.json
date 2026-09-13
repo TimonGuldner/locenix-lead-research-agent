@@ -1,23 +1,27 @@
 {
-  "runs": 3,
+  "runs": 4,
   "processed_ids": [
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
+    "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
     "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
     "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
+    "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
     "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
+    "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
     "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
     "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
     "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
+    "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
+    "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
     "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
     "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/"
   ],
-  "processed_count": 10,
+  "processed_count": 15,
   "last_batch_count": 5,
-  "remaining_eligible": 30,
-  "weak_visibility_total": 7,
+  "remaining_eligible": 25,
+  "weak_visibility_total": 12,
   "email_gate_rejected_count": 22,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

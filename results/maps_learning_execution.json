@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 17,
-  "focus": "industry_exploitation",
+  "learning_run_count": 18,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Augsburg",
-    "Bielefeld",
-    "Bochum"
+    "Hamburg"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Logopaedie",
+    "Maler",
+    "Massagepraxis"
   ],
   "selected_pairs": [
     {
-      "city": "Augsburg",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Augsburg"
+      "city": "Hamburg",
+      "industry": "Logopaedie",
+      "query": "Logopaedie Hamburg"
     },
     {
-      "city": "Bielefeld",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Bielefeld"
+      "city": "Hamburg",
+      "industry": "Maler",
+      "query": "Maler Hamburg"
     },
     {
-      "city": "Bochum",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Bochum"
+      "city": "Hamburg",
+      "industry": "Massagepraxis",
+      "query": "Massagepraxis Hamburg"
     }
   ],
   "queries_per_run": 3

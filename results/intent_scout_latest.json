@@ -1,7 +1,7 @@
 {
   "state": {
     "agent": "AGENT_15A_INTENT_SCOUT",
-    "last_run_at": "2026-09-13T04:46:13.593780+00:00",
+    "last_run_at": "2026-09-13T05:40:18.952700+00:00",
     "signals_found": 3,
     "new_signals": 0,
     "unreviewed": 3,
@@ -65,10 +65,22 @@
       "jina_search": 0,
       "duckduckgo": 0
     },
+    "providers_skipped_by_learning": [],
+    "learning_config_used": false,
     "sources": [
       "upwork.com"
     ]
   },
+  "query_plan": [
+    "\"Google Business Profile\" German Local SEO freelancer job",
+    "\"Google Unternehmensprofil\" Freelancer Deutschland",
+    "\"Local SEO\" Projekt Deutschland Freelancer",
+    "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
+    "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
+    "site:upwork.com/freelance-jobs \"Local SEO\" Germany",
+    "site:freelancermap.de \"Local SEO\"",
+    "site:reddit.com/r/selbststaendig \"Google Unternehmensprofil\""
+  ],
   "newest": [
     {
       "signal_id": "intent-7e56262cde92330b",

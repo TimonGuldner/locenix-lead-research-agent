@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:46:21.296451+00:00",
+  "generated_at": "2026-09-13T05:40:26.673970+00:00",
   "items": [
     {
       "signal_id": "intent-7e56262cde92330b",
@@ -71,7 +71,7 @@
       "tier": "REJECT",
       "intent_score": 0,
       "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
-      "qa_at": "2026-09-13T04:46:21.296451+00:00",
+      "qa_at": "2026-09-13T05:40:26.673970+00:00",
       "airtable_record_id": "recKCoJ0M9biMYFgV",
       "quarantined": true
     },
@@ -91,7 +91,7 @@
       "tier": "REJECT",
       "intent_score": 0,
       "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
-      "qa_at": "2026-09-13T04:46:21.296451+00:00",
+      "qa_at": "2026-09-13T05:40:26.673970+00:00",
       "airtable_record_id": "recdMOIiK8tKSTBCL",
       "quarantined": true
     },
@@ -111,7 +111,7 @@
       "tier": "REJECT",
       "intent_score": 0,
       "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
-      "qa_at": "2026-09-13T04:46:21.296451+00:00",
+      "qa_at": "2026-09-13T05:40:26.673970+00:00",
       "airtable_record_id": "recf8hKuR6ZUMW7q7",
       "quarantined": true
     },
@@ -131,7 +131,7 @@
       "tier": "REJECT",
       "intent_score": 0,
       "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
-      "qa_at": "2026-09-13T04:46:21.296451+00:00",
+      "qa_at": "2026-09-13T05:40:26.673970+00:00",
       "airtable_record_id": "reck6F7I6pAlvyRZD",
       "quarantined": true
     }

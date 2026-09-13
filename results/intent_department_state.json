@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-13T04:46:24.093367+00:00",
+  "last_run_at": "2026-09-13T05:40:29.776533+00:00",
   "department_status": "HEALTHY",
   "next_agent": "intent_scout",
   "reason": "Direct discovery endpoints were blocked, but the cloud-browser fallback recovered successfully.",
@@ -16,6 +16,12 @@
   "browser_fallback_added": 0,
   "browser_stale_removed": 0,
   "transport_errors_recovered": 11,
+  "learning_runs": 1,
+  "learning_queries": 1,
+  "learning_sources": 1,
+  "learning_boosted_queries": 1,
+  "learning_paused_queries": 0,
+  "learning_provider_cooldowns": 0,
   "human_action_required": 0,
   "errors": 0
 }

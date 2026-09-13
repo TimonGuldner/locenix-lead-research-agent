@@ -1,15 +1,28 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-09-13T04:46:15.823169+00:00",
+    "last_run_at": "2026-09-13T05:40:21.276257+00:00",
     "status": "OK",
     "signals_added": 0,
     "stale_signals_removed": 0,
     "pages_checked": 8,
     "blocked_pages": 0,
     "human_action_required": 0,
-    "errors": 0
+    "errors": 0,
+    "learning_config_used": false,
+    "queries_planned": 8,
+    "blocked_domains_learned": 0
   },
+  "query_plan": [
+    "\"Google Business Profile\" German Local SEO freelancer job",
+    "\"Google Unternehmensprofil\" Freelancer Deutschland",
+    "\"Local SEO\" Projekt Deutschland Freelancer",
+    "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
+    "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
+    "site:upwork.com/freelance-jobs \"Local SEO\" Germany",
+    "site:freelancermap.de \"Local SEO\"",
+    "site:reddit.com \"Google Unternehmensprofil\" Deutschland"
+  ],
   "added": [],
   "blockers": [],
   "errors": []

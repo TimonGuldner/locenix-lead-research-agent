@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
   "parent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-13T04:46:24.093367+00:00",
+  "generated_at": "2026-09-13T05:40:29.776533+00:00",
   "department_status": "HEALTHY",
   "next_agent": "intent_scout",
   "reason": "Direct discovery endpoints were blocked, but the cloud-browser fallback recovered successfully.",
@@ -19,13 +19,19 @@
     "browser_fallback_added": 0,
     "browser_stale_removed": 0,
     "transport_errors_recovered": 11,
+    "learning_runs": 1,
+    "learning_queries": 1,
+    "learning_sources": 1,
+    "learning_boosted_queries": 1,
+    "learning_paused_queries": 0,
+    "learning_provider_cooldowns": 0,
     "human_action_required": 0,
     "errors": 0
   },
   "children": {
     "intent_scout": {
       "agent": "AGENT_15A_INTENT_SCOUT",
-      "last_run_at": "2026-09-13T04:46:13.593780+00:00",
+      "last_run_at": "2026-09-13T05:40:18.952700+00:00",
       "signals_found": 3,
       "new_signals": 0,
       "unreviewed": 3,
@@ -89,24 +95,29 @@
         "jina_search": 0,
         "duckduckgo": 0
       },
+      "providers_skipped_by_learning": [],
+      "learning_config_used": false,
       "sources": [
         "upwork.com"
       ]
     },
     "browser_fallback": {
       "agent": "AGENT_15A_BROWSER_FALLBACK",
-      "last_run_at": "2026-09-13T04:46:15.823169+00:00",
+      "last_run_at": "2026-09-13T05:40:21.276257+00:00",
       "status": "OK",
       "signals_added": 0,
       "stale_signals_removed": 0,
       "pages_checked": 8,
       "blocked_pages": 0,
       "human_action_required": 0,
-      "errors": 0
+      "errors": 0,
+      "learning_config_used": false,
+      "queries_planned": 8,
+      "blocked_domains_learned": 0
     },
     "intent_qa": {
       "agent": "AGENT_15B_INTENT_QA",
-      "last_run_at": "2026-09-13T04:46:21.296451+00:00",
+      "last_run_at": "2026-09-13T05:40:26.673970+00:00",
       "pending": 0,
       "hot": 0,
       "warm": 3,
@@ -120,7 +131,7 @@
     "platform_access": {},
     "intent_response": {
       "agent": "AGENT_15D_INTENT_RESPONSE",
-      "last_run_at": "2026-09-13T04:46:24.045024+00:00",
+      "last_run_at": "2026-09-13T05:40:29.520133+00:00",
       "prepared": 3,
       "new_prepared": 0,
       "pending": 0,
@@ -128,7 +139,21 @@
       "errors": 0,
       "mode": "DRAFT_ONLY"
     },
-    "intent_conversation": {}
+    "intent_conversation": {},
+    "intent_learning": {
+      "agent": "AGENT_15F_LEARNING_OPTIMIZER",
+      "last_run_at": "2026-09-13T05:40:29.594250+00:00",
+      "status": "OK",
+      "learning_run_count": 1,
+      "evaluated_opportunities": 3,
+      "queries_learned": 1,
+      "sources_learned": 1,
+      "boosted_queries": 1,
+      "paused_queries": 0,
+      "blocked_domains": 0,
+      "provider_cooldowns": 0,
+      "errors": 0
+    }
   },
   "source_of_truth": "Airtable Leads",
   "registration_email": "hello@locenix.com",
@@ -140,6 +165,18 @@
     "allow_new_worker_if_blocked": true,
     "captcha_bypass": false,
     "security_bypass": false
+  },
+  "learning_policy": {
+    "enabled": true,
+    "agent": "AGENT_15F_LEARNING_OPTIMIZER",
+    "mode": "SAFE_OUTCOME_LEARNING",
+    "minimum_samples_before_pause": 5,
+    "learn_query_priority": true,
+    "learn_source_priority": true,
+    "learn_provider_health": true,
+    "learn_from_conversation_outcomes": true,
+    "autonomous_code_rewrite": false,
+    "guardrail": "Only tune data-driven priorities/cooldowns. Never autonomously rewrite executable code or weaken safety/legal filters."
   },
   "guardrails": {
     "excluded_professions": [
@@ -156,6 +193,7 @@
     ],
     "captcha_bypass_allowed": false,
     "security_bypass_allowed": false,
-    "new_linkedin_account_allowed": false
+    "new_linkedin_account_allowed": false,
+    "autonomous_code_rewrite_allowed": false
   }
 }

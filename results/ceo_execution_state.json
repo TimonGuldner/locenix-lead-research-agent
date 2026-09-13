@@ -1,43 +1,101 @@
 {
-  "status": "HEALTHY",
-  "checked_at": "2026-09-13T11:41:31.320005+00:00",
-  "rule": "CEO_ENFORCES_DEPARTMENT_EXECUTION_NOT_JUST_REPORTING",
-  "department_reviews": {
-    "growth": {
-      "last_manager_run_at": "2026-09-13T11:41:00.725708+00:00",
-      "age_minutes_before_dispatch": 0.5099053,
-      "last_status": "DAILY_TARGET_GAP",
-      "last_next_agent": "email_sender",
-      "last_dispatch_success": true
+  "status": "ATTENTION",
+  "checked_at": "2026-09-13T11:41:49.910078+00:00",
+  "priority": "HIGHEST_DAILY_OUTBOUND_TARGET_ENFORCEMENT",
+  "rule": "ONLY_CONFIRMED_RESULTS_COUNT_QUEUED_RUNNING_OR_GREEN_WORKFLOWS_DO_NOT_COUNT",
+  "control_loop": "MEASURE -> GAP -> DISPATCH/RECOVERY -> RE-MEASURE -> REPEAT_NEXT_CEO_CYCLE_UNTIL_ZERO_GAP",
+  "before": {
+    "linkedin": {
+      "actual": {
+        "qualified_leads_found": 1,
+        "engagement_actions": 0,
+        "connection_requests": 1,
+        "direct_messages": 0
+      },
+      "gaps": {
+        "qualified_leads_found": 9,
+        "engagement_actions": 3,
+        "connection_requests": 4,
+        "direct_messages": 3
+      },
+      "complete": false
     },
-    "customer_success": {
-      "last_manager_run_at": "2026-09-13T11:41:10.047923+00:00",
-      "age_minutes_before_dispatch": 0.35453528333333334,
-      "last_status": "HEALTHY",
-      "last_next_agent": "AGENT_11",
-      "active_trials": 0,
-      "paid_customers": 0
+    "email": {
+      "actual": 0,
+      "target": 5,
+      "gap": 5,
+      "complete": false
+    },
+    "maps_gate": {
+      "violations": 0,
+      "complete": true,
+      "rule": "NO_RESEARCHED_PUBLIC_BUSINESS_EMAIL_NO_DOWNSTREAM_HANDOFF"
     }
+  },
+  "after_remeasurement": {
+    "linkedin": {
+      "actual": {
+        "qualified_leads_found": 1,
+        "engagement_actions": 0,
+        "connection_requests": 1,
+        "direct_messages": 0
+      },
+      "gaps": {
+        "qualified_leads_found": 9,
+        "engagement_actions": 3,
+        "connection_requests": 4,
+        "direct_messages": 3
+      },
+      "complete": false
+    },
+    "email": {
+      "actual": 0,
+      "target": 5,
+      "gap": 5,
+      "complete": false
+    },
+    "maps_gate": {
+      "violations": 0,
+      "complete": true,
+      "rule": "NO_RESEARCHED_PUBLIC_BUSINESS_EMAIL_NO_DOWNSTREAM_HANDOFF"
+    }
+  },
+  "open_gaps": {
+    "linkedin": {
+      "qualified_leads_found": 9,
+      "engagement_actions": 3,
+      "connection_requests": 4,
+      "direct_messages": 3
+    },
+    "email": 5,
+    "maps_gate_violations": 0
   },
   "actions": [
     {
       "department": "growth",
       "manager": "AGENT_7",
+      "reason": "EMAIL_OR_MAPS_DAILY_GAP",
       "workflow": "department-head.yml",
       "dispatched": true,
       "detail": "HTTP 204"
     },
     {
+      "department": "linkedin",
+      "manager": "AGENT_8",
+      "reason": "LINKEDIN_DAILY_TARGET_GAP",
+      "workflow": "linkedin-department-head.yml",
+      "dispatched": false,
+      "detail": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
       "department": "customer_success",
       "manager": "AGENT_10",
+      "reason": "LIFECYCLE_REVIEW",
       "workflow": "customer-success.yml",
       "dispatched": true,
       "detail": "HTTP 204"
     }
   ],
-  "success_criteria": {
-    "growth": "manager reviews pipeline and dispatches the highest-value approved child workflow",
-    "customer_success": "manager reviews every active trial/customer and runs lifecycle communication/actions when due",
-    "linkedin": "Agent 8 independently enforces hourly daily lead/contact targets in browser-agent and reports to CEO"
-  }
+  "deadline_rule": "Before daily deadline, every remaining gap stays ATTENTION and must trigger corrective work on every CEO cycle; after deadline a nonzero gap is a failed daily objective unless a real external blocker is documented.",
+  "maps_rule": "No researched public business email = no Visibility, Sales Queue or outreach-ready handoff. Public email alone does not authorize sending; approval and documented legal basis remain required."
 }

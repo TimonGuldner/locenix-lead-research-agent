@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-13T16:13:13.514382+00:00",
+  "generated_at": "2026-09-13T16:13:48.995896+00:00",
   "department_status": "DAILY_TARGET_GAP",
   "metrics": {
     "lead_count": 93,

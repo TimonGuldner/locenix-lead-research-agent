@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 22,
-  "focus": "city_exploitation",
+  "learning_run_count": 23,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Bremen",
+    "Chemnitz",
+    "Dortmund"
   ],
   "selected_industries": [
-    "Umzugsunternehmen",
-    "Tierarzt",
-    "Physiotherapie"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Umzugsunternehmen",
-      "query": "Umzugsunternehmen Hamburg"
-    },
-    {
-      "city": "Hamburg",
+      "city": "Bremen",
       "industry": "Tierarzt",
-      "query": "Tierarzt Hamburg"
+      "query": "Tierarzt Bremen"
     },
     {
-      "city": "Hamburg",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Hamburg"
+      "city": "Chemnitz",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Chemnitz"
+    },
+    {
+      "city": "Dortmund",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Dortmund"
     }
   ],
   "queries_per_run": 3

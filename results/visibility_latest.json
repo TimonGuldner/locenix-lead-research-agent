@@ -1,103 +1,7 @@
 {
-  "results": [
-    {
-      "lead_id": "tierärztliche gemeinschaftspraxis viola daub & dr. med. vet. claudia szattelberger|koeln|http://www.tierarztpraxis-koeln-dellbrueck.de/",
-      "company_name": "Tierärztliche Gemeinschaftspraxis Viola Daub & Dr. med. vet. Claudia Szattelberger",
-      "industry": "Tierarzt",
-      "city": "Koeln",
-      "email": "info@tierarztpraxis-koeln-dellbrueck.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Koeln",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "felmo Mobiler Tierarzt Köln",
-            "Tierärzte vom Aachener Weiher",
-            "Tierklinik Kellerwessel in Köln - Tierärztliche Klinik mit 24h Notdienst",
-            "Vet Zentrum Köln – Tierärztliche Klinik für Kleintiere, 24 Stunden Notdienst",
-            "Tiergesundheitszentrum an der Flora (ex Tierarztpraxis am Nippeser Tälchen)"
-          ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-        },
-        {
-          "query": "Tierarzt in Koeln",
-          "status": "OBSERVED",
-          "observed_position": 9,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Tierarzt Dr. Dietmar Braun",
-            "Tierärzte vom Aachener Weiher",
-            "Tiergesundheitszentrum an der Flora (ex Tierarztpraxis am Nippeser Tälchen)",
-            "felmo Mobiler Tierarzt Köln",
-            "Rex Tierarztpraxis Köln-Innenstadt"
-          ],
-          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
-      "visibility_evidence": [
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
-        "Business observed at position 9 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-14",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
-      "company_name": "Tierarzt profelios Aachen Kleintierpraxis",
-      "industry": "Tierarzt",
-      "city": "Aachen",
-      "email": "praxis@profelios.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Aachen",
-          "status": "OBSERVED",
-          "observed_position": 3,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Tierarzt Aachen, Tierärztliches Zentrum für Chirurgie Aachen",
-            "Tierarztpraxis Dr. Bey, Zinsen & Partner GbR"
-          ],
-          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Aachen",
-          "status": "OBSERVED",
-          "observed_position": 4,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Tierarzt Aachen, Tierärztliches Zentrum für Chirurgie Aachen",
-            "Tierarztpraxis Dr. Bey, Zinsen & Partner GbR",
-            "Tierarztpraxis Brander Wald"
-          ],
-          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
-      "visibility_evidence": [
-        "Business observed at position 3 among the first 11 Maps results returned in this run.",
-        "Business observed at position 4 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-14",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    }
-  ],
+  "results": [],
   "state": {
-    "runs": 16,
+    "runs": 17,
     "processed_ids": [
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
       "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
@@ -168,7 +72,7 @@
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
     "processed_count": 67,
-    "last_batch_count": 2,
+    "last_batch_count": 0,
     "remaining_eligible": 0,
     "weak_visibility_total": 47,
     "email_gate_rejected_count": 27,

@@ -1,5 +1,5 @@
 {
-  "runs": 16,
+  "runs": 17,
   "processed_ids": [
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
     "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
@@ -70,7 +70,7 @@
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
   "processed_count": 67,
-  "last_batch_count": 2,
+  "last_batch_count": 0,
   "remaining_eligible": 0,
   "weak_visibility_total": 47,
   "email_gate_rejected_count": 27,

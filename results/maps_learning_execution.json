@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 20,
-  "focus": "city_exploitation",
-  "exploration": false,
+  "learning_run_count": 21,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Oberhausen",
+    "Gelsenkirchen",
+    "Braunschweig"
   ],
   "selected_industries": [
-    "Massagepraxis",
-    "Personal Training",
-    "Umzugsunternehmen"
+    "Kosmetikstudio"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Massagepraxis",
-      "query": "Massagepraxis Hamburg"
+      "city": "Oberhausen",
+      "industry": "Kosmetikstudio",
+      "query": "Kosmetikstudio Oberhausen"
     },
     {
-      "city": "Hamburg",
-      "industry": "Personal Training",
-      "query": "Personal Training Hamburg"
+      "city": "Gelsenkirchen",
+      "industry": "Kosmetikstudio",
+      "query": "Kosmetikstudio Gelsenkirchen"
     },
     {
-      "city": "Hamburg",
-      "industry": "Umzugsunternehmen",
-      "query": "Umzugsunternehmen Hamburg"
+      "city": "Braunschweig",
+      "industry": "Kosmetikstudio",
+      "query": "Kosmetikstudio Braunschweig"
     }
   ],
   "queries_per_run": 3

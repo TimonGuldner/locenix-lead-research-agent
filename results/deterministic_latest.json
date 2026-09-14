@@ -1,82 +1,95 @@
 {
   "accepted": [
     {
-      "company_name": "Elb-Umzüge-Hamburg",
-      "industry": "Umzugsunternehmen",
-      "city": "Hamburg",
-      "address": "Eberhofstieg 20, 22415 Hamburg-Nord, Deutschland",
-      "website": "http://xn--elb-umzge-hamburg-82b.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Elb-Umz%C3%BCge-Hamburg/data=!4m7!3m6!1s0x47b1894bb6d0af7d:0xb1ccd1490d75e0bd!8m2!3d53.6529293!4d10.0120974!16s%2Fg%2F11y10yqszz!19sChIJfa_QtkuJsUcRveB1DUnRzLE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 1575 7968997",
-      "public_business_email": "Logo-ELB@4x-scaled.png",
-      "email_source_url": "https://xn--elb-umzge-hamburg-82b.de/",
-      "contact_form_url": "https://xn--elb-umzge-hamburg-82b.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "company_name": "Kosmetikstudio Gala Beauty Space",
+      "industry": "Kosmetikstudio",
+      "city": "Gelsenkirchen",
+      "address": "Franz-Bielefeld-Straße 71, 45881 Gelsenkirchen, Deutschland",
+      "website": "https://dikidi.net/2118040",
+      "google_maps_url": "https://www.google.com/maps/place/Kosmetikstudio+Gala+Beauty+Space/data=!4m7!3m6!1s0x47b8e786cf50f5b1:0x11b5a902aa02529a!8m2!3d51.5163007!4d7.1018491!16s%2Fg%2F11yz8h9mrh!19sChIJsfVQz4bnuEcRmlICqgKptRE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 176 62492232",
+      "public_business_email": null,
+      "email_source_url": null,
+      "contact_form_url": null,
+      "contact_basis": "UNKNOWN",
       "google_rating": 5.0,
-      "google_review_count": 44,
-      "main_category": "Umzugsunternehmen",
-      "website_services": [],
+      "google_review_count": 13,
+      "main_category": "Kosmetikstudio",
+      "website_services": [
+        "microneedling",
+        "permanent make-up",
+        "wimpern"
+      ],
       "google_visible_services": [],
       "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "Innpack GmbH",
-      "competitor_1_reviews": 326,
-      "competitor_2": "Movemates",
-      "competitor_2_reviews": 322,
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, permanent make-up, wimpern"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Casablanca Cosmetics - Gelsenkirchen",
+      "competitor_1_reviews": 141,
+      "competitor_2": "Rietkötter Cosmeticals - Kosmetikstudio",
+      "competitor_2_reviews": 113,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "44 eigene Bewertungen vs. lokaler Wettbewerbsmedian 168; Gap 124."
+          "proof": "13 eigene Bewertungen vs. lokaler Wettbewerbsmedian 89; Gap 76."
         },
         {
           "type": "low_review_volume",
-          "proof": "Nur 44 Google-Bewertungen."
+          "proof": "Nur 13 Google-Bewertungen."
         }
       ],
-      "soft_optimization_signals": [],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, permanent make-up, wimpern",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
       "verified_signal_count": 2,
-      "report_potential_score": 23,
-      "visible_value_score": 12,
+      "report_potential_score": 25,
+      "visible_value_score": 14,
       "maps_importance_score": 14,
       "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
+      "competitive_pressure_score": 8,
+      "digital_readiness_score": 9,
       "saas_fit_score": 5,
-      "total_score": 82,
-      "competitor_review_median": 168,
-      "review_gap": 124,
+      "total_score": 83,
+      "competitor_review_median": 89,
+      "review_gap": 76,
       "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "44 eigene Bewertungen vs. lokaler Wettbewerbsmedian 168; Gap 124.",
+      "primary_pitch": "13 eigene Bewertungen vs. lokaler Wettbewerbsmedian 89; Gap 76.",
       "proof": [
-        "44 eigene Bewertungen vs. lokaler Wettbewerbsmedian 168; Gap 124.",
-        "Nur 44 Google-Bewertungen."
+        "13 eigene Bewertungen vs. lokaler Wettbewerbsmedian 89; Gap 76.",
+        "Nur 13 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, permanent make-up, wimpern"
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "44 eigene Bewertungen vs. lokaler Wettbewerbsmedian 168; Gap 124.",
-      "second_outreach_angle": "Nur 44 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Umzugsunternehmen Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-13",
+      "best_outreach_angle": "13 eigene Bewertungen vs. lokaler Wettbewerbsmedian 89; Gap 76.",
+      "second_outreach_angle": "Nur 13 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Kosmetikstudio Gelsenkirchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-14",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
   "accepted_count": 1,
-  "rejected_count": 21,
-  "inspected": 23,
+  "rejected_count": 23,
+  "inspected": 24,
   "state": {
-    "query_cursor": 156,
-    "runs": 52,
-    "lead_count": 105,
+    "query_cursor": 159,
+    "runs": 53,
+    "lead_count": 106,
     "target_leads": 999999999,
     "last_accepted": 1,
-    "last_inspected": 23,
+    "last_inspected": 24,
     "complete": false,
-    "last_rejected": 21,
+    "last_rejected": 23,
     "a_leads": 17,
-    "b_leads": 57
+    "b_leads": 58
   }
 }

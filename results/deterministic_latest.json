@@ -1,276 +1,387 @@
 {
   "accepted": [
     {
-      "company_name": "BSN Fahrschule",
-      "industry": "Fahrschule",
-      "city": "Braunschweig",
-      "address": "Bültenweg 87, 38106 Braunschweig, Deutschland",
-      "website": "http://bsn-fahrschule.de/",
-      "google_maps_url": "https://www.google.com/maps/place/BSN+Fahrschule/data=!4m7!3m6!1s0x47aff551f26518c5:0xb64b3d9eb681b3de!8m2!3d52.2731475!4d10.5338373!16s%2Fg%2F11ntjr6hs3!19sChIJxRhl8lH1r0cR3rOBtp49S7Y?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 172 8798629",
-      "public_business_email": "info@bsn-fahrschule.de",
-      "email_source_url": "https://bsn-fahrschule.de/impressum/",
-      "contact_form_url": "https://bsn-fahrschule.de/#kontakt",
+      "company_name": "NICE Aesthetic - Kosmetikstudio Hamburg",
+      "industry": "Beauty Aesthetik",
+      "city": "Hamburg",
+      "address": "Just Beauty, Bramfelder Ch 292, 22177 Wandsbek, Deutschland",
+      "website": "https://niceaesthetic.de/",
+      "google_maps_url": "https://www.google.com/maps/place/NICE+Aesthetic+-+Kosmetikstudio+Hamburg/data=!4m7!3m6!1s0x47b18981fbe7f763:0x4157e62beb9bad8!8m2!3d53.6170528!4d10.0781697!16s%2Fg%2F1hm49hsrv!19sChIJY_fn-4GJsUcR2Lq5vmJ-FQQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 40 87602030",
+      "public_business_email": "info@niceaesthetic.de",
+      "email_source_url": "https://niceaesthetic.de/",
+      "contact_form_url": null,
       "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
       "google_rating": 4.9,
-      "google_review_count": 39,
-      "main_category": "Fahrschule",
-      "website_services": [],
+      "google_review_count": null,
+      "main_category": "Beauty Aesthetik",
+      "website_services": [
+        "microneedling",
+        "laser"
+      ],
       "google_visible_services": [],
       "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "Fahrschule Mausehund",
-      "competitor_1_reviews": 583,
-      "competitor_2": "Kai's Fahrschule",
-      "competitor_2_reviews": 532,
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, laser"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Beauty Klinik an der Alster",
+      "competitor_1_reviews": 54,
+      "competitor_2": null,
+      "competitor_2_reviews": null,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "39 eigene Bewertungen vs. lokaler Wettbewerbsmedian 290; Gap 251."
+          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54."
         },
         {
           "type": "low_review_volume",
-          "proof": "Nur 39 Google-Bewertungen."
+          "proof": "Nur 0 Google-Bewertungen."
         }
       ],
-      "soft_optimization_signals": [],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, laser",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
       "verified_signal_count": 2,
-      "report_potential_score": 26,
-      "visible_value_score": 12,
+      "report_potential_score": 22,
+      "visible_value_score": 14,
       "maps_importance_score": 14,
       "customer_value_score": 8,
-      "competitive_pressure_score": 10,
+      "competitive_pressure_score": 8,
       "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 85,
-      "competitor_review_median": 290,
-      "review_gap": 251,
-      "grade": "A",
-      "lead_class": "A_LEAD",
-      "qa_gate": "PASS",
-      "primary_pitch": "39 eigene Bewertungen vs. lokaler Wettbewerbsmedian 290; Gap 251.",
-      "proof": [
-        "39 eigene Bewertungen vs. lokaler Wettbewerbsmedian 290; Gap 251.",
-        "Nur 39 Google-Bewertungen."
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "39 eigene Bewertungen vs. lokaler Wettbewerbsmedian 290; Gap 251.",
-      "second_outreach_angle": "Nur 39 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Fahrschule Braunschweig. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "QUALIFIED",
-      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "City Fahrschule Braunschweig",
-      "industry": "Fahrschule",
-      "city": "Braunschweig",
-      "address": "Güldenstraße 44, 38100 Braunschweig, Deutschland",
-      "website": "https://www.cityfahrschulebs.info/",
-      "google_maps_url": "https://www.google.com/maps/place/City+Fahrschule+Braunschweig/data=!4m7!3m6!1s0x47aff6707c9603ab:0xb053ad28e68e5d26!8m2!3d52.2656531!4d10.5144167!16s%2Fg%2F1tfcb6n2!19sChIJqwOWfHD2r0cRJl2O5iitU7A?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 531 29066011",
-      "public_business_email": null,
-      "email_source_url": null,
-      "contact_form_url": "https://www.cityfahrschulebs.info/kontakt/",
-      "contact_basis": "CONTACT_FORM",
-      "google_rating": 4.8,
-      "google_review_count": 47,
-      "main_category": "Fahrschule",
-      "website_services": [],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "Fahrschule Mausehund",
-      "competitor_1_reviews": 583,
-      "competitor_2": "Kai's Fahrschule",
-      "competitor_2_reviews": 532,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "47 eigene Bewertungen vs. lokaler Wettbewerbsmedian 290; Gap 243."
-        },
-        {
-          "type": "low_review_volume",
-          "proof": "Nur 47 Google-Bewertungen."
-        }
-      ],
-      "soft_optimization_signals": [],
-      "verified_signal_count": 2,
-      "report_potential_score": 26,
-      "visible_value_score": 12,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 85,
-      "competitor_review_median": 290,
-      "review_gap": 243,
-      "grade": "A",
-      "lead_class": "A_LEAD",
-      "qa_gate": "PASS",
-      "primary_pitch": "47 eigene Bewertungen vs. lokaler Wettbewerbsmedian 290; Gap 243.",
-      "proof": [
-        "47 eigene Bewertungen vs. lokaler Wettbewerbsmedian 290; Gap 243.",
-        "Nur 47 Google-Bewertungen."
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "47 eigene Bewertungen vs. lokaler Wettbewerbsmedian 290; Gap 243.",
-      "second_outreach_angle": "Nur 47 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Fahrschule Braunschweig. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "QUALIFIED",
-      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Fahrschule Schlierf",
-      "industry": "Fahrschule",
-      "city": "Chemnitz",
-      "address": "Wolgograder Allee 207, 09123 Hutholz, Deutschland",
-      "website": "http://fahrschule-schlierf.com/",
-      "google_maps_url": "https://www.google.com/maps/place/Fahrschule+Schlierf/data=!4m7!3m6!1s0x47a7488b09cd6073:0xeccf5fe6df509a77!8m2!3d50.7834075!4d12.8783818!16s%2Fg%2F124sskmc8!19sChIJc2DNCYtIp0cRd5pQ3-Zfz-w?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 172 3731860",
-      "public_business_email": null,
-      "email_source_url": null,
-      "contact_form_url": null,
-      "contact_basis": "UNKNOWN",
-      "google_rating": 4.6,
-      "google_review_count": 72,
-      "main_category": "Fahrschule",
-      "website_services": [],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "Fahrschule Arne Petersen",
-      "competitor_1_reviews": 340,
-      "competitor_2": "City Fahrschule Thomas Hanske",
-      "competitor_2_reviews": 226,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "72 eigene Bewertungen vs. lokaler Wettbewerbsmedian 164; Gap 92."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
-        }
-      ],
-      "soft_optimization_signals": [],
-      "verified_signal_count": 2,
-      "report_potential_score": 23,
-      "visible_value_score": 12,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 9,
       "saas_fit_score": 5,
       "total_score": 81,
-      "competitor_review_median": 164,
-      "review_gap": 92,
+      "competitor_review_median": 54,
+      "review_gap": 54,
       "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "72 eigene Bewertungen vs. lokaler Wettbewerbsmedian 164; Gap 92.",
+      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
       "proof": [
-        "72 eigene Bewertungen vs. lokaler Wettbewerbsmedian 164; Gap 92.",
-        "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
+        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
+        "Nur 0 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, laser"
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "72 eigene Bewertungen vs. lokaler Wettbewerbsmedian 164; Gap 92.",
-      "second_outreach_angle": "Google-Bewertung 4.6; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Fahrschule Chemnitz. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
+      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Beauty Aesthetik Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-14",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "company_name": "Fahrschule Hofmann",
-      "industry": "Fahrschule",
-      "city": "Chemnitz",
-      "address": "Reichenhainer Str. 11, 09126 Bernsdorf, Deutschland",
-      "website": "http://www.hofmann-fahrschule.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Fahrschule+Hofmann/data=!4m7!3m6!1s0x47a7466be893d35d:0xbb30207fba0aa326!8m2!3d50.8222681!4d12.9266895!16s%2Fg%2F1tf74k3d!19sChIJXdOT6GtGp0cRJqMKun8gMLs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 371 5430171",
+      "company_name": "Beauty & Aesthetics OE Studio",
+      "industry": "Beauty Aesthetik",
+      "city": "Hamburg",
+      "address": "Wandsbeker Zollstraße 87, 22041 Wandsbek, Deutschland",
+      "website": "https://beautyandaesthetics.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Beauty+%26+Aesthetics+OE+Studio/data=!4m7!3m6!1s0x47b18bd86f3d821d:0x5b8c23e07c4cf5bc!8m2!3d53.5764385!4d10.0805769!16s%2Fg%2F11ww7wtb_9!19sChIJHYI9b9iLsUcRvPVMfOAjjFs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 1520 6489512",
+      "public_business_email": "beauty@beautyandaesthetics.de",
+      "email_source_url": "https://beautyandaesthetics.de/",
+      "contact_form_url": "https://beautyandaesthetics.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 5.0,
+      "google_review_count": null,
+      "main_category": "Beauty Aesthetik",
+      "website_services": [
+        "laser"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: laser"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Beauty Klinik an der Alster",
+      "competitor_1_reviews": 54,
+      "competitor_2": null,
+      "competitor_2_reviews": null,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 0 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: laser",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 22,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 8,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 81,
+      "competitor_review_median": 54,
+      "review_gap": 54,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
+      "proof": [
+        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
+        "Nur 0 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: laser"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
+      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Beauty Aesthetik Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-14",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Aesthetik & Kosmetikstudio Hamburg",
+      "industry": "Beauty Aesthetik",
+      "city": "Hamburg",
+      "address": "Grindelallee, 21046 Eimsbüttel, Deutschland",
+      "website": "https://www.instagram.com/aesthetik.studio.hamburg_/",
+      "google_maps_url": "https://www.google.com/maps/place/Aesthetik+%26+Kosmetikstudio+Hamburg/data=!4m7!3m6!1s0x47b18f38bb876b25:0x6fbece02854a847!8m2!3d53.5679183!4d9.9821493!16s%2Fg%2F1jkw626bq!19sChIJJWuHuziPsUcRR6hUKODs-wY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 171 8093364",
       "public_business_email": null,
       "email_source_url": null,
-      "contact_form_url": "https://www.hofmann-fahrschule.de/kontakt",
-      "contact_basis": "CONTACT_FORM",
-      "google_rating": 4.1,
-      "google_review_count": 49,
-      "main_category": "Fahrschule",
+      "contact_form_url": null,
+      "contact_basis": "UNKNOWN",
+      "google_rating": 4.0,
+      "google_review_count": null,
+      "main_category": "Beauty Aesthetik",
       "website_services": [],
       "google_visible_services": [],
       "service_gap": [],
       "service_visibility_candidates": [],
       "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "Fahrschule Arne Petersen",
-      "competitor_1_reviews": 340,
-      "competitor_2": "City Fahrschule Thomas Hanske",
-      "competitor_2_reviews": 226,
+      "competitor_1": "Beauty Klinik an der Alster",
+      "competitor_1_reviews": 54,
+      "competitor_2": null,
+      "competitor_2_reviews": null,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "49 eigene Bewertungen vs. lokaler Wettbewerbsmedian 164; Gap 115."
+          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54."
         },
         {
           "type": "low_review_volume",
-          "proof": "Nur 49 Google-Bewertungen."
+          "proof": "Nur 0 Google-Bewertungen."
         },
         {
           "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.1; sichtbares Reputationspotenzial."
+          "proof": "Google-Bewertung 4.0; sichtbares Reputationspotenzial."
         }
       ],
       "soft_optimization_signals": [],
       "verified_signal_count": 3,
-      "report_potential_score": 25,
+      "report_potential_score": 24,
       "visible_value_score": 12,
       "maps_importance_score": 14,
       "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
+      "competitive_pressure_score": 8,
+      "digital_readiness_score": 9,
       "saas_fit_score": 5,
-      "total_score": 84,
-      "competitor_review_median": 164,
-      "review_gap": 115,
+      "total_score": 80,
+      "competitor_review_median": 54,
+      "review_gap": 54,
       "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "49 eigene Bewertungen vs. lokaler Wettbewerbsmedian 164; Gap 115.",
+      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
       "proof": [
-        "49 eigene Bewertungen vs. lokaler Wettbewerbsmedian 164; Gap 115.",
-        "Nur 49 Google-Bewertungen.",
-        "Google-Bewertung 4.1; sichtbares Reputationspotenzial."
+        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
+        "Nur 0 Google-Bewertungen.",
+        "Google-Bewertung 4.0; sichtbares Reputationspotenzial."
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "49 eigene Bewertungen vs. lokaler Wettbewerbsmedian 164; Gap 115.",
-      "second_outreach_angle": "Nur 49 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Fahrschule Chemnitz. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
+      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Beauty Aesthetik Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-14",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "BE BEAUTIFUL | Ästhetik & Kosmetik Hamburg",
+      "industry": "Beauty Aesthetik",
+      "city": "Hamburg",
+      "address": "Elbchaussee 5, 22765 Altona, Deutschland",
+      "website": "https://www.bebeautiful.hamburg/",
+      "google_maps_url": "https://www.google.com/maps/place/BE+BEAUTIFUL+%7C+%C3%84sthetik+%26+Kosmetik+Hamburg/data=!4m7!3m6!1s0x47b185a16b57ff55:0x54080372ebdaa4ec!8m2!3d53.5464719!4d9.9314495!16s%2Fg%2F11mwyq5v6f!19sChIJVf9Xa6GFsUcR7KTa63IDCFQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 15561 031019",
+      "public_business_email": "dr.wessel@bebeautiful.hamburg",
+      "email_source_url": "https://bebeautiful.hamburg",
+      "contact_form_url": "https://bebeautiful.hamburg/kontakt/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.9,
+      "google_review_count": null,
+      "main_category": "Beauty Aesthetik",
+      "website_services": [
+        "botox",
+        "hyaluron"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: botox, hyaluron"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Beauty Klinik an der Alster",
+      "competitor_1_reviews": 54,
+      "competitor_2": null,
+      "competitor_2_reviews": null,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 0 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: botox, hyaluron",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 22,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 8,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 81,
+      "competitor_review_median": 54,
+      "review_gap": 54,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
+      "proof": [
+        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
+        "Nur 0 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: botox, hyaluron"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
+      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Beauty Aesthetik Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-14",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Hamburg Aesthetics by Herrmann",
+      "industry": "Beauty Aesthetik",
+      "city": "Hamburg",
+      "address": "Neuer Wall 61, 20354 Hamburg, Deutschland",
+      "website": "https://hamburg-aesthetics.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Hamburg+Aesthetics+by+Herrmann/data=!4m7!3m6!1s0x47b18f0b0b6a3517:0x940e8a07ffbd2b0f!8m2!3d53.5505221!4d9.9887359!16s%2Fg%2F11l31ssddw!19sChIJFzVqCwuPsUcRDyu9_weKDpQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 1522 7569411",
+      "public_business_email": "info@hamburg-aesthetics.de",
+      "email_source_url": "https://hamburg-aesthetics.de/",
+      "contact_form_url": "https://hamburg-aesthetics.de/kontakt/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 5.0,
+      "google_review_count": null,
+      "main_category": "Beauty Aesthetik",
+      "website_services": [
+        "hyaluron",
+        "microneedling",
+        "hautbehandlung"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: hyaluron, microneedling, hautbehandlung"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Beauty Klinik an der Alster",
+      "competitor_1_reviews": 54,
+      "competitor_2": null,
+      "competitor_2_reviews": null,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 0 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: hyaluron, microneedling, hautbehandlung",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 22,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 8,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 81,
+      "competitor_review_median": 54,
+      "review_gap": 54,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
+      "proof": [
+        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
+        "Nur 0 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: hyaluron, microneedling, hautbehandlung"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 54; Gap 54.",
+      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Beauty Aesthetik Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-14",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
-  "accepted_count": 4,
-  "rejected_count": 20,
+  "accepted_count": 5,
+  "rejected_count": 17,
   "inspected": 24,
   "state": {
-    "query_cursor": 201,
-    "runs": 67,
-    "lead_count": 123,
+    "query_cursor": 204,
+    "runs": 68,
+    "lead_count": 128,
     "target_leads": 999999999,
-    "last_accepted": 4,
+    "last_accepted": 5,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 20,
+    "last_rejected": 17,
     "a_leads": 22,
-    "b_leads": 70
+    "b_leads": 75
   }
 }

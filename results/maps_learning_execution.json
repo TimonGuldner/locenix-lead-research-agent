@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 35,
-  "focus": "exploration",
-  "exploration": true,
+  "learning_run_count": 36,
+  "focus": "city_exploitation",
+  "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Braunschweig",
-    "Chemnitz",
-    "Berlin"
+    "Hamburg"
   ],
   "selected_industries": [
-    "Fahrschule"
+    "Beauty Aesthetik",
+    "Fahrschule",
+    "Barbershop"
   ],
   "selected_pairs": [
     {
-      "city": "Braunschweig",
-      "industry": "Fahrschule",
-      "query": "Fahrschule Braunschweig"
+      "city": "Hamburg",
+      "industry": "Beauty Aesthetik",
+      "query": "Beauty Aesthetik Hamburg"
     },
     {
-      "city": "Chemnitz",
+      "city": "Hamburg",
       "industry": "Fahrschule",
-      "query": "Fahrschule Chemnitz"
+      "query": "Fahrschule Hamburg"
     },
     {
-      "city": "Berlin",
-      "industry": "Fahrschule",
-      "query": "Fahrschule Berlin"
+      "city": "Hamburg",
+      "industry": "Barbershop",
+      "query": "Barbershop Hamburg"
     }
   ],
   "queries_per_run": 3

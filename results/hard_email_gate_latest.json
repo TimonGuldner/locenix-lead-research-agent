@@ -1,10 +1,10 @@
 {
   "state": {
     "agent": "LOCENIX_HARD_EMAIL_GATE_ENFORCER",
-    "last_run_at": "2026-09-14T07:15:14.013964+00:00",
-    "qualified_qa_total": 86,
-    "downstream_email_qualified_total": 61,
-    "email_missing_excluded_total": 25,
+    "last_run_at": "2026-09-14T07:15:46.447072+00:00",
+    "qualified_qa_total": 91,
+    "downstream_email_qualified_total": 64,
+    "email_missing_excluded_total": 27,
     "visibility_rows_before": 40,
     "visibility_rows_after": 40,
     "visibility_rows_purged_this_run": 0,
@@ -43,6 +43,8 @@
     "kosmetikstudio gala beauty space|gelsenkirchen|https://dikidi.net/2118040",
     "maison de nails berlin|berlin|https://maisondenails.de/",
     "zahnärzte in der hamburger city - dr. med. dent. daria von riewel (ehem. niemietz)|hamburg|https://zahnarzt.hamburg/",
+    "fachzentrum für kleintiermedizin am chemnitz center|chemnitz|https://www.vet-chemnitz.de/",
+    "tierärztliche praxis für kleintiere scharnhorst gmbh|dortmund|http://www.petdoc.de/",
     "torami nails · lashes|krefeld|https://beacons.ai/torami.co"
   ]
 }

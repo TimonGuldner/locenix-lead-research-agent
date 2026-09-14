@@ -1,8 +1,8 @@
 {
-  "last_run_at": "2026-09-14T07:15:17.692286+00:00",
+  "last_run_at": "2026-09-14T07:15:50.795194+00:00",
   "department_status": "BACKLOG",
   "next_agent": "deep_qa",
-  "reason": "Deep QA has 8 eligible leads waiting.",
+  "reason": "Deep QA has 3 eligible leads waiting.",
   "departments_total": 1,
   "departments_proposed": 0,
   "agents_total": 10,

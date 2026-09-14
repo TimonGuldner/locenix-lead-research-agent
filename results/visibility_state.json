@@ -1,8 +1,9 @@
 {
-  "runs": 10,
+  "runs": 11,
   "processed_ids": [
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
     "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
+    "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
     "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
     "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
@@ -11,12 +12,15 @@
     "gebäudereinigung köln|koeln|https://xn--gebudereinigungkoeln-dzb.de/",
     "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
     "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
+    "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
     "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
     "heizung sanitär köln | ebi's haustechnik|koeln|http://www.ebis-haustechnik.de/",
+    "hilke friseur kopffabrik|hamburg|http://www.hilke-kopffabrik.de/",
     "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
     "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
     "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
     "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
+    "kleintierzentrum bonn hardtberg|bonn|https://www.kleintierzentrum-bonn.de/",
     "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
     "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
     "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
@@ -33,6 +37,7 @@
     "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
     "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
     "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
+    "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
     "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
     "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
     "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
@@ -42,12 +47,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 40,
-  "last_batch_count": 0,
-  "remaining_eligible": 0,
-  "weak_visibility_total": 28,
+  "processed_count": 45,
+  "last_batch_count": 5,
+  "remaining_eligible": 22,
+  "weak_visibility_total": 32,
   "email_gate_rejected_count": 27,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

@@ -1,13 +1,13 @@
 {
   "state": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "last_run_at": "2026-09-13T22:24:49.773403+00:00",
+    "last_run_at": "2026-09-14T04:55:09.803796+00:00",
     "status": "OK",
-    "learning_run_count": 3,
-    "evaluated_opportunities": 10,
-    "queries_learned": 2,
-    "sources_learned": 4,
-    "boosted_queries": 2,
+    "learning_run_count": 4,
+    "evaluated_opportunities": 16,
+    "queries_learned": 4,
+    "sources_learned": 10,
+    "boosted_queries": 3,
     "paused_queries": 0,
     "blocked_domains": 0,
     "provider_cooldowns": 2,
@@ -15,30 +15,53 @@
   },
   "config": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "generated_at": "2026-09-13T22:24:49.773403+00:00",
-    "learning_run_count": 3,
+    "generated_at": "2026-09-14T04:55:09.803796+00:00",
+    "learning_run_count": 4,
     "mode": "SAFE_OUTCOME_LEARNING",
     "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
     "query_weights": {
       "verified current opportunity": 1.4,
-      "\"Google Business Profile\" German Local SEO freelancer job": 1.8
+      "\"Google Business Profile\" German Local SEO freelancer job": 1.8,
+      "\"Google Unternehmensprofil\" Freelancer Deutschland": 1.8,
+      "\"Local SEO\" Projekt Deutschland Freelancer": 1.8
     },
     "source_weights": {
       "upwork.com": 1.56,
       "local-seo-freelancer.de": 1.8,
       "freelancer.com": 1.8,
-      "drweb.de": 1.8
+      "drweb.de": 1.8,
+      "janphilipps.de": 1.8,
+      "aloma.de": 1.8,
+      "seotariat.de": 1.8,
+      "lokando24.de": 1.8,
+      "thomasrees.de": 1.8,
+      "optiphin.de": 1.8
     },
     "boosted_queries": [
       "\"Google Business Profile\" German Local SEO freelancer job",
+      "\"Local SEO\" Projekt Deutschland Freelancer",
       "verified current opportunity"
     ],
     "paused_queries": [],
     "blocked_domains": [],
     "provider_policy": {
+      "reddit_api": {
+        "fail_streak": 3,
+        "cooldown": true,
+        "probe_due": false,
+        "last_errors": 0,
+        "last_hits": 0
+      },
       "duckduckgo": {
         "fail_streak": 0,
         "cooldown": false,
+        "probe_due": false,
+        "last_errors": 0,
+        "last_hits": 0
+      },
+      "jina_search": {
+        "fail_streak": 3,
+        "cooldown": true,
         "probe_due": false,
         "last_errors": 0,
         "last_hits": 0
@@ -49,20 +72,6 @@
         "probe_due": false,
         "last_errors": 0,
         "last_hits": 3
-      },
-      "reddit_api": {
-        "fail_streak": 3,
-        "cooldown": true,
-        "probe_due": false,
-        "last_errors": 3,
-        "last_hits": 0
-      },
-      "jina_search": {
-        "fail_streak": 3,
-        "cooldown": true,
-        "probe_due": false,
-        "last_errors": 7,
-        "last_hits": 0
       }
     },
     "minimum_samples_before_pause": 5,
@@ -85,6 +94,32 @@
           "samples": 7,
           "reward": 28.0,
           "hot": 7,
+          "warm": 0,
+          "watch": 0,
+          "reject": 0,
+          "positive": 0,
+          "negative": 0,
+          "avg_reward": 4.0,
+          "reject_rate": 0.0,
+          "qualified_rate": 1.0
+        },
+        "\"Google Unternehmensprofil\" Freelancer Deutschland": {
+          "samples": 1,
+          "reward": 4.0,
+          "hot": 1,
+          "warm": 0,
+          "watch": 0,
+          "reject": 0,
+          "positive": 0,
+          "negative": 0,
+          "avg_reward": 4.0,
+          "reject_rate": 0.0,
+          "qualified_rate": 1.0
+        },
+        "\"Local SEO\" Projekt Deutschland Freelancer": {
+          "samples": 5,
+          "reward": 20.0,
+          "hot": 5,
           "warm": 0,
           "watch": 0,
           "reject": 0,
@@ -147,6 +182,84 @@
           "avg_reward": 4.0,
           "reject_rate": 0.0,
           "qualified_rate": 1.0
+        },
+        "janphilipps.de": {
+          "samples": 1,
+          "reward": 4.0,
+          "hot": 1,
+          "warm": 0,
+          "watch": 0,
+          "reject": 0,
+          "positive": 0,
+          "negative": 0,
+          "avg_reward": 4.0,
+          "reject_rate": 0.0,
+          "qualified_rate": 1.0
+        },
+        "aloma.de": {
+          "samples": 1,
+          "reward": 4.0,
+          "hot": 1,
+          "warm": 0,
+          "watch": 0,
+          "reject": 0,
+          "positive": 0,
+          "negative": 0,
+          "avg_reward": 4.0,
+          "reject_rate": 0.0,
+          "qualified_rate": 1.0
+        },
+        "seotariat.de": {
+          "samples": 1,
+          "reward": 4.0,
+          "hot": 1,
+          "warm": 0,
+          "watch": 0,
+          "reject": 0,
+          "positive": 0,
+          "negative": 0,
+          "avg_reward": 4.0,
+          "reject_rate": 0.0,
+          "qualified_rate": 1.0
+        },
+        "lokando24.de": {
+          "samples": 1,
+          "reward": 4.0,
+          "hot": 1,
+          "warm": 0,
+          "watch": 0,
+          "reject": 0,
+          "positive": 0,
+          "negative": 0,
+          "avg_reward": 4.0,
+          "reject_rate": 0.0,
+          "qualified_rate": 1.0
+        },
+        "thomasrees.de": {
+          "samples": 1,
+          "reward": 4.0,
+          "hot": 1,
+          "warm": 0,
+          "watch": 0,
+          "reject": 0,
+          "positive": 0,
+          "negative": 0,
+          "avg_reward": 4.0,
+          "reject_rate": 0.0,
+          "qualified_rate": 1.0
+        },
+        "optiphin.de": {
+          "samples": 1,
+          "reward": 4.0,
+          "hot": 1,
+          "warm": 0,
+          "watch": 0,
+          "reject": 0,
+          "positive": 0,
+          "negative": 0,
+          "avg_reward": 4.0,
+          "reject_rate": 0.0,
+          "qualified_rate": 1.0
         }
       },
       "providers": {
@@ -164,9 +277,9 @@
           "qualified_rate": 1.0
         },
         "cloud_browser_bing": {
-          "samples": 7,
-          "reward": 28.0,
-          "hot": 7,
+          "samples": 13,
+          "reward": 52.0,
+          "hot": 13,
           "warm": 0,
           "watch": 0,
           "reject": 0,

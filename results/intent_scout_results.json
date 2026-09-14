@@ -1,6 +1,120 @@
 {
-  "generated_at": "2026-09-13T22:24:38.572545+00:00",
+  "generated_at": "2026-09-14T04:54:47.833339+00:00",
   "signals": [
+    {
+      "signal_id": "intent-014890ef2627ed38",
+      "source": "janphilipps.de",
+      "source_url": "https://www.janphilipps.de/leistungen/local-seo",
+      "title": "Local SEO Freelancer | In der Region gefunden | Jan Philipps",
+      "snippet": "janphilipps.de\nhttps://www.janphilipps.de › leistungen › local-seo\nLocal SEO Freelancer | In der Region gefunden | Jan Philipps\n\nWer ein Einzugsgebiet bedient, braucht keine Top-Platzierung in ganz Deutschland, sondern Sichtbarkeit vor Ort. Ich optimiere Ihr …",
+      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-09-14T04:54:47.833339+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-831983a748b2ab68",
+      "source": "aloma.de",
+      "source_url": "https://www.aloma.de/marketing-verzeichnis/local-seo/",
+      "title": "Local SEO Deutschland: Local SEO Freelancer & Agenturen | Aloma.de",
+      "snippet": "Aloma.de\nhttps://www.aloma.de › marketing-verzeichnis › local-seo\nLocal SEO Deutschland: Local SEO Freelancer & Agenturen | Aloma.de\n\nIn dieser Übersicht finden Sie eine Local SEO Agentur oder einen Local SEO Freelancer in Ihrer Nähe. Local SEOs helfen Ihnen, die …",
+      "query": "\"Local SEO\" Projekt Deutschland Freelancer",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-09-14T04:54:47.833339+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-e4535c08a79d6e21",
+      "source": "seotariat.de",
+      "source_url": "https://seotariat.de/local-seo-freelancer/",
+      "title": "Local SEO-Freelancer » mehr Sichtbarkeit mehr Anfragen",
+      "snippet": "seotariat.de\nhttps://seotariat.de › local-seo-freelancer\nLocal SEO-Freelancer » mehr Sichtbarkeit mehr Anfragen\n\nSo erhalten Sie in Sekundenschnelle eine Lösung für Ihr Problem: eine Auswahl der besten lokalen Anbieter mit Bewertungen, …",
+      "query": "\"Local SEO\" Projekt Deutschland Freelancer",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-09-14T04:54:47.833339+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-75380c82bceafb1e",
+      "source": "lokando24.de",
+      "source_url": "https://lokando24.de/die-besten-seo-freelancer-in-deutschland/",
+      "title": "Die Besten SEO Freelancer in Deutschland - lokando24.de",
+      "snippet": "lokando24.de\nhttps://lokando24.de › die-besten-seo-freelancer-in-deutschland\nDie Besten SEO Freelancer in Deutschland - lokando24.de\n\nLocal SEO ist die Königsdisziplin für physische Standorte und Dienstleister in ganz Deutschland. Wer in Städten wie Düsseldorf oder …",
+      "query": "\"Local SEO\" Projekt Deutschland Freelancer",
+      "raw_score": 3,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 2,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-09-14T04:54:47.833339+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-d665286f0debdc3e",
+      "source": "thomasrees.de",
+      "source_url": "https://thomasrees.de/local-seo-freelancer/",
+      "title": "Local-SEO Freelancer Thomas Rees | Mehr Kunden vor Ort",
+      "snippet": "thomasrees.de\nhttps://thomasrees.de › local-seo-freelancer\nLocal-SEO Freelancer Thomas Rees | Mehr Kunden vor Ort\n\nAls spezialisierter Local SEO Freelancer sorge ich dafür, dass Sie bei lokalen Suchanfragen und auf Google Maps ganz oben …",
+      "query": "\"Local SEO\" Projekt Deutschland Freelancer",
+      "raw_score": 3,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 2,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-09-14T04:54:47.833339+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-59c327811eaffb64",
+      "source": "optiphin.de",
+      "source_url": "https://www.optiphin.de/leistungen/local-seo-freelancer/",
+      "title": "Local SEO Freelancer – nachhaltige lokale Sichtbarkeit | Optiphin",
+      "snippet": "optiphin.de\nhttps://www.optiphin.de › leistungen › local-seo-freelancer\nLocal SEO Freelancer – nachhaltige lokale Sichtbarkeit | Optiphin\n\nDu bist auf der Suche nach einem Local SEO-Freelancer mit Expertise, der deine Sichtbarkeit für lokale Suchanfragen steigert? …",
+      "query": "\"Local SEO\" Projekt Deutschland Freelancer",
+      "raw_score": 4,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 2,
+        "active_intent_hits": 2,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-09-14T04:54:47.833339+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
     {
       "signal_id": "intent-b9ffebe38e30a503",
       "source": "upwork.com",

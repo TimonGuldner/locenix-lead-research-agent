@@ -1,28 +1,28 @@
 {
   "agent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
   "parent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-13T22:24:50.105988+00:00",
+  "generated_at": "2026-09-14T04:55:10.799748+00:00",
   "department_status": "HEALTHY",
   "next_agent": "intent_scout",
-  "reason": "Direct discovery endpoints were blocked, but the cloud-browser fallback recovered successfully.",
+  "reason": "No downstream backlog observed; find fresh high-intent DACH opportunities using the learned source/query priorities.",
   "metrics": {
-    "signals_found": 14,
-    "hot": 7,
+    "signals_found": 20,
+    "hot": 13,
     "warm": 3,
     "watch": 0,
     "rejected": 4,
-    "responses_prepared": 10,
+    "responses_prepared": 16,
     "responses_sent": 0,
     "positive_replies": 0,
     "trials": 0,
     "paid_customers": 0,
-    "browser_fallback_added": 7,
+    "browser_fallback_added": 6,
     "browser_stale_removed": 0,
-    "transport_errors_recovered": 11,
-    "learning_runs": 3,
-    "learning_queries": 2,
-    "learning_sources": 4,
-    "learning_boosted_queries": 2,
+    "transport_errors_recovered": 0,
+    "learning_runs": 4,
+    "learning_queries": 4,
+    "learning_sources": 10,
+    "learning_boosted_queries": 3,
     "learning_paused_queries": 0,
     "learning_provider_cooldowns": 2,
     "human_action_required": 0,
@@ -31,81 +31,36 @@
   "children": {
     "intent_scout": {
       "agent": "AGENT_15A_INTENT_SCOUT",
-      "last_run_at": "2026-09-13T22:24:36.599265+00:00",
-      "signals_found": 3,
+      "last_run_at": "2026-09-14T04:54:46.204519+00:00",
+      "signals_found": 10,
       "new_signals": 0,
-      "unreviewed": 3,
-      "queries_run": 11,
-      "errors": 11,
-      "query_errors": [
-        {
-          "provider": "reddit_api",
-          "query": "Google Unternehmensprofil",
-          "error": "HTTP Error 403: Blocked"
-        },
-        {
-          "provider": "reddit_api",
-          "query": "Google Maps Local SEO",
-          "error": "HTTP Error 403: Blocked"
-        },
-        {
-          "provider": "reddit_api",
-          "query": "Google Business Profile",
-          "error": "HTTP Error 403: Blocked"
-        },
-        {
-          "provider": "jina_search",
-          "query": "\"Google Business Profile\" German Local SEO freelancer job",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "\"Local SEO\" Projekt Deutschland Freelancer",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "site:upwork.com/freelance-jobs \"Local SEO\" Germany",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "site:freelancermap.de \"Local SEO\"",
-          "error": "HTTP Error 401: Unauthorized"
-        }
-      ],
+      "unreviewed": 10,
+      "queries_run": 8,
+      "errors": 0,
+      "query_errors": [],
       "provider_hits": {
         "verified_seed": 3,
         "reddit_api": 0,
         "jina_search": 0,
         "duckduckgo": 0
       },
-      "providers_skipped_by_learning": [],
+      "providers_skipped_by_learning": [
+        "jina_search",
+        "reddit_api"
+      ],
       "learning_config_used": true,
       "sources": [
+        "drweb.de",
+        "freelancer.com",
+        "local-seo-freelancer.de",
         "upwork.com"
       ]
     },
     "browser_fallback": {
       "agent": "AGENT_15A_BROWSER_FALLBACK",
-      "last_run_at": "2026-09-13T22:24:38.572545+00:00",
+      "last_run_at": "2026-09-14T04:54:47.833339+00:00",
       "status": "OK",
-      "signals_added": 7,
+      "signals_added": 6,
       "stale_signals_removed": 0,
       "pages_checked": 8,
       "blocked_pages": 0,
@@ -117,13 +72,13 @@
     },
     "intent_qa": {
       "agent": "AGENT_15B_INTENT_QA",
-      "last_run_at": "2026-09-13T22:24:43.885326+00:00",
+      "last_run_at": "2026-09-14T04:54:59.517521+00:00",
       "pending": 0,
-      "hot": 7,
+      "hot": 13,
       "warm": 3,
       "watch": 0,
       "rejected": 4,
-      "airtable_created": 7,
+      "airtable_created": 13,
       "airtable_updated": 4,
       "quarantined": 4,
       "errors": 0
@@ -131,9 +86,9 @@
     "platform_access": {},
     "intent_response": {
       "agent": "AGENT_15D_INTENT_RESPONSE",
-      "last_run_at": "2026-09-13T22:24:48.524259+00:00",
-      "prepared": 10,
-      "new_prepared": 7,
+      "last_run_at": "2026-09-14T04:55:07.550529+00:00",
+      "prepared": 16,
+      "new_prepared": 6,
       "pending": 0,
       "sent": 0,
       "errors": 0,
@@ -142,13 +97,13 @@
     "intent_conversation": {},
     "intent_learning": {
       "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-      "last_run_at": "2026-09-13T22:24:49.773403+00:00",
+      "last_run_at": "2026-09-14T04:55:09.803796+00:00",
       "status": "OK",
-      "learning_run_count": 3,
-      "evaluated_opportunities": 10,
-      "queries_learned": 2,
-      "sources_learned": 4,
-      "boosted_queries": 2,
+      "learning_run_count": 4,
+      "evaluated_opportunities": 16,
+      "queries_learned": 4,
+      "sources_learned": 10,
+      "boosted_queries": 3,
       "paused_queries": 0,
       "blocked_domains": 0,
       "provider_cooldowns": 2,

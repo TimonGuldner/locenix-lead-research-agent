@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 26,
-  "focus": "city_exploitation",
+  "learning_run_count": 27,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Duesseldorf",
+    "Essen",
+    "Frankfurt am Main"
   ],
   "selected_industries": [
-    "Kosmetikstudio",
-    "Nagelstudio",
-    "Zahnarzt"
+    "Physiotherapie"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Kosmetikstudio",
-      "query": "Kosmetikstudio Hamburg"
+      "city": "Duesseldorf",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Duesseldorf"
     },
     {
-      "city": "Hamburg",
-      "industry": "Nagelstudio",
-      "query": "Nagelstudio Hamburg"
+      "city": "Essen",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Essen"
     },
     {
-      "city": "Hamburg",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Hamburg"
+      "city": "Frankfurt am Main",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Frankfurt am Main"
     }
   ],
   "queries_per_run": 3

@@ -1,49 +1,49 @@
 {
   "results": [
     {
-      "lead_id": "tierarztpraxis köln-langel gmbh|koeln|http://www.tierarztpraxis-koeln-langel.de/",
-      "company_name": "TIERARZTPRAXIS KÖLN-LANGEL GmbH",
+      "lead_id": "tierärztliche gemeinschaftspraxis viola daub & dr. med. vet. claudia szattelberger|koeln|http://www.tierarztpraxis-koeln-dellbrueck.de/",
+      "company_name": "Tierärztliche Gemeinschaftspraxis Viola Daub & Dr. med. vet. Claudia Szattelberger",
       "industry": "Tierarzt",
       "city": "Koeln",
-      "email": "info@tierarztpraxis-koeln-langel.de",
+      "email": "info@tierarztpraxis-koeln-dellbrueck.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
+      "deep_qa_score": 86,
       "visibility_tests": [
         {
           "query": "Tierarzt Koeln",
-          "status": "OBSERVED",
-          "observed_position": 9,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "felmo Mobiler Tierarzt Köln",
-            "Tierklinik Kellerwessel in Köln - Tierärztliche Klinik mit 24h Notdienst",
-            "Tierärzte vom Aachener Weiher",
-            "Vet Zentrum Köln – Tierärztliche Klinik für Kleintiere, 24 Stunden Notdienst",
-            "Tiergesundheitszentrum an der Flora (ex Tierarztpraxis am Nippeser Tälchen)"
-          ],
-          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Koeln",
           "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
           "observed_position": null,
           "results_checked": 11,
           "competitors_ahead": [
+            "felmo Mobiler Tierarzt Köln",
+            "Tierärzte vom Aachener Weiher",
+            "Tierklinik Kellerwessel in Köln - Tierärztliche Klinik mit 24h Notdienst",
+            "Vet Zentrum Köln – Tierärztliche Klinik für Kleintiere, 24 Stunden Notdienst",
+            "Tiergesundheitszentrum an der Flora (ex Tierarztpraxis am Nippeser Tälchen)"
+          ],
+          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+        },
+        {
+          "query": "Tierarzt in Koeln",
+          "status": "OBSERVED",
+          "observed_position": 9,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Tierarzt Dr. Dietmar Braun",
             "Tierärzte vom Aachener Weiher",
             "Tiergesundheitszentrum an der Flora (ex Tierarztpraxis am Nippeser Tälchen)",
             "felmo Mobiler Tierarzt Köln",
-            "Rex Tierarztpraxis Köln-Innenstadt",
-            "Tierklinik Kellerwessel in Köln - Tierärztliche Klinik mit 24h Notdienst"
+            "Rex Tierarztpraxis Köln-Innenstadt"
           ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
         }
       ],
       "weak_visibility_observed": true,
       "visibility_opportunity_score": 10,
       "visibility_evidence": [
-        "Business observed at position 9 among the first 11 Maps results returned in this run.",
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+        "Business observed at position 9 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-14",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -51,182 +51,44 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
-      "company_name": "die tierärztin",
+      "lead_id": "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
+      "company_name": "Tierarzt profelios Aachen Kleintierpraxis",
       "industry": "Tierarzt",
-      "city": "Chemnitz",
-      "email": "info@dietieraerztin.vet",
+      "city": "Aachen",
+      "email": "praxis@profelios.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
+      "deep_qa_score": 86,
       "visibility_tests": [
         {
-          "query": "Tierarzt Chemnitz",
-          "status": "OBSERVED",
-          "observed_position": 6,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Tierarztpraxis Holger Seidler",
-            "Tierärztliche Gemeinschaftspraxis am Kaßberg | Dr. Plümer & Dr. Schreyer",
-            "Fachzentrum für Kleintiermedizin am Chemnitz Center",
-            "Tierarztpraxis Frank Nitschke",
-            "Tierarztpraxis Dr. Riedel"
-          ],
-          "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Chemnitz",
-          "status": "OBSERVED",
-          "observed_position": 5,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Tierarztpraxis Holger Seidler",
-            "Tierärztliche Gemeinschaftspraxis am Kaßberg | Dr. Plümer & Dr. Schreyer",
-            "Tierarztpraxis Dr. Riedel",
-            "Tierarztpraxis Frank Nitschke"
-          ],
-          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 3,
-      "visibility_evidence": [
-        "Business observed at position 6 among the first 11 Maps results returned in this run.",
-        "Business observed at position 5 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-14",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "tierärztliche praxis daglis|dortmund|http://www.tierarztpraxis-daglis.de/",
-      "company_name": "Tierärztliche Praxis Daglis",
-      "industry": "Tierarzt",
-      "city": "Dortmund",
-      "email": "termin@tierarztpraxis-daglis.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Dortmund",
-          "status": "OBSERVED",
-          "observed_position": 1,
-          "results_checked": 11,
-          "competitors_ahead": [],
-          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Dortmund",
-          "status": "OBSERVED",
-          "observed_position": 1,
-          "results_checked": 11,
-          "competitors_ahead": [],
-          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
-      "visibility_evidence": [
-        "Business observed at position 1 among the first 11 Maps results returned in this run.",
-        "Business observed at position 1 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-14",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "fachtierarztpraxis dr. a. hettling|bielefeld|http://www.tierarztpraxis-hettling.de/",
-      "company_name": "Fachtierarztpraxis Dr. A. Hettling",
-      "industry": "Tierarzt",
-      "city": "Bielefeld",
-      "email": "info@tierarztpraxis-hettling.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 87,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Bielefeld",
-          "status": "OBSERVED",
-          "observed_position": 5,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "AniCura Bielefeld",
-            "Kleintierpraxis Bielefeld - Schildesche",
-            "AniCura Bielefeld",
-            "Kleintierpraxis Bielefeld Dr. Silke Mehlhose-Koch"
-          ],
-          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Bielefeld",
+          "query": "Tierarzt Aachen",
           "status": "OBSERVED",
           "observed_position": 3,
           "results_checked": 11,
           "competitors_ahead": [
-            "Kleintierpraxis Bielefeld - Schildesche",
-            "AniCura Bielefeld"
+            "Tierarzt Aachen, Tierärztliches Zentrum für Chirurgie Aachen",
+            "Tierarztpraxis Dr. Bey, Zinsen & Partner GbR"
           ],
           "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Tierarzt in Aachen",
+          "status": "OBSERVED",
+          "observed_position": 4,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Tierarzt Aachen, Tierärztliches Zentrum für Chirurgie Aachen",
+            "Tierarztpraxis Dr. Bey, Zinsen & Partner GbR",
+            "Tierarztpraxis Brander Wald"
+          ],
+          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
         }
       ],
       "weak_visibility_observed": false,
       "visibility_opportunity_score": 1,
       "visibility_evidence": [
-        "Business observed at position 5 among the first 11 Maps results returned in this run.",
-        "Business observed at position 3 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-14",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "kleintierpraxis wimmer|braunschweig|http://www.kleintierpraxis-wimmer.de/",
-      "company_name": "Kleintierpraxis Wimmer",
-      "industry": "Tierarzt",
-      "city": "Braunschweig",
-      "email": "info@kleintierpraxis-wimmer.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 87,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Braunschweig",
-          "status": "OBSERVED",
-          "observed_position": 8,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Fachtierarztpraxis Am Erzberg",
-            "Kleintierpraxis an der Oker - Ihr Tierarzt in Braunschweig",
-            "Fachärztliches Zentrum – Dr. Helge Tholen Fachtierarzt für Kleintiere",
-            "Tierarztpraxis Wenden - Kleintierpraxis Sonja Werner in Braunschweig",
-            "Dr. Daniel Mertens; Tierarztpraxis am Prinzenpark"
-          ],
-          "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Braunschweig",
-          "status": "OBSERVED",
-          "observed_position": 9,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Fachtierarztpraxis Am Erzberg",
-            "Kleintierpraxis an der Oker - Ihr Tierarzt in Braunschweig",
-            "Fachärztliches Zentrum – Dr. Helge Tholen Fachtierarzt für Kleintiere",
-            "Erich Crispien",
-            "Tierarztpraxis Wenden - Kleintierpraxis Sonja Werner in Braunschweig"
-          ],
-          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 6,
-      "visibility_evidence": [
-        "Business observed at position 8 among the first 11 Maps results returned in this run.",
-        "Business observed at position 9 among the first 11 Maps results returned in this run."
+        "Business observed at position 3 among the first 11 Maps results returned in this run.",
+        "Business observed at position 4 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-14",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -235,7 +97,7 @@
     }
   ],
   "state": {
-    "runs": 15,
+    "runs": 16,
     "processed_ids": [
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
       "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
@@ -280,6 +142,7 @@
       "since eleven - friseure|koeln|https://www.since-eleven.de/",
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
       "tierarzt berlin prenzlauer berg, tierarztpraxis am arnimplatz|berlin|https://tierarztpraxis-arnimplatz.de/",
+      "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
       "tierarztpraxis am wohnpark|sankt augustin|https://kleintierpraxis-spieker.de/",
       "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
       "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
@@ -291,6 +154,7 @@
       "tiergesundheitszentrum an der flora (ex tierarztpraxis am nippeser tälchen)|koeln|https://www.vet-nippes.de/",
       "tiergesundheitszentrum pankow|berlin|https://www.tgz-pankow.de/",
       "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
+      "tierärztliche gemeinschaftspraxis viola daub & dr. med. vet. claudia szattelberger|koeln|http://www.tierarztpraxis-koeln-dellbrueck.de/",
       "tierärztliche praxis daglis|dortmund|http://www.tierarztpraxis-daglis.de/",
       "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
       "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
@@ -303,10 +167,10 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 65,
-    "last_batch_count": 5,
-    "remaining_eligible": 2,
-    "weak_visibility_total": 46,
+    "processed_count": 67,
+    "last_batch_count": 2,
+    "remaining_eligible": 0,
+    "weak_visibility_total": 47,
     "email_gate_rejected_count": 27,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

@@ -1,8 +1,8 @@
 LOCENIX lead research agent wake trigger.
-Automation continuation: Germany-wide qualified lead mission resumed 2026-09-14 06:45 Europe/Berlin.
+Automation continuation: Germany-wide qualified lead mission resumed 2026-09-14 07:15 Europe/Berlin.
 Current qualified Airtable leads: 52/200.
-Latest deterministic state: 114 accumulated raw leads across 56 runs; latest batch inspected 24 and accepted 2, rejected 21.
-Final QA approved and synced 2 unique leads to Airtable. One non-business email (dpo@wordpress.org) was rejected and not stored; unverified service-gap claims were not promoted.
-No lead-research GitHub Actions run is in progress at this check, so start the next deterministic research run now.
+Latest deterministic state: 114 accumulated raw leads across 57 runs; latest batch inspected 24 and accepted 0, rejected 24.
+No new lead from the latest batch passed final qualification, so nothing was added to Airtable in this run.
+No lead-research GitHub Actions run is currently in progress, so start the next deterministic research run now.
 Continue deterministic research only; public business data only; no contact; final QA required before Airtable sync.
 Prioritize unique high-quality leads scoring >=70 and avoid Airtable duplicates by name, website, address, and Maps URL.

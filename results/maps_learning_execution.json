@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 34,
-  "focus": "city_exploitation",
-  "exploration": false,
+  "learning_run_count": 35,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Braunschweig",
+    "Chemnitz",
+    "Berlin"
   ],
   "selected_industries": [
-    "Reifenservice",
-    "Gebaeudereinigung",
-    "Beauty Aesthetik"
+    "Fahrschule"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Reifenservice",
-      "query": "Reifenservice Hamburg"
+      "city": "Braunschweig",
+      "industry": "Fahrschule",
+      "query": "Fahrschule Braunschweig"
     },
     {
-      "city": "Hamburg",
-      "industry": "Gebaeudereinigung",
-      "query": "Gebaeudereinigung Hamburg"
+      "city": "Chemnitz",
+      "industry": "Fahrschule",
+      "query": "Fahrschule Chemnitz"
     },
     {
-      "city": "Hamburg",
-      "industry": "Beauty Aesthetik",
-      "query": "Beauty Aesthetik Hamburg"
+      "city": "Berlin",
+      "industry": "Fahrschule",
+      "query": "Fahrschule Berlin"
     }
   ],
   "queries_per_run": 3

@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 38,
-  "focus": "city_exploitation",
+  "learning_run_count": 39,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Koeln"
+    "Mainz",
+    "Muenster",
+    "Nuernberg"
   ],
   "selected_industries": [
-    "Barbershop",
-    "Dachdecker",
-    "Elektriker"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Koeln",
-      "industry": "Barbershop",
-      "query": "Barbershop Koeln"
+      "city": "Mainz",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Mainz"
     },
     {
-      "city": "Koeln",
-      "industry": "Dachdecker",
-      "query": "Dachdecker Koeln"
+      "city": "Muenster",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Muenster"
     },
     {
-      "city": "Koeln",
-      "industry": "Elektriker",
-      "query": "Elektriker Koeln"
+      "city": "Nuernberg",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Nuernberg"
     }
   ],
   "queries_per_run": 3

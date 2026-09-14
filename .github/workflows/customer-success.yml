@@ -100,8 +100,3 @@ jobs:
             git push
           fi
 
-      - name: Dispatch CEO
-        if: steps.gate.outputs.run_cs == 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh workflow run ceo.yml --ref main

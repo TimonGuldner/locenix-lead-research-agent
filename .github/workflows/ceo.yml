@@ -13,9 +13,6 @@ on:
       - 'agent/ceo_linkedin_control_bridge.py'
       - 'agent/ceo_outbound_accountability_bridge.py'
       - 'agent/ceo_execution_enforcer.py'
-      - 'results/department_head_state.json'
-      - 'results/customer_success_state.json'
-      - 'results/email_sender_state.json'
   schedule:
     - cron: '15 6-18 * * *'
 

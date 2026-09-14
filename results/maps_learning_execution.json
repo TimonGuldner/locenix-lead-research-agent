@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 40,
-  "focus": "city_exploitation",
+  "learning_run_count": 41,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Koeln"
+    "Mainz",
+    "Oberhausen",
+    "Potsdam"
   ],
   "selected_industries": [
-    "Elektriker",
-    "Ergotherapie",
-    "Fotograf"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Koeln",
-      "industry": "Elektriker",
-      "query": "Elektriker Koeln"
+      "city": "Mainz",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Mainz"
     },
     {
-      "city": "Koeln",
-      "industry": "Ergotherapie",
-      "query": "Ergotherapie Koeln"
+      "city": "Oberhausen",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Oberhausen"
     },
     {
-      "city": "Koeln",
-      "industry": "Fotograf",
-      "query": "Fotograf Koeln"
+      "city": "Potsdam",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Potsdam"
     }
   ],
   "queries_per_run": 3

@@ -1,81 +1,17 @@
 {
-  "accepted": [
-    {
-      "company_name": "msd-photography fotostudio köln",
-      "industry": "Fotograf",
-      "city": "Koeln",
-      "address": "Severinstraße 40, 50678 Köln, Deutschland",
-      "website": "http://msd-photography.de/",
-      "google_maps_url": "https://www.google.com/maps/place/msd-photography+fotostudio+k%C3%B6ln/data=!4m7!3m6!1s0x47bf244ec6f3efd9:0xe70ff01bb4b5e664!8m2!3d50.9236818!4d6.9588531!16s%2Fg%2F1tksmh9g!19sChIJ2e_zxk4kv0cRZOa1tBvwD-c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 221 9385979",
-      "public_business_email": "info@msd-photography.de",
-      "email_source_url": "https://msd-photography.de/impressum/",
-      "contact_form_url": "https://msd-photography.de/kontakt/",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.7,
-      "google_review_count": 187,
-      "main_category": "Fotograf",
-      "website_services": [],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "Studio Schloen",
-      "competitor_1_reviews": 735,
-      "competitor_2": "PicturePeople Fotostudio Köln-Ehrenstraße",
-      "competitor_2_reviews": 720,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "187 eigene Bewertungen vs. lokaler Wettbewerbsmedian 353; Gap 166."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
-        }
-      ],
-      "soft_optimization_signals": [],
-      "verified_signal_count": 2,
-      "report_potential_score": 22,
-      "visible_value_score": 12,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 81,
-      "competitor_review_median": 353,
-      "review_gap": 166,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "187 eigene Bewertungen vs. lokaler Wettbewerbsmedian 353; Gap 166.",
-      "proof": [
-        "187 eigene Bewertungen vs. lokaler Wettbewerbsmedian 353; Gap 166.",
-        "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "187 eigene Bewertungen vs. lokaler Wettbewerbsmedian 353; Gap 166.",
-      "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Fotograf Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    }
-  ],
-  "accepted_count": 1,
-  "rejected_count": 23,
+  "accepted": [],
+  "accepted_count": 0,
+  "rejected_count": 24,
   "inspected": 24,
   "state": {
-    "query_cursor": 216,
-    "runs": 72,
+    "query_cursor": 219,
+    "runs": 73,
     "lead_count": 139,
     "target_leads": 999999999,
-    "last_accepted": 1,
+    "last_accepted": 0,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 23,
+    "last_rejected": 24,
     "a_leads": 22,
     "b_leads": 86
   }

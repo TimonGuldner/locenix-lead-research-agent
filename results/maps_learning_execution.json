@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 27,
-  "focus": "industry_exploitation",
-  "exploration": false,
+  "learning_run_count": 28,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Duesseldorf",
-    "Essen",
-    "Frankfurt am Main"
+    "Mannheim",
+    "Augsburg",
+    "Wiesbaden"
   ],
   "selected_industries": [
-    "Physiotherapie"
+    "Personal Training"
   ],
   "selected_pairs": [
     {
-      "city": "Duesseldorf",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Duesseldorf"
+      "city": "Mannheim",
+      "industry": "Personal Training",
+      "query": "Personal Training Mannheim"
     },
     {
-      "city": "Essen",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Essen"
+      "city": "Augsburg",
+      "industry": "Personal Training",
+      "query": "Personal Training Augsburg"
     },
     {
-      "city": "Frankfurt am Main",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Frankfurt am Main"
+      "city": "Wiesbaden",
+      "industry": "Personal Training",
+      "query": "Personal Training Wiesbaden"
     }
   ],
   "queries_per_run": 3

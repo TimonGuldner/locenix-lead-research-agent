@@ -1,11 +1,11 @@
 LOCENIX lead research agent wake trigger.
-Automation continuation: Germany-wide qualified lead mission resumed 2026-09-14 19:53 Europe/Berlin.
-Current qualified Airtable leads: 61/200.
-Repository deterministic state: 132 raw leads across 69 runs; latest batch accepted 4 of 24 and rejected 20.
-Final QA synced 3 unique leads from the latest batch: Mobiler Tierarzt Ryanvet für Notdienst, Tierarztpraxis Dr. Kochner, and Tierarztpraxis Holt Dr. Kathagen / Dr. Riecken / Dr. Sixt.
-Held Dr. med. vet. Stefan Kozak from Airtable because the source website is a third-party listing and the extracted info@gmail.com is not reliable enough to treat as a verified public business email.
-Do not treat missing google_review_count values as verified zero-review signals. Do not invent or infer email addresses.
-No LOCENIX Lead Research Agent run is currently in progress.
+Automation continuation: Germany-wide qualified lead mission resumed 2026-09-14 21:02 Europe/Berlin.
+Current qualified Airtable leads: 62/200.
+Repository deterministic state: 133 raw leads across 70 runs; latest batch accepted 1 of 24 and rejected 23.
+Final QA synced 1 unique lead from the latest batch: Barbershop Am Rudolfplatz - Köln, score 80 (B+).
+Confirmed signals: review gap (157 own reviews vs. local competitor median 254) and rating headroom (4.7). The service-visibility candidate remains unverified and was not treated as a confirmed service gap.
+Use only publicly available business data. Do not invent or infer email addresses. Do not treat unverified service visibility or missing review counts as confirmed optimization signals.
+No LOCENIX Lead Research Agent run was in progress at the time of this check.
 Start the next deterministic research run now.
-Continue deterministic research only; public business data only; no contact; final QA required before Airtable sync.
+Continue deterministic research only; no contact; final QA required before Airtable sync.
 Prioritize unique high-quality leads scoring >=70 and avoid Airtable duplicates by name, website, address, and Maps URL.

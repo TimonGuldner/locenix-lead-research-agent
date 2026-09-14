@@ -248,6 +248,56 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "kleintierpraxis karlsruhe dr. magdalena behrendt-wippermann|karlsruhe|http://www.kleintierpraxiskarlsruhe.de/",
+    "company_name": "Kleintierpraxis Karlsruhe Dr. Magdalena Behrendt-Wippermann",
+    "industry": "Tierarzt",
+    "city": "Karlsruhe",
+    "email": "info@kleintierpraxiskarlsruhe.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 94,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Karlsruhe",
+        "status": "OBSERVED",
+        "observed_position": 6,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Kleintierzentrum Arndt - Tierärztin Arndt & Kollegen",
+          "Kleintierpraxis Brand",
+          "Vogel- und Reptilienpraxis Dr. Britsch",
+          "AniCura Kleintierspezialisten Karlsruhe GmbH",
+          "Fachtierarztpraxis Alexander Virnich"
+        ],
+        "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Karlsruhe",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Zentrum für Tiergesundheit Linkenheim-Hochstetten, Tierärztin Manuela Bencec",
+          "Kleintierzentrum Arndt - Tierärztin Arndt & Kollegen",
+          "Kleintierpraxis Brand",
+          "Kleintierpraxis Meinhardt | Karlsruhe",
+          "Fachtierarztpraxis Alexander Virnich"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business observed at position 6 among the first 11 Maps results returned in this run.",
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-09-14",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
     "company_name": "myPhysio Physiotherapie Köln Am Gürzenich (Privatpatienten&Selbstzahler)",
     "industry": "Physiotherapie",
@@ -1086,6 +1136,56 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
+    "company_name": "Medivet Tierarztpraxis Hannover",
+    "industry": "Tierarzt",
+    "city": "Hannover",
+    "email": "hannover@medivetgroup.com",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Hannover",
+        "status": "OBSERVED",
+        "observed_position": 9,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "AniCura Kleintierklinik Hannover",
+          "Kleintierpraxis Hannover Mitte",
+          "felmo Mobiler Tierarzt Hannover",
+          "Kleintierpraxis DOCPOX Hannover",
+          "Tierarzt Hannover, Activet Tierarztpraxis Hannover Südstadt"
+        ],
+        "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Hannover",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "AniCura Kleintierklinik Hannover",
+          "Kleintierpraxis Hannover Mitte",
+          "felmo Mobiler Tierarzt Hannover",
+          "Kleintierpraxis DOCPOX Hannover",
+          "Kleintierpraxis Hannover Herrenhausen - Tierärzte Dres. Borchers & Hagel"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business observed at position 9 among the first 11 Maps results returned in this run.",
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-09-14",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "company_name": "Zimmermann Sanitär, Heizung und Umwelttechnik",
     "industry": "Sanitaer Heizung",
@@ -1579,6 +1679,56 @@
     "visibility_evidence": [
       "Business observed at position 7 among the first 11 Maps results returned in this run.",
       "Business observed at position 8 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-14",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "kleintierpraxis heidelberg hans neumann|heidelberg|https://kleintierpraxis-heidelberg.com/",
+    "company_name": "Kleintierpraxis Heidelberg Hans Neumann",
+    "industry": "Tierarzt",
+    "city": "Heidelberg",
+    "email": "info@kleintierpraxis-heidelberg.com",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 90,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Heidelberg",
+        "status": "OBSERVED",
+        "observed_position": 10,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "AniCura Kleintierzentrum Speyer",
+          "Tierarzt Heidelberg, Tierärztliches Zentrum an der Feuerwache",
+          "Medivet Tierarztpraxis Heidelberg",
+          "Tierarzt Bay Heidelberg, Kleintierpraxis Heidelberg-Rohrbach",
+          "Kleintierpraxis Dr. Corinne Martin"
+        ],
+        "evidence": "Business observed at position 10 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Heidelberg",
+        "status": "OBSERVED",
+        "observed_position": 9,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Tierarzt Heidelberg, Tierärztliches Zentrum an der Feuerwache",
+          "Tierarzt Bay Heidelberg, Kleintierpraxis Heidelberg-Rohrbach",
+          "Medivet Tierarztpraxis Heidelberg",
+          "Kleintierpraxis Dr. Corinne Martin",
+          "Kleintierpraxis Ingolf Arend"
+        ],
+        "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 10 among the first 11 Maps results returned in this run.",
+      "Business observed at position 9 among the first 11 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-14",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -2267,6 +2417,55 @@
       "Business observed at position 8 among the first 8 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
+    "company_name": "AniCura Kleintierspezialisten Karlsruhe GmbH",
+    "industry": "Tierarzt",
+    "city": "Karlsruhe",
+    "email": "presse@anicura.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Karlsruhe",
+        "status": "OBSERVED",
+        "observed_position": 5,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Zentrum für Tiergesundheit Linkenheim-Hochstetten, Tierärztin Manuela Bencec",
+          "Kleintierzentrum Arndt - Tierärztin Arndt & Kollegen",
+          "Kleintierpraxis Brand",
+          "Vogel- und Reptilienpraxis Dr. Britsch"
+        ],
+        "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Karlsruhe",
+        "status": "OBSERVED",
+        "observed_position": 9,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Zentrum für Tiergesundheit Linkenheim-Hochstetten, Tierärztin Manuela Bencec",
+          "Kleintierzentrum Arndt - Tierärztin Arndt & Kollegen",
+          "Kleintierpraxis Brand",
+          "Kleintierpraxis Meinhardt | Karlsruhe",
+          "Fachtierarztpraxis Alexander Virnich"
+        ],
+        "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 3,
+    "visibility_evidence": [
+      "Business observed at position 5 among the first 11 Maps results returned in this run.",
+      "Business observed at position 9 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-14",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
     "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
     "outreach_status": "NOT_CONTACTED"

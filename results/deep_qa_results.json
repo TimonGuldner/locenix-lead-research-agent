@@ -2351,6 +2351,78 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "city fahrschule braunschweig|braunschweig|https://www.cityfahrschulebs.info/",
+    "company_name": "City Fahrschule Braunschweig",
+    "industry": "Fahrschule",
+    "city": "Braunschweig",
+    "source_total_score": 85,
+    "source_lead_class": "A_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/City+Fahrschule+Braunschweig/data=!4m7!3m6!1s0x47aff6707c9603ab:0xb053ad28e68e5d26!8m2!3d52.2656531!4d10.5144167!16s%2Fg%2F1tfcb6n2!19sChIJqwOWfHD2r0cRJl2O5iitU7A?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.cityfahrschulebs.info/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.cityfahrschulebs.info/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.instagram.com/cityfahrschule_braunschweig/",
+        "https://www.facebook.com/people/City-Fahrschule-Braunschweig/61555145976718/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "kontakt@cityfahrschulebs.info",
+      "email_source_url": "https://www.cityfahrschulebs.info/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T20:23:46.402302+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 92,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 47 reviews vs. comparison median 290; gap 243."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 47 reviews vs. comparison median 290; gap 243.",
+    "proof": [
+      "Verified source data: 47 reviews vs. comparison median 290; gap 243.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "kontakt@cityfahrschulebs.info",
+    "email_source_url": "https://www.cityfahrschulebs.info/impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-14T20:23:46.402302+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-14",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
     "company_name": "Physiotherapiepraxis Monolith",
     "industry": "Physiotherapie",
@@ -2575,6 +2647,160 @@
     "email_found_at": null,
     "airtable_ready": false,
     "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "fahrschule hofmann|chemnitz|http://www.hofmann-fahrschule.de/",
+    "company_name": "Fahrschule Hofmann",
+    "industry": "Fahrschule",
+    "city": "Chemnitz",
+    "source_total_score": 84,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Fahrschule+Hofmann/data=!4m7!3m6!1s0x47a7466be893d35d:0xbb30207fba0aa326!8m2!3d50.8222681!4d12.9266895!16s%2Fg%2F1tf74k3d!19sChIJXdOT6GtGp0cRJqMKun8gMLs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.hofmann-fahrschule.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.hofmann-fahrschule.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/Hofmann-Fahrschule-am-S%C3%BCdbahnhof-607476429326295/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Active social-link footprint observed (1 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@hofmann-fahrschule.de",
+      "email_source_url": "https://www.hofmann-fahrschule.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T20:23:53.959528+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 91,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 49 reviews vs. comparison median 164; gap 115."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 49 reviews vs. comparison median 164; gap 115.",
+    "proof": [
+      "Verified source data: 49 reviews vs. comparison median 164; gap 115.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@hofmann-fahrschule.de",
+    "email_source_url": "https://www.hofmann-fahrschule.de/impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-14T20:23:53.959528+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-14",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
+    "company_name": "Medivet Tierarztpraxis Münster",
+    "industry": "Tierarzt",
+    "city": "Muenster",
+    "source_total_score": 82,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Medivet+Tierarztpraxis+M%C3%BCnster/data=!4m7!3m6!1s0x47b9a52837f74817:0x3fbcdc5249bb2ec1!8m2!3d51.933509!4d7.6317828!16s%2Fg%2F124swy4kg!19sChIJF0j3NyiluUcRwS67SVLcvD8?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.medivetgroup.com/de-de/tierarzt/muenster/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.medivetgroup.com/de-de/tierarzt/muenster/",
+      "booking_link": "https://petleo.app/?iframe=true&group=0&lang=de&redirect_url=/clinic/bb2f01a8f9e45e02c4e9d02515dce96a48d0742c3864a21a1d380ddc8c80f3f0/branch/1/book-appointment/",
+      "social_links": [
+        "http://instagram.com/medivet_de",
+        "https://www.facebook.com/medivet.de",
+        "https://www.linkedin.com/company/medivetdeutschland/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "impfung",
+        "chirurgie",
+        "ultraschall"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (3 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "muenster@medivetgroup.com",
+      "email_source_url": "https://www.medivetgroup.com/de-de/tierarzt/muenster/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T20:24:00.128463+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 91,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 54 reviews vs. comparison median 168; gap 114."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 54 reviews vs. comparison median 168; gap 114.",
+    "proof": [
+      "Verified source data: 54 reviews vs. comparison median 168; gap 114.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "muenster@medivetgroup.com",
+    "email_source_url": "https://www.medivetgroup.com/de-de/tierarzt/muenster/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-14T20:24:00.128463+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-14",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
   },
@@ -3898,6 +4124,69 @@
     "email_verification_status": "PUBLICLY_OBSERVED",
     "email_found_at": "2026-09-14T13:08:16.161284+00:00",
     "airtable_ready": true,
+    "qa_date": "2026-09-14",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "bsn fahrschule|braunschweig|http://bsn-fahrschule.de/",
+    "company_name": "BSN Fahrschule",
+    "industry": "Fahrschule",
+    "city": "Braunschweig",
+    "source_total_score": 85,
+    "source_lead_class": "A_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/BSN+Fahrschule/data=!4m7!3m6!1s0x47aff551f26518c5:0xb64b3d9eb681b3de!8m2!3d52.2731475!4d10.5338373!16s%2Fg%2F11ntjr6hs3!19sChIJxRhl8lH1r0cR3rOBtp49S7Y?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://bsn-fahrschule.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://bsn-fahrschule.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@bsn-fahrschule.de",
+      "email_source_url": "https://bsn-fahrschule.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T20:23:38.354422+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 90,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 39 reviews vs. comparison median 290; gap 251."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 39 reviews vs. comparison median 290; gap 251.",
+    "proof": [
+      "Verified source data: 39 reviews vs. comparison median 290; gap 251."
+    ],
+    "email": "info@bsn-fahrschule.de",
+    "email_source_url": "https://bsn-fahrschule.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-14T20:23:38.354422+00:00",
+    "airtable_ready": false,
     "qa_date": "2026-09-14",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
@@ -6886,6 +7175,68 @@
     "primary_sales_angle_verified": "Verified source data: 186 reviews vs. comparison median 494; gap 308.",
     "proof": [
       "Verified source data: 186 reviews vs. comparison median 494; gap 308."
+    ],
+    "email": null,
+    "email_source_url": null,
+    "email_verification_status": "EMAIL_MISSING",
+    "email_found_at": null,
+    "airtable_ready": false,
+    "qa_date": "2026-09-14",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "fahrschule schlierf|chemnitz|http://fahrschule-schlierf.com/",
+    "company_name": "Fahrschule Schlierf",
+    "industry": "Fahrschule",
+    "city": "Chemnitz",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Fahrschule+Schlierf/data=!4m7!3m6!1s0x47a7488b09cd6073:0xeccf5fe6df509a77!8m2!3d50.7834075!4d12.8783818!16s%2Fg%2F124sskmc8!19sChIJc2DNCYtIp0cRd5pQ3-Zfz-w?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://fahrschule-schlierf.com/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "http://fahrschule-schlierf.com/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": false,
+      "website_service_matches": [],
+      "website_evidence": [],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 86,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 72 reviews vs. comparison median 164; gap 92."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+    ],
+    "primary_sales_angle_verified": "Verified source data: 72 reviews vs. comparison median 164; gap 92.",
+    "proof": [
+      "Verified source data: 72 reviews vs. comparison median 164; gap 92."
     ],
     "email": null,
     "email_source_url": null,

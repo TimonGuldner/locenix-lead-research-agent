@@ -1,5 +1,5 @@
 {
-  "runs": 22,
+  "runs": 23,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
@@ -9,6 +9,8 @@
     "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
     "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
     "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
+    "bsn fahrschule|braunschweig|http://bsn-fahrschule.de/",
+    "city fahrschule braunschweig|braunschweig|https://www.cityfahrschulebs.info/",
     "city nails - krefeld|krefeld|https://esinafsar.com/city-nails/",
     "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
@@ -18,6 +20,8 @@
     "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
     "fachtierarztpraxis dr. a. hettling|bielefeld|http://www.tierarztpraxis-hettling.de/",
     "fachzentrum für kleintiermedizin am chemnitz center|chemnitz|https://www.vet-chemnitz.de/",
+    "fahrschule hofmann|chemnitz|http://www.hofmann-fahrschule.de/",
+    "fahrschule schlierf|chemnitz|http://fahrschule-schlierf.com/",
     "fellow tierarztpraxis au-haidhausen|muenchen|https://www.fellow.vet/",
     "felmo mobiler tierarzt bielefeld|bielefeld|https://felmo.de/tierarzt/bielefeld?utm_medium=referral&utm_source=google_my_business&utm_term=bielefeld",
     "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
@@ -54,6 +58,7 @@
     "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
     "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
+    "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
     "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
     "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
     "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
@@ -101,15 +106,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 99,
-  "remaining_eligible": 0,
+  "processed_count": 104,
+  "remaining_eligible": 15,
   "last_batch_count": 5,
-  "final_a_total": 42,
-  "final_b_total": 56,
-  "email_ready_total": 30,
-  "email_missing_total": 27,
-  "email_gate_qualified_total": 71,
-  "email_missing_excluded_total": 27,
-  "downstream_eligible_total": 71,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "final_a_total": 45,
+  "final_b_total": 58,
+  "email_ready_total": 33,
+  "email_missing_total": 28
 }

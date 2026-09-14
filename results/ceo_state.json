@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-14T07:51:20.224653+00:00",
+  "last_run_at": "2026-09-14T07:51:55.601404+00:00",
   "company_status": "ATTENTION",
   "north_star": "zero_daily_target_gaps",
   "priority_1": "Move remaining FINAL_A leads through Sales Queue/Airtable.",
@@ -67,7 +67,7 @@
   ],
   "linkedin_ceo_attention_required": true,
   "linkedin_control_last_run_at": "2026-09-13T18:37:56.828993+00:00",
-  "linkedin_control_checked_by_ceo_at": "2026-09-14T07:51:20.475718+00:00",
+  "linkedin_control_checked_by_ceo_at": "2026-09-14T07:51:55.778244+00:00",
   "daily_outbound_accountability_status": "ATTENTION",
   "daily_email_target": 5,
   "daily_email_actual": 0,
@@ -107,5 +107,5 @@
     "reply_actions": 0
   },
   "maps_downstream_email_gate_violations": 0,
-  "outbound_accountability_checked_at": "2026-09-14T07:51:20.591485+00:00"
+  "outbound_accountability_checked_at": "2026-09-14T07:51:55.907002+00:00"
 }

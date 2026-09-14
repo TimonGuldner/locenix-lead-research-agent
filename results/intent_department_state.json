@@ -1,8 +1,8 @@
 {
-  "last_run_at": "2026-09-14T04:55:10.799748+00:00",
-  "department_status": "HEALTHY",
-  "next_agent": "intent_scout",
-  "reason": "No downstream backlog observed; find fresh high-intent DACH opportunities using the learned source/query priorities.",
+  "last_run_at": "2026-09-14T23:08:13.409142+00:00",
+  "department_status": "ATTENTION",
+  "next_agent": "browser_fallback",
+  "reason": "browser_fallback reports unresolved errors and should be inspected before scaling.",
   "signals_found": 20,
   "hot": 13,
   "warm": 3,
@@ -13,15 +13,15 @@
   "positive_replies": 0,
   "trials": 0,
   "paid_customers": 0,
-  "browser_fallback_added": 6,
+  "browser_fallback_added": 0,
   "browser_stale_removed": 0,
   "transport_errors_recovered": 0,
-  "learning_runs": 4,
+  "learning_runs": 5,
   "learning_queries": 4,
   "learning_sources": 10,
   "learning_boosted_queries": 3,
   "learning_paused_queries": 0,
   "learning_provider_cooldowns": 2,
   "human_action_required": 0,
-  "errors": 0
+  "errors": 1
 }

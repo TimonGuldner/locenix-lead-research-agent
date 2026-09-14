@@ -1,9 +1,9 @@
 {
   "agent": "AGENT_15A_INTENT_SCOUT",
-  "last_run_at": "2026-09-14T04:54:46.204519+00:00",
-  "signals_found": 10,
+  "last_run_at": "2026-09-14T23:07:58.280038+00:00",
+  "signals_found": 16,
   "new_signals": 0,
-  "unreviewed": 10,
+  "unreviewed": 16,
   "queries_run": 8,
   "errors": 0,
   "query_errors": [],
@@ -19,9 +19,15 @@
   ],
   "learning_config_used": true,
   "sources": [
+    "aloma.de",
     "drweb.de",
     "freelancer.com",
+    "janphilipps.de",
     "local-seo-freelancer.de",
+    "lokando24.de",
+    "optiphin.de",
+    "seotariat.de",
+    "thomasrees.de",
     "upwork.com"
   ]
 }

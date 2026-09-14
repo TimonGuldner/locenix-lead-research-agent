@@ -1,169 +1,41 @@
 {
   "accepted": [
     {
-      "company_name": "Mobiler Tierarzt Ryanvet für Notdienst",
-      "industry": "Tierarzt",
-      "city": "Mannheim",
-      "address": "K3 25، 68159 Mannheim, Deutschland",
-      "website": "https://ryanvet.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Mobiler+Tierarzt+Ryanvet+f%C3%BCr+Notdienst/data=!4m7!3m6!1s0x4797cd042aefff39:0x2e4b71c333df31f9!8m2!3d49.4928361!4d8.4682736!16s%2Fg%2F11z0yckphy!19sChIJOf_vKgTNl0cR-THfM8NxSy4?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 176 40529622",
-      "public_business_email": "info@ryanvet.de",
-      "email_source_url": "https://ryanvet.de/",
-      "contact_form_url": "https://ryanvet.de/kontakt/",
+      "company_name": "Barbershop Am Rudolfplatz - Köln",
+      "industry": "Barbershop",
+      "city": "Koeln",
+      "address": "Schaafenstraße 7, 50676 Köln, Deutschland",
+      "website": "https://www.friseur-am-rudolfplatz.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Barbershop+Am+Rudolfplatz+-+K%C3%B6ln/data=!4m7!3m6!1s0x47bf25aff503e099:0x81ff4da797d9af57!8m2!3d50.9349633!4d6.9425692!16s%2Fg%2F11mqtdx22l!19sChIJmeAD9a8lv0cRV6_Zl6dN_4E?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 221 9234174",
+      "public_business_email": "team@friseur-am-rudolfplatz.de",
+      "email_source_url": "https://www.friseur-am-rudolfplatz.de/",
+      "contact_form_url": "https://www.friseur-am-rudolfplatz.de/kontakt/",
       "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 5.0,
-      "google_review_count": 154,
-      "main_category": "Tierarzt",
+      "google_rating": 4.7,
+      "google_review_count": 157,
+      "main_category": "Barbershop",
       "website_services": [
-        "impfung"
+        "bart",
+        "rasur",
+        "haarschnitt",
+        "fade",
+        "konturen"
       ],
       "google_visible_services": [],
       "service_gap": [],
       "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: bart, rasur, haarschnitt, fade, konturen"
       ],
       "service_gap_status": "UNVERIFIED",
-      "competitor_1": "felmo Mobiler Tierarzt Mannheim",
-      "competitor_1_reviews": 2065,
-      "competitor_2": "Kleintierpraxis Wendel | Inh. Dr. Fabian Wendel",
-      "competitor_2_reviews": 714,
+      "competitor_1": "Barbershop Just Men 3.0",
+      "competitor_1_reviews": 607,
+      "competitor_2": "Barbershop Just Men 10",
+      "competitor_2_reviews": 493,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "154 eigene Bewertungen vs. lokaler Wettbewerbsmedian 408; Gap 254."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 1,
-      "report_potential_score": 20,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 81,
-      "competitor_review_median": 408,
-      "review_gap": 254,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "154 eigene Bewertungen vs. lokaler Wettbewerbsmedian 408; Gap 254.",
-      "proof": [
-        "154 eigene Bewertungen vs. lokaler Wettbewerbsmedian 408; Gap 254.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "154 eigene Bewertungen vs. lokaler Wettbewerbsmedian 408; Gap 254.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Mannheim. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Tierarztpraxis Dr. Kochner",
-      "industry": "Tierarzt",
-      "city": "Mannheim",
-      "address": "Humboldtstraße 20, 68169 Mannheim-Neckarstadt-West, Deutschland",
-      "website": "https://www.tierarztpraxiskochner.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Dr.+Kochner/data=!4m7!3m6!1s0x4797cdcdfe2b2ffb:0xb53d3e861cb51aaf!8m2!3d49.5006838!4d8.4679829!16s%2Fg%2F11b6dg9s8n!19sChIJ-y8r_s3Nl0cRrxq1HIY-PbU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 176 20089582",
-      "public_business_email": null,
-      "email_source_url": null,
-      "contact_form_url": null,
-      "contact_basis": "UNKNOWN",
-      "google_rating": 4.7,
-      "google_review_count": 167,
-      "main_category": "Tierarzt",
-      "website_services": [],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "felmo Mobiler Tierarzt Mannheim",
-      "competitor_1_reviews": 2065,
-      "competitor_2": "Kleintierpraxis Wendel | Inh. Dr. Fabian Wendel",
-      "competitor_2_reviews": 714,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "167 eigene Bewertungen vs. lokaler Wettbewerbsmedian 408; Gap 241."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
-        }
-      ],
-      "soft_optimization_signals": [],
-      "verified_signal_count": 2,
-      "report_potential_score": 22,
-      "visible_value_score": 12,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 9,
-      "saas_fit_score": 5,
-      "total_score": 80,
-      "competitor_review_median": 408,
-      "review_gap": 241,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "167 eigene Bewertungen vs. lokaler Wettbewerbsmedian 408; Gap 241.",
-      "proof": [
-        "167 eigene Bewertungen vs. lokaler Wettbewerbsmedian 408; Gap 241.",
-        "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "167 eigene Bewertungen vs. lokaler Wettbewerbsmedian 408; Gap 241.",
-      "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Mannheim. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
-      "industry": "Tierarzt",
-      "city": "Moenchengladbach",
-      "address": "Hehnerholt 105, 41069 West, Deutschland",
-      "website": "http://www.fachtierarztpraxis-holt.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Holt+Dr.+Kathagen,+Dr.+Riecken,+Dr.+Sixt/data=!4m7!3m6!1s0x47b8abb7877d8345:0x4a25d2f5594d3113!8m2!3d51.1843863!4d6.4031618!16s%2Fg%2F11qqg_2qv1!19sChIJRYN9h7eruEcREzFNWfXSJUo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 2161 590040",
-      "public_business_email": "de-DE@2x.png",
-      "email_source_url": "https://www.fachtierarztpraxis-holt.de/",
-      "contact_form_url": "https://www.fachtierarztpraxis-holt.de/kontakt",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.7,
-      "google_review_count": 385,
-      "main_category": "Tierarzt",
-      "website_services": [
-        "impfung"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "AniCura Bökelberg GmbH",
-      "competitor_1_reviews": 2655,
-      "competitor_2": "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
-      "competitor_2_reviews": 759,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "385 eigene Bewertungen vs. lokaler Wettbewerbsmedian 525; Gap 140."
+          "proof": "157 eigene Bewertungen vs. lokaler Wettbewerbsmedian 254; Gap 97."
         },
         {
           "type": "rating_headroom",
@@ -173,7 +45,7 @@
       "soft_optimization_signals": [
         {
           "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: bart, rasur, haarschnitt, fade, konturen",
           "verification": "REQUIRES_FINAL_QA"
         }
       ],
@@ -186,103 +58,40 @@
       "digital_readiness_score": 10,
       "saas_fit_score": 5,
       "total_score": 80,
-      "competitor_review_median": 525,
-      "review_gap": 140,
+      "competitor_review_median": 254,
+      "review_gap": 97,
       "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "385 eigene Bewertungen vs. lokaler Wettbewerbsmedian 525; Gap 140.",
+      "primary_pitch": "157 eigene Bewertungen vs. lokaler Wettbewerbsmedian 254; Gap 97.",
       "proof": [
-        "385 eigene Bewertungen vs. lokaler Wettbewerbsmedian 525; Gap 140.",
+        "157 eigene Bewertungen vs. lokaler Wettbewerbsmedian 254; Gap 97.",
         "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: bart, rasur, haarschnitt, fade, konturen"
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "385 eigene Bewertungen vs. lokaler Wettbewerbsmedian 525; Gap 140.",
+      "best_outreach_angle": "157 eigene Bewertungen vs. lokaler Wettbewerbsmedian 254; Gap 97.",
       "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Moenchengladbach. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Dr. med. vet. Stefan Kozak - Mönchengladbach",
-      "industry": "Tierarzt",
-      "city": "Moenchengladbach",
-      "address": "Theodor-Heuss-Straße 64, 41065 Mönchengladbach-Nord, Deutschland",
-      "website": "https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
-      "google_maps_url": "https://www.google.com/maps/place/Dr.+med.+vet.+Stefan+Kozak+-+M%C3%B6nchengladbach/data=!4m7!3m6!1s0x47b8acbc0169401d:0x99c0ff9372216731!8m2!3d51.18575!4d6.4437711!16s%2Fg%2F1v_vr_fs!19sChIJHUBpAbysuEcRMWchcpP_wJk?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 2161 177917",
-      "public_business_email": "info@gmail.com",
-      "email_source_url": "https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
-      "contact_form_url": null,
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.6,
-      "google_review_count": 277,
-      "main_category": "Tierarzt",
-      "website_services": [],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "AniCura Bökelberg GmbH",
-      "competitor_1_reviews": 2655,
-      "competitor_2": "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
-      "competitor_2_reviews": 759,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "277 eigene Bewertungen vs. lokaler Wettbewerbsmedian 525; Gap 248."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
-        }
-      ],
-      "soft_optimization_signals": [],
-      "verified_signal_count": 2,
-      "report_potential_score": 22,
-      "visible_value_score": 12,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 81,
-      "competitor_review_median": 525,
-      "review_gap": 248,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "277 eigene Bewertungen vs. lokaler Wettbewerbsmedian 525; Gap 248.",
-      "proof": [
-        "277 eigene Bewertungen vs. lokaler Wettbewerbsmedian 525; Gap 248.",
-        "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "277 eigene Bewertungen vs. lokaler Wettbewerbsmedian 525; Gap 248.",
-      "second_outreach_angle": "Google-Bewertung 4.6; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Moenchengladbach. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_notes": "Deterministic research v2. Query: Barbershop Koeln. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-14",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
-  "accepted_count": 4,
-  "rejected_count": 20,
+  "accepted_count": 1,
+  "rejected_count": 23,
   "inspected": 24,
   "state": {
-    "query_cursor": 207,
-    "runs": 69,
-    "lead_count": 132,
+    "query_cursor": 210,
+    "runs": 70,
+    "lead_count": 133,
     "target_leads": 999999999,
-    "last_accepted": 4,
+    "last_accepted": 1,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 20,
+    "last_rejected": 23,
     "a_leads": 22,
-    "b_leads": 79
+    "b_leads": 80
   }
 }

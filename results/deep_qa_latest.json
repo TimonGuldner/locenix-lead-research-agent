@@ -1,14 +1,14 @@
 {
   "results": [
     {
-      "lead_id": "kleintierpraxis berg|bremen|https://www.tieraerztin-berg.de/",
-      "company_name": "Kleintierpraxis Berg",
-      "industry": "Tierarzt",
-      "city": "Bremen",
-      "source_total_score": 85,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Berg/data=!4m7!3m6!1s0x47b0d828226fffff:0x317248fb7c980ac1!8m2!3d53.0304367!4d8.8133747!16s%2Fg%2F11hzxjzf4r!19sChIJ__9vIijYsEcRwQqYfPtIcjE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.tieraerztin-berg.de/",
+      "lead_id": "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
+      "company_name": "Elb-Umzüge-Hamburg",
+      "industry": "Umzugsunternehmen",
+      "city": "Hamburg",
+      "source_total_score": 82,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Elb-Umz%C3%BCge-Hamburg/data=!4m7!3m6!1s0x47b1894bb6d0af7d:0xb1ccd1490d75e0bd!8m2!3d53.6529293!4d10.0120974!16s%2Fg%2F11y10yqszz!19sChIJfa_QtkuJsUcRveB1DUnRzLE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://xn--elb-umzge-hamburg-82b.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -17,300 +17,69 @@
         "photos_signal": "OBSERVED",
         "booking_signal": "NOT_OBSERVED",
         "website_link_observed": true,
-        "phone_observed": false,
+        "phone_observed": true,
         "address_observed": true,
         "maps_evidence": [
-          "Website link observed on Google Maps profile."
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
         ]
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.tieraerztin-berg.de/",
+        "website_final_url": "https://xn--elb-umzge-hamburg-82b.de/",
         "booking_link": null,
-        "social_links": [],
+        "social_links": [
+          "https://www.instagram.com/elb_umzuege_hamburg/"
+        ],
         "contact_page_observed": true,
         "website_service_matches": [],
         "website_evidence": [
+          "Active social-link footprint observed (1 link(s)).",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@tieraerztin-berg.de",
-        "email_source_url": "https://www.tieraerztin-berg.de/impressum",
+        "email": "elb-umzuege@web.de",
+        "email_source_url": "https://xn--elb-umzge-hamburg-82b.de/impressum/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-14T07:07:18.990733+00:00"
+        "email_found_at": "2026-09-14T07:10:47.922731+00:00"
       },
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 90,
+      "deep_qa_score": 89,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 46 reviews vs. comparison median 298; gap 252."
+          "proof": "Verified source data: 44 reviews vs. comparison median 168; gap 124."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
         }
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 46 reviews vs. comparison median 298; gap 252.",
+      "primary_sales_angle_verified": "Verified source data: 44 reviews vs. comparison median 168; gap 124.",
       "proof": [
-        "Verified source data: 46 reviews vs. comparison median 298; gap 252."
+        "Verified source data: 44 reviews vs. comparison median 168; gap 124.",
+        "Business website links to at least one social profile."
       ],
-      "email": "info@tieraerztin-berg.de",
-      "email_source_url": "https://www.tieraerztin-berg.de/impressum",
+      "email": "elb-umzuege@web.de",
+      "email_source_url": "https://xn--elb-umzge-hamburg-82b.de/impressum/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-14T07:07:18.990733+00:00",
+      "email_found_at": "2026-09-14T07:10:47.922731+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-14",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "hilke friseur kopffabrik|hamburg|http://www.hilke-kopffabrik.de/",
-      "company_name": "Hilke Friseur Kopffabrik",
-      "industry": "Friseur",
-      "city": "Hamburg",
-      "source_total_score": 85,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Hilke+Friseur+Kopffabrik/data=!4m7!3m6!1s0x47b1890002ad3e29:0xcade9b3fe7906ae3!8m2!3d53.58001!4d10.061363!16s%2Fg%2F11wq0lk3qg!19sChIJKT6tAgCJsUcR42qQ5z-b3so?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.hilke-kopffabrik.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.hilke-kopffabrik.de/",
-        "booking_link": "https://www.hilke-kopffabrik.de/#bookAppointment",
-        "social_links": [
-          "https://www.facebook.com/hilke_kopffabrik",
-          "https://www.instagram.com/hilke_kopffabrik"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "balayage",
-          "haarschnitt",
-          "extensions"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (2 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "hilke@hilke-kopffabrik.de",
-        "email_source_url": "https://www.hilke-kopffabrik.de/de-DE/legal",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-14T07:07:27.234135+00:00"
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 94,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 60 reviews vs. comparison median 262; gap 202."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 60 reviews vs. comparison median 262; gap 202.",
-      "proof": [
-        "Verified source data: 60 reviews vs. comparison median 262; gap 202.",
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "hilke@hilke-kopffabrik.de",
-      "email_source_url": "https://www.hilke-kopffabrik.de/de-DE/legal",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-14T07:07:27.234135+00:00",
-      "airtable_ready": true,
-      "qa_date": "2026-09-14",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
-      "company_name": "welbemi - wellness beauty mind - Kosmetikstudio Hamburg",
-      "industry": "Kosmetikstudio",
-      "city": "Hamburg",
-      "source_total_score": 84,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/welbemi+-+wellness+beauty+mind+-+Kosmetikstudio+Hamburg/data=!4m7!3m6!1s0x47b188e44b258edf:0x86e42afd1e855511!8m2!3d53.6077163!4d10.0095746!16s%2Fg%2F1v8x177b!19sChIJ344lS-SIsUcREVWFHv0q5IY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.welbemi.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://welbemi.de/",
-        "booking_link": "https://welbemi.de/termin-buchen/",
-        "social_links": [
-          "https://www.facebook.com/profile.php?id=61554847010685",
-          "https://www.instagram.com/welbemi/"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "microneedling",
-          "gesichtsbehandlung",
-          "wimpern",
-          "augenbrauen"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (2 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "kontakt@welbemi.de",
-        "email_source_url": "https://welbemi.de/impressum/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-14T07:07:37.741428+00:00"
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 93,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 43 reviews vs. comparison median 175; gap 132."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 43 reviews vs. comparison median 175; gap 132.",
-      "proof": [
-        "Verified source data: 43 reviews vs. comparison median 175; gap 132.",
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "kontakt@welbemi.de",
-      "email_source_url": "https://welbemi.de/impressum/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-14T07:07:37.741428+00:00",
-      "airtable_ready": true,
-      "qa_date": "2026-09-14",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "kosmetikstudio gala beauty space|gelsenkirchen|https://dikidi.net/2118040",
-      "company_name": "Kosmetikstudio Gala Beauty Space",
-      "industry": "Kosmetikstudio",
-      "city": "Gelsenkirchen",
-      "source_total_score": 83,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Kosmetikstudio+Gala+Beauty+Space/data=!4m7!3m6!1s0x47b8e786cf50f5b1:0x11b5a902aa02529a!8m2!3d51.5163007!4d7.1018491!16s%2Fg%2F11yz8h9mrh!19sChIJsfVQz4bnuEcRmlICqgKptRE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://dikidi.net/2118040",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://dikidi.net/2118040?p=0.pi",
-        "booking_link": null,
-        "social_links": [
-          "https://www.instagram.com/gala_beauty_space?igsh=ODJndTh6YTZxOXlp"
-        ],
-        "contact_page_observed": false,
-        "website_service_matches": [
-          "microneedling",
-          "permanent make-up",
-          "wimpern"
-        ],
-        "website_evidence": [
-          "Active social-link footprint observed (1 link(s))."
-        ],
-        "email": null,
-        "email_source_url": null,
-        "email_verification_status": "EMAIL_MISSING",
-        "email_found_at": null
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 87,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 13 reviews vs. comparison median 89; gap 76."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
-      ],
-      "primary_sales_angle_verified": "Verified source data: 13 reviews vs. comparison median 89; gap 76.",
-      "proof": [
-        "Verified source data: 13 reviews vs. comparison median 89; gap 76.",
-        "Business website links to at least one social profile."
-      ],
-      "email": null,
-      "email_source_url": null,
-      "email_verification_status": "EMAIL_MISSING",
-      "email_found_at": null,
-      "airtable_ready": false,
-      "qa_date": "2026-09-14",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
-      "company_name": "Kleintierpraxis am Wall",
+      "lead_id": "tierarztpraxis köln-langel gmbh|koeln|http://www.tierarztpraxis-koeln-langel.de/",
+      "company_name": "TIERARZTPRAXIS KÖLN-LANGEL GmbH",
       "industry": "Tierarzt",
-      "city": "Dortmund",
-      "source_total_score": 83,
+      "city": "Koeln",
+      "source_total_score": 81,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+am+Wall/data=!4m7!3m6!1s0x47b919e70214b277:0x500c6dc34995f312!8m2!3d51.5124948!4d7.4568067!16s%2Fg%2F1tz70hds!19sChIJd7IUAucZuUcREvOVScNtDFA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.kleintierpraxis-am-wall.de/",
+      "google_maps_url": "https://www.google.com/maps/place/TIERARZTPRAXIS+K%C3%96LN-LANGEL+GmbH/data=!4m7!3m6!1s0x47bf31fd7aade47f:0x28a3169b83a0bd89!8m2!3d51.0500562!4d6.9180082!16s%2Fg%2F1v1vc9yz!19sChIJf-Stev0xv0cRib2gg5sWoyg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.tierarztpraxis-koeln-langel.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -328,38 +97,261 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://kleintierpraxis-am-wall.de/",
+        "website_final_url": "https://www.tierarztpraxis-koeln-langel.de/",
         "booking_link": null,
-        "social_links": [],
+        "social_links": [
+          "https://www.instagram.com/tierarztpraxis_koeln_langel?igsh=ZWFtcXd3NnJ5Z3hh&utm_source=qr"
+        ],
         "contact_page_observed": true,
         "website_service_matches": [],
         "website_evidence": [
+          "Active social-link footprint observed (1 link(s)).",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@kleintierpraxis-am-wall.de",
-        "email_source_url": "https://kleintierpraxis-am-wall.de/impressum/",
+        "email": "info@tierarztpraxis-koeln-langel.de",
+        "email_source_url": "https://www.tierarztpraxis-koeln-langel.de/impressum",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-14T07:07:54.135415+00:00"
+        "email_found_at": "2026-09-14T07:10:54.808686+00:00"
       },
       "deep_qa_decision": "FINAL_B",
       "deep_qa_score": 88,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 313 reviews vs. comparison median 494; gap 181."
+          "proof": "Verified source data: 150 reviews vs. comparison median 541; gap 391."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
         }
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 313 reviews vs. comparison median 494; gap 181.",
+      "primary_sales_angle_verified": "Verified source data: 150 reviews vs. comparison median 541; gap 391.",
       "proof": [
-        "Verified source data: 313 reviews vs. comparison median 494; gap 181."
+        "Verified source data: 150 reviews vs. comparison median 541; gap 391.",
+        "Business website links to at least one social profile."
       ],
-      "email": "info@kleintierpraxis-am-wall.de",
-      "email_source_url": "https://kleintierpraxis-am-wall.de/impressum/",
+      "email": "info@tierarztpraxis-koeln-langel.de",
+      "email_source_url": "https://www.tierarztpraxis-koeln-langel.de/impressum",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-14T07:07:54.135415+00:00",
+      "email_found_at": "2026-09-14T07:10:54.808686+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-14",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "tierärztliche gemeinschaftspraxis viola daub & dr. med. vet. claudia szattelberger|koeln|http://www.tierarztpraxis-koeln-dellbrueck.de/",
+      "company_name": "Tierärztliche Gemeinschaftspraxis Viola Daub & Dr. med. vet. Claudia Szattelberger",
+      "industry": "Tierarzt",
+      "city": "Koeln",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Tier%C3%A4rztliche+Gemeinschaftspraxis+Viola+Daub+%26+Dr.+med.+vet.+Claudia+Szattelberger/data=!4m7!3m6!1s0x47bf2865185b52d3:0xf606d90f4189eb65!8m2!3d50.977388!4d7.069823!16s%2Fg%2F1thvxdk5!19sChIJ01JbGGUov0cRZeuJQQ_ZBvY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.tierarztpraxis-koeln-dellbrueck.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://tierarztpraxis-koeln-dellbrueck.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "chirurgie"
+        ],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@tierarztpraxis-koeln-dellbrueck.de",
+        "email_source_url": "https://tierarztpraxis-koeln-dellbrueck.de/kontakt/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-14T07:11:06.967095+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 271 reviews vs. comparison median 541; gap 270."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 271 reviews vs. comparison median 541; gap 270.",
+      "proof": [
+        "Verified source data: 271 reviews vs. comparison median 541; gap 270."
+      ],
+      "email": "info@tierarztpraxis-koeln-dellbrueck.de",
+      "email_source_url": "https://tierarztpraxis-koeln-dellbrueck.de/kontakt/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T07:11:06.967095+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-14",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "fellow tierarztpraxis au-haidhausen|muenchen|https://www.fellow.vet/",
+      "company_name": "fellow Tierarztpraxis Au-Haidhausen",
+      "industry": "Tierarzt",
+      "city": "Muenchen",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/fellow+Tierarztpraxis+Au-Haidhausen/data=!4m7!3m6!1s0x479ddfd132e3b237:0x9f12323fed0b6594!8m2!3d48.1282843!4d11.599253!16s%2Fg%2F11n586g3vf!19sChIJN7LjMtHfnUcRlGUL7T8yEp8?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.fellow.vet/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.fellow.vet/",
+        "booking_link": "https://booking.fellow.vet/",
+        "social_links": [
+          "https://www.instagram.com/fellow.vet",
+          "https://www.linkedin.com/company/fellowvet"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "impfung",
+          "chirurgie",
+          "labor"
+        ],
+        "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Active social-link footprint observed (2 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "hello@fellow.vet",
+        "email_source_url": "https://www.fellow.vet/impressum",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-14T07:11:14.990747+00:00"
+      },
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 90,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 87 reviews vs. comparison median 555; gap 468."
+        },
+        {
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 87 reviews vs. comparison median 555; gap 468.",
+      "proof": [
+        "Verified source data: 87 reviews vs. comparison median 555; gap 468.",
+        "Online booking/appointment link observed on website.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "hello@fellow.vet",
+      "email_source_url": "https://www.fellow.vet/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T07:11:14.990747+00:00",
+      "airtable_ready": true,
+      "qa_date": "2026-09-14",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
+      "company_name": "Tierarzt profelios Aachen Kleintierpraxis",
+      "industry": "Tierarzt",
+      "city": "Aachen",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarzt+profelios+Aachen+Kleintierpraxis/data=!4m7!3m6!1s0x47c09b2761c5895d:0x58eabf1da4ff43fe!8m2!3d50.7589785!4d6.0939612!16s%2Fg%2F11rq_xtlrd!19sChIJXYnFYSebwEcR_kP_pB2_6lg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.profelios.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://profelios.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "impfung",
+          "zahnsanierung",
+          "ultraschall",
+          "labor"
+        ],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "praxis@profelios.de",
+        "email_source_url": "https://profelios.de/tierarzt-profelios-aachen-so-erreichen-sie-uns",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-14T07:11:25.892458+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 147 reviews vs. comparison median 368; gap 221."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 147 reviews vs. comparison median 368; gap 221.",
+      "proof": [
+        "Verified source data: 147 reviews vs. comparison median 368; gap 221."
+      ],
+      "email": "praxis@profelios.de",
+      "email_source_url": "https://profelios.de/tierarzt-profelios-aachen-so-erreichen-sie-uns",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T07:11:25.892458+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-14",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
@@ -367,7 +359,7 @@
     }
   ],
   "state": {
-    "runs": 17,
+    "runs": 18,
     "processed_ids": [
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -379,8 +371,10 @@
       "city nails - krefeld|krefeld|https://esinafsar.com/city-nails/",
       "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
       "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
+      "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
       "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
       "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
+      "fellow tierarztpraxis au-haidhausen|muenchen|https://www.fellow.vet/",
       "felmo mobiler tierarzt bielefeld|bielefeld|https://felmo.de/tierarzt/bielefeld?utm_medium=referral&utm_source=google_my_business&utm_term=bielefeld",
       "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
       "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
@@ -426,16 +420,19 @@
       "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
       "tierarzt berlin prenzlauer berg, tierarztpraxis am arnimplatz|berlin|https://tierarztpraxis-arnimplatz.de/",
+      "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
       "tierarztpraxis am wohnpark|sankt augustin|https://kleintierpraxis-spieker.de/",
       "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
       "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
       "tierarztpraxis hernández|sankt augustin|https://tierarztpraxishernandez.com/",
+      "tierarztpraxis köln-langel gmbh|koeln|http://www.tierarztpraxis-koeln-langel.de/",
       "tierarztpraxis lisa plagge|krefeld|https://tierarzt-plagge.de/",
       "tierarztpraxis tiergesundheitszentrum münchen|muenchen|http://www.verhaltenstherapie-tier.de/",
       "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
       "tiergesundheitszentrum an der flora (ex tierarztpraxis am nippeser tälchen)|koeln|https://www.vet-nippes.de/",
       "tiergesundheitszentrum pankow|berlin|https://www.tgz-pankow.de/",
       "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
+      "tierärztliche gemeinschaftspraxis viola daub & dr. med. vet. claudia szattelberger|koeln|http://www.tierarztpraxis-koeln-dellbrueck.de/",
       "torami nails · lashes|krefeld|https://beacons.ai/torami.co",
       "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
       "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
@@ -451,12 +448,12 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 81,
-    "remaining_eligible": 13,
+    "processed_count": 86,
+    "remaining_eligible": 8,
     "last_batch_count": 5,
-    "final_a_total": 38,
-    "final_b_total": 43,
-    "email_ready_total": 26,
+    "final_a_total": 39,
+    "final_b_total": 47,
+    "email_ready_total": 27,
     "email_missing_total": 25
   }
 }

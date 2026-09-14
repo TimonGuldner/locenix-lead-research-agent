@@ -1486,6 +1486,56 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "filu tierarztpraxis rudolfplatz - allgemein- und notfallmedizin|koeln|https://www.filu.vet/standorte/koeln?utm_source=google&utm_medium=gmb",
+    "company_name": "filu Tierarztpraxis Rudolfplatz - Allgemein- und Notfallmedizin",
+    "industry": "Tierarzt",
+    "city": "Koeln",
+    "email": "info@filu.vet",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Koeln",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "AniCura Tiergesundheitszentrum Sankt Augustin",
+          "felmo Mobiler Tierarzt Köln",
+          "Tierärzte vom Aachener Weiher",
+          "Tierklinik Kellerwessel in Köln - Tierärztliche Klinik mit 24h Notdienst",
+          "Vet Zentrum Köln – Tierärztliche Klinik für Kleintiere, 24 Stunden Notdienst"
+        ],
+        "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Koeln",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Tierärzte vom Aachener Weiher",
+          "Tiergesundheitszentrum an der Flora (ex Tierarztpraxis am Nippeser Tälchen)",
+          "felmo Mobiler Tierarzt Köln",
+          "Tierklinik Kellerwessel in Köln - Tierärztliche Klinik mit 24h Notdienst",
+          "Vet Zentrum Köln – Tierärztliche Klinik für Kleintiere, 24 Stunden Notdienst"
+        ],
+        "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 7 among the first 11 Maps results returned in this run.",
+      "Business observed at position 7 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-14",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "since eleven - friseure|koeln|https://www.since-eleven.de/",
     "company_name": "Since Eleven - Friseure",
     "industry": "Friseur",
@@ -1531,6 +1581,106 @@
       "Business observed at position 8 among the first 8 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
+    "company_name": "Dr.med.vet. Martin Unger",
+    "industry": "Tierarzt",
+    "city": "Augsburg",
+    "email": "presse@anicura.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Augsburg",
+        "status": "OBSERVED",
+        "observed_position": 9,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "AniCura Tierärztliche Fachpraxis am Klinkerberg",
+          "AniCura Kleintierspezialisten Augsburg",
+          "Tierarztpraxis Andrea Henke in Augsburg",
+          "Tierarztpraxis Bergheim",
+          "Tierarztpraxis am Roten Tor"
+        ],
+        "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Augsburg",
+        "status": "OBSERVED",
+        "observed_position": 9,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "AniCura Tierärztliche Fachpraxis am Klinkerberg",
+          "AniCura Kleintierspezialisten Augsburg",
+          "Tierarztpraxis Bergheim",
+          "Tierärztliche Spezialpraxis für Augenheilkunde - Dr. Anja Engelhardt",
+          "Tierarztpraxis Andrea Henke in Augsburg"
+        ],
+        "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 9 among the first 11 Maps results returned in this run.",
+      "Business observed at position 9 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-14",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
+    "company_name": "Kleintierpraxis am Wall",
+    "industry": "Tierarzt",
+    "city": "Dortmund",
+    "email": "info@kleintierpraxis-am-wall.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Dortmund",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Tierärztliche Praxis Daglis",
+          "Dr. Ostermann",
+          "Tierärztliche Praxis für Kleintiere Scharnhorst GmbH",
+          "Tierarztpraxis Dr. Möhrke Dr. Rösch",
+          "J. Betcher Kleintierpraxis"
+        ],
+        "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Dortmund",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Tierärztliche Praxis Daglis",
+          "Tierärztliche Praxis für Kleintiere Scharnhorst GmbH",
+          "Dr. Ostermann",
+          "J. Betcher Kleintierpraxis",
+          "Dr.med.vet Tina Brahm"
+        ],
+        "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 7 among the first 11 Maps results returned in this run.",
+      "Business observed at position 7 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-14",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
     "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
     "outreach_status": "NOT_CONTACTED"
@@ -2018,6 +2168,55 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
+    "company_name": "Elb-Umzüge-Hamburg",
+    "industry": "Umzugsunternehmen",
+    "city": "Hamburg",
+    "email": "elb-umzuege@web.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "visibility_tests": [
+      {
+        "query": "Umzugsunternehmen Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 5,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Alster-Umzüge",
+          "BT Umzüge & Transporte e.K.",
+          "Innpack GmbH",
+          "Hinz Transporte"
+        ],
+        "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Umzugsunternehmen in Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 8,
+        "results_checked": 10,
+        "competitors_ahead": [
+          "Krügel Umzugslogistik GmbH",
+          "Innpack GmbH",
+          "BT Umzüge & Transporte e.K.",
+          "Fuhrmann Umzüge",
+          "Hinz Transporte"
+        ],
+        "evidence": "Business observed at position 8 among the first 10 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 3,
+    "visibility_evidence": [
+      "Business observed at position 5 among the first 11 Maps results returned in this run.",
+      "Business observed at position 8 among the first 10 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-14",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
     "company_name": "R&RRR Reifennotdienst 24h",
     "industry": "Reifenservice",
@@ -2441,6 +2640,51 @@
       "Business observed at position 3 among the first 8 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "tiergesundheitszentrum an der flora (ex tierarztpraxis am nippeser tälchen)|koeln|https://www.vet-nippes.de/",
+    "company_name": "Tiergesundheitszentrum an der Flora (ex Tierarztpraxis am Nippeser Tälchen)",
+    "industry": "Tierarzt",
+    "city": "Koeln",
+    "email": "info@vet-nippes.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Koeln",
+        "status": "OBSERVED",
+        "observed_position": 5,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Köln",
+          "Tierärzte vom Aachener Weiher",
+          "Tierklinik Kellerwessel in Köln - Tierärztliche Klinik mit 24h Notdienst",
+          "Vet Zentrum Köln – Tierärztliche Klinik für Kleintiere, 24 Stunden Notdienst"
+        ],
+        "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Koeln",
+        "status": "OBSERVED",
+        "observed_position": 2,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Tierärzte vom Aachener Weiher"
+        ],
+        "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 5 among the first 11 Maps results returned in this run.",
+      "Business observed at position 2 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-14",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
     "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
     "outreach_status": "NOT_CONTACTED"

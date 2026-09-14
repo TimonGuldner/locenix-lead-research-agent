@@ -1,49 +1,48 @@
 {
   "results": [
     {
-      "lead_id": "tierarztpraxis lisa plagge|krefeld|https://tierarzt-plagge.de/",
-      "company_name": "Tierarztpraxis Lisa Plagge",
-      "industry": "Tierarzt",
-      "city": "Krefeld",
-      "email": "mail@tierarzt-plagge.de",
+      "lead_id": "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
+      "company_name": "Elb-Umzüge-Hamburg",
+      "industry": "Umzugsunternehmen",
+      "city": "Hamburg",
+      "email": "elb-umzuege@web.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 90,
+      "deep_qa_score": 89,
       "visibility_tests": [
         {
-          "query": "Tierarzt Krefeld",
+          "query": "Umzugsunternehmen Hamburg",
           "status": "OBSERVED",
-          "observed_position": 6,
+          "observed_position": 5,
           "results_checked": 11,
           "competitors_ahead": [
-            "AniCura Tierärztliche Praxis für Kleintiere Krefeld",
-            "Tierarztpraxis Verberg",
-            "Praxis für Kleintiermedizin Dr. Götte",
-            "Tierarztpraxis am Zoo - Dr. Sarah und Dr. Ulf Reichert",
-            "Zentrum für Tierzahnheilkunde Tierarztpraxis Dr. Alexander Hendricks Krefeld"
+            "Alster-Umzüge",
+            "BT Umzüge & Transporte e.K.",
+            "Innpack GmbH",
+            "Hinz Transporte"
           ],
-          "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Tierarzt in Krefeld",
+          "query": "Umzugsunternehmen in Hamburg",
           "status": "OBSERVED",
           "observed_position": 8,
-          "results_checked": 11,
+          "results_checked": 10,
           "competitors_ahead": [
-            "Praxis für Kleintiermedizin Dr. Götte",
-            "AniCura Tierärztliche Praxis für Kleintiere Krefeld",
-            "Tierarztpraxis Verberg",
-            "Tierarzt Krefeld, Tierarztpraxis Activet Krefeld",
-            "Zentrum für Tierzahnheilkunde Tierarztpraxis Dr. Alexander Hendricks Krefeld"
+            "Krügel Umzugslogistik GmbH",
+            "Innpack GmbH",
+            "BT Umzüge & Transporte e.K.",
+            "Fuhrmann Umzüge",
+            "Hinz Transporte"
           ],
-          "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 8 among the first 10 Maps results returned in this run."
         }
       ],
       "weak_visibility_observed": true,
-      "visibility_opportunity_score": 6,
+      "visibility_opportunity_score": 3,
       "visibility_evidence": [
-        "Business observed at position 6 among the first 11 Maps results returned in this run.",
-        "Business observed at position 8 among the first 11 Maps results returned in this run."
+        "Business observed at position 5 among the first 11 Maps results returned in this run.",
+        "Business observed at position 8 among the first 10 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-14",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -51,90 +50,48 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
-      "company_name": "Kleintierpraxis an der Oker - Ihr Tierarzt in Braunschweig",
+      "lead_id": "filu tierarztpraxis rudolfplatz - allgemein- und notfallmedizin|koeln|https://www.filu.vet/standorte/koeln?utm_source=google&utm_medium=gmb",
+      "company_name": "filu Tierarztpraxis Rudolfplatz - Allgemein- und Notfallmedizin",
       "industry": "Tierarzt",
-      "city": "Braunschweig",
-      "email": "info@kleintierpraxis-oker.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Braunschweig",
-          "status": "OBSERVED",
-          "observed_position": 2,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Fachtierarztpraxis Am Erzberg"
-          ],
-          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Braunschweig",
-          "status": "OBSERVED",
-          "observed_position": 2,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Fachtierarztpraxis Am Erzberg"
-          ],
-          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
-      "visibility_evidence": [
-        "Business observed at position 2 among the first 11 Maps results returned in this run.",
-        "Business observed at position 2 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-14",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "kleintierpraxis berg|bremen|https://www.tieraerztin-berg.de/",
-      "company_name": "Kleintierpraxis Berg",
-      "industry": "Tierarzt",
-      "city": "Bremen",
-      "email": "info@tieraerztin-berg.de",
+      "city": "Koeln",
+      "email": "info@filu.vet",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 90,
+      "deep_qa_score": 89,
       "visibility_tests": [
         {
-          "query": "Tierarzt Bremen",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "felmo Mobiler Tierarzt Bremen",
-            "AniCura Kleintierpraxis Bremen",
-            "Tierarzt Pabst, Marcus",
-            "Kleintierklinik Bremen",
-            "Kleintierpraxis Dr. Gaby Brünnlein"
-          ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-        },
-        {
-          "query": "Tierarzt in Bremen",
+          "query": "Tierarzt Koeln",
           "status": "OBSERVED",
           "observed_position": 7,
           "results_checked": 11,
           "competitors_ahead": [
-            "felmo Mobiler Tierarzt Bremen",
-            "Tierarzt Pabst, Marcus",
-            "Tierarztpraxis Vegesack - Dr. med. vet. Katrin Klusacsek",
-            "AniCura Kleintierpraxis Bremen",
-            "Cadomo Tierarztpraxis Hermannsburg | Bremen"
+            "AniCura Tiergesundheitszentrum Sankt Augustin",
+            "felmo Mobiler Tierarzt Köln",
+            "Tierärzte vom Aachener Weiher",
+            "Tierklinik Kellerwessel in Köln - Tierärztliche Klinik mit 24h Notdienst",
+            "Vet Zentrum Köln – Tierärztliche Klinik für Kleintiere, 24 Stunden Notdienst"
+          ],
+          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Tierarzt in Koeln",
+          "status": "OBSERVED",
+          "observed_position": 7,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Tierärzte vom Aachener Weiher",
+            "Tiergesundheitszentrum an der Flora (ex Tierarztpraxis am Nippeser Tälchen)",
+            "felmo Mobiler Tierarzt Köln",
+            "Tierklinik Kellerwessel in Köln - Tierärztliche Klinik mit 24h Notdienst",
+            "Vet Zentrum Köln – Tierärztliche Klinik für Kleintiere, 24 Stunden Notdienst"
           ],
           "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
         }
       ],
       "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
+      "visibility_opportunity_score": 6,
       "visibility_evidence": [
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+        "Business observed at position 7 among the first 11 Maps results returned in this run.",
         "Business observed at position 7 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-14",
@@ -143,49 +100,44 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "fellow tierarztpraxis au-haidhausen|muenchen|https://www.fellow.vet/",
-      "company_name": "fellow Tierarztpraxis Au-Haidhausen",
+      "lead_id": "tiergesundheitszentrum an der flora (ex tierarztpraxis am nippeser tälchen)|koeln|https://www.vet-nippes.de/",
+      "company_name": "Tiergesundheitszentrum an der Flora (ex Tierarztpraxis am Nippeser Tälchen)",
       "industry": "Tierarzt",
-      "city": "Muenchen",
-      "email": "hello@fellow.vet",
+      "city": "Koeln",
+      "email": "info@vet-nippes.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 88,
       "visibility_tests": [
         {
-          "query": "Tierarzt Muenchen",
+          "query": "Tierarzt Koeln",
           "status": "OBSERVED",
-          "observed_position": 7,
+          "observed_position": 5,
           "results_checked": 11,
           "competitors_ahead": [
-            "Rex Tierarztpraxis München-Poccistraße",
-            "Tierarzt München, Team für Tiere – Tierarztpraxis am Gasteig (vormals Dr. Maul & Dr. Herget)",
-            "felmo Mobiler Tierarzt München",
-            "Kleintierklinik München Riem - Dres. med. vet. Lutz",
-            "Zentrum für Kleintiermedizin München"
+            "felmo Mobiler Tierarzt Köln",
+            "Tierärzte vom Aachener Weiher",
+            "Tierklinik Kellerwessel in Köln - Tierärztliche Klinik mit 24h Notdienst",
+            "Vet Zentrum Köln – Tierärztliche Klinik für Kleintiere, 24 Stunden Notdienst"
           ],
-          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Tierarzt in Muenchen",
+          "query": "Tierarzt in Koeln",
           "status": "OBSERVED",
-          "observed_position": 8,
+          "observed_position": 2,
           "results_checked": 11,
           "competitors_ahead": [
-            "Rex Tierarztpraxis München-Poccistraße",
-            "Tierarztpraxis Trudering Dr. Horst Möritz | München",
-            "felmo Mobiler Tierarzt München",
-            "Tierarzt München, Team für Tiere – Tierarztpraxis am Gasteig (vormals Dr. Maul & Dr. Herget)",
-            "Tierarzt Dipl. Vet. Med. Michael Umanski | Tierarztpraxis in München"
+            "Tierärzte vom Aachener Weiher"
           ],
-          "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
         }
       ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 6,
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
       "visibility_evidence": [
-        "Business observed at position 7 among the first 11 Maps results returned in this run.",
-        "Business observed at position 8 among the first 11 Maps results returned in this run."
+        "Business observed at position 5 among the first 11 Maps results returned in this run.",
+        "Business observed at position 2 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-14",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -193,37 +145,99 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "tierarztpraxis felmo bochum|bochum|https://felmo.de/tierarztpraxis/bochum?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
-      "company_name": "Tierarztpraxis felmo Bochum",
+      "lead_id": "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
+      "company_name": "Dr.med.vet. Martin Unger",
       "industry": "Tierarzt",
-      "city": "Bochum",
-      "email": "info@mail.felmo.de",
+      "city": "Augsburg",
+      "email": "presse@anicura.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 88,
       "visibility_tests": [
         {
-          "query": "Tierarzt Bochum",
+          "query": "Tierarzt Augsburg",
           "status": "OBSERVED",
-          "observed_position": 1,
+          "observed_position": 9,
           "results_checked": 11,
-          "competitors_ahead": [],
-          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
+          "competitors_ahead": [
+            "AniCura Tierärztliche Fachpraxis am Klinkerberg",
+            "AniCura Kleintierspezialisten Augsburg",
+            "Tierarztpraxis Andrea Henke in Augsburg",
+            "Tierarztpraxis Bergheim",
+            "Tierarztpraxis am Roten Tor"
+          ],
+          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Tierarzt in Bochum",
+          "query": "Tierarzt in Augsburg",
           "status": "OBSERVED",
-          "observed_position": 1,
+          "observed_position": 9,
           "results_checked": 11,
-          "competitors_ahead": [],
-          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
+          "competitors_ahead": [
+            "AniCura Tierärztliche Fachpraxis am Klinkerberg",
+            "AniCura Kleintierspezialisten Augsburg",
+            "Tierarztpraxis Bergheim",
+            "Tierärztliche Spezialpraxis für Augenheilkunde - Dr. Anja Engelhardt",
+            "Tierarztpraxis Andrea Henke in Augsburg"
+          ],
+          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
         }
       ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 6,
       "visibility_evidence": [
-        "Business observed at position 1 among the first 11 Maps results returned in this run.",
-        "Business observed at position 1 among the first 11 Maps results returned in this run."
+        "Business observed at position 9 among the first 11 Maps results returned in this run.",
+        "Business observed at position 9 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-14",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
+      "company_name": "Kleintierpraxis am Wall",
+      "industry": "Tierarzt",
+      "city": "Dortmund",
+      "email": "info@kleintierpraxis-am-wall.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 88,
+      "visibility_tests": [
+        {
+          "query": "Tierarzt Dortmund",
+          "status": "OBSERVED",
+          "observed_position": 7,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Tierärztliche Praxis Daglis",
+            "Dr. Ostermann",
+            "Tierärztliche Praxis für Kleintiere Scharnhorst GmbH",
+            "Tierarztpraxis Dr. Möhrke Dr. Rösch",
+            "J. Betcher Kleintierpraxis"
+          ],
+          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Tierarzt in Dortmund",
+          "status": "OBSERVED",
+          "observed_position": 7,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Tierärztliche Praxis Daglis",
+            "Tierärztliche Praxis für Kleintiere Scharnhorst GmbH",
+            "Dr. Ostermann",
+            "J. Betcher Kleintierpraxis",
+            "Dr.med.vet Tina Brahm"
+          ],
+          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 6,
+      "visibility_evidence": [
+        "Business observed at position 7 among the first 11 Maps results returned in this run.",
+        "Business observed at position 7 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-14",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -232,17 +246,20 @@
     }
   ],
   "state": {
-    "runs": 13,
+    "runs": 14,
     "processed_ids": [
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
       "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
       "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
       "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
       "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
+      "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
+      "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
       "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
       "fellow tierarztpraxis au-haidhausen|muenchen|https://www.fellow.vet/",
       "felmo mobiler tierarzt bielefeld|bielefeld|https://felmo.de/tierarzt/bielefeld?utm_medium=referral&utm_source=google_my_business&utm_term=bielefeld",
       "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
+      "filu tierarztpraxis rudolfplatz - allgemein- und notfallmedizin|koeln|https://www.filu.vet/standorte/koeln?utm_source=google&utm_medium=gmb",
       "gebäudereinigung köln i zana reinigung & pflege|koeln|https://zana-reinigung.de/",
       "gebäudereinigung köln|koeln|https://xn--gebudereinigungkoeln-dzb.de/",
       "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
@@ -255,6 +272,7 @@
       "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
       "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
       "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
+      "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
       "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
       "kleintierpraxis berg|bremen|https://www.tieraerztin-berg.de/",
       "kleintierzentrum bonn hardtberg|bonn|https://www.kleintierzentrum-bonn.de/",
@@ -277,6 +295,7 @@
       "tierarztpraxis hernández|sankt augustin|https://tierarztpraxishernandez.com/",
       "tierarztpraxis lisa plagge|krefeld|https://tierarzt-plagge.de/",
       "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
+      "tiergesundheitszentrum an der flora (ex tierarztpraxis am nippeser tälchen)|koeln|https://www.vet-nippes.de/",
       "tiergesundheitszentrum pankow|berlin|https://www.tgz-pankow.de/",
       "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
       "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
@@ -290,10 +309,10 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 55,
+    "processed_count": 60,
     "last_batch_count": 5,
-    "remaining_eligible": 12,
-    "weak_visibility_total": 39,
+    "remaining_eligible": 7,
+    "weak_visibility_total": 43,
     "email_gate_rejected_count": 27,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

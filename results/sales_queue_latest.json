@@ -13,15 +13,16 @@
       "email_found_at": "2026-09-14T00:10:57.346646+00:00",
       "deep_qa_decision": "FINAL_A",
       "deep_qa_score": 98,
-      "visibility_checked": false,
-      "weak_visibility_observed": null,
-      "visibility_opportunity_score": null,
+      "visibility_checked": true,
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
       "priority_score": 100,
       "sales_tier": "A",
       "primary_pitch": "Verified source data: 37 reviews vs. comparison median 298; gap 261.",
       "why_now": [
         "Verified source data: 37 reviews vs. comparison median 298; gap 261.",
-        "Online booking/appointment link observed on website."
+        "Online booking/appointment link observed on website.",
+        "Business observed at position 4 among the first 11 Maps results returned in this run."
       ],
       "proof_1": "Verified source data: 37 reviews vs. comparison median 298; gap 261.",
       "proof_2": "Online booking/appointment link observed on website.",
@@ -68,7 +69,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recCegWP1Xwen5fsK"
+      "airtable_record_id": "recN3tcKuGQcZlirS"
     },
     {
       "lead_id": "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
@@ -83,9 +84,9 @@
       "email_found_at": "2026-09-13T12:11:20.540735+00:00",
       "deep_qa_decision": "FINAL_A",
       "deep_qa_score": 95,
-      "visibility_checked": false,
-      "weak_visibility_observed": null,
-      "visibility_opportunity_score": null,
+      "visibility_checked": true,
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
       "priority_score": 100,
       "sales_tier": "A",
       "primary_pitch": "Verified source data: 26 reviews vs. comparison median 129; gap 103.",
@@ -139,7 +140,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "rec5dQc1dXRZmITOi"
+      "airtable_record_id": "recw4mkOY8FeiqXvq"
     },
     {
       "lead_id": "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -178,6 +179,40 @@
       "airtable_record_id": "recGSEAnMkODu68GI"
     },
     {
+      "lead_id": "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
+      "company_name": "BASTGEN BERLIN IMMOBILIEN - Makler in Berlin Mitte",
+      "industry": "Immobilienmakler",
+      "city": "Berlin",
+      "website": "https://www.bastgen-berlin.com/",
+      "google_maps_url": "https://www.google.com/maps/place/BASTGEN+BERLIN+IMMOBILIEN+-+Makler+in+Berlin+Mitte/data=!4m7!3m6!1s0x47a8505712ff7735:0xcb436e994aac8dc6!8m2!3d52.5277511!4d13.4013225!16s%2Fg%2F1hhlq67fd!19sChIJNXf_EldQqEcRxo2sSpluQ8s?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "email": "bastgen@bastgen-berlin.com",
+      "email_source_url": "https://bastgen-berlin.com/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-13T12:11:13.962573+00:00",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 94,
+      "visibility_checked": true,
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
+      "priority_score": 100,
+      "sales_tier": "A",
+      "primary_pitch": "Verified source data: 25 reviews vs. comparison median 230; gap 205.",
+      "why_now": [
+        "Verified source data: 25 reviews vs. comparison median 230; gap 205.",
+        "Business observed at position 10 among the first 11 Maps results returned in this run."
+      ],
+      "proof_1": "Verified source data: 25 reviews vs. comparison median 230; gap 205.",
+      "proof_2": "Business observed at position 10 among the first 11 Maps results returned in this run.",
+      "proof_3": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+      "next_action": "SALES_REVIEW",
+      "airtable_ready": false,
+      "airtable_sync_status": "NOT_READY",
+      "outreach_status": "NOT_CONTACTED",
+      "queue_date": "2026-09-14",
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
+    },
+    {
       "lead_id": "hilke friseur kopffabrik|hamburg|http://www.hilke-kopffabrik.de/",
       "company_name": "Hilke Friseur Kopffabrik",
       "industry": "Friseur",
@@ -190,15 +225,16 @@
       "email_found_at": "2026-09-14T07:07:27.234135+00:00",
       "deep_qa_decision": "FINAL_A",
       "deep_qa_score": 94,
-      "visibility_checked": false,
-      "weak_visibility_observed": null,
-      "visibility_opportunity_score": null,
+      "visibility_checked": true,
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
       "priority_score": 100,
       "sales_tier": "A",
       "primary_pitch": "Verified source data: 60 reviews vs. comparison median 262; gap 202.",
       "why_now": [
         "Verified source data: 60 reviews vs. comparison median 262; gap 202.",
-        "Online booking/appointment link observed on website."
+        "Online booking/appointment link observed on website.",
+        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
       ],
       "proof_1": "Verified source data: 60 reviews vs. comparison median 262; gap 202.",
       "proof_2": "Online booking/appointment link observed on website.",
@@ -211,6 +247,41 @@
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recyD7Dg0EetA3yRC"
+    },
+    {
+      "lead_id": "kleintierpraxis karlsruhe dr. magdalena behrendt-wippermann|karlsruhe|http://www.kleintierpraxiskarlsruhe.de/",
+      "company_name": "Kleintierpraxis Karlsruhe Dr. Magdalena Behrendt-Wippermann",
+      "industry": "Tierarzt",
+      "city": "Karlsruhe",
+      "website": "http://www.kleintierpraxiskarlsruhe.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Karlsruhe+Dr.+Magdalena+Behrendt-Wippermann/data=!4m7!3m6!1s0x4797070179936d11:0xe2fd3ee13d8dcf31!8m2!3d49.0040347!4d8.3978676!16s%2Fg%2F11v9w4qy63!19sChIJEW2TeQEHl0cRMc-NPeE-_eI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "email": "info@kleintierpraxiskarlsruhe.de",
+      "email_source_url": "https://kleintierpraxiskarlsruhe.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T13:07:37.317407+00:00",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 94,
+      "visibility_checked": false,
+      "weak_visibility_observed": null,
+      "visibility_opportunity_score": null,
+      "priority_score": 100,
+      "sales_tier": "A",
+      "primary_pitch": "Verified source data: 40 reviews vs. comparison median 323; gap 283.",
+      "why_now": [
+        "Verified source data: 40 reviews vs. comparison median 323; gap 283.",
+        "Online booking/appointment link observed on website."
+      ],
+      "proof_1": "Verified source data: 40 reviews vs. comparison median 323; gap 283.",
+      "proof_2": "Online booking/appointment link observed on website.",
+      "proof_3": null,
+      "next_action": "PRIORITY_SALES_REVIEW",
+      "airtable_ready": true,
+      "airtable_sync_status": "SYNCED_CREATED",
+      "outreach_status": "NOT_CONTACTED",
+      "queue_date": "2026-09-14",
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
+      "airtable_record_id": "recC9YBMTGlMCdTJW"
     },
     {
       "lead_id": "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
@@ -246,7 +317,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "receYtu0ilRNpAXhW"
+      "airtable_record_id": "recSNG0Is7esaVfiz"
     },
     {
       "lead_id": "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
@@ -282,7 +353,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recV752P17qXte85O"
+      "airtable_record_id": "recpH6w14yccnXCsT"
     },
     {
       "lead_id": "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
@@ -333,15 +404,16 @@
       "email_found_at": "2026-09-14T07:07:37.741428+00:00",
       "deep_qa_decision": "FINAL_A",
       "deep_qa_score": 93,
-      "visibility_checked": false,
-      "weak_visibility_observed": null,
-      "visibility_opportunity_score": null,
+      "visibility_checked": true,
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
       "priority_score": 100,
       "sales_tier": "A",
       "primary_pitch": "Verified source data: 43 reviews vs. comparison median 175; gap 132.",
       "why_now": [
         "Verified source data: 43 reviews vs. comparison median 175; gap 132.",
-        "Online booking/appointment link observed on website."
+        "Online booking/appointment link observed on website.",
+        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
       ],
       "proof_1": "Verified source data: 43 reviews vs. comparison median 175; gap 132.",
       "proof_2": "Online booking/appointment link observed on website.",
@@ -425,7 +497,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recYSBIUfFZR34Oco"
+      "airtable_record_id": "recnD4RPKwJJ66X3k"
     },
     {
       "lead_id": "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -460,7 +532,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recuMF8J0XkQ3sBLV"
+      "airtable_record_id": "recrwSW2t1Nhy7RSa"
     },
     {
       "lead_id": "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
@@ -495,7 +567,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recJ4aUSr0a9SGN7T"
+      "airtable_record_id": "recKLfqeeixlGceic"
     },
     {
       "lead_id": "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
@@ -582,19 +654,20 @@
       "email_found_at": "2026-09-13T19:48:31.823887+00:00",
       "deep_qa_decision": "FINAL_A",
       "deep_qa_score": 92,
-      "visibility_checked": false,
-      "weak_visibility_observed": null,
-      "visibility_opportunity_score": null,
+      "visibility_checked": true,
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
       "priority_score": 100,
       "sales_tier": "A",
       "primary_pitch": "Verified source data: 59 reviews vs. comparison median 1150; gap 1091.",
       "why_now": [
         "Verified source data: 59 reviews vs. comparison median 1150; gap 1091.",
-        "Business website links to at least one social profile."
+        "Business website links to at least one social profile.",
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
       ],
       "proof_1": "Verified source data: 59 reviews vs. comparison median 1150; gap 1091.",
       "proof_2": "Business website links to at least one social profile.",
-      "proof_3": null,
+      "proof_3": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
       "next_action": "PRIORITY_SALES_REVIEW",
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
@@ -617,19 +690,20 @@
       "email_found_at": "2026-09-14T00:11:05.792394+00:00",
       "deep_qa_decision": "FINAL_A",
       "deep_qa_score": 92,
-      "visibility_checked": false,
-      "weak_visibility_observed": null,
-      "visibility_opportunity_score": null,
+      "visibility_checked": true,
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 6,
       "priority_score": 100,
       "sales_tier": "A",
       "primary_pitch": "Verified source data: 53 reviews vs. comparison median 449; gap 396.",
       "why_now": [
         "Verified source data: 53 reviews vs. comparison median 449; gap 396.",
-        "Business website links to at least one social profile."
+        "Business website links to at least one social profile.",
+        "Business observed at position 7 among the first 11 Maps results returned in this run."
       ],
       "proof_1": "Verified source data: 53 reviews vs. comparison median 449; gap 396.",
       "proof_2": "Business website links to at least one social profile.",
-      "proof_3": null,
+      "proof_3": "Business observed at position 7 among the first 11 Maps results returned in this run.",
       "next_action": "PRIORITY_SALES_REVIEW",
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
@@ -652,15 +726,16 @@
       "email_found_at": "2026-09-14T00:11:21.768531+00:00",
       "deep_qa_decision": "FINAL_A",
       "deep_qa_score": 92,
-      "visibility_checked": false,
-      "weak_visibility_observed": null,
-      "visibility_opportunity_score": null,
+      "visibility_checked": true,
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
       "priority_score": 100,
       "sales_tier": "A",
       "primary_pitch": "Verified source data: 849 reviews vs. comparison median 1150; gap 301.",
       "why_now": [
         "Verified source data: 849 reviews vs. comparison median 1150; gap 301.",
-        "Online booking/appointment link observed on website."
+        "Online booking/appointment link observed on website.",
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
       ],
       "proof_1": "Verified source data: 849 reviews vs. comparison median 1150; gap 301.",
       "proof_2": "Online booking/appointment link observed on website.",
@@ -742,7 +817,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "rec6kFpFlT0tegOcW"
+      "airtable_record_id": "recwnfNVMMLeKTaGk"
     },
     {
       "lead_id": "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
@@ -812,94 +887,23 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recqfNTsddHJbVuYj"
-    },
-    {
-      "lead_id": "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/",
-      "company_name": "Ästhetik Hamburg",
-      "industry": "Beauty Aesthetik",
-      "city": "Hamburg",
-      "website": "https://aesthetikhamburg.de/",
-      "google_maps_url": "https://www.google.com/maps/place/%C3%84sthetik+Hamburg/data=!4m7!3m6!1s0x47b189eec1d8673f:0x35090a064aa13b7f!8m2!3d53.571063!4d10.06237!16s%2Fg%2F11fqcb47rs!19sChIJP2fYwe6JsUcRfzuhSgYKCTU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "email": "info@aesthetikhamburg.de",
-      "email_source_url": "https://aesthetikhamburg.de/impressum/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:33:38.579923+00:00",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
-      "visibility_checked": true,
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
-      "priority_score": 100,
-      "sales_tier": "A",
-      "primary_pitch": "Verified source data: 22 reviews vs. comparison median 84; gap 62.",
-      "why_now": [
-        "Verified source data: 22 reviews vs. comparison median 84; gap 62.",
-        "Online booking/appointment link observed on website."
-      ],
-      "proof_1": "Verified source data: 22 reviews vs. comparison median 84; gap 62.",
-      "proof_2": "Online booking/appointment link observed on website.",
-      "proof_3": "Business website links to at least one social profile.",
-      "next_action": "PRIORITY_SALES_REVIEW",
-      "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_CREATED",
-      "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-09-14",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recjb9S3MZXr8ZJiD"
-    },
-    {
-      "lead_id": "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
-      "company_name": "BK Hairstyle Hamburg",
-      "industry": "Friseur",
-      "city": "Hamburg",
-      "website": "https://bk-hairstyle.de/",
-      "google_maps_url": "https://www.google.com/maps/place/BK+Hairstyle+Hamburg/data=!4m7!3m6!1s0x47b18fc4d382c7a5:0xc89f8187e2435670!8m2!3d53.551028!4d10.0030044!16s%2Fg%2F11vkqhhv4t!19sChIJpceC08SPsUcRcFZD4oeBn8g?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "email": "anfrage@bk-hairstyle.de",
-      "email_source_url": "https://bk-hairstyle.de/impressum/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:33:50.527951+00:00",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
-      "visibility_checked": true,
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
-      "priority_score": 100,
-      "sales_tier": "A",
-      "primary_pitch": "Verified source data: 112 reviews vs. comparison median 300; gap 188.",
-      "why_now": [
-        "Verified source data: 112 reviews vs. comparison median 300; gap 188.",
-        "Online booking/appointment link observed on website.",
-        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
-      ],
-      "proof_1": "Verified source data: 112 reviews vs. comparison median 300; gap 188.",
-      "proof_2": "Online booking/appointment link observed on website.",
-      "proof_3": "Business website links to at least one social profile.",
-      "next_action": "PRIORITY_SALES_REVIEW",
-      "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_UPDATED",
-      "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-09-14",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recAZY7LeXJma6zK1"
+      "airtable_record_id": "recaoVaMoDciXlOmA"
     }
   ],
   "state": {
-    "queue_count": 67,
-    "airtable_ready_count": 28,
-    "email_ready_count": 67,
+    "queue_count": 71,
+    "airtable_ready_count": 30,
+    "email_ready_count": 71,
     "email_missing_count": 0,
     "hard_email_gate_rejected_count": 27,
     "downstream_email_gate_violations": 0,
-    "airtable_created": 11,
+    "airtable_created": 13,
     "airtable_updated": 17,
-    "airtable_skipped": 39,
+    "airtable_skipped": 41,
     "airtable_errors": [],
-    "priority_a_count": 67,
+    "priority_a_count": 71,
     "priority_b_count": 0,
-    "visibility_pending_count": 27,
+    "visibility_pending_count": 4,
     "last_run_date": "2026-09-14",
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_DOWNSTREAM_HANDOFF"
   }

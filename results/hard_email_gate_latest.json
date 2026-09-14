@@ -1,10 +1,10 @@
 {
   "state": {
     "agent": "LOCENIX_HARD_EMAIL_GATE_ENFORCER",
-    "last_run_at": "2026-09-14T07:08:00.826274+00:00",
-    "qualified_qa_total": 76,
-    "downstream_email_qualified_total": 52,
-    "email_missing_excluded_total": 24,
+    "last_run_at": "2026-09-14T07:08:22.827997+00:00",
+    "qualified_qa_total": 81,
+    "downstream_email_qualified_total": 56,
+    "email_missing_excluded_total": 25,
     "visibility_rows_before": 40,
     "visibility_rows_after": 40,
     "visibility_rows_purged_this_run": 0,
@@ -40,6 +40,7 @@
     "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
+    "kosmetikstudio gala beauty space|gelsenkirchen|https://dikidi.net/2118040",
     "maison de nails berlin|berlin|https://maisondenails.de/",
     "zahnärzte in der hamburger city - dr. med. dent. daria von riewel (ehem. niemietz)|hamburg|https://zahnarzt.hamburg/",
     "torami nails · lashes|krefeld|https://beacons.ai/torami.co"

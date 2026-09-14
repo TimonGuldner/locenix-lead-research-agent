@@ -834,6 +834,88 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "hilke friseur kopffabrik|hamburg|http://www.hilke-kopffabrik.de/",
+    "company_name": "Hilke Friseur Kopffabrik",
+    "industry": "Friseur",
+    "city": "Hamburg",
+    "source_total_score": 85,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Hilke+Friseur+Kopffabrik/data=!4m7!3m6!1s0x47b1890002ad3e29:0xcade9b3fe7906ae3!8m2!3d53.58001!4d10.061363!16s%2Fg%2F11wq0lk3qg!19sChIJKT6tAgCJsUcR42qQ5z-b3so?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.hilke-kopffabrik.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.hilke-kopffabrik.de/",
+      "booking_link": "https://www.hilke-kopffabrik.de/#bookAppointment",
+      "social_links": [
+        "https://www.facebook.com/hilke_kopffabrik",
+        "https://www.instagram.com/hilke_kopffabrik"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "balayage",
+        "haarschnitt",
+        "extensions"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "hilke@hilke-kopffabrik.de",
+      "email_source_url": "https://www.hilke-kopffabrik.de/de-DE/legal",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T07:07:27.234135+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 94,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 60 reviews vs. comparison median 262; gap 202."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 60 reviews vs. comparison median 262; gap 202.",
+    "proof": [
+      "Verified source data: 60 reviews vs. comparison median 262; gap 202.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "hilke@hilke-kopffabrik.de",
+    "email_source_url": "https://www.hilke-kopffabrik.de/de-DE/legal",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-14T07:07:27.234135+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-14",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
     "company_name": "Turna KFZ Werkstatt Berlin",
     "industry": "Autowerkstatt",
@@ -1282,6 +1364,89 @@
     "email_found_at": "2026-09-13T10:23:23.801671+00:00",
     "airtable_ready": true,
     "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
+    "company_name": "welbemi - wellness beauty mind - Kosmetikstudio Hamburg",
+    "industry": "Kosmetikstudio",
+    "city": "Hamburg",
+    "source_total_score": 84,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/welbemi+-+wellness+beauty+mind+-+Kosmetikstudio+Hamburg/data=!4m7!3m6!1s0x47b188e44b258edf:0x86e42afd1e855511!8m2!3d53.6077163!4d10.0095746!16s%2Fg%2F1v8x177b!19sChIJ344lS-SIsUcREVWFHv0q5IY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.welbemi.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://welbemi.de/",
+      "booking_link": "https://welbemi.de/termin-buchen/",
+      "social_links": [
+        "https://www.facebook.com/profile.php?id=61554847010685",
+        "https://www.instagram.com/welbemi/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "microneedling",
+        "gesichtsbehandlung",
+        "wimpern",
+        "augenbrauen"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "kontakt@welbemi.de",
+      "email_source_url": "https://welbemi.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T07:07:37.741428+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 93,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 43 reviews vs. comparison median 175; gap 132."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 43 reviews vs. comparison median 175; gap 132.",
+    "proof": [
+      "Verified source data: 43 reviews vs. comparison median 175; gap 132.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "kontakt@welbemi.de",
+    "email_source_url": "https://welbemi.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-14T07:07:37.741428+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-14",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
   },
@@ -3293,6 +3458,68 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "kleintierpraxis berg|bremen|https://www.tieraerztin-berg.de/",
+    "company_name": "Kleintierpraxis Berg",
+    "industry": "Tierarzt",
+    "city": "Bremen",
+    "source_total_score": 85,
+    "source_lead_class": "A_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Berg/data=!4m7!3m6!1s0x47b0d828226fffff:0x317248fb7c980ac1!8m2!3d53.0304367!4d8.8133747!16s%2Fg%2F11hzxjzf4r!19sChIJ__9vIijYsEcRwQqYfPtIcjE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.tieraerztin-berg.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": false,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.tieraerztin-berg.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@tieraerztin-berg.de",
+      "email_source_url": "https://www.tieraerztin-berg.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T07:07:18.990733+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 90,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 46 reviews vs. comparison median 298; gap 252."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 46 reviews vs. comparison median 298; gap 252.",
+    "proof": [
+      "Verified source data: 46 reviews vs. comparison median 298; gap 252."
+    ],
+    "email": "info@tieraerztin-berg.de",
+    "email_source_url": "https://www.tieraerztin-berg.de/impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-14T07:07:18.990733+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-14",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "walk again center|berlin|https://walk-again.de/",
     "company_name": "WALK AGAIN Center",
     "industry": "Physiotherapie",
@@ -4568,6 +4795,69 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
+    "company_name": "Kleintierpraxis am Wall",
+    "industry": "Tierarzt",
+    "city": "Dortmund",
+    "source_total_score": 83,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+am+Wall/data=!4m7!3m6!1s0x47b919e70214b277:0x500c6dc34995f312!8m2!3d51.5124948!4d7.4568067!16s%2Fg%2F1tz70hds!19sChIJd7IUAucZuUcREvOVScNtDFA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.kleintierpraxis-am-wall.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://kleintierpraxis-am-wall.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@kleintierpraxis-am-wall.de",
+      "email_source_url": "https://kleintierpraxis-am-wall.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T07:07:54.135415+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 313 reviews vs. comparison median 494; gap 181."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 313 reviews vs. comparison median 494; gap 181.",
+    "proof": [
+      "Verified source data: 313 reviews vs. comparison median 494; gap 181."
+    ],
+    "email": "info@kleintierpraxis-am-wall.de",
+    "email_source_url": "https://kleintierpraxis-am-wall.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-14T07:07:54.135415+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-14",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "company_name": "ELYSIO Physiotherapie-Mitte",
     "industry": "Physiotherapie",
@@ -4836,6 +5126,81 @@
     "email_found_at": "2026-09-13T10:45:20.785832+00:00",
     "airtable_ready": false,
     "qa_date": "2026-09-13",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "kosmetikstudio gala beauty space|gelsenkirchen|https://dikidi.net/2118040",
+    "company_name": "Kosmetikstudio Gala Beauty Space",
+    "industry": "Kosmetikstudio",
+    "city": "Gelsenkirchen",
+    "source_total_score": 83,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Kosmetikstudio+Gala+Beauty+Space/data=!4m7!3m6!1s0x47b8e786cf50f5b1:0x11b5a902aa02529a!8m2!3d51.5163007!4d7.1018491!16s%2Fg%2F11yz8h9mrh!19sChIJsfVQz4bnuEcRmlICqgKptRE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://dikidi.net/2118040",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://dikidi.net/2118040?p=0.pi",
+      "booking_link": null,
+      "social_links": [
+        "https://www.instagram.com/gala_beauty_space?igsh=ODJndTh6YTZxOXlp"
+      ],
+      "contact_page_observed": false,
+      "website_service_matches": [
+        "microneedling",
+        "permanent make-up",
+        "wimpern"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (1 link(s))."
+      ],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 13 reviews vs. comparison median 89; gap 76."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+    ],
+    "primary_sales_angle_verified": "Verified source data: 13 reviews vs. comparison median 89; gap 76.",
+    "proof": [
+      "Verified source data: 13 reviews vs. comparison median 89; gap 76.",
+      "Business website links to at least one social profile."
+    ],
+    "email": null,
+    "email_source_url": null,
+    "email_verification_status": "EMAIL_MISSING",
+    "email_found_at": null,
+    "airtable_ready": false,
+    "qa_date": "2026-09-14",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
   },

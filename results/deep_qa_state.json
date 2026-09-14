@@ -1,5 +1,5 @@
 {
-  "runs": 16,
+  "runs": 17,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -23,6 +23,7 @@
     "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
     "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
     "heizung sanitär köln | ebi's haustechnik|koeln|http://www.ebis-haustechnik.de/",
+    "hilke friseur kopffabrik|hamburg|http://www.hilke-kopffabrik.de/",
     "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
     "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
     "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
@@ -30,9 +31,12 @@
     "jg kosmetikstudio köln - hydrafacial / microneedling / haarentfernung|koeln|https://jgkosmetik-koeln.de/",
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
     "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
+    "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
     "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
+    "kleintierpraxis berg|bremen|https://www.tieraerztin-berg.de/",
     "kleintierzentrum bonn hardtberg|bonn|https://www.kleintierzentrum-bonn.de/",
     "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
+    "kosmetikstudio gala beauty space|gelsenkirchen|https://dikidi.net/2118040",
     "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
     "kosmetikstudio la perla - lehel münchen|muenchen|https://www.laperla-beauty.de/",
     "maison de nails berlin|berlin|https://maisondenails.de/",
@@ -68,6 +72,7 @@
     "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
     "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
     "walk again center|berlin|https://walk-again.de/",
+    "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
     "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
     "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
     "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
@@ -78,15 +83,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 76,
-  "remaining_eligible": 9,
+  "processed_count": 81,
+  "remaining_eligible": 13,
   "last_batch_count": 5,
-  "final_a_total": 36,
-  "final_b_total": 40,
-  "email_ready_total": 24,
-  "email_missing_total": 24,
-  "email_gate_qualified_total": 52,
-  "email_missing_excluded_total": 24,
-  "downstream_eligible_total": 52,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "final_a_total": 38,
+  "final_b_total": 43,
+  "email_ready_total": 26,
+  "email_missing_total": 25
 }

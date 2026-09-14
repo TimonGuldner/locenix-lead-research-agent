@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 29,
-  "focus": "industry_exploitation",
+  "learning_run_count": 30,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Frankfurt am Main",
-    "Freiburg",
-    "Hannover"
+    "Hamburg"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Immobilienmakler",
+    "Podologie",
+    "Hundefriseur"
   ],
   "selected_pairs": [
     {
-      "city": "Frankfurt am Main",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Frankfurt am Main"
+      "city": "Hamburg",
+      "industry": "Immobilienmakler",
+      "query": "Immobilienmakler Hamburg"
     },
     {
-      "city": "Freiburg",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Freiburg"
+      "city": "Hamburg",
+      "industry": "Podologie",
+      "query": "Podologie Hamburg"
     },
     {
-      "city": "Hannover",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Hannover"
+      "city": "Hamburg",
+      "industry": "Hundefriseur",
+      "query": "Hundefriseur Hamburg"
     }
   ],
   "queries_per_run": 3

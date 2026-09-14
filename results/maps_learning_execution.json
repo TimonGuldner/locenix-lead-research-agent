@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 30,
-  "focus": "city_exploitation",
+  "learning_run_count": 31,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Hannover",
+    "Heidelberg",
+    "Karlsruhe"
   ],
   "selected_industries": [
-    "Immobilienmakler",
-    "Podologie",
-    "Hundefriseur"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Immobilienmakler",
-      "query": "Immobilienmakler Hamburg"
+      "city": "Hannover",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Hannover"
     },
     {
-      "city": "Hamburg",
-      "industry": "Podologie",
-      "query": "Podologie Hamburg"
+      "city": "Heidelberg",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Heidelberg"
     },
     {
-      "city": "Hamburg",
-      "industry": "Hundefriseur",
-      "query": "Hundefriseur Hamburg"
+      "city": "Karlsruhe",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Karlsruhe"
     }
   ],
   "queries_per_run": 3

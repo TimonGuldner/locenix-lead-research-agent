@@ -27,7 +27,7 @@
     "proof_3": "Business website links to at least one social profile.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
@@ -67,7 +67,7 @@
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "rec5XfvxdroEXvo03"
+    "airtable_record_id": "recCegWP1Xwen5fsK"
   },
   {
     "lead_id": "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
@@ -138,7 +138,7 @@
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recDbxq6wOiGOHCYb"
+    "airtable_record_id": "rec5dQc1dXRZmITOi"
   },
   {
     "lead_id": "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -204,7 +204,7 @@
     "proof_3": "Business website links to at least one social profile.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
@@ -245,7 +245,7 @@
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recbHvD40Xd1rz1xH"
+    "airtable_record_id": "receYtu0ilRNpAXhW"
   },
   {
     "lead_id": "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
@@ -281,7 +281,7 @@
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recn0ji2KxGgiSiTk"
+    "airtable_record_id": "recV752P17qXte85O"
   },
   {
     "lead_id": "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
@@ -347,7 +347,7 @@
     "proof_3": "Business website links to at least one social profile.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
@@ -424,7 +424,7 @@
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "reclQmBm3ZCExDFYp"
+    "airtable_record_id": "recYSBIUfFZR34Oco"
   },
   {
     "lead_id": "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -459,7 +459,7 @@
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recWcv3jmI2brQ3f0"
+    "airtable_record_id": "recuMF8J0XkQ3sBLV"
   },
   {
     "lead_id": "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
@@ -494,7 +494,7 @@
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "receWfXwwKYX1M4er"
+    "airtable_record_id": "recJ4aUSr0a9SGN7T"
   },
   {
     "lead_id": "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
@@ -596,7 +596,7 @@
     "proof_3": null,
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
@@ -631,7 +631,7 @@
     "proof_3": null,
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
@@ -666,7 +666,7 @@
     "proof_3": "Business website links to at least one social profile.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
@@ -741,7 +741,7 @@
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recEH8M25Vn7z8wUO"
+    "airtable_record_id": "rec6kFpFlT0tegOcW"
   },
   {
     "lead_id": "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
@@ -811,7 +811,7 @@
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recxI5ubwBoSAsBQn"
+    "airtable_record_id": "recqfNTsddHJbVuYj"
   },
   {
     "lead_id": "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/",
@@ -846,7 +846,7 @@
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "reca6aR7otskfMPGL"
+    "airtable_record_id": "recjb9S3MZXr8ZJiD"
   },
   {
     "lead_id": "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
@@ -954,7 +954,7 @@
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recmoynpwvrkNqFJb"
+    "airtable_record_id": "receTqsAKfJvuLJp8"
   },
   {
     "lead_id": "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
@@ -984,7 +984,7 @@
     "proof_3": null,
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
@@ -1019,7 +1019,7 @@
     "proof_3": "Business website links to at least one social profile.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
@@ -1054,7 +1054,7 @@
     "proof_3": "Business website links to at least one social profile.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-14",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",

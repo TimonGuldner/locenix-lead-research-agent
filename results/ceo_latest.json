@@ -1,15 +1,15 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-14T07:18:21.651601+00:00",
+  "generated_at": "2026-09-14T07:18:57.122089+00:00",
   "company_status": "ATTENTION",
   "north_star": "zero_daily_target_gaps",
   "funnel_metrics": {
     "research_leads": 114,
     "research_a": 18,
     "research_b": 65,
-    "qa_remaining": 3,
+    "qa_remaining": 0,
     "final_a": 40,
-    "final_b": 51,
+    "final_b": 54,
     "visibility_remaining": 0,
     "weak_visibility": 28,
     "sales_queue": 42,
@@ -147,10 +147,10 @@
       "human_reviews_required": 0,
       "biggest_bottleneck": "NONE",
       "recommended_next_action": "Monitor for new qualified trials and conversion opportunities.",
-      "last_run_at": "2026-09-14T07:17:59.028104+00:00"
+      "last_run_at": "2026-09-14T07:18:35.777619+00:00"
     }
   },
-  "biggest_bottleneck": "Qualified input is waiting for validation.",
+  "biggest_bottleneck": "Qualified leads have not all reached sales readiness.",
   "priority_1": {
     "rank": 1,
     "type": "DAILY_OUTBOUND_ACCOUNTABILITY",
@@ -160,18 +160,12 @@
   },
   "priority_2": {
     "rank": 2,
-    "type": "BOTTLENECK",
-    "owner": "Agent 7",
-    "action": "Move remaining FINAL_A leads through Sales Queue/Airtable.",
-    "reason": "Qualified leads have not all reached sales readiness."
-  },
-  "priority_3": {
-    "rank": 3,
     "type": "CHANNEL",
     "owner": "Agent 8",
     "action": "Prioritize positive replies and active qualified conversations before new prospecting.",
     "reason": "LinkedIn department priority: POSITIVE_REPLIES"
   },
+  "priority_3": null,
   "manager_directive": "Approved email outbound is behind pace: 0/5 sent today; expected by now 1. Agent 7 must close the provider-confirmed send gap using only approved, email-qualified records.",
   "linkedin_directive": {
     "directive_id": "li-dd8dd1f15049",
@@ -179,10 +173,10 @@
     "owner_agent": "AGENT_8_LINKEDIN_DEPARTMENT_HEAD",
     "objective": "Prioritize positive replies and active qualified conversations before new prospecting.",
     "reason": "LinkedIn department priority: POSITIVE_REPLIES",
-    "priority": 3,
+    "priority": 2,
     "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
     "created_at": "2026-09-12T12:08:42.961312+00:00",
-    "updated_at": "2026-09-14T07:18:21.651601+00:00",
+    "updated_at": "2026-09-14T07:18:57.122089+00:00",
     "status": "QUEUED",
     "external_action_authorized": false
   },
@@ -198,7 +192,7 @@
   },
   "opportunities": [],
   "risks": [
-    "Qualified input is waiting for validation."
+    "Qualified leads have not all reached sales readiness."
   ],
   "proposed_agents": 0,
   "proposed_departments": 0,
@@ -269,8 +263,8 @@
   },
   "linkedin_manager_accountability_rule": "Agent 0 checks whether Agent 8 converted targets into executed work and funnel movement, not merely whether workflows are healthy.",
   "daily_outbound_accountability": {
-    "generated_at": "2026-09-14T07:18:21.875781+00:00",
-    "berlin_time": "2026-09-14T09:18:21.875781+02:00",
+    "generated_at": "2026-09-14T07:18:57.522766+00:00",
+    "berlin_time": "2026-09-14T09:18:57.522766+02:00",
     "status": "ATTENTION",
     "hard_deadline_hour": 18,
     "email": {

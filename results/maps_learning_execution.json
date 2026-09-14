@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 39,
-  "focus": "industry_exploitation",
+  "learning_run_count": 40,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Mainz",
-    "Muenster",
-    "Nuernberg"
+    "Koeln"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Elektriker",
+    "Ergotherapie",
+    "Fotograf"
   ],
   "selected_pairs": [
     {
-      "city": "Mainz",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Mainz"
+      "city": "Koeln",
+      "industry": "Elektriker",
+      "query": "Elektriker Koeln"
     },
     {
-      "city": "Muenster",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Muenster"
+      "city": "Koeln",
+      "industry": "Ergotherapie",
+      "query": "Ergotherapie Koeln"
     },
     {
-      "city": "Nuernberg",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Nuernberg"
+      "city": "Koeln",
+      "industry": "Fotograf",
+      "query": "Fotograf Koeln"
     }
   ],
   "queries_per_run": 3

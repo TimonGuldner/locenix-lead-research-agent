@@ -1,20 +1,20 @@
 {
-  "last_run_at": "2026-09-14T20:22:39.570795+00:00",
+  "last_run_at": "2026-09-14T23:16:07.053329+00:00",
   "department_status": "BACKLOG",
   "next_agent": "deep_qa",
-  "reason": "9 A/B research lead(s) have not yet passed Deep QA/email research.",
+  "reason": "4 A/B research lead(s) have not yet passed Deep QA/email research.",
   "departments_total": 1,
   "departments_proposed": 0,
   "agents_total": 10,
   "agents_proposed": 0,
   "dispatch_success": true,
   "dispatch_detail": "HTTP 204",
-  "research_unqa": 9,
+  "research_unqa": 4,
   "maps_learning_available": true,
   "maps_learning_status": "OK",
-  "maps_learning_runs": 40,
+  "maps_learning_runs": 42,
   "maps_learning_recommended_industry": "Tierarzt",
-  "maps_learning_recommended_city": "Koeln",
+  "maps_learning_recommended_city": "Muenchen",
   "maps_learning_errors": 0,
   "maps_downstream_email_gate_violations": 0,
   "sales_hard_email_gate_rejected": 27,
@@ -26,5 +26,5 @@
   "email_trial_interest": 0,
   "email_human_reviews_required": 0,
   "email_errors": 0,
-  "email_last_run_at": "2026-09-14T20:22:15.117007+00:00"
+  "email_last_run_at": "2026-09-14T23:15:43.001776+00:00"
 }

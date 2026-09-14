@@ -1,18 +1,18 @@
 {
-  "last_run_at": "2026-09-14T00:09:48.474109+00:00",
+  "last_run_at": "2026-09-14T04:52:32.903314+00:00",
   "department_status": "BACKLOG",
   "next_agent": "deep_qa",
-  "reason": "3 A/B research lead(s) have not yet passed Deep QA/email research.",
+  "reason": "7 A/B research lead(s) have not yet passed Deep QA/email research.",
   "departments_total": 1,
   "departments_proposed": 0,
   "agents_total": 10,
   "agents_proposed": 0,
   "dispatch_success": true,
   "dispatch_detail": "HTTP 204",
-  "research_unqa": 3,
+  "research_unqa": 7,
   "maps_learning_available": true,
   "maps_learning_status": "OK",
-  "maps_learning_runs": 20,
+  "maps_learning_runs": 25,
   "maps_learning_recommended_industry": "Physiotherapie",
   "maps_learning_recommended_city": "Hamburg",
   "maps_learning_errors": 0,
@@ -26,5 +26,5 @@
   "email_trial_interest": 0,
   "email_human_reviews_required": 0,
   "email_errors": 0,
-  "email_last_run_at": "2026-09-13T22:00:33.255180+00:00"
+  "email_last_run_at": "2026-09-14T04:52:10.907651+00:00"
 }

@@ -1,8 +1,8 @@
 LOCENIX lead research agent wake trigger.
-Automation continuation: Germany-wide qualified lead mission resumed 2026-09-14 01:12 Europe/Berlin.
-Current qualified Airtable leads: 42/200.
-Latest deterministic state: 104 accumulated raw leads across 51 runs; latest batch inspected 24 and accepted 3, rejected 20.
-Final QA approved and synced 3 unique leads from the latest batch: Kleintierzentrum Bonn Hardtberg; Kleintierpraxis an der Oker - Ihr Tierarzt in Braunschweig; Kleintierpraxis Wimmer.
+Automation continuation: Germany-wide qualified lead mission resumed 2026-09-14 02:16 Europe/Berlin.
+Current qualified Airtable leads: 43/200.
+Latest deterministic state: 105 accumulated raw leads across 52 runs; latest batch inspected 23 and accepted 1, rejected 21.
+Final QA approved and synced 1 unique lead from the latest batch: Elb-Umzüge-Hamburg. Parser false-positive email was corrected against the public business website before sync; no unverified service-gap claim was approved.
 No lead-research GitHub Actions run was in progress at this check, so start the next deterministic research run now.
 Continue deterministic research only; public business data only; no contact; final QA required before Airtable sync.
 Prioritize unique high-quality leads scoring >=70 and avoid Airtable duplicates by name, website, address, and Maps URL.

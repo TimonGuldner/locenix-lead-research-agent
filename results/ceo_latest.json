@@ -1,6 +1,6 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-14T12:26:30.235218+00:00",
+  "generated_at": "2026-09-14T12:27:05.517234+00:00",
   "company_status": "ATTENTION",
   "north_star": "zero_daily_target_gaps",
   "funnel_metrics": {
@@ -10,8 +10,8 @@
     "qa_remaining": 0,
     "final_a": 40,
     "final_b": 54,
-    "visibility_remaining": 7,
-    "weak_visibility": 43,
+    "visibility_remaining": 2,
+    "weak_visibility": 46,
     "sales_queue": 67,
     "airtable_ready": 28,
     "airtable_errors": [],
@@ -147,7 +147,7 @@
       "human_reviews_required": 0,
       "biggest_bottleneck": "NONE",
       "recommended_next_action": "Monitor for new qualified trials and conversion opportunities.",
-      "last_run_at": "2026-09-14T12:26:19.437593+00:00"
+      "last_run_at": "2026-09-14T12:26:41.944972+00:00"
     }
   },
   "biggest_bottleneck": "Validated leads are waiting for visibility evidence.",
@@ -257,8 +257,8 @@
   },
   "linkedin_manager_accountability_rule": "Agent 0 checks whether Agent 8 converted targets into executed work and funnel movement, not merely whether workflows are healthy.",
   "daily_outbound_accountability": {
-    "generated_at": "2026-09-14T12:26:30.683178+00:00",
-    "berlin_time": "2026-09-14T14:26:30.683178+02:00",
+    "generated_at": "2026-09-14T12:27:06.001011+00:00",
+    "berlin_time": "2026-09-14T14:27:06.001011+02:00",
     "status": "ATTENTION",
     "hard_deadline_hour": 18,
     "email": {

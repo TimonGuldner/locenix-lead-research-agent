@@ -1,8 +1,10 @@
 LOCENIX lead research agent wake trigger.
-Automation continuation: Germany-wide qualified lead mission resumed 2026-09-14 18:25 Europe/Berlin.
-Current qualified Airtable leads: 58/200.
-Repository deterministic state: 128 raw leads across 68 runs; latest batch accepted 5 of 24 and rejected 17.
-Latest batch held from Airtable sync during final QA because google_review_count is null while derived review-gap evidence treats it as 0; do not use missing review counts as verified zero-review signals.
+Automation continuation: Germany-wide qualified lead mission resumed 2026-09-14 19:53 Europe/Berlin.
+Current qualified Airtable leads: 61/200.
+Repository deterministic state: 132 raw leads across 69 runs; latest batch accepted 4 of 24 and rejected 20.
+Final QA synced 3 unique leads from the latest batch: Mobiler Tierarzt Ryanvet für Notdienst, Tierarztpraxis Dr. Kochner, and Tierarztpraxis Holt Dr. Kathagen / Dr. Riecken / Dr. Sixt.
+Held Dr. med. vet. Stefan Kozak from Airtable because the source website is a third-party listing and the extracted info@gmail.com is not reliable enough to treat as a verified public business email.
+Do not treat missing google_review_count values as verified zero-review signals. Do not invent or infer email addresses.
 No LOCENIX Lead Research Agent run is currently in progress.
 Start the next deterministic research run now.
 Continue deterministic research only; public business data only; no contact; final QA required before Airtable sync.

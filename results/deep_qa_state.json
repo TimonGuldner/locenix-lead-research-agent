@@ -1,5 +1,5 @@
 {
-  "runs": 15,
+  "runs": 16,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -10,8 +10,10 @@
     "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
     "city nails - krefeld|krefeld|https://esinafsar.com/city-nails/",
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
+    "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
+    "felmo mobiler tierarzt bielefeld|bielefeld|https://felmo.de/tierarzt/bielefeld?utm_medium=referral&utm_source=google_my_business&utm_term=bielefeld",
     "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
     "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
     "gebäudereinigung köln i zana reinigung & pflege|koeln|https://zana-reinigung.de/",
@@ -28,6 +30,8 @@
     "jg kosmetikstudio köln - hydrafacial / microneedling / haarentfernung|koeln|https://jgkosmetik-koeln.de/",
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
     "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
+    "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
+    "kleintierzentrum bonn hardtberg|bonn|https://www.kleintierzentrum-bonn.de/",
     "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
     "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
     "kosmetikstudio la perla - lehel münchen|muenchen|https://www.laperla-beauty.de/",
@@ -49,6 +53,7 @@
     "since eleven - friseure|koeln|https://www.since-eleven.de/",
     "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
     "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
+    "tierarzt berlin prenzlauer berg, tierarztpraxis am arnimplatz|berlin|https://tierarztpraxis-arnimplatz.de/",
     "tierarztpraxis am wohnpark|sankt augustin|https://kleintierpraxis-spieker.de/",
     "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
     "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
@@ -73,15 +78,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 71,
-  "remaining_eligible": 7,
+  "processed_count": 76,
+  "remaining_eligible": 9,
   "last_batch_count": 5,
-  "final_a_total": 32,
-  "final_b_total": 39,
-  "email_ready_total": 20,
-  "email_missing_total": 24,
-  "email_gate_qualified_total": 47,
-  "email_missing_excluded_total": 24,
-  "downstream_eligible_total": 47,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "final_a_total": 36,
+  "final_b_total": 40,
+  "email_ready_total": 24,
+  "email_missing_total": 24
 }

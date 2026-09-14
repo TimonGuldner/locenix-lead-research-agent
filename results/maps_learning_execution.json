@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 28,
-  "focus": "exploration",
-  "exploration": true,
+  "learning_run_count": 29,
+  "focus": "industry_exploitation",
+  "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Mannheim",
-    "Augsburg",
-    "Wiesbaden"
+    "Frankfurt am Main",
+    "Freiburg",
+    "Hannover"
   ],
   "selected_industries": [
-    "Personal Training"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Mannheim",
-      "industry": "Personal Training",
-      "query": "Personal Training Mannheim"
+      "city": "Frankfurt am Main",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Frankfurt am Main"
     },
     {
-      "city": "Augsburg",
-      "industry": "Personal Training",
-      "query": "Personal Training Augsburg"
+      "city": "Freiburg",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Freiburg"
     },
     {
-      "city": "Wiesbaden",
-      "industry": "Personal Training",
-      "query": "Personal Training Wiesbaden"
+      "city": "Hannover",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Hannover"
     }
   ],
   "queries_per_run": 3

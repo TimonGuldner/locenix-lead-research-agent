@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 24,
-  "focus": "city_exploitation",
+  "learning_run_count": 25,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Gelsenkirchen",
+    "Dresden",
+    "Duesseldorf"
   ],
   "selected_industries": [
-    "Physiotherapie",
-    "Friseur",
-    "Kosmetikstudio"
+    "Physiotherapie"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
+      "city": "Gelsenkirchen",
       "industry": "Physiotherapie",
-      "query": "Physiotherapie Hamburg"
+      "query": "Physiotherapie Gelsenkirchen"
     },
     {
-      "city": "Hamburg",
-      "industry": "Friseur",
-      "query": "Friseur Hamburg"
+      "city": "Dresden",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Dresden"
     },
     {
-      "city": "Hamburg",
-      "industry": "Kosmetikstudio",
-      "query": "Kosmetikstudio Hamburg"
+      "city": "Duesseldorf",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Duesseldorf"
     }
   ],
   "queries_per_run": 3

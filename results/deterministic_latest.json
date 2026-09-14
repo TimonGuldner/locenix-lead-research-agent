@@ -1,166 +1,17 @@
 {
-  "accepted": [
-    {
-      "company_name": "Hilke Friseur Kopffabrik",
-      "industry": "Friseur",
-      "city": "Hamburg",
-      "address": "Dithmarscher Str. 45, 22049 Hamburg-Nord, Deutschland",
-      "website": "http://www.hilke-kopffabrik.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Hilke+Friseur+Kopffabrik/data=!4m7!3m6!1s0x47b1890002ad3e29:0xcade9b3fe7906ae3!8m2!3d53.58001!4d10.061363!16s%2Fg%2F11wq0lk3qg!19sChIJKT6tAgCJsUcR42qQ5z-b3so?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 40 26108879",
-      "public_business_email": "Hilke@hilke-kopffabrik.de",
-      "email_source_url": "https://www.hilke-kopffabrik.de",
-      "contact_form_url": null,
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 5.0,
-      "google_review_count": 60,
-      "main_category": "Friseur",
-      "website_services": [
-        "balayage",
-        "haarschnitt",
-        "extensions"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: haarschnitt, extensions"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Cut for Friends GmbH Hamburg",
-      "competitor_1_reviews": 1604,
-      "competitor_2": "dennis friseur",
-      "competitor_2_reviews": 497,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "60 eigene Bewertungen vs. lokaler Wettbewerbsmedian 262; Gap 202."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: haarschnitt, extensions",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 1,
-      "report_potential_score": 24,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 85,
-      "competitor_review_median": 262,
-      "review_gap": 202,
-      "grade": "A",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "60 eigene Bewertungen vs. lokaler Wettbewerbsmedian 262; Gap 202.",
-      "proof": [
-        "60 eigene Bewertungen vs. lokaler Wettbewerbsmedian 262; Gap 202.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: haarschnitt, extensions"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "60 eigene Bewertungen vs. lokaler Wettbewerbsmedian 262; Gap 202.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: haarschnitt, extensions",
-      "research_notes": "Deterministic research v2. Query: Friseur Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "welbemi - wellness beauty mind - Kosmetikstudio Hamburg",
-      "industry": "Kosmetikstudio",
-      "city": "Hamburg",
-      "address": "Heubergredder 34, 22297 Hamburg-Nord, Deutschland",
-      "website": "http://www.welbemi.de/",
-      "google_maps_url": "https://www.google.com/maps/place/welbemi+-+wellness+beauty+mind+-+Kosmetikstudio+Hamburg/data=!4m7!3m6!1s0x47b188e44b258edf:0x86e42afd1e855511!8m2!3d53.6077163!4d10.0095746!16s%2Fg%2F1v8x177b!19sChIJ344lS-SIsUcREVWFHv0q5IY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 40 18167000",
-      "public_business_email": "dpo@wordpress.org",
-      "email_source_url": "https://welbemi.de/",
-      "contact_form_url": "https://welbemi.de/kontakt/",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 5.0,
-      "google_review_count": 43,
-      "main_category": "Kosmetikstudio",
-      "website_services": [
-        "microneedling",
-        "gesichtsbehandlung",
-        "wimpern",
-        "augenbrauen"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, gesichtsbehandlung, wimpern, augenbrauen"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "The Skin Bar Hamburg (TSBH)",
-      "competitor_1_reviews": 362,
-      "competitor_2": "Dermastil Kosmetikstudio Ottensen Hamburg",
-      "competitor_2_reviews": 242,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "43 eigene Bewertungen vs. lokaler Wettbewerbsmedian 175; Gap 132."
-        },
-        {
-          "type": "low_review_volume",
-          "proof": "Nur 43 Google-Bewertungen."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, gesichtsbehandlung, wimpern, augenbrauen",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 2,
-      "report_potential_score": 23,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 84,
-      "competitor_review_median": 175,
-      "review_gap": 132,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "43 eigene Bewertungen vs. lokaler Wettbewerbsmedian 175; Gap 132.",
-      "proof": [
-        "43 eigene Bewertungen vs. lokaler Wettbewerbsmedian 175; Gap 132.",
-        "Nur 43 Google-Bewertungen.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, gesichtsbehandlung, wimpern, augenbrauen"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "43 eigene Bewertungen vs. lokaler Wettbewerbsmedian 175; Gap 132.",
-      "second_outreach_angle": "Nur 43 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Kosmetikstudio Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    }
-  ],
-  "accepted_count": 2,
-  "rejected_count": 21,
+  "accepted": [],
+  "accepted_count": 0,
+  "rejected_count": 24,
   "inspected": 24,
   "state": {
-    "query_cursor": 168,
-    "runs": 56,
+    "query_cursor": 171,
+    "runs": 57,
     "lead_count": 114,
     "target_leads": 999999999,
-    "last_accepted": 2,
+    "last_accepted": 0,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 21,
+    "last_rejected": 24,
     "a_leads": 18,
     "b_leads": 65
   }

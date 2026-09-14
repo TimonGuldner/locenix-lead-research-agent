@@ -1,6 +1,6 @@
 {
   "agent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-14T04:52:44.683036+00:00",
+  "generated_at": "2026-09-14T07:06:04.562958+00:00",
   "company_status": "ATTENTION",
   "north_star": "zero_daily_target_gaps",
   "funnel_metrics": {
@@ -147,15 +147,15 @@
       "human_reviews_required": 0,
       "biggest_bottleneck": "NONE",
       "recommended_next_action": "Monitor for new qualified trials and conversion opportunities.",
-      "last_run_at": "2026-09-13T18:00:04.432795+00:00"
+      "last_run_at": "2026-09-14T07:05:51.750645+00:00"
     }
   },
   "biggest_bottleneck": "Qualified input is waiting for validation.",
   "priority_1": {
     "rank": 1,
     "type": "DAILY_OUTBOUND_ACCOUNTABILITY",
-    "owner": "Agent 8",
-    "action": "LinkedIn is behind today's required pace. Close pacing gaps now: {'qualified_leads_found': 0, 'engagement_actions': 2, 'connection_requests': 9, 'direct_messages': 5, 'reply_actions': 0}. Agent 8 must assign executable work and re-measure.",
+    "owner": "Agent 7",
+    "action": "Approved email outbound is behind pace: 0/5 sent today; expected by now 1. Agent 7 must close the provider-confirmed send gap using only approved, email-qualified records.",
     "reason": "Hard daily outbound target or Maps email-quality gate is not currently satisfied."
   },
   "priority_2": {
@@ -172,7 +172,7 @@
     "action": "Prioritize positive replies and active qualified conversations before new prospecting.",
     "reason": "LinkedIn department priority: POSITIVE_REPLIES"
   },
-  "manager_directive": "LinkedIn is behind today's required pace. Close pacing gaps now: {'qualified_leads_found': 0, 'engagement_actions': 2, 'connection_requests': 9, 'direct_messages': 5, 'reply_actions': 0}. Agent 8 must assign executable work and re-measure.",
+  "manager_directive": "Approved email outbound is behind pace: 0/5 sent today; expected by now 1. Agent 7 must close the provider-confirmed send gap using only approved, email-qualified records.",
   "linkedin_directive": {
     "directive_id": "li-dd8dd1f15049",
     "department": "linkedin",
@@ -182,7 +182,7 @@
     "priority": 3,
     "success_metric": "Agent 8 reports the bottleneck reduced or resolved using observed Airtable/Supabase evidence.",
     "created_at": "2026-09-12T12:08:42.961312+00:00",
-    "updated_at": "2026-09-14T04:52:44.683036+00:00",
+    "updated_at": "2026-09-14T07:06:04.562958+00:00",
     "status": "QUEUED",
     "external_action_authorized": false
   },
@@ -269,8 +269,8 @@
   },
   "linkedin_manager_accountability_rule": "Agent 0 checks whether Agent 8 converted targets into executed work and funnel movement, not merely whether workflows are healthy.",
   "daily_outbound_accountability": {
-    "generated_at": "2026-09-14T04:52:45.140908+00:00",
-    "berlin_time": "2026-09-14T06:52:45.140908+02:00",
+    "generated_at": "2026-09-14T07:06:05.155760+00:00",
+    "berlin_time": "2026-09-14T09:06:05.155760+02:00",
     "status": "ATTENTION",
     "hard_deadline_hour": 18,
     "email": {
@@ -278,8 +278,8 @@
       "target": 5,
       "actual": 0,
       "gap": 5,
-      "expected_by_now": 0,
-      "pacing_gap": 0,
+      "expected_by_now": 1,
+      "pacing_gap": 1,
       "email_qualified_supply": 52,
       "email_missing_excluded": 24,
       "counting_rule": "Only provider-confirmed sends from records with explicit Airtable approval, researched public business email and allowed legal basis count."
@@ -338,7 +338,7 @@
       "rule": "No researched public business email = no Visibility, Sales Queue or outreach-ready handoff."
     },
     "manager_accountability_rule": "CEO holds department heads accountable for TARGET -> ACTUAL -> EXPECTED-BY-NOW -> GAP -> ROOT CAUSE -> ACTION -> RE-MEASURE. Workflow success without target execution is not success.",
-    "reason": "LinkedIn is behind today's required pace. Close pacing gaps now: {'qualified_leads_found': 0, 'engagement_actions': 2, 'connection_requests': 9, 'direct_messages': 5, 'reply_actions': 0}. Agent 8 must assign executable work and re-measure.",
-    "owner": "Agent 8"
+    "reason": "Approved email outbound is behind pace: 0/5 sent today; expected by now 1. Agent 7 must close the provider-confirmed send gap using only approved, email-qualified records.",
+    "owner": "Agent 7"
   }
 }

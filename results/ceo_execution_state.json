@@ -1,4 +1,101 @@
 {
-  "status": "outside_business_hours",
-  "checked_at": "2026-09-14T04:52:45.222208+00:00"
+  "status": "ATTENTION",
+  "checked_at": "2026-09-14T07:06:13.603094+00:00",
+  "priority": "HIGHEST_DAILY_OUTBOUND_TARGET_ENFORCEMENT",
+  "rule": "ONLY_CONFIRMED_RESULTS_COUNT_QUEUED_RUNNING_OR_GREEN_WORKFLOWS_DO_NOT_COUNT",
+  "control_loop": "MEASURE -> GAP -> DISPATCH/RECOVERY -> RE-MEASURE -> REPEAT_NEXT_CEO_CYCLE_UNTIL_ZERO_GAP",
+  "before": {
+    "linkedin": {
+      "actual": {
+        "qualified_leads_found": 20,
+        "engagement_actions": 1,
+        "connection_requests": 1,
+        "direct_messages": 0
+      },
+      "gaps": {
+        "qualified_leads_found": 0,
+        "engagement_actions": 2,
+        "connection_requests": 4,
+        "direct_messages": 3
+      },
+      "complete": false
+    },
+    "email": {
+      "actual": 0,
+      "target": 5,
+      "gap": 5,
+      "complete": false
+    },
+    "maps_gate": {
+      "violations": 0,
+      "complete": true,
+      "rule": "NO_RESEARCHED_PUBLIC_BUSINESS_EMAIL_NO_DOWNSTREAM_HANDOFF"
+    }
+  },
+  "after_remeasurement": {
+    "linkedin": {
+      "actual": {
+        "qualified_leads_found": 20,
+        "engagement_actions": 1,
+        "connection_requests": 1,
+        "direct_messages": 0
+      },
+      "gaps": {
+        "qualified_leads_found": 0,
+        "engagement_actions": 2,
+        "connection_requests": 4,
+        "direct_messages": 3
+      },
+      "complete": false
+    },
+    "email": {
+      "actual": 0,
+      "target": 5,
+      "gap": 5,
+      "complete": false
+    },
+    "maps_gate": {
+      "violations": 0,
+      "complete": true,
+      "rule": "NO_RESEARCHED_PUBLIC_BUSINESS_EMAIL_NO_DOWNSTREAM_HANDOFF"
+    }
+  },
+  "open_gaps": {
+    "linkedin": {
+      "qualified_leads_found": 0,
+      "engagement_actions": 2,
+      "connection_requests": 4,
+      "direct_messages": 3
+    },
+    "email": 5,
+    "maps_gate_violations": 0
+  },
+  "actions": [
+    {
+      "department": "growth",
+      "manager": "AGENT_7",
+      "reason": "EMAIL_OR_MAPS_DAILY_GAP",
+      "workflow": "department-head.yml",
+      "dispatched": true,
+      "detail": "HTTP 204"
+    },
+    {
+      "department": "linkedin",
+      "manager": "AGENT_8",
+      "reason": "LINKEDIN_DAILY_TARGET_GAP",
+      "workflow": "linkedin-department-head.yml",
+      "dispatched": false,
+      "detail": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "department": "customer_success",
+      "manager": "AGENT_10",
+      "reason": "LIFECYCLE_REVIEW",
+      "workflow": "customer-success.yml",
+      "dispatched": true,
+      "detail": "HTTP 204"
+    }
+  ],
+  "deadline_rule": "Before daily deadline, every remaining gap stays ATTENTION and must trigger corrective work on every CEO cycle; after deadline a nonzero gap is a failed daily objective unless a real external blocker is documented.",
+  "maps_rule": "No researched public business email = no Visibility, Sales Queue or outreach-ready handoff. Public email alone does not authorize sending; approval and documented legal basis remain required."
 }

@@ -1,8 +1,8 @@
 {
-  "last_run_at": "2026-09-14T12:26:25.473879+00:00",
+  "last_run_at": "2026-09-14T12:26:57.631379+00:00",
   "department_status": "BACKLOG",
   "next_agent": "visibility",
-  "reason": "Visibility has 7 email-qualified leads waiting.",
+  "reason": "Visibility has 2 email-qualified leads waiting.",
   "departments_total": 1,
   "departments_proposed": 0,
   "agents_total": 10,

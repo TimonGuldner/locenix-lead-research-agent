@@ -1,5 +1,5 @@
 {
-  "runs": 20,
+  "runs": 21,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -98,7 +98,7 @@
   ],
   "processed_count": 94,
   "remaining_eligible": 0,
-  "last_batch_count": 3,
+  "last_batch_count": 0,
   "final_a_total": 40,
   "final_b_total": 54,
   "email_ready_total": 28,

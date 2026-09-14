@@ -1,81 +1,17 @@
 {
-  "accepted": [
-    {
-      "company_name": "KS AUTOGLAS ZENTRUM Hamburg-Farmsen",
-      "industry": "Autowerkstatt",
-      "city": "Hamburg",
-      "address": "Friedrich-Ebert-Damm 319, 22159 Wandsbek, Deutschland",
-      "website": "https://hamburg-farmsen.ksautoglas.com/",
-      "google_maps_url": "https://www.google.com/maps/place/KS+AUTOGLAS+ZENTRUM+Hamburg-Farmsen/data=!4m7!3m6!1s0x47b18b0b585649f5:0xcdf6e14b6c684e03!8m2!3d53.6035!4d10.1151!16s%2Fg%2F11vyv9r_9x!19sChIJ9UlWWAuLsUcRA05obEvh9s0?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 40 6455510",
-      "public_business_email": null,
-      "email_source_url": null,
-      "contact_form_url": "https://hamburg-farmsen.ksautoglas.com/#id-kontakt",
-      "contact_basis": "CONTACT_FORM",
-      "google_rating": null,
-      "google_review_count": null,
-      "main_category": "Autowerkstatt",
-      "website_services": [],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "Freie Werkstatt Hamburg",
-      "competitor_1_reviews": 811,
-      "competitor_2": "Hansa Autoreparatur",
-      "competitor_2_reviews": 270,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 130; Gap 130."
-        },
-        {
-          "type": "low_review_volume",
-          "proof": "Nur 0 Google-Bewertungen."
-        }
-      ],
-      "soft_optimization_signals": [],
-      "verified_signal_count": 2,
-      "report_potential_score": 25,
-      "visible_value_score": 12,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 84,
-      "competitor_review_median": 130,
-      "review_gap": 130,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 130; Gap 130.",
-      "proof": [
-        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 130; Gap 130.",
-        "Nur 0 Google-Bewertungen."
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 130; Gap 130.",
-      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Autowerkstatt Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    }
-  ],
-  "accepted_count": 1,
-  "rejected_count": 23,
+  "accepted": [],
+  "accepted_count": 0,
+  "rejected_count": 24,
   "inspected": 24,
   "state": {
-    "query_cursor": 192,
-    "runs": 64,
+    "query_cursor": 195,
+    "runs": 65,
     "lead_count": 119,
     "target_leads": 999999999,
-    "last_accepted": 1,
+    "last_accepted": 0,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 23,
+    "last_rejected": 24,
     "a_leads": 20,
     "b_leads": 68
   }

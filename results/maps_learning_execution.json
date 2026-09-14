@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 32,
-  "focus": "city_exploitation",
+  "learning_run_count": 33,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Freiburg",
+    "Kiel",
+    "Leipzig"
   ],
   "selected_industries": [
-    "Hundefriseur",
-    "Reifenservice",
-    "Autowerkstatt"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Hundefriseur",
-      "query": "Hundefriseur Hamburg"
+      "city": "Freiburg",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Freiburg"
     },
     {
-      "city": "Hamburg",
-      "industry": "Reifenservice",
-      "query": "Reifenservice Hamburg"
+      "city": "Kiel",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Kiel"
     },
     {
-      "city": "Hamburg",
-      "industry": "Autowerkstatt",
-      "query": "Autowerkstatt Hamburg"
+      "city": "Leipzig",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Leipzig"
     }
   ],
   "queries_per_run": 3

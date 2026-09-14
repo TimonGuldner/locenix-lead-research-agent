@@ -1,21 +1,21 @@
 {
   "results": [
     {
-      "lead_id": "tierarztpraxis felmo bochum|bochum|https://felmo.de/tierarztpraxis/bochum?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
-      "company_name": "Tierarztpraxis felmo Bochum",
+      "lead_id": "filu tierarztpraxis rudolfplatz - allgemein- und notfallmedizin|koeln|https://www.filu.vet/standorte/koeln?utm_source=google&utm_medium=gmb",
+      "company_name": "filu Tierarztpraxis Rudolfplatz - Allgemein- und Notfallmedizin",
       "industry": "Tierarzt",
-      "city": "Bochum",
-      "source_total_score": 81,
+      "city": "Koeln",
+      "source_total_score": 80,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+felmo+Bochum/data=!4m7!3m6!1s0x47b8e12768a8a93f:0x63b3f2a50f3d7e06!8m2!3d51.4780365!4d7.227045!16s%2Fg%2F11yz8958_n!19sChIJP6moaCfhuEcRBn49D6Xys2M?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://felmo.de/tierarztpraxis/bochum?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
+      "google_maps_url": "https://www.google.com/maps/place/filu+Tierarztpraxis+Rudolfplatz+-+Allgemein-+und+Notfallmedizin/data=!4m7!3m6!1s0x47bf254997802d13:0xe56eac512485e26f!8m2!3d50.9356395!4d6.9396672!16s%2Fg%2F11wp6z9hnv!19sChIJEy2Al0klv0cRb-KFJFGsbuU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.filu.vet/standorte/koeln?utm_source=google&utm_medium=gmb",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
         "maps_text_observed": true,
         "posts_signal": "NOT_OBSERVED",
         "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
+        "booking_signal": "OBSERVED",
         "website_link_observed": true,
         "phone_observed": true,
         "address_observed": true,
@@ -26,19 +26,19 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://felmo.de/tierarztpraxis/bochum?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
-        "booking_link": "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ23k9vw-aR22irp_szoutzh10d3W837F6_gShb4hOn5KYnkxHetHrLmcgZeYSvO6Hb9VxSVy94N",
+        "website_final_url": "https://www.filu.vet/standorte/koeln?utm_source=google&utm_medium=gmb",
+        "booking_link": "https://my.filu.vet/book/?lang=de&clinic_id=7",
         "social_links": [
-          "https://www.facebook.com/felmo.de",
-          "https://de.linkedin.com/company/felmo-gmbh",
-          "https://www.instagram.com/felmogram/"
+          "https://www.instagram.com/filu_vet/",
+          "https://www.linkedin.com/company/filu-gmbh/",
+          "https://www.facebook.com/filuvet"
         ],
         "contact_page_observed": true,
         "website_service_matches": [
           "impfung",
           "chirurgie",
-          "zahnsanierung",
-          "ultraschall"
+          "ultraschall",
+          "labor"
         ],
         "website_evidence": [
           "Online booking/appointment link observed on website.",
@@ -46,17 +46,17 @@
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@mail.felmo.de",
-        "email_source_url": "https://felmo.de/imprint",
+        "email": "info@filu.vet",
+        "email_source_url": "https://www.filu.vet/rechtliches?tab=impressum",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-14T07:14:09.093531+00:00"
+        "email_found_at": "2026-09-14T07:18:13.916618+00:00"
       },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 89,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 139 reviews vs. comparison median 348; gap 209."
+          "proof": "Verified source data: 334 reviews vs. comparison median 541; gap 207."
         },
         {
           "type": "digital_maturity_booking",
@@ -69,30 +69,30 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 139 reviews vs. comparison median 348; gap 209.",
+      "primary_sales_angle_verified": "Verified source data: 334 reviews vs. comparison median 541; gap 207.",
       "proof": [
-        "Verified source data: 139 reviews vs. comparison median 348; gap 209.",
+        "Verified source data: 334 reviews vs. comparison median 541; gap 207.",
         "Online booking/appointment link observed on website.",
         "Business website links to at least one social profile."
       ],
-      "email": "info@mail.felmo.de",
-      "email_source_url": "https://felmo.de/imprint",
+      "email": "info@filu.vet",
+      "email_source_url": "https://www.filu.vet/rechtliches?tab=impressum",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-14T07:14:09.093531+00:00",
-      "airtable_ready": true,
+      "email_found_at": "2026-09-14T07:18:13.916618+00:00",
+      "airtable_ready": false,
       "qa_date": "2026-09-14",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
-      "company_name": "die tierärztin",
+      "lead_id": "fachtierarztpraxis dr. a. hettling|bielefeld|http://www.tierarztpraxis-hettling.de/",
+      "company_name": "Fachtierarztpraxis Dr. A. Hettling",
       "industry": "Tierarzt",
-      "city": "Chemnitz",
-      "source_total_score": 81,
+      "city": "Bielefeld",
+      "source_total_score": 80,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/die+tier%C3%A4rztin/data=!4m7!3m6!1s0x47a749a377cd4ecf:0x979685b185c6b1ed!8m2!3d50.7797396!4d12.9254938!16s%2Fg%2F11jfq92sp0!19sChIJz07Nd6NJp0cR7bHGhbGFlpc?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.dietieraerztin.vet/",
+      "google_maps_url": "https://www.google.com/maps/place/Fachtierarztpraxis+Dr.+A.+Hettling/data=!4m7!3m6!1s0x47ba3cc6763ce5e1:0xc5a4beef91cc69a2!8m2!3d51.9996392!4d8.5305394!16s%2Fg%2F1td_9spb!19sChIJ4eU8dsY8ukcRomnMke--pMU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.tierarztpraxis-hettling.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -110,36 +110,109 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.dietieraerztin.vet/",
+        "website_final_url": "https://tierarztpraxis-hettling.de/",
         "booking_link": null,
         "social_links": [
-          "https://instagram.com/tierarzt_chemnitz",
-          "https://www.facebook.com/dietieraerztinChemnitz/",
-          "https://instagram.com/dietieraerztin.chemnitz",
-          "https://facebook.com/dietieraerztinChemnitz"
+          "https://www.facebook.com/people/Tierarztpraxis-Dr-Hettling/61574251190250/",
+          "https://www.instagram.com/tierarztpraxis_drhettling/"
         ],
         "contact_page_observed": true,
         "website_service_matches": [
           "impfung",
-          "ultraschall",
           "labor"
+        ],
+        "website_evidence": [
+          "Active social-link footprint observed (2 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@tierarztpraxis-hettling.de",
+        "email_source_url": "https://tierarztpraxis-hettling.de/impressum",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-14T07:18:23.614395+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 87,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 315 reviews vs. comparison median 449; gap 134."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 315 reviews vs. comparison median 449; gap 134.",
+      "proof": [
+        "Verified source data: 315 reviews vs. comparison median 449; gap 134.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "info@tierarztpraxis-hettling.de",
+      "email_source_url": "https://tierarztpraxis-hettling.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T07:18:23.614395+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-14",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "kleintierpraxis wimmer|braunschweig|http://www.kleintierpraxis-wimmer.de/",
+      "company_name": "Kleintierpraxis Wimmer",
+      "industry": "Tierarzt",
+      "city": "Braunschweig",
+      "source_total_score": 80,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Wimmer/data=!4m7!3m6!1s0x47aff5d784084d35:0x827771e157018667!8m2!3d52.2819912!4d10.5309347!16s%2Fg%2F1tmk7jyt!19sChIJNU0IhNf1r0cRZ4YBV-Fxd4I?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.kleintierpraxis-wimmer.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.kleintierpraxis-wimmer.de/",
+        "booking_link": null,
+        "social_links": [
+          "https://www.facebook.com/",
+          "https://www.instagram.com/",
+          "https://www.facebook.com/Kleintierpraxis.Wimmer",
+          "https://www.instagram.com/kleintierpraxis.wimmer"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "impfung"
         ],
         "website_evidence": [
           "Active social-link footprint observed (4 link(s)).",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@dietieraerztin.vet",
-        "email_source_url": "https://www.dietieraerztin.vet/impressum",
+        "email": "info@kleintierpraxis-wimmer.de",
+        "email_source_url": "https://www.kleintierpraxis-wimmer.de/impressum-agb/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-14T07:14:18.757535+00:00"
+        "email_found_at": "2026-09-14T07:18:32.104037+00:00"
       },
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
+      "deep_qa_score": 87,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 279 reviews vs. comparison median 437; gap 158."
+          "proof": "Verified source data: 248 reviews vs. comparison median 336; gap 88."
         },
         {
           "type": "digital_maturity_social",
@@ -148,215 +221,15 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 279 reviews vs. comparison median 437; gap 158.",
+      "primary_sales_angle_verified": "Verified source data: 248 reviews vs. comparison median 336; gap 88.",
       "proof": [
-        "Verified source data: 279 reviews vs. comparison median 437; gap 158.",
+        "Verified source data: 248 reviews vs. comparison median 336; gap 88.",
         "Business website links to at least one social profile."
       ],
-      "email": "info@dietieraerztin.vet",
-      "email_source_url": "https://www.dietieraerztin.vet/impressum",
+      "email": "info@kleintierpraxis-wimmer.de",
+      "email_source_url": "https://www.kleintierpraxis-wimmer.de/impressum-agb/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-14T07:14:18.757535+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-14",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "fachzentrum für kleintiermedizin am chemnitz center|chemnitz|https://www.vet-chemnitz.de/",
-      "company_name": "Fachzentrum für Kleintiermedizin am Chemnitz Center",
-      "industry": "Tierarzt",
-      "city": "Chemnitz",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Fachzentrum+f%C3%BCr+Kleintiermedizin+am+Chemnitz+Center/data=!4m7!3m6!1s0x47a739f990eac65f:0xe7badfe61759022c!8m2!3d50.8672335!4d12.8504108!16s%2Fg%2F11x8g9ccfv!19sChIJX8bqkPk5p0cRLAJZF-bfuuc?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.vet-chemnitz.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": false,
-        "website_final_url": null,
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": false,
-        "website_service_matches": [],
-        "website_evidence": [],
-        "email": null,
-        "email_source_url": null,
-        "email_verification_status": "EMAIL_MISSING",
-        "email_found_at": null,
-        "website_error": "TimeoutError"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 120 reviews vs. comparison median 437; gap 317."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Website could not be verified as accessible in this run.",
-        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
-      ],
-      "primary_sales_angle_verified": "Verified source data: 120 reviews vs. comparison median 437; gap 317.",
-      "proof": [
-        "Verified source data: 120 reviews vs. comparison median 437; gap 317."
-      ],
-      "email": null,
-      "email_source_url": null,
-      "email_verification_status": "EMAIL_MISSING",
-      "email_found_at": null,
-      "airtable_ready": false,
-      "qa_date": "2026-09-14",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "tierärztliche praxis daglis|dortmund|http://www.tierarztpraxis-daglis.de/",
-      "company_name": "Tierärztliche Praxis Daglis",
-      "industry": "Tierarzt",
-      "city": "Dortmund",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Tier%C3%A4rztliche+Praxis+Daglis/data=!4m7!3m6!1s0x47b919dff0db84cf:0x55f1ac1297cef4f2!8m2!3d51.5085484!4d7.4649065!16s%2Fg%2F1vxfz7t4!19sChIJz4Tb8N8ZuUcR8vTOlxKs8VU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.tierarztpraxis-daglis.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://tierarztpraxis-daglis.de/",
-        "booking_link": "https://app.petsxl.com/",
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "impfung",
-          "chirurgie",
-          "labor"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "termin@tierarztpraxis-daglis.de",
-        "email_source_url": "https://tierarztpraxis-daglis.de/#kontakt",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-14T07:15:21.206997+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 330 reviews vs. comparison median 494; gap 164."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 330 reviews vs. comparison median 494; gap 164.",
-      "proof": [
-        "Verified source data: 330 reviews vs. comparison median 494; gap 164.",
-        "Online booking/appointment link observed on website."
-      ],
-      "email": "termin@tierarztpraxis-daglis.de",
-      "email_source_url": "https://tierarztpraxis-daglis.de/#kontakt",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-14T07:15:21.206997+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-14",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "tierärztliche praxis für kleintiere scharnhorst gmbh|dortmund|http://www.petdoc.de/",
-      "company_name": "Tierärztliche Praxis für Kleintiere Scharnhorst GmbH",
-      "industry": "Tierarzt",
-      "city": "Dortmund",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Tier%C3%A4rztliche+Praxis+f%C3%BCr+Kleintiere+Scharnhorst+GmbH/data=!4m7!3m6!1s0x47b9111b558486b9:0xca027b302d7e89e8!8m2!3d51.5572463!4d7.539427!16s%2Fg%2F1tdzq6mh!19sChIJuYaEVRsRuUcR6Il-LTB7Aso?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.petdoc.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": false,
-        "website_final_url": "https://www.petdoc.de/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": false,
-        "website_service_matches": [],
-        "website_evidence": [],
-        "email": null,
-        "email_source_url": null,
-        "email_verification_status": "EMAIL_MISSING",
-        "email_found_at": null
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 186 reviews vs. comparison median 494; gap 308."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Website could not be verified as accessible in this run.",
-        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
-      ],
-      "primary_sales_angle_verified": "Verified source data: 186 reviews vs. comparison median 494; gap 308.",
-      "proof": [
-        "Verified source data: 186 reviews vs. comparison median 494; gap 308."
-      ],
-      "email": null,
-      "email_source_url": null,
-      "email_verification_status": "EMAIL_MISSING",
-      "email_found_at": null,
+      "email_found_at": "2026-09-14T07:18:32.104037+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-14",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
@@ -364,7 +237,7 @@
     }
   ],
   "state": {
-    "runs": 19,
+    "runs": 20,
     "processed_ids": [
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -380,10 +253,12 @@
       "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
       "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
       "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
+      "fachtierarztpraxis dr. a. hettling|bielefeld|http://www.tierarztpraxis-hettling.de/",
       "fachzentrum für kleintiermedizin am chemnitz center|chemnitz|https://www.vet-chemnitz.de/",
       "fellow tierarztpraxis au-haidhausen|muenchen|https://www.fellow.vet/",
       "felmo mobiler tierarzt bielefeld|bielefeld|https://felmo.de/tierarzt/bielefeld?utm_medium=referral&utm_source=google_my_business&utm_term=bielefeld",
       "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
+      "filu tierarztpraxis rudolfplatz - allgemein- und notfallmedizin|koeln|https://www.filu.vet/standorte/koeln?utm_source=google&utm_medium=gmb",
       "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
       "gebäudereinigung köln i zana reinigung & pflege|koeln|https://zana-reinigung.de/",
       "gebäudereinigung köln|koeln|https://xn--gebudereinigungkoeln-dzb.de/",
@@ -403,6 +278,7 @@
       "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
       "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
       "kleintierpraxis berg|bremen|https://www.tieraerztin-berg.de/",
+      "kleintierpraxis wimmer|braunschweig|http://www.kleintierpraxis-wimmer.de/",
       "kleintierzentrum bonn hardtberg|bonn|https://www.kleintierzentrum-bonn.de/",
       "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
       "kosmetikstudio gala beauty space|gelsenkirchen|https://dikidi.net/2118040",
@@ -458,11 +334,11 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 91,
-    "remaining_eligible": 3,
-    "last_batch_count": 5,
+    "processed_count": 94,
+    "remaining_eligible": 0,
+    "last_batch_count": 3,
     "final_a_total": 40,
-    "final_b_total": 51,
+    "final_b_total": 54,
     "email_ready_total": 28,
     "email_missing_total": 27
   }

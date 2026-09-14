@@ -1,5 +1,5 @@
 {
-  "runs": 19,
+  "runs": 20,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -15,10 +15,12 @@
     "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
+    "fachtierarztpraxis dr. a. hettling|bielefeld|http://www.tierarztpraxis-hettling.de/",
     "fachzentrum für kleintiermedizin am chemnitz center|chemnitz|https://www.vet-chemnitz.de/",
     "fellow tierarztpraxis au-haidhausen|muenchen|https://www.fellow.vet/",
     "felmo mobiler tierarzt bielefeld|bielefeld|https://felmo.de/tierarzt/bielefeld?utm_medium=referral&utm_source=google_my_business&utm_term=bielefeld",
     "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
+    "filu tierarztpraxis rudolfplatz - allgemein- und notfallmedizin|koeln|https://www.filu.vet/standorte/koeln?utm_source=google&utm_medium=gmb",
     "frisör berlin: toronto|berlin|http://www.toronto-berlin.de/",
     "gebäudereinigung köln i zana reinigung & pflege|koeln|https://zana-reinigung.de/",
     "gebäudereinigung köln|koeln|https://xn--gebudereinigungkoeln-dzb.de/",
@@ -38,6 +40,7 @@
     "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
     "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
     "kleintierpraxis berg|bremen|https://www.tieraerztin-berg.de/",
+    "kleintierpraxis wimmer|braunschweig|http://www.kleintierpraxis-wimmer.de/",
     "kleintierzentrum bonn hardtberg|bonn|https://www.kleintierzentrum-bonn.de/",
     "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
     "kosmetikstudio gala beauty space|gelsenkirchen|https://dikidi.net/2118040",
@@ -93,15 +96,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 91,
-  "remaining_eligible": 3,
-  "last_batch_count": 5,
+  "processed_count": 94,
+  "remaining_eligible": 0,
+  "last_batch_count": 3,
   "final_a_total": 40,
-  "final_b_total": 51,
+  "final_b_total": 54,
   "email_ready_total": 28,
-  "email_missing_total": 27,
-  "email_gate_qualified_total": 64,
-  "email_missing_excluded_total": 27,
-  "downstream_eligible_total": 64,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "email_missing_total": 27
 }

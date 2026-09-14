@@ -4474,6 +4474,90 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "filu tierarztpraxis rudolfplatz - allgemein- und notfallmedizin|koeln|https://www.filu.vet/standorte/koeln?utm_source=google&utm_medium=gmb",
+    "company_name": "filu Tierarztpraxis Rudolfplatz - Allgemein- und Notfallmedizin",
+    "industry": "Tierarzt",
+    "city": "Koeln",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/filu+Tierarztpraxis+Rudolfplatz+-+Allgemein-+und+Notfallmedizin/data=!4m7!3m6!1s0x47bf254997802d13:0xe56eac512485e26f!8m2!3d50.9356395!4d6.9396672!16s%2Fg%2F11wp6z9hnv!19sChIJEy2Al0klv0cRb-KFJFGsbuU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.filu.vet/standorte/koeln?utm_source=google&utm_medium=gmb",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.filu.vet/standorte/koeln?utm_source=google&utm_medium=gmb",
+      "booking_link": "https://my.filu.vet/book/?lang=de&clinic_id=7",
+      "social_links": [
+        "https://www.instagram.com/filu_vet/",
+        "https://www.linkedin.com/company/filu-gmbh/",
+        "https://www.facebook.com/filuvet"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "impfung",
+        "chirurgie",
+        "ultraschall",
+        "labor"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (3 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@filu.vet",
+      "email_source_url": "https://www.filu.vet/rechtliches?tab=impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T07:18:13.916618+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 334 reviews vs. comparison median 541; gap 207."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 334 reviews vs. comparison median 541; gap 207.",
+    "proof": [
+      "Verified source data: 334 reviews vs. comparison median 541; gap 207.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@filu.vet",
+    "email_source_url": "https://www.filu.vet/rechtliches?tab=impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-14T07:18:13.916618+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-14",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "company_name": "MANU Elektrobau GmbH",
     "industry": "Elektriker",
@@ -5658,6 +5742,157 @@
     "email_source_url": null,
     "email_verification_status": "EMAIL_MISSING",
     "email_found_at": null,
+    "airtable_ready": false,
+    "qa_date": "2026-09-14",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "fachtierarztpraxis dr. a. hettling|bielefeld|http://www.tierarztpraxis-hettling.de/",
+    "company_name": "Fachtierarztpraxis Dr. A. Hettling",
+    "industry": "Tierarzt",
+    "city": "Bielefeld",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Fachtierarztpraxis+Dr.+A.+Hettling/data=!4m7!3m6!1s0x47ba3cc6763ce5e1:0xc5a4beef91cc69a2!8m2!3d51.9996392!4d8.5305394!16s%2Fg%2F1td_9spb!19sChIJ4eU8dsY8ukcRomnMke--pMU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.tierarztpraxis-hettling.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://tierarztpraxis-hettling.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/people/Tierarztpraxis-Dr-Hettling/61574251190250/",
+        "https://www.instagram.com/tierarztpraxis_drhettling/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "impfung",
+        "labor"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@tierarztpraxis-hettling.de",
+      "email_source_url": "https://tierarztpraxis-hettling.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T07:18:23.614395+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 315 reviews vs. comparison median 449; gap 134."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 315 reviews vs. comparison median 449; gap 134.",
+    "proof": [
+      "Verified source data: 315 reviews vs. comparison median 449; gap 134.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@tierarztpraxis-hettling.de",
+    "email_source_url": "https://tierarztpraxis-hettling.de/impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-14T07:18:23.614395+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-14",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "kleintierpraxis wimmer|braunschweig|http://www.kleintierpraxis-wimmer.de/",
+    "company_name": "Kleintierpraxis Wimmer",
+    "industry": "Tierarzt",
+    "city": "Braunschweig",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Wimmer/data=!4m7!3m6!1s0x47aff5d784084d35:0x827771e157018667!8m2!3d52.2819912!4d10.5309347!16s%2Fg%2F1tmk7jyt!19sChIJNU0IhNf1r0cRZ4YBV-Fxd4I?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.kleintierpraxis-wimmer.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.kleintierpraxis-wimmer.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/",
+        "https://www.instagram.com/",
+        "https://www.facebook.com/Kleintierpraxis.Wimmer",
+        "https://www.instagram.com/kleintierpraxis.wimmer"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "impfung"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (4 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@kleintierpraxis-wimmer.de",
+      "email_source_url": "https://www.kleintierpraxis-wimmer.de/impressum-agb/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-14T07:18:32.104037+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 248 reviews vs. comparison median 336; gap 88."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 248 reviews vs. comparison median 336; gap 88.",
+    "proof": [
+      "Verified source data: 248 reviews vs. comparison median 336; gap 88.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@kleintierpraxis-wimmer.de",
+    "email_source_url": "https://www.kleintierpraxis-wimmer.de/impressum-agb/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-14T07:18:32.104037+00:00",
     "airtable_ready": false,
     "qa_date": "2026-09-14",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",

@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-14T04:52:32.903314+00:00",
+  "last_run_at": "2026-09-14T07:06:18.009914+00:00",
   "department_status": "BACKLOG",
   "next_agent": "deep_qa",
   "reason": "7 A/B research lead(s) have not yet passed Deep QA/email research.",
@@ -12,7 +12,7 @@
   "research_unqa": 7,
   "maps_learning_available": true,
   "maps_learning_status": "OK",
-  "maps_learning_runs": 25,
+  "maps_learning_runs": 27,
   "maps_learning_recommended_industry": "Physiotherapie",
   "maps_learning_recommended_city": "Hamburg",
   "maps_learning_errors": 0,

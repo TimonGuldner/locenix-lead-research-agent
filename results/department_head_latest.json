@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-14T04:52:32.903314+00:00",
+  "generated_at": "2026-09-14T07:06:18.009914+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 114,
@@ -12,7 +12,7 @@
     "research_unqa": 7,
     "maps_learning_available": true,
     "maps_learning_status": "OK",
-    "maps_learning_runs": 25,
+    "maps_learning_runs": 27,
     "maps_learning_evaluated": 114,
     "maps_learning_downstream_evidence": 76,
     "maps_learning_recommended_industry": "Physiotherapie",
@@ -71,7 +71,7 @@
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
     "available": true,
     "status": "OK",
-    "learning_runs": 25,
+    "learning_runs": 27,
     "research_leads_evaluated": 114,
     "leads_with_downstream_evidence": 76,
     "recommended_industry": "Physiotherapie",

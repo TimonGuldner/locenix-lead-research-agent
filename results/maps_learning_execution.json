@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 23,
-  "focus": "industry_exploitation",
+  "learning_run_count": 24,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Bremen",
-    "Chemnitz",
-    "Dortmund"
+    "Hamburg"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Physiotherapie",
+    "Friseur",
+    "Kosmetikstudio"
   ],
   "selected_pairs": [
     {
-      "city": "Bremen",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Bremen"
+      "city": "Hamburg",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Hamburg"
     },
     {
-      "city": "Chemnitz",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Chemnitz"
+      "city": "Hamburg",
+      "industry": "Friseur",
+      "query": "Friseur Hamburg"
     },
     {
-      "city": "Dortmund",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Dortmund"
+      "city": "Hamburg",
+      "industry": "Kosmetikstudio",
+      "query": "Kosmetikstudio Hamburg"
     }
   ],
   "queries_per_run": 3

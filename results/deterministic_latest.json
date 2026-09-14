@@ -1,438 +1,167 @@
 {
   "accepted": [
     {
-      "company_name": "Kleintierpraxis Berg",
-      "industry": "Tierarzt",
-      "city": "Bremen",
-      "address": "Kattenescher Weg 26, 28277 Bremen-Obervieland, Deutschland",
-      "website": "https://www.tieraerztin-berg.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Berg/data=!4m7!3m6!1s0x47b0d828226fffff:0x317248fb7c980ac1!8m2!3d53.0304367!4d8.8133747!16s%2Fg%2F11hzxjzf4r!19sChIJ__9vIijYsEcRwQqYfPtIcjE?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": null,
-      "public_business_email": "info@tieraerztin-berg.de",
-      "email_source_url": "https://www.tieraerztin-berg.de/",
-      "contact_form_url": "https://www.tieraerztin-berg.de/kontakt",
+      "company_name": "Hilke Friseur Kopffabrik",
+      "industry": "Friseur",
+      "city": "Hamburg",
+      "address": "Dithmarscher Str. 45, 22049 Hamburg-Nord, Deutschland",
+      "website": "http://www.hilke-kopffabrik.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Hilke+Friseur+Kopffabrik/data=!4m7!3m6!1s0x47b1890002ad3e29:0xcade9b3fe7906ae3!8m2!3d53.58001!4d10.061363!16s%2Fg%2F11wq0lk3qg!19sChIJKT6tAgCJsUcR42qQ5z-b3so?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 40 26108879",
+      "public_business_email": "Hilke@hilke-kopffabrik.de",
+      "email_source_url": "https://www.hilke-kopffabrik.de",
+      "contact_form_url": null,
       "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.9,
-      "google_review_count": 46,
-      "main_category": "Tierarzt",
-      "website_services": [],
+      "google_rating": 5.0,
+      "google_review_count": 60,
+      "main_category": "Friseur",
+      "website_services": [
+        "balayage",
+        "haarschnitt",
+        "extensions"
+      ],
       "google_visible_services": [],
       "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "felmo Mobiler Tierarzt Bremen",
-      "competitor_1_reviews": 1200,
-      "competitor_2": "AniCura Kleintierpraxis Bremen",
-      "competitor_2_reviews": 323,
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: haarschnitt, extensions"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Cut for Friends GmbH Hamburg",
+      "competitor_1_reviews": 1604,
+      "competitor_2": "dennis friseur",
+      "competitor_2_reviews": 497,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "46 eigene Bewertungen vs. lokaler Wettbewerbsmedian 298; Gap 252."
-        },
-        {
-          "type": "low_review_volume",
-          "proof": "Nur 46 Google-Bewertungen."
+          "proof": "60 eigene Bewertungen vs. lokaler Wettbewerbsmedian 262; Gap 202."
         }
       ],
-      "soft_optimization_signals": [],
-      "verified_signal_count": 2,
-      "report_potential_score": 26,
-      "visible_value_score": 12,
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: haarschnitt, extensions",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 24,
+      "visible_value_score": 14,
       "maps_importance_score": 14,
       "customer_value_score": 8,
       "competitive_pressure_score": 10,
       "digital_readiness_score": 10,
       "saas_fit_score": 5,
       "total_score": 85,
-      "competitor_review_median": 298,
-      "review_gap": 252,
+      "competitor_review_median": 262,
+      "review_gap": 202,
       "grade": "A",
-      "lead_class": "A_LEAD",
-      "qa_gate": "PASS",
-      "primary_pitch": "46 eigene Bewertungen vs. lokaler Wettbewerbsmedian 298; Gap 252.",
-      "proof": [
-        "46 eigene Bewertungen vs. lokaler Wettbewerbsmedian 298; Gap 252.",
-        "Nur 46 Google-Bewertungen."
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "46 eigene Bewertungen vs. lokaler Wettbewerbsmedian 298; Gap 252.",
-      "second_outreach_angle": "Nur 46 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Bremen. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "QUALIFIED",
-      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "die tierärztin",
-      "industry": "Tierarzt",
-      "city": "Chemnitz",
-      "address": "Annaberger Str. 461, 09125 Harthau, Deutschland",
-      "website": "https://www.dietieraerztin.vet/",
-      "google_maps_url": "https://www.google.com/maps/place/die+tier%C3%A4rztin/data=!4m7!3m6!1s0x47a749a377cd4ecf:0x979685b185c6b1ed!8m2!3d50.7797396!4d12.9254938!16s%2Fg%2F11jfq92sp0!19sChIJz07Nd6NJp0cR7bHGhbGFlpc?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 371 64637358",
-      "public_business_email": "info@dietieraerztin.vet",
-      "email_source_url": "https://www.dietieraerztin.vet/",
-      "contact_form_url": "https://www.dietieraerztin.vet/#Kontakt",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.8,
-      "google_review_count": 279,
-      "main_category": "Tierarzt",
-      "website_services": [
-        "impfung",
-        "ultraschall",
-        "labor"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Tierarztpraxis Dr. Riedel",
-      "competitor_1_reviews": 772,
-      "competitor_2": "Tierärztliche Gemeinschaftspraxis am Kaßberg | Dr. Plümer & Dr. Schreyer",
-      "competitor_2_reviews": 669,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "279 eigene Bewertungen vs. lokaler Wettbewerbsmedian 437; Gap 158."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 1,
-      "report_potential_score": 20,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 81,
-      "competitor_review_median": 437,
-      "review_gap": 158,
-      "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "279 eigene Bewertungen vs. lokaler Wettbewerbsmedian 437; Gap 158.",
+      "primary_pitch": "60 eigene Bewertungen vs. lokaler Wettbewerbsmedian 262; Gap 202.",
       "proof": [
-        "279 eigene Bewertungen vs. lokaler Wettbewerbsmedian 437; Gap 158.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor"
+        "60 eigene Bewertungen vs. lokaler Wettbewerbsmedian 262; Gap 202.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: haarschnitt, extensions"
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "279 eigene Bewertungen vs. lokaler Wettbewerbsmedian 437; Gap 158.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Chemnitz. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "60 eigene Bewertungen vs. lokaler Wettbewerbsmedian 262; Gap 202.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: haarschnitt, extensions",
+      "research_notes": "Deterministic research v2. Query: Friseur Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-14",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "company_name": "Fachzentrum für Kleintiermedizin am Chemnitz Center",
-      "industry": "Tierarzt",
-      "city": "Chemnitz",
-      "address": "Röhrsdorfer Allee 31, 09247 Röhrsdorf, Deutschland",
-      "website": "https://www.vet-chemnitz.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Fachzentrum+f%C3%BCr+Kleintiermedizin+am+Chemnitz+Center/data=!4m7!3m6!1s0x47a739f990eac65f:0xe7badfe61759022c!8m2!3d50.8672335!4d12.8504108!16s%2Fg%2F11x8g9ccfv!19sChIJX8bqkPk5p0cRLAJZF-bfuuc?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 3722 620420",
-      "public_business_email": "praxis@vet-chemnitz.de",
-      "email_source_url": "https://www.vet-chemnitz.de/",
-      "contact_form_url": "https://www.vet-chemnitz.de/kontakt/",
+      "company_name": "welbemi - wellness beauty mind - Kosmetikstudio Hamburg",
+      "industry": "Kosmetikstudio",
+      "city": "Hamburg",
+      "address": "Heubergredder 34, 22297 Hamburg-Nord, Deutschland",
+      "website": "http://www.welbemi.de/",
+      "google_maps_url": "https://www.google.com/maps/place/welbemi+-+wellness+beauty+mind+-+Kosmetikstudio+Hamburg/data=!4m7!3m6!1s0x47b188e44b258edf:0x86e42afd1e855511!8m2!3d53.6077163!4d10.0095746!16s%2Fg%2F1v8x177b!19sChIJ344lS-SIsUcREVWFHv0q5IY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 40 18167000",
+      "public_business_email": "dpo@wordpress.org",
+      "email_source_url": "https://welbemi.de/",
+      "contact_form_url": "https://welbemi.de/kontakt/",
       "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.8,
-      "google_review_count": 120,
-      "main_category": "Tierarzt",
+      "google_rating": 5.0,
+      "google_review_count": 43,
+      "main_category": "Kosmetikstudio",
       "website_services": [
-        "impfung"
+        "microneedling",
+        "gesichtsbehandlung",
+        "wimpern",
+        "augenbrauen"
       ],
       "google_visible_services": [],
       "service_gap": [],
       "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, gesichtsbehandlung, wimpern, augenbrauen"
       ],
       "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Tierarztpraxis Dr. Riedel",
-      "competitor_1_reviews": 772,
-      "competitor_2": "Tierärztliche Gemeinschaftspraxis am Kaßberg | Dr. Plümer & Dr. Schreyer",
-      "competitor_2_reviews": 669,
+      "competitor_1": "The Skin Bar Hamburg (TSBH)",
+      "competitor_1_reviews": 362,
+      "competitor_2": "Dermastil Kosmetikstudio Ottensen Hamburg",
+      "competitor_2_reviews": 242,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "120 eigene Bewertungen vs. lokaler Wettbewerbsmedian 437; Gap 317."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 1,
-      "report_potential_score": 20,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 81,
-      "competitor_review_median": 437,
-      "review_gap": 317,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "120 eigene Bewertungen vs. lokaler Wettbewerbsmedian 437; Gap 317.",
-      "proof": [
-        "120 eigene Bewertungen vs. lokaler Wettbewerbsmedian 437; Gap 317.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "120 eigene Bewertungen vs. lokaler Wettbewerbsmedian 437; Gap 317.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Chemnitz. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Tierärztliche Praxis Daglis",
-      "industry": "Tierarzt",
-      "city": "Dortmund",
-      "address": "Elisabethstraße 9, 44139 Dortmund-Innenstadt-West, Deutschland",
-      "website": "http://www.tierarztpraxis-daglis.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Tier%C3%A4rztliche+Praxis+Daglis/data=!4m7!3m6!1s0x47b919dff0db84cf:0x55f1ac1297cef4f2!8m2!3d51.5085484!4d7.4649065!16s%2Fg%2F1vxfz7t4!19sChIJz4Tb8N8ZuUcR8vTOlxKs8VU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 231 5862808",
-      "public_business_email": "termin@tierarztpraxis-daglis.de",
-      "email_source_url": "https://tierarztpraxis-daglis.de/",
-      "contact_form_url": null,
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.9,
-      "google_review_count": 330,
-      "main_category": "Tierarzt",
-      "website_services": [
-        "impfung",
-        "chirurgie",
-        "labor"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, labor"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Tierarztpraxis Dr. Möhrke Dr. Rösch",
-      "competitor_1_reviews": 1474,
-      "competitor_2": "Dr. Ostermann",
-      "competitor_2_reviews": 1350,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "330 eigene Bewertungen vs. lokaler Wettbewerbsmedian 494; Gap 164."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, labor",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 1,
-      "report_potential_score": 20,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 81,
-      "competitor_review_median": 494,
-      "review_gap": 164,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "330 eigene Bewertungen vs. lokaler Wettbewerbsmedian 494; Gap 164.",
-      "proof": [
-        "330 eigene Bewertungen vs. lokaler Wettbewerbsmedian 494; Gap 164.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, labor"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "330 eigene Bewertungen vs. lokaler Wettbewerbsmedian 494; Gap 164.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, labor",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Dortmund. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Kleintierpraxis am Wall",
-      "industry": "Tierarzt",
-      "city": "Dortmund",
-      "address": "Hoher Wall 20, 44137 Dortmund-Innenstadt-West, Deutschland",
-      "website": "http://www.kleintierpraxis-am-wall.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+am+Wall/data=!4m7!3m6!1s0x47b919e70214b277:0x500c6dc34995f312!8m2!3d51.5124948!4d7.4568067!16s%2Fg%2F1tz70hds!19sChIJd7IUAucZuUcREvOVScNtDFA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 231 5338770",
-      "public_business_email": "info@kleintierpraxis-am-wall.de",
-      "email_source_url": "https://kleintierpraxis-am-wall.de/",
-      "contact_form_url": "https://kleintierpraxis-am-wall.de/wp-content/plugins/bootstrap-for-contact-form-7/assets/dist/css/style.min.css?ver=5.9.16",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.5,
-      "google_review_count": 313,
-      "main_category": "Tierarzt",
-      "website_services": [
-        "chirurgie",
-        "labor"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Tierarztpraxis Dr. Möhrke Dr. Rösch",
-      "competitor_1_reviews": 1474,
-      "competitor_2": "Dr. Ostermann",
-      "competitor_2_reviews": 1350,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "313 eigene Bewertungen vs. lokaler Wettbewerbsmedian 494; Gap 181."
+          "proof": "43 eigene Bewertungen vs. lokaler Wettbewerbsmedian 175; Gap 132."
         },
         {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.5; sichtbares Reputationspotenzial."
+          "type": "low_review_volume",
+          "proof": "Nur 43 Google-Bewertungen."
         }
       ],
       "soft_optimization_signals": [
         {
           "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, gesichtsbehandlung, wimpern, augenbrauen",
           "verification": "REQUIRES_FINAL_QA"
         }
       ],
       "verified_signal_count": 2,
-      "report_potential_score": 22,
+      "report_potential_score": 23,
       "visible_value_score": 14,
       "maps_importance_score": 14,
       "customer_value_score": 8,
       "competitive_pressure_score": 10,
       "digital_readiness_score": 10,
       "saas_fit_score": 5,
-      "total_score": 83,
-      "competitor_review_median": 494,
-      "review_gap": 181,
+      "total_score": 84,
+      "competitor_review_median": 175,
+      "review_gap": 132,
       "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "313 eigene Bewertungen vs. lokaler Wettbewerbsmedian 494; Gap 181.",
+      "primary_pitch": "43 eigene Bewertungen vs. lokaler Wettbewerbsmedian 175; Gap 132.",
       "proof": [
-        "313 eigene Bewertungen vs. lokaler Wettbewerbsmedian 494; Gap 181.",
-        "Google-Bewertung 4.5; sichtbares Reputationspotenzial.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor"
+        "43 eigene Bewertungen vs. lokaler Wettbewerbsmedian 175; Gap 132.",
+        "Nur 43 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: microneedling, gesichtsbehandlung, wimpern, augenbrauen"
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "313 eigene Bewertungen vs. lokaler Wettbewerbsmedian 494; Gap 181.",
-      "second_outreach_angle": "Google-Bewertung 4.5; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Dortmund. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Tierärztliche Praxis für Kleintiere Scharnhorst GmbH",
-      "industry": "Tierarzt",
-      "city": "Dortmund",
-      "address": "Bücherstraße 1, 44328 Dortmund-Scharnhorst, Deutschland",
-      "website": "http://www.petdoc.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Tier%C3%A4rztliche+Praxis+f%C3%BCr+Kleintiere+Scharnhorst+GmbH/data=!4m7!3m6!1s0x47b9111b558486b9:0xca027b302d7e89e8!8m2!3d51.5572463!4d7.539427!16s%2Fg%2F1tdzq6mh!19sChIJuYaEVRsRuUcR6Il-LTB7Aso?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 231 239051",
-      "public_business_email": "info@petdoc.de",
-      "email_source_url": "https://www.petdoc.de/",
-      "contact_form_url": "https://www.petdoc.de/kontakt/online-termine/anfahrt/",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.8,
-      "google_review_count": 186,
-      "main_category": "Tierarzt",
-      "website_services": [
-        "ultraschall",
-        "labor"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: ultraschall, labor"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Tierarztpraxis Dr. Möhrke Dr. Rösch",
-      "competitor_1_reviews": 1474,
-      "competitor_2": "Dr. Ostermann",
-      "competitor_2_reviews": 1350,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "186 eigene Bewertungen vs. lokaler Wettbewerbsmedian 494; Gap 308."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: ultraschall, labor",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 1,
-      "report_potential_score": 20,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 81,
-      "competitor_review_median": 494,
-      "review_gap": 308,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "186 eigene Bewertungen vs. lokaler Wettbewerbsmedian 494; Gap 308.",
-      "proof": [
-        "186 eigene Bewertungen vs. lokaler Wettbewerbsmedian 494; Gap 308.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: ultraschall, labor"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "186 eigene Bewertungen vs. lokaler Wettbewerbsmedian 494; Gap 308.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: ultraschall, labor",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Dortmund. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "43 eigene Bewertungen vs. lokaler Wettbewerbsmedian 175; Gap 132.",
+      "second_outreach_angle": "Nur 43 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Kosmetikstudio Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-14",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
-  "accepted_count": 6,
-  "rejected_count": 18,
+  "accepted_count": 2,
+  "rejected_count": 21,
   "inspected": 24,
   "state": {
-    "query_cursor": 165,
-    "runs": 55,
-    "lead_count": 112,
+    "query_cursor": 168,
+    "runs": 56,
+    "lead_count": 114,
     "target_leads": 999999999,
-    "last_accepted": 6,
+    "last_accepted": 2,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 18,
+    "last_rejected": 21,
     "a_leads": 18,
-    "b_leads": 63
+    "b_leads": 65
   }
 }

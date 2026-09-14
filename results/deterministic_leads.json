@@ -392,6 +392,99 @@
     "final_qa_required": true
   },
   {
+    "company_name": "NIICE Kleintiertagesklinik Potsdam",
+    "industry": "Tierarzt",
+    "city": "Potsdam",
+    "address": "Gartenstraße 42, 14482 Potsdam, Deutschland",
+    "website": "https://niice-tieraerzte-potsdam.de/",
+    "google_maps_url": "https://www.google.com/maps/place/NIICE+Kleintiertagesklinik+Potsdam/data=!4m7!3m6!1s0x47a85f8b9459e4ed:0x3241c1517f7dfe65!8m2!3d52.3827798!4d13.1094596!16s%2Fg%2F11z7lh02bn!19sChIJ7eRZlItfqEcRZf59f1HBQTI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 331 24262170",
+    "public_business_email": null,
+    "email_source_url": null,
+    "contact_form_url": "https://niice-tieraerzte-potsdam.de/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.min.css?ver=8.1",
+    "contact_basis": "CONTACT_FORM",
+    "google_rating": 5.0,
+    "google_review_count": 22,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "chirurgie"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "AniCura Potsdam GmbH",
+    "competitor_1_reviews": 784,
+    "competitor_2": "felmo Mobiler Tierarzt Potsdam",
+    "competitor_2_reviews": 591,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "22 eigene Bewertungen vs. lokaler Wettbewerbsmedian 340; Gap 318."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 22 Google-Bewertungen."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 2,
+    "report_potential_score": 28,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 89,
+    "competitor_review_median": 340,
+    "review_gap": 318,
+    "grade": "A",
+    "lead_class": "A_LEAD",
+    "qa_gate": "PASS_PRE_AIRTABLE_QA",
+    "primary_pitch": "22 eigene Bewertungen vs. lokaler Wettbewerbsmedian 340; Gap 318.",
+    "proof": [
+      "22 eigene Bewertungen vs. lokaler Wettbewerbsmedian 340; Gap 318.",
+      "Nur 22 Google-Bewertungen.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "22 eigene Bewertungen vs. lokaler Wettbewerbsmedian 340; Gap 318.",
+    "second_outreach_angle": "Nur 22 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Potsdam. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-14",
+    "research_status": "QUALIFIED",
+    "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 5,
+    "contact_quality_reasons": [
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 318; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 5/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
     "company_name": "Immobilienmakler Köln",
     "industry": "Immobilienmakler",
     "city": "Koeln",
@@ -8892,6 +8985,94 @@
     "final_qa_required": true
   },
   {
+    "company_name": "Dr.med.vet. Dirk Krüger",
+    "industry": "Tierarzt",
+    "city": "Rostock",
+    "address": "Thomas-Mann-Straße 13, 18055 Rostock, Deutschland",
+    "website": "https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
+    "google_maps_url": "https://www.google.com/maps/place/Dr.med.vet.+Dirk+Kr%C3%BCger/data=!4m7!3m6!1s0x47ac50a9fe482257:0xdc9f8e38c6607668!8m2!3d54.0785692!4d12.136395!16s%2Fg%2F1tdwp3st!19sChIJVyJI_qlQrEcRaHZgxjiOn9w?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 381 4590633",
+    "public_business_email": "name@beispiel.de",
+    "email_source_url": "https://pfotencheck.tierarztportal.com/",
+    "contact_form_url": null,
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.9,
+    "google_review_count": 168,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "zahnsanierung"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: zahnsanierung"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "Tierärztliche Gemeinschaftspraxis Dr.med.vet. Tido Winkler Dipl.vet.med. Barbara Richter",
+    "competitor_1_reviews": 763,
+    "competitor_2": "felmo Mobiler Tierarzt Rostock",
+    "competitor_2_reviews": 500,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "168 eigene Bewertungen vs. lokaler Wettbewerbsmedian 334; Gap 166."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: zahnsanierung",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 1,
+    "report_potential_score": 20,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 81,
+    "competitor_review_median": 334,
+    "review_gap": 166,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "168 eigene Bewertungen vs. lokaler Wettbewerbsmedian 334; Gap 166.",
+    "proof": [
+      "168 eigene Bewertungen vs. lokaler Wettbewerbsmedian 334; Gap 166.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: zahnsanierung"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "168 eigene Bewertungen vs. lokaler Wettbewerbsmedian 334; Gap 166.",
+    "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: zahnsanierung",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Rostock. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-14",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 9,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 166; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 9/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
     "company_name": "ELYSIO Physiotherapie-Mitte",
     "industry": "Physiotherapie",
     "city": "Berlin",
@@ -10464,6 +10645,102 @@
     "signal_confidence": "MEDIUM",
     "obvious_chain_candidate": false,
     "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 103; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "Tierarzt Potsdam, Tierarztpraxis Activet Potsdam",
+    "industry": "Tierarzt",
+    "city": "Potsdam",
+    "address": "Großbeerenstraße 225-227, 14480 Potsdam Südost, Deutschland",
+    "website": "https://activet-potsdam.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Potsdam,+Tierarztpraxis+Activet+Potsdam/data=!4m7!3m6!1s0x47b8bbe03406afe7:0xbacd6856a8f7f52e!8m2!3d52.3817758!4d13.1257706!16s%2Fg%2F11hkt39pwp!19sChIJ568GNOC7uEcRLvX3qFZozbo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 331 60033680",
+    "public_business_email": null,
+    "email_source_url": null,
+    "contact_form_url": "https://activet-potsdam.de/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.css?ver=8.1",
+    "contact_basis": "CONTACT_FORM",
+    "google_rating": 4.6,
+    "google_review_count": 234,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "impfung",
+      "chirurgie",
+      "ultraschall",
+      "labor"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "AniCura Potsdam GmbH",
+    "competitor_1_reviews": 784,
+    "competitor_2": "felmo Mobiler Tierarzt Potsdam",
+    "competitor_2_reviews": 591,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "234 eigene Bewertungen vs. lokaler Wettbewerbsmedian 340; Gap 106."
+      },
+      {
+        "type": "rating_headroom",
+        "proof": "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 2,
+    "report_potential_score": 19,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 80,
+    "competitor_review_median": 340,
+    "review_gap": 106,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "234 eigene Bewertungen vs. lokaler Wettbewerbsmedian 340; Gap 106.",
+    "proof": [
+      "234 eigene Bewertungen vs. lokaler Wettbewerbsmedian 340; Gap 106.",
+      "Google-Bewertung 4.6; sichtbares Reputationspotenzial.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "234 eigene Bewertungen vs. lokaler Wettbewerbsmedian 340; Gap 106.",
+    "second_outreach_angle": "Google-Bewertung 4.6; sichtbares Reputationspotenzial.",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Potsdam. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-14",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 5,
+    "contact_quality_reasons": [
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 106; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 5/10.",
     "airtable_ready": false,
     "final_qa_required": true
   },

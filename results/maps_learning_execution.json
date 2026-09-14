@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 42,
-  "focus": "exploration",
-  "exploration": true,
+  "learning_run_count": 43,
+  "focus": "industry_exploitation",
+  "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Wiesbaden",
-    "Mainz",
-    "Aachen"
+    "Potsdam",
+    "Rostock",
+    "Siegburg"
   ],
   "selected_industries": [
-    "Dachdecker"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Wiesbaden",
-      "industry": "Dachdecker",
-      "query": "Dachdecker Wiesbaden"
+      "city": "Potsdam",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Potsdam"
     },
     {
-      "city": "Mainz",
-      "industry": "Dachdecker",
-      "query": "Dachdecker Mainz"
+      "city": "Rostock",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Rostock"
     },
     {
-      "city": "Aachen",
-      "industry": "Dachdecker",
-      "query": "Dachdecker Aachen"
+      "city": "Siegburg",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Siegburg"
     }
   ],
   "queries_per_run": 3

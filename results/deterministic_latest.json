@@ -1,300 +1,82 @@
 {
   "accepted": [
     {
-      "company_name": "Medivet Tierarztpraxis Hannover",
-      "industry": "Tierarzt",
-      "city": "Hannover",
-      "address": "Schulenburger Landstraße 120, 30165 Nord, Deutschland",
-      "website": "https://www.medivetgroup.com/de-de/tierarzt/hannover/",
-      "google_maps_url": "https://www.google.com/maps/place/Medivet+Tierarztpraxis+Hannover/data=!4m7!3m6!1s0x47b073715b59d03d:0x492be48f6fd28a26!8m2!3d52.4057274!4d9.7137646!16s%2Fg%2F119tdyjzb!19sChIJPdBZW3FzsEcRJorSb4_kK0k?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 511 35384958",
-      "public_business_email": "hannover@medivetgroup.com",
-      "email_source_url": "https://www.medivetgroup.com/de-de/tierarzt/hannover/",
-      "contact_form_url": "https://www.medivetgroup.com/de-de/kontakt/",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.7,
-      "google_review_count": 190,
-      "main_category": "Tierarzt",
-      "website_services": [
-        "impfung",
-        "chirurgie",
-        "ultraschall",
-        "labor"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "felmo Mobiler Tierarzt Hannover",
-      "competitor_1_reviews": 1918,
-      "competitor_2": "AniCura Kleintierklinik Hannover",
-      "competitor_2_reviews": 614,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "190 eigene Bewertungen vs. lokaler Wettbewerbsmedian 289; Gap 99."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 2,
-      "report_potential_score": 19,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 80,
-      "competitor_review_median": 289,
-      "review_gap": 99,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "190 eigene Bewertungen vs. lokaler Wettbewerbsmedian 289; Gap 99.",
-      "proof": [
-        "190 eigene Bewertungen vs. lokaler Wettbewerbsmedian 289; Gap 99.",
-        "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall, labor"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "190 eigene Bewertungen vs. lokaler Wettbewerbsmedian 289; Gap 99.",
-      "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Hannover. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Kleintierpraxis Heidelberg Hans Neumann",
-      "industry": "Tierarzt",
-      "city": "Heidelberg",
-      "address": "Schwetzinger Str. 101, 69124 Kirchheim, Deutschland",
-      "website": "https://kleintierpraxis-heidelberg.com/",
-      "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Heidelberg+Hans+Neumann/data=!4m7!3m6!1s0x4797c12775fa56ad:0xd0e0b49e13f25afd!8m2!3d49.3813912!4d8.6710767!16s%2Fg%2F11svggzwvb!19sChIJrVb6dSfBl0cR_VryE5604NA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 6221 716300",
-      "public_business_email": "info@kleintierpraxis-heidelberg.com",
-      "email_source_url": "https://kleintierpraxis-heidelberg.com/",
-      "contact_form_url": "https://kleintierpraxis-heidelberg.com/kontakt/",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.9,
-      "google_review_count": 46,
-      "main_category": "Tierarzt",
+      "company_name": "KS AUTOGLAS ZENTRUM Hamburg-Farmsen",
+      "industry": "Autowerkstatt",
+      "city": "Hamburg",
+      "address": "Friedrich-Ebert-Damm 319, 22159 Wandsbek, Deutschland",
+      "website": "https://hamburg-farmsen.ksautoglas.com/",
+      "google_maps_url": "https://www.google.com/maps/place/KS+AUTOGLAS+ZENTRUM+Hamburg-Farmsen/data=!4m7!3m6!1s0x47b18b0b585649f5:0xcdf6e14b6c684e03!8m2!3d53.6035!4d10.1151!16s%2Fg%2F11vyv9r_9x!19sChIJ9UlWWAuLsUcRA05obEvh9s0?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 40 6455510",
+      "public_business_email": null,
+      "email_source_url": null,
+      "contact_form_url": "https://hamburg-farmsen.ksautoglas.com/#id-kontakt",
+      "contact_basis": "CONTACT_FORM",
+      "google_rating": null,
+      "google_review_count": null,
+      "main_category": "Autowerkstatt",
       "website_services": [],
       "google_visible_services": [],
       "service_gap": [],
       "service_visibility_candidates": [],
       "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "Tierarzt Heidelberg, Tierärztliches Zentrum an der Feuerwache",
-      "competitor_1_reviews": 765,
-      "competitor_2": "AniCura Kleintierzentrum Speyer",
-      "competitor_2_reviews": 657,
+      "competitor_1": "Freie Werkstatt Hamburg",
+      "competitor_1_reviews": 811,
+      "competitor_2": "Hansa Autoreparatur",
+      "competitor_2_reviews": 270,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "46 eigene Bewertungen vs. lokaler Wettbewerbsmedian 231; Gap 185."
+          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 130; Gap 130."
         },
         {
           "type": "low_review_volume",
-          "proof": "Nur 46 Google-Bewertungen."
+          "proof": "Nur 0 Google-Bewertungen."
         }
       ],
       "soft_optimization_signals": [],
       "verified_signal_count": 2,
-      "report_potential_score": 26,
+      "report_potential_score": 25,
       "visible_value_score": 12,
       "maps_importance_score": 14,
       "customer_value_score": 8,
       "competitive_pressure_score": 10,
       "digital_readiness_score": 10,
       "saas_fit_score": 5,
-      "total_score": 85,
-      "competitor_review_median": 231,
-      "review_gap": 185,
-      "grade": "A",
-      "lead_class": "A_LEAD",
-      "qa_gate": "PASS",
-      "primary_pitch": "46 eigene Bewertungen vs. lokaler Wettbewerbsmedian 231; Gap 185.",
-      "proof": [
-        "46 eigene Bewertungen vs. lokaler Wettbewerbsmedian 231; Gap 185.",
-        "Nur 46 Google-Bewertungen."
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "46 eigene Bewertungen vs. lokaler Wettbewerbsmedian 231; Gap 185.",
-      "second_outreach_angle": "Nur 46 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Heidelberg. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "QUALIFIED",
-      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "AniCura Kleintierspezialisten Karlsruhe GmbH",
-      "industry": "Tierarzt",
-      "city": "Karlsruhe",
-      "address": "Hoffstraße 6, 76133 Karlsruhe-Weststadt, Deutschland",
-      "website": "http://www.anicura.de/karlsruhe",
-      "google_maps_url": "https://www.google.com/maps/place/AniCura+Kleintierspezialisten+Karlsruhe+GmbH/data=!4m7!3m6!1s0x479706562def3f43:0x8a79d14435d3b69!8m2!3d49.0126831!4d8.3866785!16s%2Fg%2F1tdxd6s8!19sChIJQz_vLVYGl0cRaTtdQxSdpwg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 721 848485",
-      "public_business_email": "info.karlsruhe@anicura.de",
-      "email_source_url": "https://www.anicura.de/karlsruhe/",
-      "contact_form_url": "https://www.anicura.de/standorte/karlsruhe/kontakt/",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.4,
-      "google_review_count": 148,
-      "main_category": "Tierarzt",
-      "website_services": [
-        "impfung"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "Vogel- und Reptilienpraxis Dr. Britsch",
-      "competitor_1_reviews": 713,
-      "competitor_2": "Fachtierarztpraxis Alexander Virnich",
-      "competitor_2_reviews": 438,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "148 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 175."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.4; sichtbares Reputationspotenzial."
-        }
-      ],
-      "soft_optimization_signals": [],
-      "verified_signal_count": 2,
-      "report_potential_score": 22,
-      "visible_value_score": 12,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 81,
-      "competitor_review_median": 323,
-      "review_gap": 175,
+      "total_score": 84,
+      "competitor_review_median": 130,
+      "review_gap": 130,
       "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "148 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 175.",
+      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 130; Gap 130.",
       "proof": [
-        "148 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 175.",
-        "Google-Bewertung 4.4; sichtbares Reputationspotenzial."
+        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 130; Gap 130.",
+        "Nur 0 Google-Bewertungen."
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "148 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 175.",
-      "second_outreach_angle": "Google-Bewertung 4.4; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Karlsruhe. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 130; Gap 130.",
+      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Autowerkstatt Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-14",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Kleintierpraxis Karlsruhe Dr. Magdalena Behrendt-Wippermann",
-      "industry": "Tierarzt",
-      "city": "Karlsruhe",
-      "address": "Gartenstraße 1, 76133 Karlsruhe, Deutschland",
-      "website": "http://www.kleintierpraxiskarlsruhe.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Karlsruhe+Dr.+Magdalena+Behrendt-Wippermann/data=!4m7!3m6!1s0x4797070179936d11:0xe2fd3ee13d8dcf31!8m2!3d49.0040347!4d8.3978676!16s%2Fg%2F11v9w4qy63!19sChIJEW2TeQEHl0cRMc-NPeE-_eI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 721 61909933",
-      "public_business_email": "info@kleintierpraxiskarlsruhe.de",
-      "email_source_url": "https://kleintierpraxiskarlsruhe.de",
-      "contact_form_url": "https://kleintierpraxiskarlsruhe.de/kontakt/",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 5.0,
-      "google_review_count": 40,
-      "main_category": "Tierarzt",
-      "website_services": [
-        "impfung",
-        "chirurgie",
-        "labor"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Vogel- und Reptilienpraxis Dr. Britsch",
-      "competitor_1_reviews": 713,
-      "competitor_2": "Fachtierarztpraxis Alexander Virnich",
-      "competitor_2_reviews": 438,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "40 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 283."
-        },
-        {
-          "type": "low_review_volume",
-          "proof": "Nur 40 Google-Bewertungen."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 2,
-      "report_potential_score": 26,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 87,
-      "competitor_review_median": 323,
-      "review_gap": 283,
-      "grade": "A",
-      "lead_class": "A_LEAD",
-      "qa_gate": "PASS",
-      "primary_pitch": "40 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 283.",
-      "proof": [
-        "40 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 283.",
-        "Nur 40 Google-Bewertungen.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "40 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 283.",
-      "second_outreach_angle": "Nur 40 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Karlsruhe. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-14",
-      "research_status": "QUALIFIED",
-      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
-      "outreach_status": "NOT_CONTACTED"
     }
   ],
-  "accepted_count": 4,
-  "rejected_count": 20,
+  "accepted_count": 1,
+  "rejected_count": 23,
   "inspected": 24,
   "state": {
-    "query_cursor": 189,
-    "runs": 63,
-    "lead_count": 118,
+    "query_cursor": 192,
+    "runs": 64,
+    "lead_count": 119,
     "target_leads": 999999999,
-    "last_accepted": 4,
+    "last_accepted": 1,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 20,
+    "last_rejected": 23,
     "a_leads": 20,
-    "b_leads": 67
+    "b_leads": 68
   }
 }

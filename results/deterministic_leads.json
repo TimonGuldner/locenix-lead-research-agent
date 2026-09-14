@@ -3408,6 +3408,87 @@
     "final_qa_required": true
   },
   {
+    "company_name": "KS AUTOGLAS ZENTRUM Hamburg-Farmsen",
+    "industry": "Autowerkstatt",
+    "city": "Hamburg",
+    "address": "Friedrich-Ebert-Damm 319, 22159 Wandsbek, Deutschland",
+    "website": "https://hamburg-farmsen.ksautoglas.com/",
+    "google_maps_url": "https://www.google.com/maps/place/KS+AUTOGLAS+ZENTRUM+Hamburg-Farmsen/data=!4m7!3m6!1s0x47b18b0b585649f5:0xcdf6e14b6c684e03!8m2!3d53.6035!4d10.1151!16s%2Fg%2F11vyv9r_9x!19sChIJ9UlWWAuLsUcRA05obEvh9s0?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 40 6455510",
+    "public_business_email": null,
+    "email_source_url": null,
+    "contact_form_url": "https://hamburg-farmsen.ksautoglas.com/#id-kontakt",
+    "contact_basis": "CONTACT_FORM",
+    "google_rating": null,
+    "google_review_count": null,
+    "main_category": "Autowerkstatt",
+    "website_services": [],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [],
+    "service_gap_status": "NOT_DETECTED",
+    "competitor_1": "Freie Werkstatt Hamburg",
+    "competitor_1_reviews": 811,
+    "competitor_2": "Hansa Autoreparatur",
+    "competitor_2_reviews": 270,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 130; Gap 130."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 0 Google-Bewertungen."
+      }
+    ],
+    "soft_optimization_signals": [],
+    "verified_signal_count": 2,
+    "report_potential_score": 25,
+    "visible_value_score": 12,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 84,
+    "competitor_review_median": 130,
+    "review_gap": 130,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 130; Gap 130.",
+    "proof": [
+      "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 130; Gap 130.",
+      "Nur 0 Google-Bewertungen."
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 130; Gap 130.",
+    "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Autowerkstatt Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-14",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 9,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 5,
+    "contact_quality_reasons": [
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 130; Kaufwahrscheinlichkeit 9/10; Kontaktqualität 5/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
     "company_name": "Frisör Berlin: Toronto",
     "industry": "Friseur",
     "city": "Berlin",

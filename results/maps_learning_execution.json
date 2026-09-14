@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 21,
-  "focus": "exploration",
-  "exploration": true,
+  "learning_run_count": 22,
+  "focus": "city_exploitation",
+  "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Oberhausen",
-    "Gelsenkirchen",
-    "Braunschweig"
+    "Hamburg"
   ],
   "selected_industries": [
-    "Kosmetikstudio"
+    "Umzugsunternehmen",
+    "Tierarzt",
+    "Physiotherapie"
   ],
   "selected_pairs": [
     {
-      "city": "Oberhausen",
-      "industry": "Kosmetikstudio",
-      "query": "Kosmetikstudio Oberhausen"
+      "city": "Hamburg",
+      "industry": "Umzugsunternehmen",
+      "query": "Umzugsunternehmen Hamburg"
     },
     {
-      "city": "Gelsenkirchen",
-      "industry": "Kosmetikstudio",
-      "query": "Kosmetikstudio Gelsenkirchen"
+      "city": "Hamburg",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Hamburg"
     },
     {
-      "city": "Braunschweig",
-      "industry": "Kosmetikstudio",
-      "query": "Kosmetikstudio Braunschweig"
+      "city": "Hamburg",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Hamburg"
     }
   ],
   "queries_per_run": 3

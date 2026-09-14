@@ -69,7 +69,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recN3tcKuGQcZlirS"
+      "airtable_record_id": "recCJySJCPWGlaBW4"
     },
     {
       "lead_id": "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
@@ -140,7 +140,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recw4mkOY8FeiqXvq"
+      "airtable_record_id": "rec5mPidNAEuYjsjr"
     },
     {
       "lead_id": "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -276,7 +276,7 @@
       "proof_3": null,
       "next_action": "PRIORITY_SALES_REVIEW",
       "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_CREATED",
+      "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
@@ -317,7 +317,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recSNG0Is7esaVfiz"
+      "airtable_record_id": "recsKz8z7jrDlBDkL"
     },
     {
       "lead_id": "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
@@ -353,7 +353,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recpH6w14yccnXCsT"
+      "airtable_record_id": "recoW6L0Y5hohqQfi"
     },
     {
       "lead_id": "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
@@ -497,7 +497,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recnD4RPKwJJ66X3k"
+      "airtable_record_id": "reclD4fIXbmOZZif1"
     },
     {
       "lead_id": "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -532,7 +532,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recrwSW2t1Nhy7RSa"
+      "airtable_record_id": "recZuiyvflCosh4Ji"
     },
     {
       "lead_id": "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
@@ -567,7 +567,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recKLfqeeixlGceic"
+      "airtable_record_id": "rec7tJ1jWowY6ltL2"
     },
     {
       "lead_id": "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
@@ -817,7 +817,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recwnfNVMMLeKTaGk"
+      "airtable_record_id": "recfMzsiQMokOdEj3"
     },
     {
       "lead_id": "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
@@ -887,7 +887,7 @@
       "queue_date": "2026-09-14",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recaoVaMoDciXlOmA"
+      "airtable_record_id": "rec26aYEsXqOUlRnP"
     }
   ],
   "state": {
@@ -897,8 +897,8 @@
     "email_missing_count": 0,
     "hard_email_gate_rejected_count": 27,
     "downstream_email_gate_violations": 0,
-    "airtable_created": 13,
-    "airtable_updated": 17,
+    "airtable_created": 11,
+    "airtable_updated": 19,
     "airtable_skipped": 41,
     "airtable_errors": [],
     "priority_a_count": 71,

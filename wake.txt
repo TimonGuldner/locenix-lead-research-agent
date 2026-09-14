@@ -1,8 +1,8 @@
 LOCENIX lead research agent wake trigger.
-Automation continuation: Germany-wide qualified lead mission resumed 2026-09-14 04:00 Europe/Berlin.
+Automation continuation: Germany-wide qualified lead mission resumed 2026-09-14 04:31 Europe/Berlin.
 Current qualified Airtable leads: 44/200.
-Latest deterministic state: 106 accumulated raw leads across 53 runs; latest batch inspected 24 and accepted 1, rejected 23.
-Final QA approved and synced 1 unique lead from the latest batch: Kosmetikstudio Gala Beauty Space, Gelsenkirchen. Public Google business data confirmed address, phone, 5.0 rating and 13 reviews; two local competitors were confirmed with 141 and 113 reviews. No unverified service-gap claim was approved and no guessed email was stored.
-No lead-research GitHub Actions run was in progress at this check, so start the next deterministic research run now.
+Latest deterministic state: 106 accumulated raw leads across 54 runs; latest batch inspected 24 and accepted 0, rejected 22.
+No new leads from the latest GitHub batch passed final QA for Airtable sync.
+No lead-research GitHub Actions run is in progress at this check, so start the next deterministic research run now.
 Continue deterministic research only; public business data only; no contact; final QA required before Airtable sync.
 Prioritize unique high-quality leads scoring >=70 and avoid Airtable duplicates by name, website, address, and Maps URL.

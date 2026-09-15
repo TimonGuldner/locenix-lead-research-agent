@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 48,
-  "focus": "city_exploitation",
-  "exploration": false,
+  "learning_run_count": 49,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Berlin",
+    "Hamburg",
+    "Muenchen"
   ],
   "selected_industries": [
-    "Personal Training",
-    "Umzugsunternehmen",
-    "Tierarzt"
+    "Barbershop"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Personal Training",
-      "query": "Personal Training Hamburg"
+      "city": "Berlin",
+      "industry": "Barbershop",
+      "query": "Barbershop Berlin"
     },
     {
       "city": "Hamburg",
-      "industry": "Umzugsunternehmen",
-      "query": "Umzugsunternehmen Hamburg"
+      "industry": "Barbershop",
+      "query": "Barbershop Hamburg"
     },
     {
-      "city": "Hamburg",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Hamburg"
+      "city": "Muenchen",
+      "industry": "Barbershop",
+      "query": "Barbershop Muenchen"
     }
   ],
   "queries_per_run": 3

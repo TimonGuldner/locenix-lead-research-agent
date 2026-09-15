@@ -1,151 +1,17 @@
 {
-  "accepted": [
-    {
-      "company_name": "Profi Firmenumzug Hamburg - Büroumzüge",
-      "industry": "Umzugsunternehmen",
-      "city": "Hamburg",
-      "address": "Hirschgraben 1, 22089 Wandsbek, Deutschland",
-      "website": "http://www.umzugsunternehmen-umzug.hamburg/",
-      "google_maps_url": "https://www.google.com/maps/place/Profi+Firmenumzug+Hamburg+-+B%C3%BCroumz%C3%BCge/data=!4m7!3m6!1s0x47b18eea82fd05a3:0x9a88c19a5b0d500a!8m2!3d53.56666!4d10.0422!16s%2Fg%2F12nqgngp4!19sChIJowX9guqOsUcRClANW5rBiJo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 40 18047995",
-      "public_business_email": "info@town-express.de",
-      "email_source_url": "http://www.umzugsunternehmen-umzug.hamburg/",
-      "contact_form_url": "http://www.umzugsunternehmen-umzug.hamburg/kontakt.html",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.9,
-      "google_review_count": 55,
-      "main_category": "Umzugsunternehmen",
-      "website_services": [],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "Innpack GmbH",
-      "competitor_1_reviews": 326,
-      "competitor_2": "Fuhrmann Umzüge",
-      "competitor_2_reviews": 233,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "55 eigene Bewertungen vs. lokaler Wettbewerbsmedian 146; Gap 91."
-        }
-      ],
-      "soft_optimization_signals": [],
-      "verified_signal_count": 1,
-      "report_potential_score": 21,
-      "visible_value_score": 12,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 80,
-      "competitor_review_median": 146,
-      "review_gap": 91,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "55 eigene Bewertungen vs. lokaler Wettbewerbsmedian 146; Gap 91.",
-      "proof": [
-        "55 eigene Bewertungen vs. lokaler Wettbewerbsmedian 146; Gap 91."
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "55 eigene Bewertungen vs. lokaler Wettbewerbsmedian 146; Gap 91.",
-      "second_outreach_angle": null,
-      "research_notes": "Deterministic research v2. Query: Umzugsunternehmen Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-15",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Tiermedizin am Rothenbaum Deckena & Dr. Elsner GmbH",
-      "industry": "Tierarzt",
-      "city": "Hamburg",
-      "address": "Rothenbaumchaussee 195, 20149 Eimsbüttel, Deutschland",
-      "website": "https://www.hh-tierarzt.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Tiermedizin+am+Rothenbaum+Deckena+%26+Dr.+Elsner+GmbH/data=!4m7!3m6!1s0x47b18f33709a0793:0x7b39c0ae613ecc54!8m2!3d53.5782865!4d9.9884415!16s%2Fg%2F1tdq9n0m!19sChIJkweacDOPsUcRVMw-Ya7AOXs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 40 451772",
-      "public_business_email": "Mail@hh-tierarzt.de",
-      "email_source_url": "https://hh-tierarzt.de/",
-      "contact_form_url": "https://hh-tierarzt.de/kontakt",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.4,
-      "google_review_count": 309,
-      "main_category": "Tierarzt",
-      "website_services": [
-        "impfung",
-        "chirurgie"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "felmo Mobiler Tierarzt Hamburg",
-      "competitor_1_reviews": 4722,
-      "competitor_2": "Die Hamburger Tierärzte - Florian Grosser und Dr. med. vet. Ulf Krohn",
-      "competitor_2_reviews": 716,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "309 eigene Bewertungen vs. lokaler Wettbewerbsmedian 647; Gap 338."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.4; sichtbares Reputationspotenzial."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 2,
-      "report_potential_score": 22,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 83,
-      "competitor_review_median": 647,
-      "review_gap": 338,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "309 eigene Bewertungen vs. lokaler Wettbewerbsmedian 647; Gap 338.",
-      "proof": [
-        "309 eigene Bewertungen vs. lokaler Wettbewerbsmedian 647; Gap 338.",
-        "Google-Bewertung 4.4; sichtbares Reputationspotenzial.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "309 eigene Bewertungen vs. lokaler Wettbewerbsmedian 647; Gap 338.",
-      "second_outreach_angle": "Google-Bewertung 4.4; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-15",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    }
-  ],
-  "accepted_count": 2,
-  "rejected_count": 19,
+  "accepted": [],
+  "accepted_count": 0,
+  "rejected_count": 23,
   "inspected": 24,
   "state": {
-    "query_cursor": 240,
-    "runs": 80,
+    "query_cursor": 243,
+    "runs": 81,
     "lead_count": 144,
     "target_leads": 999999999,
-    "last_accepted": 2,
+    "last_accepted": 0,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 19,
+    "last_rejected": 23,
     "a_leads": 23,
     "b_leads": 90
   }

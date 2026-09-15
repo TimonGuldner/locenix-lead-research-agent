@@ -1,14 +1,14 @@
 {
   "results": [
     {
-      "lead_id": "bsn fahrschule|braunschweig|http://bsn-fahrschule.de/",
-      "company_name": "BSN Fahrschule",
-      "industry": "Fahrschule",
-      "city": "Braunschweig",
-      "source_total_score": 85,
+      "lead_id": "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
+      "company_name": "NIICE Kleintiertagesklinik Potsdam",
+      "industry": "Tierarzt",
+      "city": "Potsdam",
+      "source_total_score": 89,
       "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/BSN+Fahrschule/data=!4m7!3m6!1s0x47aff551f26518c5:0xb64b3d9eb681b3de!8m2!3d52.2731475!4d10.5338373!16s%2Fg%2F11ntjr6hs3!19sChIJxRhl8lH1r0cR3rOBtp49S7Y?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://bsn-fahrschule.de/",
+      "google_maps_url": "https://www.google.com/maps/place/NIICE+Kleintiertagesklinik+Potsdam/data=!4m7!3m6!1s0x47a85f8b9459e4ed:0x3241c1517f7dfe65!8m2!3d52.3827798!4d13.1094596!16s%2Fg%2F11z7lh02bn!19sChIJ7eRZlItfqEcRZf59f1HBQTI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://niice-tieraerzte-potsdam.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -26,131 +26,61 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://bsn-fahrschule.de/",
+        "website_final_url": "https://niice-tieraerzte-potsdam.de/",
         "booking_link": null,
         "social_links": [],
         "contact_page_observed": true,
-        "website_service_matches": [],
+        "website_service_matches": [
+          "chirurgie"
+        ],
         "website_evidence": [
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@bsn-fahrschule.de",
-        "email_source_url": "https://bsn-fahrschule.de/impressum/",
+        "email": "kontakt@niice-tieraerzte-potsdam.de",
+        "email_source_url": "https://niice-tieraerzte-potsdam.de/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-14T20:23:38.354422+00:00"
+        "email_found_at": "2026-09-15T01:40:11.310058+00:00"
       },
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 90,
+      "deep_qa_score": 94,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 39 reviews vs. comparison median 290; gap 251."
+          "proof": "Verified source data: 22 reviews vs. comparison median 340; gap 318."
         }
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 39 reviews vs. comparison median 290; gap 251.",
+      "primary_sales_angle_verified": "Verified source data: 22 reviews vs. comparison median 340; gap 318.",
       "proof": [
-        "Verified source data: 39 reviews vs. comparison median 290; gap 251."
+        "Verified source data: 22 reviews vs. comparison median 340; gap 318."
       ],
-      "email": "info@bsn-fahrschule.de",
-      "email_source_url": "https://bsn-fahrschule.de/impressum/",
+      "email": "kontakt@niice-tieraerzte-potsdam.de",
+      "email_source_url": "https://niice-tieraerzte-potsdam.de/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-14T20:23:38.354422+00:00",
+      "email_found_at": "2026-09-15T01:40:11.310058+00:00",
       "airtable_ready": false,
-      "qa_date": "2026-09-14",
+      "qa_date": "2026-09-15",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "city fahrschule braunschweig|braunschweig|https://www.cityfahrschulebs.info/",
-      "company_name": "City Fahrschule Braunschweig",
-      "industry": "Fahrschule",
-      "city": "Braunschweig",
-      "source_total_score": 85,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/City+Fahrschule+Braunschweig/data=!4m7!3m6!1s0x47aff6707c9603ab:0xb053ad28e68e5d26!8m2!3d52.2656531!4d10.5144167!16s%2Fg%2F1tfcb6n2!19sChIJqwOWfHD2r0cRJl2O5iitU7A?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.cityfahrschulebs.info/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.cityfahrschulebs.info/",
-        "booking_link": null,
-        "social_links": [
-          "https://www.instagram.com/cityfahrschule_braunschweig/",
-          "https://www.facebook.com/people/City-Fahrschule-Braunschweig/61555145976718/"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [],
-        "website_evidence": [
-          "Active social-link footprint observed (2 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "kontakt@cityfahrschulebs.info",
-        "email_source_url": "https://www.cityfahrschulebs.info/impressum",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-14T20:23:46.402302+00:00"
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 92,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 47 reviews vs. comparison median 290; gap 243."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 47 reviews vs. comparison median 290; gap 243.",
-      "proof": [
-        "Verified source data: 47 reviews vs. comparison median 290; gap 243.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "kontakt@cityfahrschulebs.info",
-      "email_source_url": "https://www.cityfahrschulebs.info/impressum",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-14T20:23:46.402302+00:00",
-      "airtable_ready": true,
-      "qa_date": "2026-09-14",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "fahrschule hofmann|chemnitz|http://www.hofmann-fahrschule.de/",
-      "company_name": "Fahrschule Hofmann",
-      "industry": "Fahrschule",
-      "city": "Chemnitz",
-      "source_total_score": 84,
+      "lead_id": "nice aesthetic - kosmetikstudio hamburg|hamburg|https://niceaesthetic.de/",
+      "company_name": "NICE Aesthetic - Kosmetikstudio Hamburg",
+      "industry": "Beauty Aesthetik",
+      "city": "Hamburg",
+      "source_total_score": 81,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Fahrschule+Hofmann/data=!4m7!3m6!1s0x47a7466be893d35d:0xbb30207fba0aa326!8m2!3d50.8222681!4d12.9266895!16s%2Fg%2F1tf74k3d!19sChIJXdOT6GtGp0cRJqMKun8gMLs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.hofmann-fahrschule.de/",
+      "google_maps_url": "https://www.google.com/maps/place/NICE+Aesthetic+-+Kosmetikstudio+Hamburg/data=!4m7!3m6!1s0x47b18981fbe7f763:0x4157e62beb9bad8!8m2!3d53.6170528!4d10.0781697!16s%2Fg%2F1hm49hsrv!19sChIJY_fn-4GJsUcR2Lq5vmJ-FQQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://niceaesthetic.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
         "maps_text_observed": true,
         "posts_signal": "NOT_OBSERVED",
         "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
+        "booking_signal": "OBSERVED",
         "website_link_observed": true,
         "phone_observed": true,
         "address_observed": true,
@@ -161,89 +91,17 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.hofmann-fahrschule.de/",
-        "booking_link": null,
+        "website_final_url": "https://niceaesthetic.de/",
+        "booking_link": "https://www.planity.com/de-DE/nice-aesthetic-22177-hamburg-bramfeld",
         "social_links": [
-          "https://www.facebook.com/Hofmann-Fahrschule-am-S%C3%BCdbahnhof-607476429326295/"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [],
-        "website_evidence": [
-          "Active social-link footprint observed (1 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@hofmann-fahrschule.de",
-        "email_source_url": "https://www.hofmann-fahrschule.de/impressum",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-14T20:23:53.959528+00:00"
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 91,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 49 reviews vs. comparison median 164; gap 115."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 49 reviews vs. comparison median 164; gap 115.",
-      "proof": [
-        "Verified source data: 49 reviews vs. comparison median 164; gap 115.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "info@hofmann-fahrschule.de",
-      "email_source_url": "https://www.hofmann-fahrschule.de/impressum",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-14T20:23:53.959528+00:00",
-      "airtable_ready": true,
-      "qa_date": "2026-09-14",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
-      "company_name": "Medivet Tierarztpraxis Münster",
-      "industry": "Tierarzt",
-      "city": "Muenster",
-      "source_total_score": 82,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Medivet+Tierarztpraxis+M%C3%BCnster/data=!4m7!3m6!1s0x47b9a52837f74817:0x3fbcdc5249bb2ec1!8m2!3d51.933509!4d7.6317828!16s%2Fg%2F124swy4kg!19sChIJF0j3NyiluUcRwS67SVLcvD8?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.medivetgroup.com/de-de/tierarzt/muenster/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.medivetgroup.com/de-de/tierarzt/muenster/",
-        "booking_link": "https://petleo.app/?iframe=true&group=0&lang=de&redirect_url=/clinic/bb2f01a8f9e45e02c4e9d02515dce96a48d0742c3864a21a1d380ddc8c80f3f0/branch/1/book-appointment/",
-        "social_links": [
-          "http://instagram.com/medivet_de",
-          "https://www.facebook.com/medivet.de",
-          "https://www.linkedin.com/company/medivetdeutschland/"
+          "https://www.instagram.com/niceaesthetic_hamburg/?igsh=eWF5Z2diMm1vMDJv",
+          "https://instagram.com",
+          "https://www.facebook.com/justbeautyhamburg"
         ],
         "contact_page_observed": true,
         "website_service_matches": [
-          "impfung",
-          "chirurgie",
-          "ultraschall"
+          "microneedling",
+          "laser"
         ],
         "website_evidence": [
           "Online booking/appointment link observed on website.",
@@ -251,18 +109,14 @@
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "muenster@medivetgroup.com",
-        "email_source_url": "https://www.medivetgroup.com/de-de/tierarzt/muenster/",
+        "email": "info@niceaesthetic.de",
+        "email_source_url": "https://niceaesthetic.de/impressum",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-14T20:24:00.128463+00:00"
+        "email_found_at": "2026-09-15T01:40:19.085951+00:00"
       },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 91,
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 88,
       "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 54 reviews vs. comparison median 168; gap 114."
-        },
         {
           "type": "digital_maturity_booking",
           "proof": "Online booking/appointment link observed on website."
@@ -273,31 +127,109 @@
         }
       ],
       "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 54 reviews vs. comparison median 168; gap 114.",
+      "deep_qa_cautions": [
+        "Google review count is missing; never interpret this as zero."
+      ],
+      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
       "proof": [
-        "Verified source data: 54 reviews vs. comparison median 168; gap 114.",
         "Online booking/appointment link observed on website.",
         "Business website links to at least one social profile."
       ],
-      "email": "muenster@medivetgroup.com",
-      "email_source_url": "https://www.medivetgroup.com/de-de/tierarzt/muenster/",
+      "email": "info@niceaesthetic.de",
+      "email_source_url": "https://niceaesthetic.de/impressum",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-14T20:24:00.128463+00:00",
-      "airtable_ready": true,
-      "qa_date": "2026-09-14",
+      "email_found_at": "2026-09-15T01:40:19.085951+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-15",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "fahrschule schlierf|chemnitz|http://fahrschule-schlierf.com/",
-      "company_name": "Fahrschule Schlierf",
-      "industry": "Fahrschule",
-      "city": "Chemnitz",
+      "lead_id": "beauty & aesthetics oe studio|hamburg|https://beautyandaesthetics.de/",
+      "company_name": "Beauty & Aesthetics OE Studio",
+      "industry": "Beauty Aesthetik",
+      "city": "Hamburg",
       "source_total_score": 81,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Fahrschule+Schlierf/data=!4m7!3m6!1s0x47a7488b09cd6073:0xeccf5fe6df509a77!8m2!3d50.7834075!4d12.8783818!16s%2Fg%2F124sskmc8!19sChIJc2DNCYtIp0cRd5pQ3-Zfz-w?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://fahrschule-schlierf.com/",
+      "google_maps_url": "https://www.google.com/maps/place/Beauty+%26+Aesthetics+OE+Studio/data=!4m7!3m6!1s0x47b18bd86f3d821d:0x5b8c23e07c4cf5bc!8m2!3d53.5764385!4d10.0805769!16s%2Fg%2F11ww7wtb_9!19sChIJHYI9b9iLsUcRvPVMfOAjjFs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://beautyandaesthetics.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://beautyandaesthetics.de/",
+        "booking_link": "https://connect.shore.com/bookings/beauty-aesthetics/services?locale=de",
+        "social_links": [
+          "https://www.instagram.com/oe_studios_beauty_aesthetics?igsh=MTAzMzlsN20xN2Z1cg%3D%3D",
+          "https://www.instagram.com/oe_studios_beauty_aesthetics/"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "laser"
+        ],
+        "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Active social-link footprint observed (2 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "beauty@beautyandaesthetics.de",
+        "email_source_url": "https://beautyandaesthetics.de/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-15T01:40:34.811559+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 88,
+      "deep_qa_verified_signals": [
+        {
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [
+        "Google review count is missing; never interpret this as zero."
+      ],
+      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
+      "proof": [
+        "Online booking/appointment link observed on website.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "beauty@beautyandaesthetics.de",
+      "email_source_url": "https://beautyandaesthetics.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T01:40:34.811559+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-15",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "be beautiful | ästhetik & kosmetik hamburg|hamburg|https://www.bebeautiful.hamburg/",
+      "company_name": "BE BEAUTIFUL | Ästhetik & Kosmetik Hamburg",
+      "industry": "Beauty Aesthetik",
+      "city": "Hamburg",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/BE+BEAUTIFUL+%7C+%C3%84sthetik+%26+Kosmetik+Hamburg/data=!4m7!3m6!1s0x47b185a16b57ff55:0x54080372ebdaa4ec!8m2!3d53.5464719!4d9.9314495!16s%2Fg%2F11mwyq5v6f!19sChIJVf9Xa6GFsUcR7KTa63IDCFQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.bebeautiful.hamburg/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -315,45 +247,138 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "http://fahrschule-schlierf.com/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": false,
-        "website_service_matches": [],
-        "website_evidence": [],
-        "email": null,
-        "email_source_url": null,
-        "email_verification_status": "EMAIL_MISSING",
-        "email_found_at": null
+        "website_final_url": "https://bebeautiful.hamburg/",
+        "booking_link": "https://bebeautiful.hamburg/termin-buchen/",
+        "social_links": [
+          "https://www.instagram.com/bebeautiful.hamburg/"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "botox",
+          "hyaluron"
+        ],
+        "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Active social-link footprint observed (1 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "dr.wessel@bebeautiful.hamburg",
+        "email_source_url": "https://bebeautiful.hamburg/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-15T01:40:43.010444+00:00"
       },
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
+      "deep_qa_score": 88,
       "deep_qa_verified_signals": [
         {
-          "type": "review_gap",
-          "proof": "Verified source data: 72 reviews vs. comparison median 164; gap 92."
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
         }
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [
-        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+        "Google review count is missing; never interpret this as zero."
       ],
-      "primary_sales_angle_verified": "Verified source data: 72 reviews vs. comparison median 164; gap 92.",
+      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
       "proof": [
-        "Verified source data: 72 reviews vs. comparison median 164; gap 92."
+        "Online booking/appointment link observed on website.",
+        "Business website links to at least one social profile."
       ],
-      "email": null,
-      "email_source_url": null,
-      "email_verification_status": "EMAIL_MISSING",
-      "email_found_at": null,
+      "email": "dr.wessel@bebeautiful.hamburg",
+      "email_source_url": "https://bebeautiful.hamburg/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T01:40:43.010444+00:00",
       "airtable_ready": false,
-      "qa_date": "2026-09-14",
+      "qa_date": "2026-09-15",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "hamburg aesthetics by herrmann|hamburg|https://hamburg-aesthetics.de/",
+      "company_name": "Hamburg Aesthetics by Herrmann",
+      "industry": "Beauty Aesthetik",
+      "city": "Hamburg",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Hamburg+Aesthetics+by+Herrmann/data=!4m7!3m6!1s0x47b18f0b0b6a3517:0x940e8a07ffbd2b0f!8m2!3d53.5505221!4d9.9887359!16s%2Fg%2F11l31ssddw!19sChIJFzVqCwuPsUcRDyu9_weKDpQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://hamburg-aesthetics.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://hamburg-aesthetics.de/",
+        "booking_link": "https://www.doctolib.de/privatpraxis/hamburg/hamburg-aesthetics-by-herrmann/booking/motives?specialityId=3171&telehealth=false&placeId=practice-731884&bookingFunnelSource=profile",
+        "social_links": [
+          "https://www.instagram.com/hamburg_aesthetics_byherrmann"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "hyaluron",
+          "microneedling",
+          "hautbehandlung"
+        ],
+        "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Active social-link footprint observed (1 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@hamburg-aesthetics.de",
+        "email_source_url": "https://hamburg-aesthetics.de/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-15T01:40:50.295160+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 88,
+      "deep_qa_verified_signals": [
+        {
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [
+        "Google review count is missing; never interpret this as zero."
+      ],
+      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
+      "proof": [
+        "Online booking/appointment link observed on website.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "info@hamburg-aesthetics.de",
+      "email_source_url": "https://hamburg-aesthetics.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T01:40:50.295160+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-15",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
   "state": {
-    "runs": 23,
+    "runs": 24,
     "processed_ids": [
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
@@ -361,6 +386,8 @@
       "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
       "backroom physio berlin|berlin|https://backroomphysio.de/",
       "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
+      "be beautiful | ästhetik & kosmetik hamburg|hamburg|https://www.bebeautiful.hamburg/",
+      "beauty & aesthetics oe studio|hamburg|https://beautyandaesthetics.de/",
       "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
       "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
       "bsn fahrschule|braunschweig|http://bsn-fahrschule.de/",
@@ -387,6 +414,7 @@
       "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
       "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
       "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
+      "hamburg aesthetics by herrmann|hamburg|https://hamburg-aesthetics.de/",
       "heizung sanitär köln | ebi's haustechnik|koeln|http://www.ebis-haustechnik.de/",
       "hilke friseur kopffabrik|hamburg|http://www.hilke-kopffabrik.de/",
       "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
@@ -414,6 +442,8 @@
       "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
       "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
       "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
+      "nice aesthetic - kosmetikstudio hamburg|hamburg|https://niceaesthetic.de/",
+      "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
       "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
       "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
       "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
@@ -460,11 +490,11 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 104,
-    "remaining_eligible": 15,
+    "processed_count": 109,
+    "remaining_eligible": 13,
     "last_batch_count": 5,
     "final_a_total": 45,
-    "final_b_total": 58,
+    "final_b_total": 63,
     "email_ready_total": 33,
     "email_missing_total": 28
   }

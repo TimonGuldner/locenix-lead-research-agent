@@ -989,6 +989,71 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
+    "company_name": "NIICE Kleintiertagesklinik Potsdam",
+    "industry": "Tierarzt",
+    "city": "Potsdam",
+    "source_total_score": 89,
+    "source_lead_class": "A_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/NIICE+Kleintiertagesklinik+Potsdam/data=!4m7!3m6!1s0x47a85f8b9459e4ed:0x3241c1517f7dfe65!8m2!3d52.3827798!4d13.1094596!16s%2Fg%2F11z7lh02bn!19sChIJ7eRZlItfqEcRZf59f1HBQTI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://niice-tieraerzte-potsdam.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://niice-tieraerzte-potsdam.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "chirurgie"
+      ],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "kontakt@niice-tieraerzte-potsdam.de",
+      "email_source_url": "https://niice-tieraerzte-potsdam.de/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T01:40:11.310058+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 94,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 22 reviews vs. comparison median 340; gap 318."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 22 reviews vs. comparison median 340; gap 318.",
+    "proof": [
+      "Verified source data: 22 reviews vs. comparison median 340; gap 318."
+    ],
+    "email": "kontakt@niice-tieraerzte-potsdam.de",
+    "email_source_url": "https://niice-tieraerzte-potsdam.de/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T01:40:11.310058+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
     "company_name": "Turna KFZ Werkstatt Berlin",
     "industry": "Autowerkstatt",
@@ -5986,6 +6051,317 @@
     "email_found_at": "2026-09-14T07:15:21.206997+00:00",
     "airtable_ready": false,
     "qa_date": "2026-09-14",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "nice aesthetic - kosmetikstudio hamburg|hamburg|https://niceaesthetic.de/",
+    "company_name": "NICE Aesthetic - Kosmetikstudio Hamburg",
+    "industry": "Beauty Aesthetik",
+    "city": "Hamburg",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/NICE+Aesthetic+-+Kosmetikstudio+Hamburg/data=!4m7!3m6!1s0x47b18981fbe7f763:0x4157e62beb9bad8!8m2!3d53.6170528!4d10.0781697!16s%2Fg%2F1hm49hsrv!19sChIJY_fn-4GJsUcR2Lq5vmJ-FQQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://niceaesthetic.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://niceaesthetic.de/",
+      "booking_link": "https://www.planity.com/de-DE/nice-aesthetic-22177-hamburg-bramfeld",
+      "social_links": [
+        "https://www.instagram.com/niceaesthetic_hamburg/?igsh=eWF5Z2diMm1vMDJv",
+        "https://instagram.com",
+        "https://www.facebook.com/justbeautyhamburg"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "microneedling",
+        "laser"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (3 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@niceaesthetic.de",
+      "email_source_url": "https://niceaesthetic.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T01:40:19.085951+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "deep_qa_verified_signals": [
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "Google review count is missing; never interpret this as zero."
+    ],
+    "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
+    "proof": [
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@niceaesthetic.de",
+    "email_source_url": "https://niceaesthetic.de/impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T01:40:19.085951+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "beauty & aesthetics oe studio|hamburg|https://beautyandaesthetics.de/",
+    "company_name": "Beauty & Aesthetics OE Studio",
+    "industry": "Beauty Aesthetik",
+    "city": "Hamburg",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Beauty+%26+Aesthetics+OE+Studio/data=!4m7!3m6!1s0x47b18bd86f3d821d:0x5b8c23e07c4cf5bc!8m2!3d53.5764385!4d10.0805769!16s%2Fg%2F11ww7wtb_9!19sChIJHYI9b9iLsUcRvPVMfOAjjFs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://beautyandaesthetics.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://beautyandaesthetics.de/",
+      "booking_link": "https://connect.shore.com/bookings/beauty-aesthetics/services?locale=de",
+      "social_links": [
+        "https://www.instagram.com/oe_studios_beauty_aesthetics?igsh=MTAzMzlsN20xN2Z1cg%3D%3D",
+        "https://www.instagram.com/oe_studios_beauty_aesthetics/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "laser"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "beauty@beautyandaesthetics.de",
+      "email_source_url": "https://beautyandaesthetics.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T01:40:34.811559+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "deep_qa_verified_signals": [
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "Google review count is missing; never interpret this as zero."
+    ],
+    "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
+    "proof": [
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "beauty@beautyandaesthetics.de",
+    "email_source_url": "https://beautyandaesthetics.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T01:40:34.811559+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "be beautiful | ästhetik & kosmetik hamburg|hamburg|https://www.bebeautiful.hamburg/",
+    "company_name": "BE BEAUTIFUL | Ästhetik & Kosmetik Hamburg",
+    "industry": "Beauty Aesthetik",
+    "city": "Hamburg",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/BE+BEAUTIFUL+%7C+%C3%84sthetik+%26+Kosmetik+Hamburg/data=!4m7!3m6!1s0x47b185a16b57ff55:0x54080372ebdaa4ec!8m2!3d53.5464719!4d9.9314495!16s%2Fg%2F11mwyq5v6f!19sChIJVf9Xa6GFsUcR7KTa63IDCFQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.bebeautiful.hamburg/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://bebeautiful.hamburg/",
+      "booking_link": "https://bebeautiful.hamburg/termin-buchen/",
+      "social_links": [
+        "https://www.instagram.com/bebeautiful.hamburg/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "botox",
+        "hyaluron"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (1 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "dr.wessel@bebeautiful.hamburg",
+      "email_source_url": "https://bebeautiful.hamburg/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T01:40:43.010444+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "deep_qa_verified_signals": [
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "Google review count is missing; never interpret this as zero."
+    ],
+    "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
+    "proof": [
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "dr.wessel@bebeautiful.hamburg",
+    "email_source_url": "https://bebeautiful.hamburg/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T01:40:43.010444+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "hamburg aesthetics by herrmann|hamburg|https://hamburg-aesthetics.de/",
+    "company_name": "Hamburg Aesthetics by Herrmann",
+    "industry": "Beauty Aesthetik",
+    "city": "Hamburg",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Hamburg+Aesthetics+by+Herrmann/data=!4m7!3m6!1s0x47b18f0b0b6a3517:0x940e8a07ffbd2b0f!8m2!3d53.5505221!4d9.9887359!16s%2Fg%2F11l31ssddw!19sChIJFzVqCwuPsUcRDyu9_weKDpQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://hamburg-aesthetics.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://hamburg-aesthetics.de/",
+      "booking_link": "https://www.doctolib.de/privatpraxis/hamburg/hamburg-aesthetics-by-herrmann/booking/motives?specialityId=3171&telehealth=false&placeId=practice-731884&bookingFunnelSource=profile",
+      "social_links": [
+        "https://www.instagram.com/hamburg_aesthetics_byherrmann"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "hyaluron",
+        "microneedling",
+        "hautbehandlung"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (1 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@hamburg-aesthetics.de",
+      "email_source_url": "https://hamburg-aesthetics.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T01:40:50.295160+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "deep_qa_verified_signals": [
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "Google review count is missing; never interpret this as zero."
+    ],
+    "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
+    "proof": [
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@hamburg-aesthetics.de",
+    "email_source_url": "https://hamburg-aesthetics.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T01:40:50.295160+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
   },

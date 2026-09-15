@@ -1,5 +1,5 @@
 {
-  "runs": 23,
+  "runs": 24,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
@@ -7,6 +7,8 @@
     "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
     "backroom physio berlin|berlin|https://backroomphysio.de/",
     "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
+    "be beautiful | ästhetik & kosmetik hamburg|hamburg|https://www.bebeautiful.hamburg/",
+    "beauty & aesthetics oe studio|hamburg|https://beautyandaesthetics.de/",
     "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
     "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
     "bsn fahrschule|braunschweig|http://bsn-fahrschule.de/",
@@ -33,6 +35,7 @@
     "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
     "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
     "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
+    "hamburg aesthetics by herrmann|hamburg|https://hamburg-aesthetics.de/",
     "heizung sanitär köln | ebi's haustechnik|koeln|http://www.ebis-haustechnik.de/",
     "hilke friseur kopffabrik|hamburg|http://www.hilke-kopffabrik.de/",
     "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
@@ -60,6 +63,8 @@
     "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
     "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
     "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
+    "nice aesthetic - kosmetikstudio hamburg|hamburg|https://niceaesthetic.de/",
+    "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
     "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
     "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
     "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
@@ -106,15 +111,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 104,
-  "remaining_eligible": 15,
+  "processed_count": 109,
+  "remaining_eligible": 13,
   "last_batch_count": 5,
   "final_a_total": 45,
-  "final_b_total": 58,
+  "final_b_total": 63,
   "email_ready_total": 33,
-  "email_missing_total": 28,
-  "email_gate_qualified_total": 75,
-  "email_missing_excluded_total": 28,
-  "downstream_eligible_total": 75,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "email_missing_total": 28
 }

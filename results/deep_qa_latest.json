@@ -1,14 +1,14 @@
 {
   "results": [
     {
-      "lead_id": "carolin pokriefke - kleintierpraxis am viewegsgarten|braunschweig|http://www.tierarztpraxis-viewegsgarten.de/",
-      "company_name": "Carolin Pokriefke - Kleintierpraxis am Viewegsgarten",
+      "lead_id": "tierarztpraxis holt dr. kathagen, dr. riecken, dr. sixt|moenchengladbach|http://www.fachtierarztpraxis-holt.de/",
+      "company_name": "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
       "industry": "Tierarzt",
-      "city": "Braunschweig",
-      "source_total_score": 81,
+      "city": "Moenchengladbach",
+      "source_total_score": 80,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Carolin+Pokriefke+-+Kleintierpraxis+am+Viewegsgarten/data=!4m7!3m6!1s0x47aff5dce5ac8f4d:0x1f28922ea8e6e0c4!8m2!3d52.2569436!4d10.534938!16s%2Fg%2F1tmy42s3!19sChIJTY-s5dz1r0cRxODmqC6SKB8?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.tierarztpraxis-viewegsgarten.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Holt+Dr.+Kathagen,+Dr.+Riecken,+Dr.+Sixt/data=!4m7!3m6!1s0x47b8abb7877d8345:0x4a25d2f5594d3113!8m2!3d51.1843863!4d6.4031618!16s%2Fg%2F11qqg_2qv1!19sChIJRYN9h7eruEcREzFNWfXSJUo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.fachtierarztpraxis-holt.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -26,105 +26,32 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://tierarztpraxis-viewegsgarten.de/",
+        "website_final_url": "https://www.fachtierarztpraxis-holt.de/",
         "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [],
-        "website_evidence": [
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "post@tierarztpraxis-viewegsgarten.de",
-        "email_source_url": "https://tierarztpraxis-viewegsgarten.de/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-15T15:42:38.584274+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 129 reviews vs. comparison median 383; gap 254."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 129 reviews vs. comparison median 383; gap 254.",
-      "proof": [
-        "Verified source data: 129 reviews vs. comparison median 383; gap 254."
-      ],
-      "email": "post@tierarztpraxis-viewegsgarten.de",
-      "email_source_url": "https://tierarztpraxis-viewegsgarten.de/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-15T15:42:38.584274+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-15",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/",
-      "company_name": "KEN NYN - ART OF HAIR / Friseur München BALAYAGE & BLOND",
-      "industry": "Friseur",
-      "city": "Muenchen",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/KEN+NYN+-+ART+OF+HAIR+%2F+Friseur+M%C3%BCnchen+BALAYAGE+%26+BLOND/data=!4m7!3m6!1s0x479e77d289774b69:0x351b3c0f8f64e7bf!8m2!3d48.1517422!4d11.5382861!16s%2Fg%2F11mw5wtktn!19sChIJaUt3idJ3nkcRv-dkjw88GzU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://ken-nyn.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://ken-nyn.de/",
-        "booking_link": "https://ken-nyn.de/online-termin",
         "social_links": [
-          "https://www.facebook.com/ken.nyn.munich",
-          "https://www.instagram.com/ken.hairdesign/",
-          "http://www.instagram.com/ken_nyn_munich/",
-          "https://facebook.com/ken.nyn.munich",
-          "https://instagram.com/ken_nyn_munich/"
+          "https://www.facebook.com/tierarztpraxisholt",
+          "https://www.instagram.com/tierarztpraxisholt/"
         ],
         "contact_page_observed": true,
         "website_service_matches": [
-          "balayage",
-          "coloration",
-          "haarschnitt"
+          "impfung"
         ],
         "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (5 link(s)).",
+          "Active social-link footprint observed (2 link(s)).",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@ken-nyn.de",
-        "email_source_url": "https://ken-nyn.de/#AB09CBE6-76B1-480C-BA86-45546CE71AD9",
+        "email": "info@fachtierarztpraxis-holt.de",
+        "email_source_url": "https://www.fachtierarztpraxis-holt.de/texte/impressum.html",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-15T15:42:45.340713+00:00"
+        "email_found_at": "2026-09-15T16:57:50.208281+00:00"
       },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 87,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 263 reviews vs. comparison median 427; gap 164."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
+          "proof": "Verified source data: 385 reviews vs. comparison median 525; gap 140."
         },
         {
           "type": "digital_maturity_social",
@@ -133,37 +60,36 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 263 reviews vs. comparison median 427; gap 164.",
+      "primary_sales_angle_verified": "Verified source data: 385 reviews vs. comparison median 525; gap 140.",
       "proof": [
-        "Verified source data: 263 reviews vs. comparison median 427; gap 164.",
-        "Online booking/appointment link observed on website.",
+        "Verified source data: 385 reviews vs. comparison median 525; gap 140.",
         "Business website links to at least one social profile."
       ],
-      "email": "info@ken-nyn.de",
-      "email_source_url": "https://ken-nyn.de/#AB09CBE6-76B1-480C-BA86-45546CE71AD9",
+      "email": "info@fachtierarztpraxis-holt.de",
+      "email_source_url": "https://www.fachtierarztpraxis-holt.de/texte/impressum.html",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-15T15:42:45.340713+00:00",
-      "airtable_ready": true,
+      "email_found_at": "2026-09-15T16:57:50.208281+00:00",
+      "airtable_ready": false,
       "qa_date": "2026-09-15",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "haarholic - friseur münchen & balayage|muenchen|https://www.haarholic.com/",
-      "company_name": "HAARHOLIC - Friseur München & Balayage",
-      "industry": "Friseur",
-      "city": "Muenchen",
-      "source_total_score": 81,
+      "lead_id": "barbershop am rudolfplatz - köln|koeln|https://www.friseur-am-rudolfplatz.de/",
+      "company_name": "Barbershop Am Rudolfplatz - Köln",
+      "industry": "Barbershop",
+      "city": "Koeln",
+      "source_total_score": 80,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/HAARHOLIC+-+Friseur+M%C3%BCnchen+%26+Balayage/data=!4m7!3m6!1s0x479ddf06b492d6a5:0x7988719d8ffae846!8m2!3d48.1498156!4d11.5605406!16s%2Fg%2F11r_tj5_ml!19sChIJpdaStAbfnUcRRuj6j51xiHk?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.haarholic.com/",
+      "google_maps_url": "https://www.google.com/maps/place/Barbershop+Am+Rudolfplatz+-+K%C3%B6ln/data=!4m7!3m6!1s0x47bf25aff503e099:0x81ff4da797d9af57!8m2!3d50.9349633!4d6.9425692!16s%2Fg%2F11mqtdx22l!19sChIJmeAD9a8lv0cRV6_Zl6dN_4E?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.friseur-am-rudolfplatz.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
         "maps_text_observed": true,
         "posts_signal": "NOT_OBSERVED",
         "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
         "website_link_observed": true,
         "phone_observed": true,
         "address_observed": true,
@@ -174,18 +100,157 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.haarholic.com/",
-        "booking_link": "https://www.haarholic.com/buchen",
+        "website_final_url": "https://www.friseur-am-rudolfplatz.de/",
+        "booking_link": "https://www.friseur-am-rudolfplatz.de/kontakt/",
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "bart",
+          "rasur",
+          "haarschnitt",
+          "fade",
+          "konturen"
+        ],
+        "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "team@friseur-am-rudolfplatz.de",
+        "email_source_url": "https://www.friseur-am-rudolfplatz.de/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-15T16:57:57.439425+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 87,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 157 reviews vs. comparison median 254; gap 97."
+        },
+        {
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 157 reviews vs. comparison median 254; gap 97.",
+      "proof": [
+        "Verified source data: 157 reviews vs. comparison median 254; gap 97.",
+        "Online booking/appointment link observed on website."
+      ],
+      "email": "team@friseur-am-rudolfplatz.de",
+      "email_source_url": "https://www.friseur-am-rudolfplatz.de/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T16:57:57.439425+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-15",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "tierarzt dr. frank vennemann|muenster|http://www.tierarzt-ms.de/",
+      "company_name": "Tierarzt Dr. Frank Vennemann",
+      "industry": "Tierarzt",
+      "city": "Muenster",
+      "source_total_score": 80,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Dr.+Frank+Vennemann/data=!4m7!3m6!1s0x47b9ba7fd96547c9:0x815be9b81d5973b!8m2!3d51.989031!4d7.5984111!16s%2Fg%2F1vj5z9kv!19sChIJyUdl2X-6uUcRO5fVgZu-FQg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.tierarzt-ms.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://tierarzt-ms.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@tierarzt-ms.de",
+        "email_source_url": "https://tierarzt-ms.de/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-15T16:58:09.457205+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 85,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 65 reviews vs. comparison median 168; gap 103."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 65 reviews vs. comparison median 168; gap 103.",
+      "proof": [
+        "Verified source data: 65 reviews vs. comparison median 168; gap 103."
+      ],
+      "email": "info@tierarzt-ms.de",
+      "email_source_url": "https://tierarzt-ms.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T16:58:09.457205+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-15",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "tierarzt potsdam, tierarztpraxis activet potsdam|potsdam|https://activet-potsdam.de/",
+      "company_name": "Tierarzt Potsdam, Tierarztpraxis Activet Potsdam",
+      "industry": "Tierarzt",
+      "city": "Potsdam",
+      "source_total_score": 80,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Potsdam,+Tierarztpraxis+Activet+Potsdam/data=!4m7!3m6!1s0x47b8bbe03406afe7:0xbacd6856a8f7f52e!8m2!3d52.3817758!4d13.1257706!16s%2Fg%2F11hkt39pwp!19sChIJ568GNOC7uEcRLvX3qFZozbo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://activet-potsdam.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://activet-potsdam.de/",
+        "booking_link": "https://activet-potsdam.de/terminbuchung/",
         "social_links": [
-          "https://www.facebook.com/haarholic",
-          "https://www.instagram.com/haarholic/",
-          "https://www.instagram.com/haarholic"
+          "https://www.facebook.com/tierarztpraxis.activetpotsdam",
+          "https://www.instagram.com/activet.tierarzt.potsdam/",
+          "https://www.facebook.com/tierarztpraxis.activetpotsdam/"
         ],
         "contact_page_observed": true,
         "website_service_matches": [
-          "balayage",
-          "coloration",
-          "haarschnitt"
+          "impfung",
+          "chirurgie",
+          "ultraschall",
+          "labor"
         ],
         "website_evidence": [
           "Online booking/appointment link observed on website.",
@@ -193,17 +258,17 @@
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "haarholic@gmail.com",
-        "email_source_url": "https://www.haarholic.com/impressum-datenschutz",
+        "email": "praxis@activet-potsdam.de",
+        "email_source_url": "https://activet-potsdam.de/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-15T15:42:51.563409+00:00"
+        "email_found_at": "2026-09-15T16:58:18.312071+00:00"
       },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 89,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 202 reviews vs. comparison median 427; gap 225."
+          "proof": "Verified source data: 234 reviews vs. comparison median 340; gap 106."
         },
         {
           "type": "digital_maturity_booking",
@@ -216,112 +281,30 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 202 reviews vs. comparison median 427; gap 225.",
+      "primary_sales_angle_verified": "Verified source data: 234 reviews vs. comparison median 340; gap 106.",
       "proof": [
-        "Verified source data: 202 reviews vs. comparison median 427; gap 225.",
+        "Verified source data: 234 reviews vs. comparison median 340; gap 106.",
         "Online booking/appointment link observed on website.",
         "Business website links to at least one social profile."
       ],
-      "email": "haarholic@gmail.com",
-      "email_source_url": "https://www.haarholic.com/impressum-datenschutz",
+      "email": "praxis@activet-potsdam.de",
+      "email_source_url": "https://activet-potsdam.de/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-15T15:42:51.563409+00:00",
-      "airtable_ready": true,
-      "qa_date": "2026-09-15",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
-      "company_name": "Aesthetik & Kosmetikstudio Hamburg",
-      "industry": "Beauty Aesthetik",
-      "city": "Hamburg",
-      "source_total_score": 80,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Aesthetik+%26+Kosmetikstudio+Hamburg/data=!4m7!3m6!1s0x47b18f38bb876b25:0x6fbece02854a847!8m2!3d53.5679183!4d9.9821493!16s%2Fg%2F1jkw626bq!19sChIJJWuHuziPsUcRR6hUKODs-wY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.instagram.com/aesthetik.studio.hamburg_/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Faesthetik.studio.hamburg_%2F&is_from_rle",
-        "booking_link": null,
-        "social_links": [
-          "https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fwww.instagram.com%2Faesthetik.studio.hamburg_%2F",
-          "https://www.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fwww.instagram.com%2Faesthetik.studio.hamburg_%2F",
-          "https://about.instagram.com/",
-          "https://about.instagram.com/blog/",
-          "https://about.instagram.com/about-us/careers",
-          "https://help.instagram.com/",
-          "https://developers.facebook.com/docs/instagram",
-          "https://www.instagram.com/legal/privacy/?next=https%3A%2F%2Fwww.instagram.com%2Faesthetik.studio.hamburg_%2F",
-          "https://www.instagram.com/legal/privacy/health_privacy_policy/?next=https%3A%2F%2Fwww.instagram.com%2Faesthetik.studio.hamburg_%2F",
-          "https://www.instagram.com/legal/terms/?next=https%3A%2F%2Fwww.instagram.com%2Faesthetik.studio.hamburg_%2F",
-          "https://www.instagram.com/explore/locations/?next=https%3A%2F%2Fwww.instagram.com%2Faesthetik.studio.hamburg_%2F",
-          "https://www.instagram.com/popular/?next=https%3A%2F%2Fwww.instagram.com%2Faesthetik.studio.hamburg_%2F",
-          "https://www.instagram.com/web/lite/?next=https%3A%2F%2Fwww.instagram.com%2Faesthetik.studio.hamburg_%2F",
-          "https://www.facebook.com/help/instagram/261704639352628",
-          "https://www.instagram.com/accounts/meta_verified/?entrypoint=web_footer&next=https%3A%2F%2Fwww.instagram.com%2Faesthetik.studio.hamburg_%2F"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [],
-        "website_evidence": [
-          "Active social-link footprint observed (15 link(s)).",
-          "Contact/imprint page observed on website."
-        ],
-        "email": null,
-        "email_source_url": null,
-        "email_verification_status": "EMAIL_MISSING",
-        "email_found_at": null
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 82,
-      "deep_qa_verified_signals": [
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Google review count is missing; never interpret this as zero.",
-        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
-      ],
-      "primary_sales_angle_verified": "Business website links to at least one social profile.",
-      "proof": [
-        "Business website links to at least one social profile."
-      ],
-      "email": null,
-      "email_source_url": null,
-      "email_verification_status": "EMAIL_MISSING",
-      "email_found_at": null,
+      "email_found_at": "2026-09-15T16:58:18.312071+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-15",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "tierarztpraxis dr. kochner|mannheim|https://www.tierarztpraxiskochner.de/",
-      "company_name": "Tierarztpraxis Dr. Kochner",
-      "industry": "Tierarzt",
-      "city": "Mannheim",
+      "lead_id": "profi firmenumzug hamburg - büroumzüge|hamburg|http://www.umzugsunternehmen-umzug.hamburg/",
+      "company_name": "Profi Firmenumzug Hamburg - Büroumzüge",
+      "industry": "Umzugsunternehmen",
+      "city": "Hamburg",
       "source_total_score": 80,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Dr.+Kochner/data=!4m7!3m6!1s0x4797cdcdfe2b2ffb:0xb53d3e861cb51aaf!8m2!3d49.5006838!4d8.4679829!16s%2Fg%2F11b6dg9s8n!19sChIJ-y8r_s3Nl0cRrxq1HIY-PbU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.tierarztpraxiskochner.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Profi+Firmenumzug+Hamburg+-+B%C3%BCroumz%C3%BCge/data=!4m7!3m6!1s0x47b18eea82fd05a3:0x9a88c19a5b0d500a!8m2!3d53.56666!4d10.0422!16s%2Fg%2F12nqgngp4!19sChIJowX9guqOsUcRClANW5rBiJo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.umzugsunternehmen-umzug.hamburg/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -339,39 +322,38 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.tierarztpraxiskochner.de/",
+        "website_final_url": "http://www.umzugsunternehmen-umzug.hamburg/",
         "booking_link": null,
         "social_links": [],
         "contact_page_observed": true,
         "website_service_matches": [],
         "website_evidence": [
-          "Contact/imprint page observed on website."
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
         ],
-        "email": null,
-        "email_source_url": null,
-        "email_verification_status": "EMAIL_MISSING",
-        "email_found_at": null
+        "email": "info@town-express.de",
+        "email_source_url": "http://www.umzugsunternehmen-umzug.hamburg/impressum.html",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-15T16:58:39.189950+00:00"
       },
       "deep_qa_decision": "FINAL_B",
       "deep_qa_score": 85,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 167 reviews vs. comparison median 408; gap 241."
+          "proof": "Verified source data: 55 reviews vs. comparison median 146; gap 91."
         }
       ],
       "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
-      ],
-      "primary_sales_angle_verified": "Verified source data: 167 reviews vs. comparison median 408; gap 241.",
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 55 reviews vs. comparison median 146; gap 91.",
       "proof": [
-        "Verified source data: 167 reviews vs. comparison median 408; gap 241."
+        "Verified source data: 55 reviews vs. comparison median 146; gap 91."
       ],
-      "email": null,
-      "email_source_url": null,
-      "email_verification_status": "EMAIL_MISSING",
-      "email_found_at": null,
+      "email": "info@town-express.de",
+      "email_source_url": "http://www.umzugsunternehmen-umzug.hamburg/impressum.html",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T16:58:39.189950+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-15",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
@@ -379,7 +361,7 @@
     }
   ],
   "state": {
-    "runs": 27,
+    "runs": 28,
     "processed_ids": [
       "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -387,6 +369,7 @@
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
       "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
       "backroom physio berlin|berlin|https://backroomphysio.de/",
+      "barbershop am rudolfplatz - köln|koeln|https://www.friseur-am-rudolfplatz.de/",
       "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
       "be beautiful | ästhetik & kosmetik hamburg|hamburg|https://www.bebeautiful.hamburg/",
       "beauty & aesthetics oe studio|hamburg|https://beautyandaesthetics.de/",
@@ -460,6 +443,7 @@
       "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
       "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
       "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
+      "profi firmenumzug hamburg - büroumzüge|hamburg|http://www.umzugsunternehmen-umzug.hamburg/",
       "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
       "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
       "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
@@ -469,6 +453,8 @@
       "thead - blond friseur münchen | aveda salon|muenchen|https://thehead-salon.de/",
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
       "tierarzt berlin prenzlauer berg, tierarztpraxis am arnimplatz|berlin|https://tierarztpraxis-arnimplatz.de/",
+      "tierarzt dr. frank vennemann|muenster|http://www.tierarzt-ms.de/",
+      "tierarzt potsdam, tierarztpraxis activet potsdam|potsdam|https://activet-potsdam.de/",
       "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
       "tierarztpraxis am wohnpark|sankt augustin|https://kleintierpraxis-spieker.de/",
       "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
@@ -477,6 +463,7 @@
       "tierarztpraxis felmo bochum|bochum|https://felmo.de/tierarztpraxis/bochum?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
       "tierarztpraxis hamburg berne - tierärztin linda brüggemann|hamburg|https://www.tierarzt-hamburg-berne.de/",
       "tierarztpraxis hernández|sankt augustin|https://tierarztpraxishernandez.com/",
+      "tierarztpraxis holt dr. kathagen, dr. riecken, dr. sixt|moenchengladbach|http://www.fachtierarztpraxis-holt.de/",
       "tierarztpraxis köln-langel gmbh|koeln|http://www.tierarztpraxis-koeln-langel.de/",
       "tierarztpraxis lisa plagge|krefeld|https://tierarzt-plagge.de/",
       "tierarztpraxis tiergesundheitszentrum münchen|muenchen|http://www.verhaltenstherapie-tier.de/",
@@ -506,11 +493,11 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 124,
-    "remaining_eligible": 5,
+    "processed_count": 129,
+    "remaining_eligible": 0,
     "last_batch_count": 5,
     "final_a_total": 49,
-    "final_b_total": 74,
+    "final_b_total": 79,
     "email_ready_total": 36,
     "email_missing_total": 31
   }

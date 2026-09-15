@@ -5538,6 +5538,90 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "tierarzt potsdam, tierarztpraxis activet potsdam|potsdam|https://activet-potsdam.de/",
+    "company_name": "Tierarzt Potsdam, Tierarztpraxis Activet Potsdam",
+    "industry": "Tierarzt",
+    "city": "Potsdam",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Potsdam,+Tierarztpraxis+Activet+Potsdam/data=!4m7!3m6!1s0x47b8bbe03406afe7:0xbacd6856a8f7f52e!8m2!3d52.3817758!4d13.1257706!16s%2Fg%2F11hkt39pwp!19sChIJ568GNOC7uEcRLvX3qFZozbo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://activet-potsdam.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://activet-potsdam.de/",
+      "booking_link": "https://activet-potsdam.de/terminbuchung/",
+      "social_links": [
+        "https://www.facebook.com/tierarztpraxis.activetpotsdam",
+        "https://www.instagram.com/activet.tierarzt.potsdam/",
+        "https://www.facebook.com/tierarztpraxis.activetpotsdam/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "impfung",
+        "chirurgie",
+        "ultraschall",
+        "labor"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (3 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "praxis@activet-potsdam.de",
+      "email_source_url": "https://activet-potsdam.de/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T16:58:18.312071+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 234 reviews vs. comparison median 340; gap 106."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 234 reviews vs. comparison median 340; gap 106.",
+    "proof": [
+      "Verified source data: 234 reviews vs. comparison median 340; gap 106.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "praxis@activet-potsdam.de",
+    "email_source_url": "https://activet-potsdam.de/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T16:58:18.312071+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "company_name": "MANU Elektrobau GmbH",
     "industry": "Elektriker",
@@ -7543,6 +7627,155 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "tierarztpraxis holt dr. kathagen, dr. riecken, dr. sixt|moenchengladbach|http://www.fachtierarztpraxis-holt.de/",
+    "company_name": "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
+    "industry": "Tierarzt",
+    "city": "Moenchengladbach",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Holt+Dr.+Kathagen,+Dr.+Riecken,+Dr.+Sixt/data=!4m7!3m6!1s0x47b8abb7877d8345:0x4a25d2f5594d3113!8m2!3d51.1843863!4d6.4031618!16s%2Fg%2F11qqg_2qv1!19sChIJRYN9h7eruEcREzFNWfXSJUo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.fachtierarztpraxis-holt.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.fachtierarztpraxis-holt.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/tierarztpraxisholt",
+        "https://www.instagram.com/tierarztpraxisholt/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "impfung"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@fachtierarztpraxis-holt.de",
+      "email_source_url": "https://www.fachtierarztpraxis-holt.de/texte/impressum.html",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T16:57:50.208281+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 385 reviews vs. comparison median 525; gap 140."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 385 reviews vs. comparison median 525; gap 140.",
+    "proof": [
+      "Verified source data: 385 reviews vs. comparison median 525; gap 140.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@fachtierarztpraxis-holt.de",
+    "email_source_url": "https://www.fachtierarztpraxis-holt.de/texte/impressum.html",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T16:57:50.208281+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "barbershop am rudolfplatz - köln|koeln|https://www.friseur-am-rudolfplatz.de/",
+    "company_name": "Barbershop Am Rudolfplatz - Köln",
+    "industry": "Barbershop",
+    "city": "Koeln",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Barbershop+Am+Rudolfplatz+-+K%C3%B6ln/data=!4m7!3m6!1s0x47bf25aff503e099:0x81ff4da797d9af57!8m2!3d50.9349633!4d6.9425692!16s%2Fg%2F11mqtdx22l!19sChIJmeAD9a8lv0cRV6_Zl6dN_4E?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.friseur-am-rudolfplatz.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.friseur-am-rudolfplatz.de/",
+      "booking_link": "https://www.friseur-am-rudolfplatz.de/kontakt/",
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "bart",
+        "rasur",
+        "haarschnitt",
+        "fade",
+        "konturen"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "team@friseur-am-rudolfplatz.de",
+      "email_source_url": "https://www.friseur-am-rudolfplatz.de/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T16:57:57.439425+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 157 reviews vs. comparison median 254; gap 97."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 157 reviews vs. comparison median 254; gap 97.",
+    "proof": [
+      "Verified source data: 157 reviews vs. comparison median 254; gap 97.",
+      "Online booking/appointment link observed on website."
+    ],
+    "email": "team@friseur-am-rudolfplatz.de",
+    "email_source_url": "https://www.friseur-am-rudolfplatz.de/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T16:57:57.439425+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "maison de nails berlin|berlin|https://maisondenails.de/",
     "company_name": "Maison De Nails Berlin",
     "industry": "Nagelstudio",
@@ -8751,6 +8984,132 @@
     "email_source_url": null,
     "email_verification_status": "EMAIL_MISSING",
     "email_found_at": null,
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "tierarzt dr. frank vennemann|muenster|http://www.tierarzt-ms.de/",
+    "company_name": "Tierarzt Dr. Frank Vennemann",
+    "industry": "Tierarzt",
+    "city": "Muenster",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Dr.+Frank+Vennemann/data=!4m7!3m6!1s0x47b9ba7fd96547c9:0x815be9b81d5973b!8m2!3d51.989031!4d7.5984111!16s%2Fg%2F1vj5z9kv!19sChIJyUdl2X-6uUcRO5fVgZu-FQg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.tierarzt-ms.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://tierarzt-ms.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@tierarzt-ms.de",
+      "email_source_url": "https://tierarzt-ms.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T16:58:09.457205+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 85,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 65 reviews vs. comparison median 168; gap 103."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 65 reviews vs. comparison median 168; gap 103.",
+    "proof": [
+      "Verified source data: 65 reviews vs. comparison median 168; gap 103."
+    ],
+    "email": "info@tierarzt-ms.de",
+    "email_source_url": "https://tierarzt-ms.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T16:58:09.457205+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "profi firmenumzug hamburg - büroumzüge|hamburg|http://www.umzugsunternehmen-umzug.hamburg/",
+    "company_name": "Profi Firmenumzug Hamburg - Büroumzüge",
+    "industry": "Umzugsunternehmen",
+    "city": "Hamburg",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Profi+Firmenumzug+Hamburg+-+B%C3%BCroumz%C3%BCge/data=!4m7!3m6!1s0x47b18eea82fd05a3:0x9a88c19a5b0d500a!8m2!3d53.56666!4d10.0422!16s%2Fg%2F12nqgngp4!19sChIJowX9guqOsUcRClANW5rBiJo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.umzugsunternehmen-umzug.hamburg/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "http://www.umzugsunternehmen-umzug.hamburg/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@town-express.de",
+      "email_source_url": "http://www.umzugsunternehmen-umzug.hamburg/impressum.html",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T16:58:39.189950+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 85,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 55 reviews vs. comparison median 146; gap 91."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 55 reviews vs. comparison median 146; gap 91.",
+    "proof": [
+      "Verified source data: 55 reviews vs. comparison median 146; gap 91."
+    ],
+    "email": "info@town-express.de",
+    "email_source_url": "http://www.umzugsunternehmen-umzug.hamburg/impressum.html",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T16:58:39.189950+00:00",
     "airtable_ready": false,
     "qa_date": "2026-09-15",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",

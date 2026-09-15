@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 50,
-  "focus": "city_exploitation",
+  "learning_run_count": 51,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen"
+    "Hamburg",
+    "Berlin",
+    "Braunschweig"
   ],
   "selected_industries": [
-    "Tierarzt",
-    "Physiotherapie",
-    "Friseur"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
+      "city": "Hamburg",
       "industry": "Tierarzt",
-      "query": "Tierarzt Muenchen"
+      "query": "Tierarzt Hamburg"
     },
     {
-      "city": "Muenchen",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Muenchen"
+      "city": "Berlin",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Berlin"
     },
     {
-      "city": "Muenchen",
-      "industry": "Friseur",
-      "query": "Friseur Muenchen"
+      "city": "Braunschweig",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Braunschweig"
     }
   ],
   "queries_per_run": 3

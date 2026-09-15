@@ -1,6 +1,7 @@
 {
-  "runs": 26,
+  "runs": 27,
   "processed_ids": [
+    "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -12,6 +13,7 @@
     "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
     "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
     "bsn fahrschule|braunschweig|http://bsn-fahrschule.de/",
+    "carolin pokriefke - kleintierpraxis am viewegsgarten|braunschweig|http://www.tierarztpraxis-viewegsgarten.de/",
     "city fahrschule braunschweig|braunschweig|https://www.cityfahrschulebs.info/",
     "city nails - krefeld|krefeld|https://esinafsar.com/city-nails/",
     "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
@@ -36,6 +38,7 @@
     "glam – beauty & nails nagelstudio & wimpernverlängerung isartor münchen|muenchen|https://www.glambeautynails.de/",
     "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
     "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
+    "haarholic - friseur münchen & balayage|muenchen|https://www.haarholic.com/",
     "hair atelier hamburg|hamburg|https://atelierhamburg.net/",
     "hamburg aesthetics by herrmann|hamburg|https://hamburg-aesthetics.de/",
     "heizung sanitär köln | ebi's haustechnik|koeln|http://www.ebis-haustechnik.de/",
@@ -46,6 +49,7 @@
     "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
     "jg kosmetikstudio köln - hydrafacial / microneedling / haarentfernung|koeln|https://jgkosmetik-koeln.de/",
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
+    "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/",
     "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
     "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
     "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
@@ -88,6 +92,7 @@
     "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
     "tierarztpraxis am wohnpark|sankt augustin|https://kleintierpraxis-spieker.de/",
     "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
+    "tierarztpraxis dr. kochner|mannheim|https://www.tierarztpraxiskochner.de/",
     "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
     "tierarztpraxis felmo bochum|bochum|https://felmo.de/tierarztpraxis/bochum?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
     "tierarztpraxis hamburg berne - tierärztin linda brüggemann|hamburg|https://www.tierarzt-hamburg-berne.de/",
@@ -121,15 +126,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 119,
-  "remaining_eligible": 10,
+  "processed_count": 124,
+  "remaining_eligible": 5,
   "last_batch_count": 5,
-  "final_a_total": 47,
-  "final_b_total": 71,
-  "email_ready_total": 34,
-  "email_missing_total": 29,
-  "email_gate_qualified_total": 89,
-  "email_missing_excluded_total": 29,
-  "downstream_eligible_total": 89,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "final_a_total": 49,
+  "final_b_total": 74,
+  "email_ready_total": 36,
+  "email_missing_total": 31
 }

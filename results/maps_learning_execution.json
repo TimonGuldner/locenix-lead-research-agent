@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 57,
-  "focus": "industry_exploitation",
+  "learning_run_count": 58,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Karlsruhe",
-    "Dortmund",
-    "Stuttgart"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Sanitaer Heizung",
+    "Immobilienmakler",
+    "Autowerkstatt"
   ],
   "selected_pairs": [
     {
-      "city": "Karlsruhe",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Karlsruhe"
+      "city": "Muenchen",
+      "industry": "Sanitaer Heizung",
+      "query": "Sanitaer Heizung Muenchen"
     },
     {
-      "city": "Dortmund",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Dortmund"
+      "city": "Muenchen",
+      "industry": "Immobilienmakler",
+      "query": "Immobilienmakler Muenchen"
     },
     {
-      "city": "Stuttgart",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Stuttgart"
+      "city": "Muenchen",
+      "industry": "Autowerkstatt",
+      "query": "Autowerkstatt Muenchen"
     }
   ],
   "queries_per_run": 3

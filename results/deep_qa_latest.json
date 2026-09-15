@@ -1,14 +1,14 @@
 {
   "results": [
     {
-      "lead_id": "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
-      "company_name": "NIICE Kleintiertagesklinik Potsdam",
+      "lead_id": "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
+      "company_name": "Mobiler Tierarzt Ryanvet für Notdienst",
       "industry": "Tierarzt",
-      "city": "Potsdam",
-      "source_total_score": 89,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/NIICE+Kleintiertagesklinik+Potsdam/data=!4m7!3m6!1s0x47a85f8b9459e4ed:0x3241c1517f7dfe65!8m2!3d52.3827798!4d13.1094596!16s%2Fg%2F11z7lh02bn!19sChIJ7eRZlItfqEcRZf59f1HBQTI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://niice-tieraerzte-potsdam.de/",
+      "city": "Mannheim",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Mobiler+Tierarzt+Ryanvet+f%C3%BCr+Notdienst/data=!4m7!3m6!1s0x4797cd042aefff39:0x2e4b71c333df31f9!8m2!3d49.4928361!4d8.4682736!16s%2Fg%2F11z0yckphy!19sChIJOf_vKgTNl0cR-THfM8NxSy4?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://ryanvet.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -26,210 +26,54 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://niice-tieraerzte-potsdam.de/",
+        "website_final_url": "https://ryanvet.de/",
         "booking_link": null,
         "social_links": [],
         "contact_page_observed": true,
         "website_service_matches": [
-          "chirurgie"
+          "impfung"
         ],
         "website_evidence": [
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "kontakt@niice-tieraerzte-potsdam.de",
-        "email_source_url": "https://niice-tieraerzte-potsdam.de/",
+        "email": "info@ryanvet.de",
+        "email_source_url": "https://ryanvet.de/impressum/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-15T01:40:11.310058+00:00"
+        "email_found_at": "2026-09-15T06:43:33.012702+00:00"
       },
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 94,
+      "deep_qa_score": 86,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 22 reviews vs. comparison median 340; gap 318."
+          "proof": "Verified source data: 154 reviews vs. comparison median 408; gap 254."
         }
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 22 reviews vs. comparison median 340; gap 318.",
+      "primary_sales_angle_verified": "Verified source data: 154 reviews vs. comparison median 408; gap 254.",
       "proof": [
-        "Verified source data: 22 reviews vs. comparison median 340; gap 318."
+        "Verified source data: 154 reviews vs. comparison median 408; gap 254."
       ],
-      "email": "kontakt@niice-tieraerzte-potsdam.de",
-      "email_source_url": "https://niice-tieraerzte-potsdam.de/",
+      "email": "info@ryanvet.de",
+      "email_source_url": "https://ryanvet.de/impressum/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-15T01:40:11.310058+00:00",
+      "email_found_at": "2026-09-15T06:43:33.012702+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-15",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "nice aesthetic - kosmetikstudio hamburg|hamburg|https://niceaesthetic.de/",
-      "company_name": "NICE Aesthetic - Kosmetikstudio Hamburg",
-      "industry": "Beauty Aesthetik",
-      "city": "Hamburg",
+      "lead_id": "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
+      "company_name": "Dr. med. vet. Stefan Kozak - Mönchengladbach",
+      "industry": "Tierarzt",
+      "city": "Moenchengladbach",
       "source_total_score": 81,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/NICE+Aesthetic+-+Kosmetikstudio+Hamburg/data=!4m7!3m6!1s0x47b18981fbe7f763:0x4157e62beb9bad8!8m2!3d53.6170528!4d10.0781697!16s%2Fg%2F1hm49hsrv!19sChIJY_fn-4GJsUcR2Lq5vmJ-FQQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://niceaesthetic.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://niceaesthetic.de/",
-        "booking_link": "https://www.planity.com/de-DE/nice-aesthetic-22177-hamburg-bramfeld",
-        "social_links": [
-          "https://www.instagram.com/niceaesthetic_hamburg/?igsh=eWF5Z2diMm1vMDJv",
-          "https://instagram.com",
-          "https://www.facebook.com/justbeautyhamburg"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "microneedling",
-          "laser"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (3 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@niceaesthetic.de",
-        "email_source_url": "https://niceaesthetic.de/impressum",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-15T01:40:19.085951+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
-      "deep_qa_verified_signals": [
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Google review count is missing; never interpret this as zero."
-      ],
-      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
-      "proof": [
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "info@niceaesthetic.de",
-      "email_source_url": "https://niceaesthetic.de/impressum",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-15T01:40:19.085951+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-15",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "beauty & aesthetics oe studio|hamburg|https://beautyandaesthetics.de/",
-      "company_name": "Beauty & Aesthetics OE Studio",
-      "industry": "Beauty Aesthetik",
-      "city": "Hamburg",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Beauty+%26+Aesthetics+OE+Studio/data=!4m7!3m6!1s0x47b18bd86f3d821d:0x5b8c23e07c4cf5bc!8m2!3d53.5764385!4d10.0805769!16s%2Fg%2F11ww7wtb_9!19sChIJHYI9b9iLsUcRvPVMfOAjjFs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://beautyandaesthetics.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://beautyandaesthetics.de/",
-        "booking_link": "https://connect.shore.com/bookings/beauty-aesthetics/services?locale=de",
-        "social_links": [
-          "https://www.instagram.com/oe_studios_beauty_aesthetics?igsh=MTAzMzlsN20xN2Z1cg%3D%3D",
-          "https://www.instagram.com/oe_studios_beauty_aesthetics/"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "laser"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (2 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "beauty@beautyandaesthetics.de",
-        "email_source_url": "https://beautyandaesthetics.de/impressum/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-15T01:40:34.811559+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
-      "deep_qa_verified_signals": [
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Google review count is missing; never interpret this as zero."
-      ],
-      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
-      "proof": [
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "beauty@beautyandaesthetics.de",
-      "email_source_url": "https://beautyandaesthetics.de/impressum/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-15T01:40:34.811559+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-15",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "be beautiful | ästhetik & kosmetik hamburg|hamburg|https://www.bebeautiful.hamburg/",
-      "company_name": "BE BEAUTIFUL | Ästhetik & Kosmetik Hamburg",
-      "industry": "Beauty Aesthetik",
-      "city": "Hamburg",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/BE+BEAUTIFUL+%7C+%C3%84sthetik+%26+Kosmetik+Hamburg/data=!4m7!3m6!1s0x47b185a16b57ff55:0x54080372ebdaa4ec!8m2!3d53.5464719!4d9.9314495!16s%2Fg%2F11mwyq5v6f!19sChIJVf9Xa6GFsUcR7KTa63IDCFQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.bebeautiful.hamburg/",
+      "google_maps_url": "https://www.google.com/maps/place/Dr.+med.+vet.+Stefan+Kozak+-+M%C3%B6nchengladbach/data=!4m7!3m6!1s0x47b8acbc0169401d:0x99c0ff9372216731!8m2!3d51.18575!4d6.4437711!16s%2Fg%2F1v_vr_fs!19sChIJHUBpAbysuEcRMWchcpP_wJk?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -247,73 +91,58 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://bebeautiful.hamburg/",
-        "booking_link": "https://bebeautiful.hamburg/termin-buchen/",
-        "social_links": [
-          "https://www.instagram.com/bebeautiful.hamburg/"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "botox",
-          "hyaluron"
-        ],
+        "website_final_url": "https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": false,
+        "website_service_matches": [],
         "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (1 link(s)).",
-          "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "dr.wessel@bebeautiful.hamburg",
-        "email_source_url": "https://bebeautiful.hamburg/impressum/",
+        "email": "info@gmail.com",
+        "email_source_url": "https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-15T01:40:43.010444+00:00"
+        "email_found_at": "2026-09-15T06:43:38.016514+00:00"
       },
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
+      "deep_qa_score": 86,
       "deep_qa_verified_signals": [
         {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
+          "type": "review_gap",
+          "proof": "Verified source data: 277 reviews vs. comparison median 525; gap 248."
         }
       ],
       "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Google review count is missing; never interpret this as zero."
-      ],
-      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 277 reviews vs. comparison median 525; gap 248.",
       "proof": [
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
+        "Verified source data: 277 reviews vs. comparison median 525; gap 248."
       ],
-      "email": "dr.wessel@bebeautiful.hamburg",
-      "email_source_url": "https://bebeautiful.hamburg/impressum/",
+      "email": "info@gmail.com",
+      "email_source_url": "https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-15T01:40:43.010444+00:00",
+      "email_found_at": "2026-09-15T06:43:38.016514+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-15",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "hamburg aesthetics by herrmann|hamburg|https://hamburg-aesthetics.de/",
-      "company_name": "Hamburg Aesthetics by Herrmann",
-      "industry": "Beauty Aesthetik",
-      "city": "Hamburg",
+      "lead_id": "tierärzte mobil nürnberg|nuernberg|http://tieraerzte-mobil-nuernberg.de/",
+      "company_name": "Tierärzte MOBIL Nürnberg",
+      "industry": "Tierarzt",
+      "city": "Nuernberg",
       "source_total_score": 81,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Hamburg+Aesthetics+by+Herrmann/data=!4m7!3m6!1s0x47b18f0b0b6a3517:0x940e8a07ffbd2b0f!8m2!3d53.5505221!4d9.9887359!16s%2Fg%2F11l31ssddw!19sChIJFzVqCwuPsUcRDyu9_weKDpQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://hamburg-aesthetics.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Tier%C3%A4rzte+MOBIL+N%C3%BCrnberg/data=!4m7!3m6!1s0x479f578101e0dd89:0xcaa29f792f6cba09!8m2!3d49.43971!4d11.122576!16s%2Fg%2F11c618s0wz!19sChIJid3gAYFXn0cRCbpsL3mfoso?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://tieraerzte-mobil-nuernberg.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
         "maps_text_observed": true,
         "posts_signal": "NOT_OBSERVED",
         "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
         "website_link_observed": true,
         "phone_observed": true,
         "address_observed": true,
@@ -324,34 +153,29 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://hamburg-aesthetics.de/",
-        "booking_link": "https://www.doctolib.de/privatpraxis/hamburg/hamburg-aesthetics-by-herrmann/booking/motives?specialityId=3171&telehealth=false&placeId=practice-731884&bookingFunnelSource=profile",
+        "website_final_url": "https://tieraerzte-mobil-nuernberg.com/",
+        "booking_link": null,
         "social_links": [
-          "https://www.instagram.com/hamburg_aesthetics_byherrmann"
+          "https://www.facebook.com/danuela.schonherr?fref=ts"
         ],
         "contact_page_observed": true,
-        "website_service_matches": [
-          "hyaluron",
-          "microneedling",
-          "hautbehandlung"
-        ],
+        "website_service_matches": [],
         "website_evidence": [
-          "Online booking/appointment link observed on website.",
           "Active social-link footprint observed (1 link(s)).",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@hamburg-aesthetics.de",
-        "email_source_url": "https://hamburg-aesthetics.de/impressum/",
+        "email": "info@tieraerzte-mobil-nuernberg.de",
+        "email_source_url": "https://tieraerzte-mobil-nuernberg.com/impressum/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-15T01:40:50.295160+00:00"
+        "email_found_at": "2026-09-15T06:43:57.200114+00:00"
       },
       "deep_qa_decision": "FINAL_B",
       "deep_qa_score": 88,
       "deep_qa_verified_signals": [
         {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
+          "type": "review_gap",
+          "proof": "Verified source data: 200 reviews vs. comparison median 630; gap 430."
         },
         {
           "type": "digital_maturity_social",
@@ -359,18 +183,157 @@
         }
       ],
       "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Google review count is missing; never interpret this as zero."
-      ],
-      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 200 reviews vs. comparison median 630; gap 430.",
       "proof": [
-        "Online booking/appointment link observed on website.",
+        "Verified source data: 200 reviews vs. comparison median 630; gap 430.",
         "Business website links to at least one social profile."
       ],
-      "email": "info@hamburg-aesthetics.de",
-      "email_source_url": "https://hamburg-aesthetics.de/impressum/",
+      "email": "info@tieraerzte-mobil-nuernberg.de",
+      "email_source_url": "https://tieraerzte-mobil-nuernberg.com/impressum/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-15T01:40:50.295160+00:00",
+      "email_found_at": "2026-09-15T06:43:57.200114+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-15",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "tierstadt gmbh|nuernberg|https://tierstadt.de/",
+      "company_name": "TierStadt GmbH",
+      "industry": "Tierarzt",
+      "city": "Nuernberg",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/TierStadt+GmbH/data=!4m7!3m6!1s0x479f57efcbe88c45:0xf8e26edfadf33dbd!8m2!3d49.4060684!4d11.0864262!16s%2Fg%2F11js5w5dv4!19sChIJRYzoy-9Xn0cRvT3zrd9u4vg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://tierstadt.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://tierstadt.de/",
+        "booking_link": null,
+        "social_links": [
+          "https://www.facebook.com/TierStadt",
+          "https://de.linkedin.com/company/tierstadt",
+          "http://instagram.com/TierStadt"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "impfung",
+          "chirurgie",
+          "zahnsanierung",
+          "labor"
+        ],
+        "website_evidence": [
+          "Active social-link footprint observed (3 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "tier@tierstadt.de",
+        "email_source_url": "https://tierstadt.de/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-15T06:44:03.746771+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 88,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 119 reviews vs. comparison median 630; gap 511."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 119 reviews vs. comparison median 630; gap 511.",
+      "proof": [
+        "Verified source data: 119 reviews vs. comparison median 630; gap 511.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "tier@tierstadt.de",
+      "email_source_url": "https://tierstadt.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T06:44:03.746771+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-15",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "tierärztliche praxis elena waldhier|nuernberg|http://www.tierarzt-ziegelstein.de/",
+      "company_name": "Tierärztliche Praxis Elena Waldhier",
+      "industry": "Tierarzt",
+      "city": "Nuernberg",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Tier%C3%A4rztliche+Praxis+Elena+Waldhier/data=!4m7!3m6!1s0x47a1fd591fa61eb7:0xe652cfc5c9aff4a9!8m2!3d49.4866958!4d11.1126493!16s%2Fg%2F11c30_mvvf!19sChIJtx6mH1n9oUcRqfSvycXPUuY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.tierarzt-ziegelstein.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.tierarzt-ziegelstein.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "tierarzt-ziegelstein@gmx.de",
+        "email_source_url": "https://www.tierarzt-ziegelstein.de/impressum",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-15T06:44:09.095912+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 256 reviews vs. comparison median 630; gap 374."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 256 reviews vs. comparison median 630; gap 374.",
+      "proof": [
+        "Verified source data: 256 reviews vs. comparison median 630; gap 374."
+      ],
+      "email": "tierarzt-ziegelstein@gmx.de",
+      "email_source_url": "https://www.tierarzt-ziegelstein.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T06:44:09.095912+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-15",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
@@ -378,7 +341,7 @@
     }
   ],
   "state": {
-    "runs": 24,
+    "runs": 25,
     "processed_ids": [
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
@@ -395,6 +358,7 @@
       "city nails - krefeld|krefeld|https://esinafsar.com/city-nails/",
       "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
       "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
+      "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
       "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
       "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
       "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
@@ -441,6 +405,7 @@
       "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
       "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
       "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
+      "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
       "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
       "nice aesthetic - kosmetikstudio hamburg|hamburg|https://niceaesthetic.de/",
       "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
@@ -472,8 +437,11 @@
       "tiergesundheitszentrum an der flora (ex tierarztpraxis am nippeser tälchen)|koeln|https://www.vet-nippes.de/",
       "tiergesundheitszentrum pankow|berlin|https://www.tgz-pankow.de/",
       "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
+      "tierstadt gmbh|nuernberg|https://tierstadt.de/",
+      "tierärzte mobil nürnberg|nuernberg|http://tieraerzte-mobil-nuernberg.de/",
       "tierärztliche gemeinschaftspraxis viola daub & dr. med. vet. claudia szattelberger|koeln|http://www.tierarztpraxis-koeln-dellbrueck.de/",
       "tierärztliche praxis daglis|dortmund|http://www.tierarztpraxis-daglis.de/",
+      "tierärztliche praxis elena waldhier|nuernberg|http://www.tierarzt-ziegelstein.de/",
       "tierärztliche praxis für kleintiere scharnhorst gmbh|dortmund|http://www.petdoc.de/",
       "torami nails · lashes|krefeld|https://beacons.ai/torami.co",
       "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
@@ -490,11 +458,11 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 109,
-    "remaining_eligible": 13,
+    "processed_count": 114,
+    "remaining_eligible": 8,
     "last_batch_count": 5,
     "final_a_total": 45,
-    "final_b_total": 63,
+    "final_b_total": 68,
     "email_ready_total": 33,
     "email_missing_total": 28
   }

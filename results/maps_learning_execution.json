@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 56,
-  "focus": "exploration",
-  "exploration": true,
+  "learning_run_count": 57,
+  "focus": "industry_exploitation",
+  "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Aachen",
-    "Bielefeld",
-    "Bochum"
+    "Karlsruhe",
+    "Dortmund",
+    "Stuttgart"
   ],
   "selected_industries": [
-    "Physiotherapie"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Aachen",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Aachen"
+      "city": "Karlsruhe",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Karlsruhe"
     },
     {
-      "city": "Bielefeld",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Bielefeld"
+      "city": "Dortmund",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Dortmund"
     },
     {
-      "city": "Bochum",
-      "industry": "Physiotherapie",
-      "query": "Physiotherapie Bochum"
+      "city": "Stuttgart",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Stuttgart"
     }
   ],
   "queries_per_run": 3

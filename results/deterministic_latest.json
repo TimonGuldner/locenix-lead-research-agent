@@ -1,18 +1,89 @@
 {
-  "accepted": [],
-  "accepted_count": 0,
-  "rejected_count": 24,
+  "accepted": [
+    {
+      "company_name": "Dr.med.vet Tina Brahm",
+      "industry": "Tierarzt",
+      "city": "Dortmund",
+      "address": "Hoher Wall 20, 44137 Dortmund-Innenstadt-West, Deutschland",
+      "website": "http://kleintierpraxis-am-wall.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Dr.med.vet+Tina+Brahm/data=!4m7!3m6!1s0x47b919e70214b277:0x9add18e3836cdf4e!8m2!3d51.51245!4d7.4568201!16s%2Fg%2F1tfvs0vt!19sChIJd7IUAucZuUcRTt9sg-MY3Zo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 231 5338770",
+      "public_business_email": "info@kleintierpraxis-am-wall.de",
+      "email_source_url": "https://kleintierpraxis-am-wall.de/",
+      "contact_form_url": "https://kleintierpraxis-am-wall.de/wp-content/plugins/bootstrap-for-contact-form-7/assets/dist/css/style.min.css?ver=5.9.16",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.8,
+      "google_review_count": 405,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "chirurgie",
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Tierarztpraxis Dr. Möhrke Dr. Rösch",
+      "competitor_1_reviews": 1474,
+      "competitor_2": "Dr. Ostermann",
+      "competitor_2_reviews": 1350,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "405 eigene Bewertungen vs. lokaler Wettbewerbsmedian 598; Gap 193."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 20,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 81,
+      "competitor_review_median": 598,
+      "review_gap": 193,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "405 eigene Bewertungen vs. lokaler Wettbewerbsmedian 598; Gap 193.",
+      "proof": [
+        "405 eigene Bewertungen vs. lokaler Wettbewerbsmedian 598; Gap 193.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "405 eigene Bewertungen vs. lokaler Wettbewerbsmedian 598; Gap 193.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Dortmund. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-15",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
+  "accepted_count": 1,
+  "rejected_count": 18,
   "inspected": 24,
   "state": {
-    "query_cursor": 264,
-    "runs": 88,
-    "lead_count": 153,
+    "query_cursor": 267,
+    "runs": 89,
+    "lead_count": 154,
     "target_leads": 999999999,
-    "last_accepted": 0,
+    "last_accepted": 1,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 24,
+    "last_rejected": 18,
     "a_leads": 25,
-    "b_leads": 97
+    "b_leads": 98
   }
 }

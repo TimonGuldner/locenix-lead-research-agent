@@ -1,189 +1,89 @@
 {
   "results": [
     {
-      "lead_id": "kleintierpraxis karlsruhe dr. magdalena behrendt-wippermann|karlsruhe|http://www.kleintierpraxiskarlsruhe.de/",
-      "company_name": "Kleintierpraxis Karlsruhe Dr. Magdalena Behrendt-Wippermann",
+      "lead_id": "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
+      "company_name": "NIICE Kleintiertagesklinik Potsdam",
       "industry": "Tierarzt",
-      "city": "Karlsruhe",
-      "email": "info@kleintierpraxiskarlsruhe.de",
+      "city": "Potsdam",
+      "email": "kontakt@niice-tieraerzte-potsdam.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_A",
+      "deep_qa_decision": "FINAL_B",
       "deep_qa_score": 94,
       "visibility_tests": [
         {
-          "query": "Tierarzt Karlsruhe",
+          "query": "Tierarzt Potsdam",
           "status": "OBSERVED",
-          "observed_position": 6,
+          "observed_position": 7,
           "results_checked": 11,
           "competitors_ahead": [
-            "Kleintierzentrum Arndt - Tierärztin Arndt & Kollegen",
-            "Kleintierpraxis Brand",
-            "Vogel- und Reptilienpraxis Dr. Britsch",
-            "AniCura Kleintierspezialisten Karlsruhe GmbH",
-            "Fachtierarztpraxis Alexander Virnich"
+            "Tierärztliche Gemeinschaftspraxis Ebeling GbR",
+            "Tierarzt Potsdam, Tierarztpraxis Activet Potsdam",
+            "AniCura Potsdam GmbH",
+            "Tierarztpraxis Dr. Zimpfer",
+            "Tierarztpraxis am Krongut | Frau Dr. med. vet. Georgi |"
           ],
-          "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Tierarzt in Karlsruhe",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Zentrum für Tiergesundheit Linkenheim-Hochstetten, Tierärztin Manuela Bencec",
-            "Kleintierzentrum Arndt - Tierärztin Arndt & Kollegen",
-            "Kleintierpraxis Brand",
-            "Kleintierpraxis Meinhardt | Karlsruhe",
-            "Fachtierarztpraxis Alexander Virnich"
-          ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
-      "visibility_evidence": [
-        "Business observed at position 6 among the first 11 Maps results returned in this run.",
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-      ],
-      "visibility_date": "2026-09-14",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "kleintierpraxis heidelberg hans neumann|heidelberg|https://kleintierpraxis-heidelberg.com/",
-      "company_name": "Kleintierpraxis Heidelberg Hans Neumann",
-      "industry": "Tierarzt",
-      "city": "Heidelberg",
-      "email": "info@kleintierpraxis-heidelberg.com",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 90,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Heidelberg",
+          "query": "Tierarzt in Potsdam",
           "status": "OBSERVED",
-          "observed_position": 10,
+          "observed_position": 8,
           "results_checked": 11,
           "competitors_ahead": [
-            "AniCura Kleintierzentrum Speyer",
-            "Tierarzt Heidelberg, Tierärztliches Zentrum an der Feuerwache",
-            "Medivet Tierarztpraxis Heidelberg",
-            "Tierarzt Bay Heidelberg, Kleintierpraxis Heidelberg-Rohrbach",
-            "Kleintierpraxis Dr. Corinne Martin"
+            "Tierarzt Potsdam, Tierarztpraxis Activet Potsdam",
+            "Tierärztliche Gemeinschaftspraxis Ebeling GbR",
+            "Tierarztpraxis Dr. Zimpfer",
+            "Tierarztpraxis am Krongut | Frau Dr. med. vet. Georgi |",
+            "felmo Mobiler Tierarzt Potsdam"
           ],
-          "evidence": "Business observed at position 10 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Heidelberg",
-          "status": "OBSERVED",
-          "observed_position": 9,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Tierarzt Heidelberg, Tierärztliches Zentrum an der Feuerwache",
-            "Tierarzt Bay Heidelberg, Kleintierpraxis Heidelberg-Rohrbach",
-            "Medivet Tierarztpraxis Heidelberg",
-            "Kleintierpraxis Dr. Corinne Martin",
-            "Kleintierpraxis Ingolf Arend"
-          ],
-          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
         }
       ],
       "weak_visibility_observed": true,
       "visibility_opportunity_score": 6,
       "visibility_evidence": [
-        "Business observed at position 10 among the first 11 Maps results returned in this run.",
-        "Business observed at position 9 among the first 11 Maps results returned in this run."
+        "Business observed at position 7 among the first 11 Maps results returned in this run.",
+        "Business observed at position 8 among the first 11 Maps results returned in this run."
       ],
-      "visibility_date": "2026-09-14",
+      "visibility_date": "2026-09-15",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
       "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
-      "company_name": "AniCura Kleintierspezialisten Karlsruhe GmbH",
-      "industry": "Tierarzt",
-      "city": "Karlsruhe",
-      "email": "presse@anicura.de",
+      "lead_id": "city fahrschule braunschweig|braunschweig|https://www.cityfahrschulebs.info/",
+      "company_name": "City Fahrschule Braunschweig",
+      "industry": "Fahrschule",
+      "city": "Braunschweig",
+      "email": "kontakt@cityfahrschulebs.info",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
+      "deep_qa_score": 92,
       "visibility_tests": [
         {
-          "query": "Tierarzt Karlsruhe",
+          "query": "Fahrschule Braunschweig",
           "status": "OBSERVED",
           "observed_position": 5,
           "results_checked": 11,
           "competitors_ahead": [
-            "Zentrum für Tiergesundheit Linkenheim-Hochstetten, Tierärztin Manuela Bencec",
-            "Kleintierzentrum Arndt - Tierärztin Arndt & Kollegen",
-            "Kleintierpraxis Brand",
-            "Vogel- und Reptilienpraxis Dr. Britsch"
+            "Fahrschule Mausehund",
+            "Kai's Fahrschule",
+            "Fahrschule Jendritzki",
+            "Fahrschule Brüning Inh. Martin Opp"
           ],
           "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Tierarzt in Karlsruhe",
-          "status": "OBSERVED",
-          "observed_position": 9,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Zentrum für Tiergesundheit Linkenheim-Hochstetten, Tierärztin Manuela Bencec",
-            "Kleintierzentrum Arndt - Tierärztin Arndt & Kollegen",
-            "Kleintierpraxis Brand",
-            "Kleintierpraxis Meinhardt | Karlsruhe",
-            "Fachtierarztpraxis Alexander Virnich"
-          ],
-          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 3,
-      "visibility_evidence": [
-        "Business observed at position 5 among the first 11 Maps results returned in this run.",
-        "Business observed at position 9 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-14",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
-      "company_name": "Medivet Tierarztpraxis Hannover",
-      "industry": "Tierarzt",
-      "city": "Hannover",
-      "email": "hannover@medivetgroup.com",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 89,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Hannover",
-          "status": "OBSERVED",
-          "observed_position": 9,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "AniCura Kleintierklinik Hannover",
-            "Kleintierpraxis Hannover Mitte",
-            "felmo Mobiler Tierarzt Hannover",
-            "Kleintierpraxis DOCPOX Hannover",
-            "Tierarzt Hannover, Activet Tierarztpraxis Hannover Südstadt"
-          ],
-          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Hannover",
+          "query": "Fahrschule in Braunschweig",
           "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
           "observed_position": null,
           "results_checked": 11,
           "competitors_ahead": [
-            "AniCura Kleintierklinik Hannover",
-            "Kleintierpraxis Hannover Mitte",
-            "felmo Mobiler Tierarzt Hannover",
-            "Kleintierpraxis DOCPOX Hannover",
-            "Kleintierpraxis Hannover Herrenhausen - Tierärzte Dres. Borchers & Hagel"
+            "Fahrschule Augustin",
+            "Fahrschule Jendritzki",
+            "Fahrschule Mausehund",
+            "Fahrschule Live",
+            "Manuela's Fahrschule"
           ],
           "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
         }
@@ -191,29 +91,173 @@
       "weak_visibility_observed": true,
       "visibility_opportunity_score": 10,
       "visibility_evidence": [
-        "Business observed at position 9 among the first 11 Maps results returned in this run.",
+        "Business observed at position 5 among the first 11 Maps results returned in this run.",
         "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
       ],
-      "visibility_date": "2026-09-14",
+      "visibility_date": "2026-09-15",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "fahrschule hofmann|chemnitz|http://www.hofmann-fahrschule.de/",
+      "company_name": "Fahrschule Hofmann",
+      "industry": "Fahrschule",
+      "city": "Chemnitz",
+      "email": "info@hofmann-fahrschule.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 91,
+      "visibility_tests": [
+        {
+          "query": "Fahrschule Chemnitz",
+          "status": "OBSERVED",
+          "observed_position": 7,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Fahrschule Arne Petersen",
+            "City Fahrschule Thomas Hanske",
+            "Fahrschule24-Hoffmann",
+            "100% Fahrschule GmbH",
+            "Fahrschule Höchst"
+          ],
+          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Fahrschule in Chemnitz",
+          "status": "OBSERVED",
+          "observed_position": 11,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "City Fahrschule Thomas Hanske",
+            "Fahrschule Arne Petersen",
+            "Fahrschule24-Hoffmann",
+            "100% Fahrschule GmbH",
+            "Fahrschule Sebastian Helbig"
+          ],
+          "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 6,
+      "visibility_evidence": [
+        "Business observed at position 7 among the first 11 Maps results returned in this run.",
+        "Business observed at position 11 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-15",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
+      "company_name": "Medivet Tierarztpraxis Münster",
+      "industry": "Tierarzt",
+      "city": "Muenster",
+      "email": "muenster@medivetgroup.com",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 91,
+      "visibility_tests": [
+        {
+          "query": "Tierarzt Muenster",
+          "status": "OBSERVED",
+          "observed_position": 1,
+          "results_checked": 11,
+          "competitors_ahead": [],
+          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Tierarzt in Muenster",
+          "status": "OBSERVED",
+          "observed_position": 3,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Dr. Pelz | Tierarzt in Münster",
+            "Tierarztpraxis Radev & Schilp"
+          ],
+          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
+      "visibility_evidence": [
+        "Business observed at position 1 among the first 11 Maps results returned in this run.",
+        "Business observed at position 3 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-15",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "bsn fahrschule|braunschweig|http://bsn-fahrschule.de/",
+      "company_name": "BSN Fahrschule",
+      "industry": "Fahrschule",
+      "city": "Braunschweig",
+      "email": "info@bsn-fahrschule.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 90,
+      "visibility_tests": [
+        {
+          "query": "Fahrschule Braunschweig",
+          "status": "OBSERVED",
+          "observed_position": 10,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Fahrschule Mausehund",
+            "Kai's Fahrschule",
+            "Fahrschule Jendritzki",
+            "Fahrschule Brüning Inh. Martin Opp",
+            "City Fahrschule Braunschweig"
+          ],
+          "evidence": "Business observed at position 10 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Fahrschule in Braunschweig",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Fahrschule Augustin",
+            "Fahrschule Jendritzki",
+            "Fahrschule Mausehund",
+            "Fahrschule Live",
+            "Fahrschule Seela"
+          ],
+          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
+      "visibility_evidence": [
+        "Business observed at position 10 among the first 11 Maps results returned in this run.",
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      ],
+      "visibility_date": "2026-09-15",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
       "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
   "state": {
-    "runs": 18,
+    "runs": 19,
     "processed_ids": [
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
       "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
       "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
       "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
+      "bsn fahrschule|braunschweig|http://bsn-fahrschule.de/",
+      "city fahrschule braunschweig|braunschweig|https://www.cityfahrschulebs.info/",
       "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
       "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
       "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
       "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
       "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
       "fachtierarztpraxis dr. a. hettling|bielefeld|http://www.tierarztpraxis-hettling.de/",
+      "fahrschule hofmann|chemnitz|http://www.hofmann-fahrschule.de/",
       "fellow tierarztpraxis au-haidhausen|muenchen|https://www.fellow.vet/",
       "felmo mobiler tierarzt bielefeld|bielefeld|https://felmo.de/tierarzt/bielefeld?utm_medium=referral&utm_source=google_my_business&utm_term=bielefeld",
       "filu tierarztpraxis hoheluft - allgemein- und notfallmedizin|hamburg|https://www.filu.vet/standorte/hamburg-hoheluft?utm_source=google&utm_medium=gmb",
@@ -241,7 +285,9 @@
       "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
       "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
       "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
+      "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
       "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
+      "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
       "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
       "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
       "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
@@ -275,11 +321,11 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 71,
-    "last_batch_count": 4,
-    "remaining_eligible": 0,
-    "weak_visibility_total": 51,
-    "email_gate_rejected_count": 27,
+    "processed_count": 76,
+    "last_batch_count": 5,
+    "remaining_eligible": 9,
+    "weak_visibility_total": 55,
+    "email_gate_rejected_count": 28,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
   }

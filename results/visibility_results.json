@@ -1435,6 +1435,56 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "beauty & aesthetics oe studio|hamburg|https://beautyandaesthetics.de/",
+    "company_name": "Beauty & Aesthetics OE Studio",
+    "industry": "Beauty Aesthetik",
+    "city": "Hamburg",
+    "email": "beauty@beautyandaesthetics.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_tests": [
+      {
+        "query": "Beauty Aesthetik Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Beauty Klinik an der Alster",
+          "Ästhetik Hamburg",
+          "Beauty Ästhetik Hamburg",
+          "NICE Aesthetic - Kosmetikstudio Hamburg",
+          "Hamburg Aesthetics by Herrmann"
+        ],
+        "evidence": "Business observed at position 7 among the first 8 Maps results returned in this run."
+      },
+      {
+        "query": "Beauty Aesthetik in Hamburg",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Beauty Klinik an der Alster",
+          "Aesthetic & Academy by Smileperfecto",
+          "Hamburg Aesthetics by Herrmann",
+          "Ästhetik Hamburg",
+          "NICE Aesthetic - Kosmetikstudio Hamburg"
+        ],
+        "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business observed at position 7 among the first 8 Maps results returned in this run.",
+      "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-09-15",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
     "company_name": "Glow Kosmetik Hamburg",
     "industry": "Kosmetikstudio",
@@ -2135,6 +2185,56 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "be beautiful | ästhetik & kosmetik hamburg|hamburg|https://www.bebeautiful.hamburg/",
+    "company_name": "BE BEAUTIFUL | Ästhetik & Kosmetik Hamburg",
+    "industry": "Beauty Aesthetik",
+    "city": "Hamburg",
+    "email": "dr.wessel@bebeautiful.hamburg",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_tests": [
+      {
+        "query": "Beauty Aesthetik Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 8,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Beauty Klinik an der Alster",
+          "Ästhetik Hamburg",
+          "Beauty Ästhetik Hamburg",
+          "NICE Aesthetic - Kosmetikstudio Hamburg",
+          "Hamburg Aesthetics by Herrmann"
+        ],
+        "evidence": "Business observed at position 8 among the first 8 Maps results returned in this run."
+      },
+      {
+        "query": "Beauty Aesthetik in Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 8,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Beauty Klinik an der Alster",
+          "Aesthetic & Academy by Smileperfecto",
+          "Hamburg Aesthetics by Herrmann",
+          "Ästhetik Hamburg",
+          "NICE Aesthetic - Kosmetikstudio Hamburg"
+        ],
+        "evidence": "Business observed at position 8 among the first 8 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 8 among the first 8 Maps results returned in this run.",
+      "Business observed at position 8 among the first 8 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-15",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "kleintierpraxis wimmer|braunschweig|http://www.kleintierpraxis-wimmer.de/",
     "company_name": "Kleintierpraxis Wimmer",
     "industry": "Tierarzt",
@@ -2670,6 +2770,55 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "tiermedizin am rothenbaum deckena & dr. elsner gmbh|hamburg|https://www.hh-tierarzt.de/",
+    "company_name": "Tiermedizin am Rothenbaum Deckena & Dr. Elsner GmbH",
+    "industry": "Tierarzt",
+    "city": "Hamburg",
+    "email": "mail@hh-tierarzt.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 8,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Hamburg",
+          "Die Hamburger Tierärzte - Florian Grosser und Dr. med. vet. Ulf Krohn",
+          "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
+          "Rex Tierarztpraxis Hamburg-Ottensen",
+          "Rex Tierarztpraxis Hamburg-Winterhude"
+        ],
+        "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 5,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Hamburg",
+          "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
+          "Dr. Fenske Tierarztpraxis Hamburg Bergedorf für Kleintiere und Vögel",
+          "Die Hamburger Tierärzte - Florian Grosser und Dr. med. vet. Ulf Krohn"
+        ],
+        "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 3,
+    "visibility_evidence": [
+      "Business observed at position 8 among the first 11 Maps results returned in this run.",
+      "Business observed at position 5 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-15",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
     "company_name": "Immobilien55 | Immobilienmakler Köln",
     "industry": "Immobilienmakler",
@@ -2809,6 +2958,53 @@
       "Business observed at position 5 among the first 11 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-14",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "nice aesthetic - kosmetikstudio hamburg|hamburg|https://niceaesthetic.de/",
+    "company_name": "NICE Aesthetic - Kosmetikstudio Hamburg",
+    "industry": "Beauty Aesthetik",
+    "city": "Hamburg",
+    "email": "info@niceaesthetic.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_tests": [
+      {
+        "query": "Beauty Aesthetik Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 4,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Beauty Klinik an der Alster",
+          "Ästhetik Hamburg",
+          "Beauty Ästhetik Hamburg"
+        ],
+        "evidence": "Business observed at position 4 among the first 8 Maps results returned in this run."
+      },
+      {
+        "query": "Beauty Aesthetik in Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 5,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Beauty Klinik an der Alster",
+          "Aesthetic & Academy by Smileperfecto",
+          "Hamburg Aesthetics by Herrmann",
+          "Ästhetik Hamburg"
+        ],
+        "evidence": "Business observed at position 5 among the first 8 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 3,
+    "visibility_evidence": [
+      "Business observed at position 4 among the first 8 Maps results returned in this run.",
+      "Business observed at position 5 among the first 8 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-15",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
     "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
     "outreach_status": "NOT_CONTACTED"
@@ -3361,6 +3557,52 @@
       "Business observed at position 1 among the first 11 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-14",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "hamburg aesthetics by herrmann|hamburg|https://hamburg-aesthetics.de/",
+    "company_name": "Hamburg Aesthetics by Herrmann",
+    "industry": "Beauty Aesthetik",
+    "city": "Hamburg",
+    "email": "info@hamburg-aesthetics.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_tests": [
+      {
+        "query": "Beauty Aesthetik Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 5,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Beauty Klinik an der Alster",
+          "Ästhetik Hamburg",
+          "Beauty Ästhetik Hamburg",
+          "NICE Aesthetic - Kosmetikstudio Hamburg"
+        ],
+        "evidence": "Business observed at position 5 among the first 8 Maps results returned in this run."
+      },
+      {
+        "query": "Beauty Aesthetik in Hamburg",
+        "status": "OBSERVED",
+        "observed_position": 3,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Beauty Klinik an der Alster",
+          "Aesthetic & Academy by Smileperfecto"
+        ],
+        "evidence": "Business observed at position 3 among the first 8 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 5 among the first 8 Maps results returned in this run.",
+      "Business observed at position 3 among the first 8 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-15",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
     "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
     "outreach_status": "NOT_CONTACTED"

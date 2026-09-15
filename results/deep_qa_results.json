@@ -1054,6 +1054,89 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "thead - blond friseur münchen | aveda salon|muenchen|https://thehead-salon.de/",
+    "company_name": "THEAD - Blond Friseur München | Aveda Salon",
+    "industry": "Friseur",
+    "city": "Muenchen",
+    "source_total_score": 85,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/THEAD+-+Blond+Friseur+M%C3%BCnchen+%7C+Aveda+Salon/data=!4m7!3m6!1s0x479ddfe01f5db479:0xa7bfde5fa6e67994!8m2!3d48.1304755!4d11.5776157!16s%2Fg%2F11ksp3cx_8!19sChIJebRdH-DfnUcRlHnmpl_ev6c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://thehead-salon.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://thehead-salon.de/",
+      "booking_link": "https://www.salonkee.de/salon/thead-friseur-munchen-balayage/",
+      "social_links": [
+        "https://www.instagram.com/thead_aveda_salon",
+        "https://www.facebook.com/profile.php?id=61550234696158"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "balayage",
+        "coloration",
+        "haarschnitt"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website."
+      ],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 94,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 66 reviews vs. comparison median 427; gap 361."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+    ],
+    "primary_sales_angle_verified": "Verified source data: 66 reviews vs. comparison median 427; gap 361.",
+    "proof": [
+      "Verified source data: 66 reviews vs. comparison median 427; gap 361.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": null,
+    "email_source_url": null,
+    "email_verification_status": "EMAIL_MISSING",
+    "email_found_at": null,
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
     "company_name": "Turna KFZ Werkstatt Berlin",
     "industry": "Autowerkstatt",
@@ -4257,6 +4340,81 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "tiermedizin am rothenbaum deckena & dr. elsner gmbh|hamburg|https://www.hh-tierarzt.de/",
+    "company_name": "Tiermedizin am Rothenbaum Deckena & Dr. Elsner GmbH",
+    "industry": "Tierarzt",
+    "city": "Hamburg",
+    "source_total_score": 83,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Tiermedizin+am+Rothenbaum+Deckena+%26+Dr.+Elsner+GmbH/data=!4m7!3m6!1s0x47b18f33709a0793:0x7b39c0ae613ecc54!8m2!3d53.5782865!4d9.9884415!16s%2Fg%2F1tdq9n0m!19sChIJkweacDOPsUcRVMw-Ya7AOXs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.hh-tierarzt.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://hh-tierarzt.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/pg/Tiermedizin-am-Rothenbaum-233707293490813/reviews/?ref=page_internal",
+        "https://www.instagram.com/tiermedizin_am_rothenbaum/",
+        "https://www.facebook.com/profile.php?id=100063548292015"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "impfung"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (3 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "mail@hh-tierarzt.de",
+      "email_source_url": "https://hh-tierarzt.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T11:56:46.688054+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 309 reviews vs. comparison median 647; gap 338."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 309 reviews vs. comparison median 647; gap 338.",
+    "proof": [
+      "Verified source data: 309 reviews vs. comparison median 647; gap 338.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "mail@hh-tierarzt.de",
+    "email_source_url": "https://hh-tierarzt.de/impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T11:56:46.688054+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "walk again center|berlin|https://walk-again.de/",
     "company_name": "WALK AGAIN Center",
     "industry": "Physiotherapie",
@@ -6515,6 +6673,152 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
+    "company_name": "msd-photography fotostudio köln",
+    "industry": "Fotograf",
+    "city": "Koeln",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/msd-photography+fotostudio+k%C3%B6ln/data=!4m7!3m6!1s0x47bf244ec6f3efd9:0xe70ff01bb4b5e664!8m2!3d50.9236818!4d6.9588531!16s%2Fg%2F1tksmh9g!19sChIJ2e_zxk4kv0cRZOa1tBvwD-c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://msd-photography.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://msd-photography.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://de-de.facebook.com/pages/category/Photographer/Msd-photography-Fotostudio-in-K%C3%B6ln-498271043675183/",
+        "https://www.instagram.com/msdphotography_/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@msd-photography.de",
+      "email_source_url": "https://msd-photography.de/kontakt/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T11:56:58.168330+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 187 reviews vs. comparison median 353; gap 166."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 187 reviews vs. comparison median 353; gap 166.",
+    "proof": [
+      "Verified source data: 187 reviews vs. comparison median 353; gap 166.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@msd-photography.de",
+    "email_source_url": "https://msd-photography.de/kontakt/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T11:56:58.168330+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "tierarztpraxis hamburg berne - tierärztin linda brüggemann|hamburg|https://www.tierarzt-hamburg-berne.de/",
+    "company_name": "Tierarztpraxis Hamburg Berne - Tierärztin Linda Brüggemann",
+    "industry": "Tierarzt",
+    "city": "Hamburg",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Hamburg+Berne+-+Tier%C3%A4rztin+Linda+Br%C3%BCggemann/data=!4m7!3m6!1s0x47b18bfc5cb61fb7:0x46e816a71cd8a6cc!8m2!3d53.6244222!4d10.1408412!16s%2Fg%2F11ht63jf53!19sChIJtx-2XPyLsUcRzKbYHKcW6EY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.tierarzt-hamburg-berne.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.tierarzt-hamburg-berne.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/Tierarztpraxishamburgberne"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "chirurgie",
+        "ultraschall"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (1 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@tierarzt-hamburg-berne.de",
+      "email_source_url": "https://www.tierarzt-hamburg-berne.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T11:57:11.802017+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 239 reviews vs. comparison median 647; gap 408."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 239 reviews vs. comparison median 647; gap 408.",
+    "proof": [
+      "Verified source data: 239 reviews vs. comparison median 647; gap 408.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@tierarzt-hamburg-berne.de",
+    "email_source_url": "https://www.tierarzt-hamburg-berne.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T11:57:11.802017+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "company_name": "ELYSIO Physiotherapie-Mitte",
     "industry": "Physiotherapie",
@@ -7957,6 +8261,71 @@
     "email_source_url": "https://www.tierarzt-ziegelstein.de/impressum",
     "email_verification_status": "PUBLICLY_OBSERVED",
     "email_found_at": "2026-09-15T06:44:09.095912+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "dr.med.vet. dirk krüger|rostock|https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
+    "company_name": "Dr.med.vet. Dirk Krüger",
+    "industry": "Tierarzt",
+    "city": "Rostock",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Dr.med.vet.+Dirk+Kr%C3%BCger/data=!4m7!3m6!1s0x47ac50a9fe482257:0xdc9f8e38c6607668!8m2!3d54.0785692!4d12.136395!16s%2Fg%2F1tdwp3st!19sChIJVyJI_qlQrEcRaHZgxjiOn9w?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://pfotencheck.tierarztportal.com/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "zahnsanierung"
+      ],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@tierarztportal.com",
+      "email_source_url": "https://pfotencheck.tierarztportal.com/Kontakt.html",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-15T11:57:04.635321+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 86,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 168 reviews vs. comparison median 334; gap 166."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 168 reviews vs. comparison median 334; gap 166.",
+    "proof": [
+      "Verified source data: 168 reviews vs. comparison median 334; gap 166."
+    ],
+    "email": "info@tierarztportal.com",
+    "email_source_url": "https://pfotencheck.tierarztportal.com/Kontakt.html",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T11:57:04.635321+00:00",
     "airtable_ready": false,
     "qa_date": "2026-09-15",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",

@@ -1,5 +1,5 @@
 {
-  "runs": 25,
+  "runs": 26,
   "processed_ids": [
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
@@ -17,6 +17,7 @@
     "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
     "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
+    "dr.med.vet. dirk krüger|rostock|https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
     "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
     "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
@@ -64,6 +65,7 @@
     "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
     "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
     "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
+    "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
     "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
     "nice aesthetic - kosmetikstudio hamburg|hamburg|https://niceaesthetic.de/",
     "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
@@ -80,6 +82,7 @@
     "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
     "since eleven - friseure|koeln|https://www.since-eleven.de/",
     "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
+    "thead - blond friseur münchen | aveda salon|muenchen|https://thehead-salon.de/",
     "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
     "tierarzt berlin prenzlauer berg, tierarztpraxis am arnimplatz|berlin|https://tierarztpraxis-arnimplatz.de/",
     "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
@@ -87,6 +90,7 @@
     "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
     "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
     "tierarztpraxis felmo bochum|bochum|https://felmo.de/tierarztpraxis/bochum?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
+    "tierarztpraxis hamburg berne - tierärztin linda brüggemann|hamburg|https://www.tierarzt-hamburg-berne.de/",
     "tierarztpraxis hernández|sankt augustin|https://tierarztpraxishernandez.com/",
     "tierarztpraxis köln-langel gmbh|koeln|http://www.tierarztpraxis-koeln-langel.de/",
     "tierarztpraxis lisa plagge|krefeld|https://tierarzt-plagge.de/",
@@ -94,6 +98,7 @@
     "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
     "tiergesundheitszentrum an der flora (ex tierarztpraxis am nippeser tälchen)|koeln|https://www.vet-nippes.de/",
     "tiergesundheitszentrum pankow|berlin|https://www.tgz-pankow.de/",
+    "tiermedizin am rothenbaum deckena & dr. elsner gmbh|hamburg|https://www.hh-tierarzt.de/",
     "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
     "tierstadt gmbh|nuernberg|https://tierstadt.de/",
     "tierärzte mobil nürnberg|nuernberg|http://tieraerzte-mobil-nuernberg.de/",
@@ -116,15 +121,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 114,
-  "remaining_eligible": 8,
+  "processed_count": 119,
+  "remaining_eligible": 10,
   "last_batch_count": 5,
-  "final_a_total": 45,
-  "final_b_total": 68,
-  "email_ready_total": 33,
-  "email_missing_total": 28,
-  "email_gate_qualified_total": 85,
-  "email_missing_excluded_total": 28,
-  "downstream_eligible_total": 85,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "final_a_total": 47,
+  "final_b_total": 71,
+  "email_ready_total": 34,
+  "email_missing_total": 29
 }

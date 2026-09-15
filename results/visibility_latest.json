@@ -1,170 +1,84 @@
 {
   "results": [
     {
-      "lead_id": "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/",
-      "company_name": "KEN NYN - ART OF HAIR / Friseur München BALAYAGE & BLOND",
-      "industry": "Friseur",
-      "city": "Muenchen",
-      "email": "info@ken-nyn.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
-      "visibility_tests": [
-        {
-          "query": "Friseur Muenchen",
-          "status": "OBSERVED",
-          "observed_position": 1,
-          "results_checked": 8,
-          "competitors_ahead": [],
-          "evidence": "Business observed at position 1 among the first 8 Maps results returned in this run."
-        },
-        {
-          "query": "Friseur in Muenchen",
-          "status": "OBSERVED",
-          "observed_position": 1,
-          "results_checked": 8,
-          "competitors_ahead": [],
-          "evidence": "Business observed at position 1 among the first 8 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
-      "visibility_evidence": [
-        "Business observed at position 1 among the first 8 Maps results returned in this run.",
-        "Business observed at position 1 among the first 8 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-15",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "haarholic - friseur münchen & balayage|muenchen|https://www.haarholic.com/",
-      "company_name": "HAARHOLIC - Friseur München & Balayage",
-      "industry": "Friseur",
-      "city": "Muenchen",
-      "email": "haarholic@gmail.com",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
-      "visibility_tests": [
-        {
-          "query": "Friseur Muenchen",
-          "status": "OBSERVED",
-          "observed_position": 8,
-          "results_checked": 8,
-          "competitors_ahead": [
-            "Artistry Munich I Microblading & Make-up in München",
-            "Louise & Fred",
-            "KEN NYN - ART OF HAIR / Friseur München BALAYAGE & BLOND",
-            "Puro Friseure München",
-            "THEAD - Blond Friseur München | Aveda Salon"
-          ],
-          "evidence": "Business observed at position 8 among the first 8 Maps results returned in this run."
-        },
-        {
-          "query": "Friseur in Muenchen",
-          "status": "OBSERVED",
-          "observed_position": 7,
-          "results_checked": 8,
-          "competitors_ahead": [
-            "KEN NYN - ART OF HAIR / Friseur München BALAYAGE & BLOND",
-            "Friseure und Beauty im Schönheitsrausch | München",
-            "Louise & Fred",
-            "Puro Friseure München",
-            "THEAD - Blond Friseur München | Aveda Salon"
-          ],
-          "evidence": "Business observed at position 7 among the first 8 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 6,
-      "visibility_evidence": [
-        "Business observed at position 8 among the first 8 Maps results returned in this run.",
-        "Business observed at position 7 among the first 8 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-15",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "tierarzt potsdam, tierarztpraxis activet potsdam|potsdam|https://activet-potsdam.de/",
-      "company_name": "Tierarzt Potsdam, Tierarztpraxis Activet Potsdam",
-      "industry": "Tierarzt",
-      "city": "Potsdam",
-      "email": "praxis@activet-potsdam.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 89,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Potsdam",
-          "status": "OBSERVED",
-          "observed_position": 2,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Tierärztliche Gemeinschaftspraxis Ebeling GbR"
-          ],
-          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Potsdam",
-          "status": "OBSERVED",
-          "observed_position": 2,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Tierärztliche Gemeinschaftspraxis Ebeling GbR"
-          ],
-          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
-      "visibility_evidence": [
-        "Business observed at position 2 among the first 11 Maps results returned in this run.",
-        "Business observed at position 2 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-15",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "tierärzte mobil nürnberg|nuernberg|http://tieraerzte-mobil-nuernberg.de/",
-      "company_name": "Tierärzte MOBIL Nürnberg",
-      "industry": "Tierarzt",
-      "city": "Nuernberg",
-      "email": "info@tieraerzte-mobil-nuernberg.de",
+      "lead_id": "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
+      "company_name": "msd-photography fotostudio köln",
+      "industry": "Fotograf",
+      "city": "Koeln",
+      "email": "info@msd-photography.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
       "deep_qa_score": 88,
       "visibility_tests": [
         {
-          "query": "Tierarzt Nuernberg",
+          "query": "Fotograf Koeln",
           "status": "OBSERVED",
-          "observed_position": 10,
+          "observed_position": 3,
           "results_checked": 11,
           "competitors_ahead": [
-            "Tierärztliche Klinik Nürnberg (Hafen)",
-            "Tierärzte am Nordring",
-            "Tierklinik Am Stadtpark GmbH",
-            "TierStadt GmbH",
-            "felmo Mobiler Tierarzt Nürnberg"
+            "Studio Schloen",
+            "Fotostudio Helle Kammer"
           ],
-          "evidence": "Business observed at position 10 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Tierarzt in Nuernberg",
+          "query": "Fotograf in Koeln",
+          "status": "OBSERVED",
+          "observed_position": 3,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Jenny Egerer Fotografie Hochzeitsfotograf Köln",
+            "Fotostudio Helle Kammer"
+          ],
+          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
+      "visibility_evidence": [
+        "Business observed at position 3 among the first 11 Maps results returned in this run.",
+        "Business observed at position 3 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-15",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "tierarztpraxis hamburg berne - tierärztin linda brüggemann|hamburg|https://www.tierarzt-hamburg-berne.de/",
+      "company_name": "Tierarztpraxis Hamburg Berne - Tierärztin Linda Brüggemann",
+      "industry": "Tierarzt",
+      "city": "Hamburg",
+      "email": "info@tierarzt-hamburg-berne.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 88,
+      "visibility_tests": [
+        {
+          "query": "Tierarzt Hamburg",
           "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
           "observed_position": null,
           "results_checked": 11,
           "competitors_ahead": [
-            "Tierärztliche Klinik Nürnberg (Hafen)",
-            "Tierärzte am Nordring",
-            "TierStadt GmbH",
-            "Tierarztpraxis Dr. Erdmute Lipper",
-            "felmo Mobiler Tierarzt Nürnberg"
+            "AniCura Quickborn GbR",
+            "Kleintierpraxis Blankenese Dr. Daniel Böttner",
+            "felmo Mobiler Tierarzt Hamburg",
+            "Die Hamburger Tierärzte - Florian Grosser und Dr. med. vet. Ulf Krohn",
+            "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin"
+          ],
+          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+        },
+        {
+          "query": "Tierarzt in Hamburg",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Kleintierpraxis Blankenese Dr. Daniel Böttner",
+            "felmo Mobiler Tierarzt Hamburg",
+            "Dr. Fenske Tierarztpraxis Hamburg Bergedorf für Kleintiere und Vögel",
+            "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
+            "Tiermedizin am Rothenbaum Deckena & Dr. Elsner GmbH"
           ],
           "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
         }
@@ -172,7 +86,7 @@
       "weak_visibility_observed": true,
       "visibility_opportunity_score": 10,
       "visibility_evidence": [
-        "Business observed at position 10 among the first 11 Maps results returned in this run.",
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
         "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
       ],
       "visibility_date": "2026-09-15",
@@ -181,44 +95,139 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "tierstadt gmbh|nuernberg|https://tierstadt.de/",
-      "company_name": "TierStadt GmbH",
+      "lead_id": "tierarztpraxis holt dr. kathagen, dr. riecken, dr. sixt|moenchengladbach|http://www.fachtierarztpraxis-holt.de/",
+      "company_name": "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
       "industry": "Tierarzt",
-      "city": "Nuernberg",
-      "email": "tier@tierstadt.de",
+      "city": "Moenchengladbach",
+      "email": "info@fachtierarztpraxis-holt.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
+      "deep_qa_score": 87,
       "visibility_tests": [
         {
-          "query": "Tierarzt Nuernberg",
-          "status": "OBSERVED",
-          "observed_position": 4,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Tierärztliche Klinik Nürnberg (Hafen)",
-            "Tierärzte am Nordring",
-            "Tierklinik Am Stadtpark GmbH"
-          ],
-          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Nuernberg",
+          "query": "Tierarzt Moenchengladbach",
           "status": "OBSERVED",
           "observed_position": 3,
           "results_checked": 11,
           "competitors_ahead": [
-            "Tierärztliche Klinik Nürnberg (Hafen)",
-            "Tierärzte am Nordring"
+            "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
+            "AniCura Bökelberg GmbH"
           ],
           "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Tierarzt in Moenchengladbach",
+          "status": "OBSERVED",
+          "observed_position": 4,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
+            "AniCura Bökelberg GmbH",
+            "Dr. med. vet. Susanne Matthei"
+          ],
+          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
         }
       ],
       "weak_visibility_observed": false,
       "visibility_opportunity_score": 1,
       "visibility_evidence": [
-        "Business observed at position 4 among the first 11 Maps results returned in this run.",
-        "Business observed at position 3 among the first 11 Maps results returned in this run."
+        "Business observed at position 3 among the first 11 Maps results returned in this run.",
+        "Business observed at position 4 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-15",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "barbershop am rudolfplatz - köln|koeln|https://www.friseur-am-rudolfplatz.de/",
+      "company_name": "Barbershop Am Rudolfplatz - Köln",
+      "industry": "Barbershop",
+      "city": "Koeln",
+      "email": "team@friseur-am-rudolfplatz.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 87,
+      "visibility_tests": [
+        {
+          "query": "Barbershop Koeln",
+          "status": "OBSERVED",
+          "observed_position": 4,
+          "results_checked": 8,
+          "competitors_ahead": [
+            "Barbershop Just Men 10",
+            "Barbershop Tiraschci",
+            "Barbershop Cologne"
+          ],
+          "evidence": "Business observed at position 4 among the first 8 Maps results returned in this run."
+        },
+        {
+          "query": "Barbershop in Koeln",
+          "status": "OBSERVED",
+          "observed_position": 4,
+          "results_checked": 8,
+          "competitors_ahead": [
+            "Barbershop Just Men 10",
+            "Barbershop just men 7.0",
+            "Barbershop Tiraschci"
+          ],
+          "evidence": "Business observed at position 4 among the first 8 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 3,
+      "visibility_evidence": [
+        "Business observed at position 4 among the first 8 Maps results returned in this run.",
+        "Business observed at position 4 among the first 8 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-15",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
+      "company_name": "Mobiler Tierarzt Ryanvet für Notdienst",
+      "industry": "Tierarzt",
+      "city": "Mannheim",
+      "email": "info@ryanvet.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "visibility_tests": [
+        {
+          "query": "Tierarzt Mannheim",
+          "status": "OBSERVED",
+          "observed_position": 5,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "felmo Mobiler Tierarzt Mannheim",
+            "Tierarztpraxis Dr.vet. Stupar",
+            "Kleintierpraxis Wendel | Inh. Dr. Fabian Wendel",
+            "Medivet Tierarztpraxis Mannheim"
+          ],
+          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Tierarzt in Mannheim",
+          "status": "OBSERVED",
+          "observed_position": 8,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "felmo Mobiler Tierarzt Mannheim",
+            "Medivet Tierarztpraxis Mannheim",
+            "Tierarztpraxis Dr.vet. Stupar",
+            "Dr. med. vet. Robert Hausner Tierarztpraxis",
+            "Kleintierpraxis Wendel | Inh. Dr. Fabian Wendel"
+          ],
+          "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 3,
+      "visibility_evidence": [
+        "Business observed at position 5 among the first 11 Maps results returned in this run.",
+        "Business observed at position 8 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-15",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -227,11 +236,12 @@
     }
   ],
   "state": {
-    "runs": 21,
+    "runs": 22,
     "processed_ids": [
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
       "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
+      "barbershop am rudolfplatz - köln|koeln|https://www.friseur-am-rudolfplatz.de/",
       "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
       "be beautiful | ästhetik & kosmetik hamburg|hamburg|https://www.bebeautiful.hamburg/",
       "beauty & aesthetics oe studio|hamburg|https://beautyandaesthetics.de/",
@@ -276,6 +286,8 @@
       "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
       "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
       "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
+      "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
+      "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
       "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
       "nice aesthetic - kosmetikstudio hamburg|hamburg|https://niceaesthetic.de/",
       "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
@@ -293,7 +305,9 @@
       "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
       "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
       "tierarztpraxis felmo bochum|bochum|https://felmo.de/tierarztpraxis/bochum?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
+      "tierarztpraxis hamburg berne - tierärztin linda brüggemann|hamburg|https://www.tierarzt-hamburg-berne.de/",
       "tierarztpraxis hernández|sankt augustin|https://tierarztpraxishernandez.com/",
+      "tierarztpraxis holt dr. kathagen, dr. riecken, dr. sixt|moenchengladbach|http://www.fachtierarztpraxis-holt.de/",
       "tierarztpraxis köln-langel gmbh|koeln|http://www.tierarztpraxis-koeln-langel.de/",
       "tierarztpraxis lisa plagge|krefeld|https://tierarzt-plagge.de/",
       "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
@@ -316,10 +330,10 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 86,
+    "processed_count": 91,
     "last_batch_count": 5,
-    "remaining_eligible": 11,
-    "weak_visibility_total": 60,
+    "remaining_eligible": 6,
+    "weak_visibility_total": 62,
     "email_gate_rejected_count": 31,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

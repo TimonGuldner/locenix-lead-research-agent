@@ -1535,6 +1535,56 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "tierarztpraxis hamburg berne - tierärztin linda brüggemann|hamburg|https://www.tierarzt-hamburg-berne.de/",
+    "company_name": "Tierarztpraxis Hamburg Berne - Tierärztin Linda Brüggemann",
+    "industry": "Tierarzt",
+    "city": "Hamburg",
+    "email": "info@tierarzt-hamburg-berne.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Hamburg",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "AniCura Quickborn GbR",
+          "Kleintierpraxis Blankenese Dr. Daniel Böttner",
+          "felmo Mobiler Tierarzt Hamburg",
+          "Die Hamburger Tierärzte - Florian Grosser und Dr. med. vet. Ulf Krohn",
+          "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      },
+      {
+        "query": "Tierarzt in Hamburg",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Kleintierpraxis Blankenese Dr. Daniel Böttner",
+          "felmo Mobiler Tierarzt Hamburg",
+          "Dr. Fenske Tierarztpraxis Hamburg Bergedorf für Kleintiere und Vögel",
+          "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
+          "Tiermedizin am Rothenbaum Deckena & Dr. Elsner GmbH"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-09-15",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "glow kosmetik hamburg|hamburg|https://www.planity.com/de-de/glow-kosmetik-21073-hamburg-o52",
     "company_name": "Glow Kosmetik Hamburg",
     "industry": "Kosmetikstudio",
@@ -3110,6 +3160,52 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "barbershop am rudolfplatz - köln|koeln|https://www.friseur-am-rudolfplatz.de/",
+    "company_name": "Barbershop Am Rudolfplatz - Köln",
+    "industry": "Barbershop",
+    "city": "Koeln",
+    "email": "team@friseur-am-rudolfplatz.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "visibility_tests": [
+      {
+        "query": "Barbershop Koeln",
+        "status": "OBSERVED",
+        "observed_position": 4,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Barbershop Just Men 10",
+          "Barbershop Tiraschci",
+          "Barbershop Cologne"
+        ],
+        "evidence": "Business observed at position 4 among the first 8 Maps results returned in this run."
+      },
+      {
+        "query": "Barbershop in Koeln",
+        "status": "OBSERVED",
+        "observed_position": 4,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "Barbershop Just Men 10",
+          "Barbershop just men 7.0",
+          "Barbershop Tiraschci"
+        ],
+        "evidence": "Business observed at position 4 among the first 8 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 3,
+    "visibility_evidence": [
+      "Business observed at position 4 among the first 8 Maps results returned in this run.",
+      "Business observed at position 4 among the first 8 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-15",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
     "company_name": "R&RRR Reifennotdienst 24h",
     "industry": "Reifenservice",
@@ -3152,6 +3248,55 @@
       "Business observed at position 4 among the first 8 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-13",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
+    "company_name": "Mobiler Tierarzt Ryanvet für Notdienst",
+    "industry": "Tierarzt",
+    "city": "Mannheim",
+    "email": "info@ryanvet.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 86,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Mannheim",
+        "status": "OBSERVED",
+        "observed_position": 5,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Mannheim",
+          "Tierarztpraxis Dr.vet. Stupar",
+          "Kleintierpraxis Wendel | Inh. Dr. Fabian Wendel",
+          "Medivet Tierarztpraxis Mannheim"
+        ],
+        "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Mannheim",
+        "status": "OBSERVED",
+        "observed_position": 8,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Mannheim",
+          "Medivet Tierarztpraxis Mannheim",
+          "Tierarztpraxis Dr.vet. Stupar",
+          "Dr. med. vet. Robert Hausner Tierarztpraxis",
+          "Kleintierpraxis Wendel | Inh. Dr. Fabian Wendel"
+        ],
+        "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 3,
+    "visibility_evidence": [
+      "Business observed at position 5 among the first 11 Maps results returned in this run.",
+      "Business observed at position 8 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-15",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
     "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
     "outreach_status": "NOT_CONTACTED"
@@ -3833,6 +3978,50 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
+    "company_name": "msd-photography fotostudio köln",
+    "industry": "Fotograf",
+    "city": "Koeln",
+    "email": "info@msd-photography.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_tests": [
+      {
+        "query": "Fotograf Koeln",
+        "status": "OBSERVED",
+        "observed_position": 3,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Studio Schloen",
+          "Fotostudio Helle Kammer"
+        ],
+        "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Fotograf in Koeln",
+        "status": "OBSERVED",
+        "observed_position": 3,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Jenny Egerer Fotografie Hochzeitsfotograf Köln",
+          "Fotostudio Helle Kammer"
+        ],
+        "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 3 among the first 11 Maps results returned in this run.",
+      "Business observed at position 3 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-15",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
     "company_name": "Kleintierklinik München Riem - Dres. med. vet. Lutz",
     "industry": "Tierarzt",
@@ -3919,6 +4108,51 @@
       "Business observed at position 3 among the first 11 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-14",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "tierarztpraxis holt dr. kathagen, dr. riecken, dr. sixt|moenchengladbach|http://www.fachtierarztpraxis-holt.de/",
+    "company_name": "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
+    "industry": "Tierarzt",
+    "city": "Moenchengladbach",
+    "email": "info@fachtierarztpraxis-holt.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Moenchengladbach",
+        "status": "OBSERVED",
+        "observed_position": 3,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
+          "AniCura Bökelberg GmbH"
+        ],
+        "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Moenchengladbach",
+        "status": "OBSERVED",
+        "observed_position": 4,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
+          "AniCura Bökelberg GmbH",
+          "Dr. med. vet. Susanne Matthei"
+        ],
+        "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 3 among the first 11 Maps results returned in this run.",
+      "Business observed at position 4 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-15",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
     "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
     "outreach_status": "NOT_CONTACTED"

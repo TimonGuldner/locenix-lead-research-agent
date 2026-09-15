@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 51,
-  "focus": "industry_exploitation",
+  "learning_run_count": 52,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg",
-    "Berlin",
-    "Braunschweig"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Friseur",
+    "Kosmetikstudio",
+    "Nagelstudio"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Hamburg"
+      "city": "Muenchen",
+      "industry": "Friseur",
+      "query": "Friseur Muenchen"
     },
     {
-      "city": "Berlin",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Berlin"
+      "city": "Muenchen",
+      "industry": "Kosmetikstudio",
+      "query": "Kosmetikstudio Muenchen"
     },
     {
-      "city": "Braunschweig",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Braunschweig"
+      "city": "Muenchen",
+      "industry": "Nagelstudio",
+      "query": "Nagelstudio Muenchen"
     }
   ],
   "queries_per_run": 3

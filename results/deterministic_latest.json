@@ -1,44 +1,45 @@
 {
   "accepted": [
     {
-      "company_name": "Tierarztpraxis Hamburg Berne - Tierärztin Linda Brüggemann",
-      "industry": "Tierarzt",
-      "city": "Hamburg",
-      "address": "Hermann-Balk-Straße 112, 22147 Wandsbek, Deutschland",
-      "website": "https://www.tierarzt-hamburg-berne.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Hamburg+Berne+-+Tier%C3%A4rztin+Linda+Br%C3%BCggemann/data=!4m7!3m6!1s0x47b18bfc5cb61fb7:0x46e816a71cd8a6cc!8m2!3d53.6244222!4d10.1408412!16s%2Fg%2F11ht63jf53!19sChIJtx-2XPyLsUcRzKbYHKcW6EY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 40 98259551",
-      "public_business_email": "info@tierarzt-hamburg-berne.de",
-      "email_source_url": "https://www.tierarzt-hamburg-berne.de/",
-      "contact_form_url": "https://www.tierarzt-hamburg-berne.de/#kontakt",
+      "company_name": "KEN NYN - ART OF HAIR / Friseur München BALAYAGE & BLOND",
+      "industry": "Friseur",
+      "city": "Muenchen",
+      "address": "Nymphenburger Str. 134, 80636 München, Deutschland",
+      "website": "https://ken-nyn.de/",
+      "google_maps_url": "https://www.google.com/maps/place/KEN+NYN+-+ART+OF+HAIR+%2F+Friseur+M%C3%BCnchen+BALAYAGE+%26+BLOND/data=!4m7!3m6!1s0x479e77d289774b69:0x351b3c0f8f64e7bf!8m2!3d48.1517422!4d11.5382861!16s%2Fg%2F11mw5wtktn!19sChIJaUt3idJ3nkcRv-dkjw88GzU?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 13927589",
+      "public_business_email": "info@ken-nyn.de",
+      "email_source_url": "https://ken-nyn.de/",
+      "contact_form_url": null,
       "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.8,
-      "google_review_count": 239,
-      "main_category": "Tierarzt",
+      "google_rating": 4.9,
+      "google_review_count": 263,
+      "main_category": "Friseur",
       "website_services": [
-        "chirurgie",
-        "ultraschall"
+        "balayage",
+        "coloration",
+        "haarschnitt"
       ],
       "google_visible_services": [],
       "service_gap": [],
       "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall"
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: coloration, haarschnitt"
       ],
       "service_gap_status": "UNVERIFIED",
-      "competitor_1": "felmo Mobiler Tierarzt Hamburg",
-      "competitor_1_reviews": 4722,
-      "competitor_2": "Die Hamburger Tierärzte - Florian Grosser und Dr. med. vet. Ulf Krohn",
-      "competitor_2_reviews": 716,
+      "competitor_1": "Ferry's Friseur München",
+      "competitor_1_reviews": 611,
+      "competitor_2": "Louise & Fred",
+      "competitor_2_reviews": 582,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "239 eigene Bewertungen vs. lokaler Wettbewerbsmedian 647; Gap 408."
+          "proof": "263 eigene Bewertungen vs. lokaler Wettbewerbsmedian 427; Gap 164."
         }
       ],
       "soft_optimization_signals": [
         {
           "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: coloration, haarschnitt",
           "verification": "REQUIRES_FINAL_QA"
         }
       ],
@@ -51,102 +52,181 @@
       "digital_readiness_score": 10,
       "saas_fit_score": 5,
       "total_score": 81,
-      "competitor_review_median": 647,
-      "review_gap": 408,
+      "competitor_review_median": 427,
+      "review_gap": 164,
       "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "239 eigene Bewertungen vs. lokaler Wettbewerbsmedian 647; Gap 408.",
+      "primary_pitch": "263 eigene Bewertungen vs. lokaler Wettbewerbsmedian 427; Gap 164.",
       "proof": [
-        "239 eigene Bewertungen vs. lokaler Wettbewerbsmedian 647; Gap 408.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall"
+        "263 eigene Bewertungen vs. lokaler Wettbewerbsmedian 427; Gap 164.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: coloration, haarschnitt"
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "239 eigene Bewertungen vs. lokaler Wettbewerbsmedian 647; Gap 408.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, ultraschall",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Hamburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "263 eigene Bewertungen vs. lokaler Wettbewerbsmedian 427; Gap 164.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: coloration, haarschnitt",
+      "research_notes": "Deterministic research v2. Query: Friseur Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-15",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "company_name": "Carolin Pokriefke - Kleintierpraxis am Viewegsgarten",
-      "industry": "Tierarzt",
-      "city": "Braunschweig",
-      "address": "Ottmerstraße 5, 38102 Braunschweig-Viewegs Garten-Bebelhof, Deutschland",
-      "website": "http://www.tierarztpraxis-viewegsgarten.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Carolin+Pokriefke+-+Kleintierpraxis+am+Viewegsgarten/data=!4m7!3m6!1s0x47aff5dce5ac8f4d:0x1f28922ea8e6e0c4!8m2!3d52.2569436!4d10.534938!16s%2Fg%2F1tmy42s3!19sChIJTY-s5dz1r0cRxODmqC6SKB8?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 531 796679",
-      "public_business_email": "post@tierarztpraxis-viewegsgarten.de",
-      "email_source_url": "https://tierarztpraxis-viewegsgarten.de/",
-      "contact_form_url": "https://tierarztpraxis-viewegsgarten.de/kontakt/",
+      "company_name": "THEAD - Blond Friseur München | Aveda Salon",
+      "industry": "Friseur",
+      "city": "Muenchen",
+      "address": "Corneliusstraße 32, 80469 München, Deutschland",
+      "website": "https://thehead-salon.de/",
+      "google_maps_url": "https://www.google.com/maps/place/THEAD+-+Blond+Friseur+M%C3%BCnchen+%7C+Aveda+Salon/data=!4m7!3m6!1s0x479ddfe01f5db479:0xa7bfde5fa6e67994!8m2!3d48.1304755!4d11.5776157!16s%2Fg%2F11ksp3cx_8!19sChIJebRdH-DfnUcRlHnmpl_ev6c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 69797636",
+      "public_business_email": "info@thehead-salon.de",
+      "email_source_url": "https://thehead-salon.de/",
+      "contact_form_url": null,
       "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.6,
-      "google_review_count": 129,
-      "main_category": "Tierarzt",
-      "website_services": [],
+      "google_rating": 4.9,
+      "google_review_count": 66,
+      "main_category": "Friseur",
+      "website_services": [
+        "balayage",
+        "coloration",
+        "haarschnitt"
+      ],
       "google_visible_services": [],
       "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "Fachärztliches Zentrum – Dr. Helge Tholen Fachtierarzt für Kleintiere",
-      "competitor_1_reviews": 1217,
-      "competitor_2": "Fachtierarztpraxis Am Erzberg",
-      "competitor_2_reviews": 750,
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: balayage, coloration, haarschnitt"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Ferry's Friseur München",
+      "competitor_1_reviews": 611,
+      "competitor_2": "Louise & Fred",
+      "competitor_2_reviews": 582,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "129 eigene Bewertungen vs. lokaler Wettbewerbsmedian 383; Gap 254."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
+          "proof": "66 eigene Bewertungen vs. lokaler Wettbewerbsmedian 427; Gap 361."
         }
       ],
-      "soft_optimization_signals": [],
-      "verified_signal_count": 2,
-      "report_potential_score": 22,
-      "visible_value_score": 12,
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: balayage, coloration, haarschnitt",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 24,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 85,
+      "competitor_review_median": 427,
+      "review_gap": 361,
+      "grade": "A",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "66 eigene Bewertungen vs. lokaler Wettbewerbsmedian 427; Gap 361.",
+      "proof": [
+        "66 eigene Bewertungen vs. lokaler Wettbewerbsmedian 427; Gap 361.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: balayage, coloration, haarschnitt"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "66 eigene Bewertungen vs. lokaler Wettbewerbsmedian 427; Gap 361.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: balayage, coloration, haarschnitt",
+      "research_notes": "Deterministic research v2. Query: Friseur Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-15",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "HAARHOLIC - Friseur München & Balayage",
+      "industry": "Friseur",
+      "city": "Muenchen",
+      "address": "Gabelsbergerstraße 62, 80333 München, Deutschland",
+      "website": "https://www.haarholic.com/",
+      "google_maps_url": "https://www.google.com/maps/place/HAARHOLIC+-+Friseur+M%C3%BCnchen+%26+Balayage/data=!4m7!3m6!1s0x479ddf06b492d6a5:0x7988719d8ffae846!8m2!3d48.1498156!4d11.5605406!16s%2Fg%2F11r_tj5_ml!19sChIJpdaStAbfnUcRRuj6j51xiHk?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 59998800",
+      "public_business_email": "haarholic@gmail.com",
+      "email_source_url": "https://www.haarholic.com/",
+      "contact_form_url": null,
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.9,
+      "google_review_count": 202,
+      "main_category": "Friseur",
+      "website_services": [
+        "balayage",
+        "coloration",
+        "haarschnitt"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: coloration, haarschnitt"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Ferry's Friseur München",
+      "competitor_1_reviews": 611,
+      "competitor_2": "Louise & Fred",
+      "competitor_2_reviews": 582,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "202 eigene Bewertungen vs. lokaler Wettbewerbsmedian 427; Gap 225."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: coloration, haarschnitt",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 20,
+      "visible_value_score": 14,
       "maps_importance_score": 14,
       "customer_value_score": 8,
       "competitive_pressure_score": 10,
       "digital_readiness_score": 10,
       "saas_fit_score": 5,
       "total_score": 81,
-      "competitor_review_median": 383,
-      "review_gap": 254,
+      "competitor_review_median": 427,
+      "review_gap": 225,
       "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "129 eigene Bewertungen vs. lokaler Wettbewerbsmedian 383; Gap 254.",
+      "primary_pitch": "202 eigene Bewertungen vs. lokaler Wettbewerbsmedian 427; Gap 225.",
       "proof": [
-        "129 eigene Bewertungen vs. lokaler Wettbewerbsmedian 383; Gap 254.",
-        "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
+        "202 eigene Bewertungen vs. lokaler Wettbewerbsmedian 427; Gap 225.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: coloration, haarschnitt"
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "129 eigene Bewertungen vs. lokaler Wettbewerbsmedian 383; Gap 254.",
-      "second_outreach_angle": "Google-Bewertung 4.6; sichtbares Reputationspotenzial.",
-      "research_notes": "Deterministic research v2. Query: Tierarzt Braunschweig. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "best_outreach_angle": "202 eigene Bewertungen vs. lokaler Wettbewerbsmedian 427; Gap 225.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: coloration, haarschnitt",
+      "research_notes": "Deterministic research v2. Query: Friseur Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
       "research_date": "2026-09-15",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
-  "accepted_count": 2,
-  "rejected_count": 18,
+  "accepted_count": 3,
+  "rejected_count": 19,
   "inspected": 24,
   "state": {
-    "query_cursor": 249,
-    "runs": 83,
-    "lead_count": 146,
+    "query_cursor": 252,
+    "runs": 84,
+    "lead_count": 149,
     "target_leads": 999999999,
-    "last_accepted": 2,
+    "last_accepted": 3,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 18,
+    "last_rejected": 19,
     "a_leads": 23,
-    "b_leads": 92
+    "b_leads": 95
   }
 }

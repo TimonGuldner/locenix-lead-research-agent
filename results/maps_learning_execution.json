@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 49,
-  "focus": "exploration",
-  "exploration": true,
+  "learning_run_count": 50,
+  "focus": "city_exploitation",
+  "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Berlin",
-    "Hamburg",
     "Muenchen"
   ],
   "selected_industries": [
-    "Barbershop"
+    "Tierarzt",
+    "Physiotherapie",
+    "Friseur"
   ],
   "selected_pairs": [
     {
-      "city": "Berlin",
-      "industry": "Barbershop",
-      "query": "Barbershop Berlin"
-    },
-    {
-      "city": "Hamburg",
-      "industry": "Barbershop",
-      "query": "Barbershop Hamburg"
+      "city": "Muenchen",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Muenchen"
     },
     {
       "city": "Muenchen",
-      "industry": "Barbershop",
-      "query": "Barbershop Muenchen"
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Muenchen"
+    },
+    {
+      "city": "Muenchen",
+      "industry": "Friseur",
+      "query": "Friseur Muenchen"
     }
   ],
   "queries_per_run": 3

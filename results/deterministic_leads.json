@@ -2203,6 +2203,89 @@
     "final_qa_required": true
   },
   {
+    "company_name": "Praxis für Tierheilkunde und Verhaltenstherapie",
+    "industry": "Tierarzt",
+    "city": "Sankt Augustin",
+    "address": "Frankfurter Str. 70, 53757 Sankt Augustin, Deutschland",
+    "website": "http://www.tierheilkunde-verhaltenstherapie.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Praxis+f%C3%BCr+Tierheilkunde+und+Verhaltenstherapie/data=!4m7!3m6!1s0x47bee773c149e0ef:0xd84e757592be161c!8m2!3d50.7833425!4d7.2339982!16s%2Fg%2F11h_bmdcp6!19sChIJ7-BJwXPnvkcRHBa-knV1Ttg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 1590 6258300",
+    "public_business_email": "info@tierheilkunde-verhaltenstherapie.de",
+    "email_source_url": "https://www.tierheilkunde-verhaltenstherapie.de/",
+    "contact_form_url": "https://www.tierheilkunde-verhaltenstherapie.de/kontakt/",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.9,
+    "google_review_count": 31,
+    "main_category": "Tierarzt",
+    "website_services": [],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [],
+    "service_gap_status": "NOT_DETECTED",
+    "competitor_1": "AniCura Tiergesundheitszentrum Sankt Augustin",
+    "competitor_1_reviews": 1035,
+    "competitor_2": "Kleintierpraxis Kirsten Mertens",
+    "competitor_2_reviews": 419,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "31 eigene Bewertungen vs. lokaler Wettbewerbsmedian 202; Gap 171."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 31 Google-Bewertungen."
+      }
+    ],
+    "soft_optimization_signals": [],
+    "verified_signal_count": 2,
+    "report_potential_score": 26,
+    "visible_value_score": 12,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 85,
+    "competitor_review_median": 202,
+    "review_gap": 171,
+    "grade": "A",
+    "lead_class": "A_LEAD",
+    "qa_gate": "PASS_PRE_AIRTABLE_QA",
+    "primary_pitch": "31 eigene Bewertungen vs. lokaler Wettbewerbsmedian 202; Gap 171.",
+    "proof": [
+      "31 eigene Bewertungen vs. lokaler Wettbewerbsmedian 202; Gap 171.",
+      "Nur 31 Google-Bewertungen."
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "31 eigene Bewertungen vs. lokaler Wettbewerbsmedian 202; Gap 171.",
+    "second_outreach_angle": "Nur 31 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Sankt Augustin. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-15",
+    "research_status": "QUALIFIED",
+    "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 171; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
     "company_name": "Osteopathie Diana Peuker (TRAWELL - Gesundheit & Wellness am Traveplatz)",
     "industry": "Physiotherapie",
     "city": "Berlin",
@@ -11541,6 +11624,101 @@
     "signal_confidence": "MEDIUM",
     "obvious_chain_candidate": false,
     "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 91; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "Praxis für Kleintiermedizin Dr. Götte",
+    "industry": "Tierarzt",
+    "city": "Krefeld",
+    "address": "Mevissenstraße 66, 47803 Krefeld, Deutschland",
+    "website": "http://www.tierzentrum-krefeld.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Praxis+f%C3%BCr+Kleintiermedizin+Dr.+G%C3%B6tte/data=!4m7!3m6!1s0x47b8a56ef5233b9d:0x84bb75f87ec69966!8m2!3d51.3477641!4d6.5310218!16s%2Fg%2F11bx1t7skd!19sChIJnTsj9W6luEcRZpnGfvh1u4Q?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 2151 6202535",
+    "public_business_email": "privacy@defiant.com",
+    "email_source_url": "https://www.tierzentrum-krefeld.de/",
+    "contact_form_url": "https://www.tierzentrum-krefeld.de/kontakt/",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.7,
+    "google_review_count": 314,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "ultraschall",
+      "labor"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: ultraschall, labor"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "Dr. Fressnapf - dein Online Tierarzt",
+    "competitor_1_reviews": 3775,
+    "competitor_2": "AniCura Tierärztliche Praxis für Kleintiere Krefeld",
+    "competitor_2_reviews": 539,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "314 eigene Bewertungen vs. lokaler Wettbewerbsmedian 426; Gap 112."
+      },
+      {
+        "type": "rating_headroom",
+        "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: ultraschall, labor",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 2,
+    "report_potential_score": 19,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 80,
+    "competitor_review_median": 426,
+    "review_gap": 112,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "314 eigene Bewertungen vs. lokaler Wettbewerbsmedian 426; Gap 112.",
+    "proof": [
+      "314 eigene Bewertungen vs. lokaler Wettbewerbsmedian 426; Gap 112.",
+      "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: ultraschall, labor"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "314 eigene Bewertungen vs. lokaler Wettbewerbsmedian 426; Gap 112.",
+    "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Krefeld. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-15",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 112; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
     "airtable_ready": false,
     "final_qa_required": true
   },

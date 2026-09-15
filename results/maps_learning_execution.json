@@ -1,28 +1,28 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 47,
-  "focus": "industry_exploitation",
+  "learning_run_count": 48,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Wiesbaden",
-    "Wuppertal",
     "Hamburg"
   ],
   "selected_industries": [
+    "Personal Training",
+    "Umzugsunternehmen",
     "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Wiesbaden",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Wiesbaden"
+      "city": "Hamburg",
+      "industry": "Personal Training",
+      "query": "Personal Training Hamburg"
     },
     {
-      "city": "Wuppertal",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Wuppertal"
+      "city": "Hamburg",
+      "industry": "Umzugsunternehmen",
+      "query": "Umzugsunternehmen Hamburg"
     },
     {
       "city": "Hamburg",

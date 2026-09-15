@@ -1,10 +1,10 @@
 {
   "state": {
     "agent": "LOCENIX_HARD_EMAIL_GATE_ENFORCER",
-    "last_run_at": "2026-09-15T15:41:31.525375+00:00",
-    "qualified_qa_total": 118,
-    "downstream_email_qualified_total": 89,
-    "email_missing_excluded_total": 29,
+    "last_run_at": "2026-09-15T16:56:43.875314+00:00",
+    "qualified_qa_total": 123,
+    "downstream_email_qualified_total": 92,
+    "email_missing_excluded_total": 31,
     "visibility_rows_before": 81,
     "visibility_rows_after": 81,
     "visibility_rows_purged_this_run": 0,
@@ -47,6 +47,8 @@
     "fachzentrum für kleintiermedizin am chemnitz center|chemnitz|https://www.vet-chemnitz.de/",
     "tierärztliche praxis für kleintiere scharnhorst gmbh|dortmund|http://www.petdoc.de/",
     "fahrschule schlierf|chemnitz|http://fahrschule-schlierf.com/",
-    "torami nails · lashes|krefeld|https://beacons.ai/torami.co"
+    "tierarztpraxis dr. kochner|mannheim|https://www.tierarztpraxiskochner.de/",
+    "torami nails · lashes|krefeld|https://beacons.ai/torami.co",
+    "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/"
   ]
 }

@@ -1,22 +1,22 @@
 {
   "state": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "last_run_at": "2026-09-15T04:53:43.227930+00:00",
+    "last_run_at": "2026-09-15T11:43:28.656835+00:00",
     "status": "OK",
-    "learning_run_count": 6,
+    "learning_run_count": 7,
     "evaluated_opportunities": 16,
     "queries_learned": 4,
     "sources_learned": 10,
     "boosted_queries": 3,
     "paused_queries": 0,
     "blocked_domains": 0,
-    "provider_cooldowns": 0,
+    "provider_cooldowns": 2,
     "errors": 0
   },
   "config": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "generated_at": "2026-09-15T04:53:43.227930+00:00",
-    "learning_run_count": 6,
+    "generated_at": "2026-09-15T11:43:28.656835+00:00",
+    "learning_run_count": 7,
     "mode": "SAFE_OUTCOME_LEARNING",
     "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
     "query_weights": {
@@ -45,18 +45,11 @@
     "paused_queries": [],
     "blocked_domains": [],
     "provider_policy": {
-      "verified_seed": {
-        "fail_streak": 0,
-        "cooldown": false,
+      "jina_search": {
+        "fail_streak": 4,
+        "cooldown": true,
         "probe_due": false,
-        "last_errors": 0,
-        "last_hits": 3
-      },
-      "reddit_api": {
-        "fail_streak": 3,
-        "cooldown": false,
-        "probe_due": true,
-        "last_errors": 0,
+        "last_errors": 7,
         "last_hits": 0
       },
       "duckduckgo": {
@@ -66,12 +59,19 @@
         "last_errors": 0,
         "last_hits": 0
       },
-      "jina_search": {
-        "fail_streak": 3,
-        "cooldown": false,
-        "probe_due": true,
-        "last_errors": 0,
+      "reddit_api": {
+        "fail_streak": 4,
+        "cooldown": true,
+        "probe_due": false,
+        "last_errors": 3,
         "last_hits": 0
+      },
+      "verified_seed": {
+        "fail_streak": 0,
+        "cooldown": false,
+        "probe_due": false,
+        "last_errors": 0,
+        "last_hits": 3
       }
     },
     "minimum_samples_before_pause": 5,

@@ -1,8 +1,8 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-  "last_run_at": "2026-09-15T02:34:37.351566+00:00",
+  "last_run_at": "2026-09-15T03:49:47.905447+00:00",
   "status": "OK",
-  "learning_run_count": 45,
+  "learning_run_count": 46,
   "research_leads_evaluated": 142,
   "leads_with_downstream_evidence": 109,
   "airtable_leads_deduped": 41,
@@ -10,7 +10,7 @@
   "cities_learned": 26,
   "pairs_learned": 65,
   "recommended_industry": "Tierarzt",
-  "recommended_city": "Muenchen",
+  "recommended_city": "Hamburg",
   "exploration_share": 0.15,
   "errors": 0,
   "error_details": []

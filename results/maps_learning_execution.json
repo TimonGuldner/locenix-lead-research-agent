@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 55,
-  "focus": "industry_exploitation",
-  "exploration": false,
+  "learning_run_count": 56,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Krefeld",
-    "Sankt Augustin",
-    "Karlsruhe"
+    "Aachen",
+    "Bielefeld",
+    "Bochum"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Physiotherapie"
   ],
   "selected_pairs": [
     {
-      "city": "Krefeld",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Krefeld"
+      "city": "Aachen",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Aachen"
     },
     {
-      "city": "Sankt Augustin",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Sankt Augustin"
+      "city": "Bielefeld",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Bielefeld"
     },
     {
-      "city": "Karlsruhe",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Karlsruhe"
+      "city": "Bochum",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Bochum"
     }
   ],
   "queries_per_run": 3

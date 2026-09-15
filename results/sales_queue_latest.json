@@ -69,7 +69,7 @@
       "queue_date": "2026-09-15",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recDtZiOuxU4aIXnC"
+      "airtable_record_id": "recY2GORsEdGPIVIM"
     },
     {
       "lead_id": "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
@@ -140,7 +140,7 @@
       "queue_date": "2026-09-15",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "rec699kYNY8uBfkcQ"
+      "airtable_record_id": "recrCr209QXAoTDhn"
     },
     {
       "lead_id": "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -352,7 +352,7 @@
       "queue_date": "2026-09-15",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "reciazP5kpIZ775CK"
+      "airtable_record_id": "recRQ11g9gOeOHbBj"
     },
     {
       "lead_id": "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
@@ -388,7 +388,7 @@
       "queue_date": "2026-09-15",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recCrZsoLDPi7KKHg"
+      "airtable_record_id": "rectjLZAnBa276FQS"
     },
     {
       "lead_id": "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
@@ -532,7 +532,7 @@
       "queue_date": "2026-09-15",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recDM2Pd4umaQwCAB"
+      "airtable_record_id": "recitptEwCAsFA3rO"
     },
     {
       "lead_id": "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -567,7 +567,7 @@
       "queue_date": "2026-09-15",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recuuDnk4X3pwDBWp"
+      "airtable_record_id": "recsuShGLKpvJ2Gyb"
     },
     {
       "lead_id": "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
@@ -602,7 +602,7 @@
       "queue_date": "2026-09-15",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recVDak3K4Rrr3pSi"
+      "airtable_record_id": "rec6kdXvmkvcFWYEt"
     },
     {
       "lead_id": "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
@@ -813,7 +813,7 @@
       "proof_3": "Business observed at position 5 among the first 11 Maps results returned in this run.",
       "next_action": "PRIORITY_SALES_REVIEW",
       "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_CREATED",
+      "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
       "queue_date": "2026-09-15",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
@@ -888,23 +888,23 @@
       "queue_date": "2026-09-15",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "reclvS3RvPnTf68uP"
+      "airtable_record_id": "recIoyv8L4uk2TWBL"
     }
   ],
   "state": {
-    "queue_count": 85,
-    "airtable_ready_count": 33,
-    "email_ready_count": 85,
+    "queue_count": 89,
+    "airtable_ready_count": 34,
+    "email_ready_count": 89,
     "email_missing_count": 0,
-    "hard_email_gate_rejected_count": 28,
+    "hard_email_gate_rejected_count": 29,
     "downstream_email_gate_violations": 0,
-    "airtable_created": 14,
-    "airtable_updated": 19,
-    "airtable_skipped": 52,
+    "airtable_created": 13,
+    "airtable_updated": 21,
+    "airtable_skipped": 55,
     "airtable_errors": [],
-    "priority_a_count": 85,
+    "priority_a_count": 89,
     "priority_b_count": 0,
-    "visibility_pending_count": 9,
+    "visibility_pending_count": 13,
     "last_run_date": "2026-09-15",
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_DOWNSTREAM_HANDOFF"
   }

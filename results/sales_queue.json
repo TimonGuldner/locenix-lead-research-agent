@@ -68,7 +68,7 @@
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recDtZiOuxU4aIXnC"
+    "airtable_record_id": "recY2GORsEdGPIVIM"
   },
   {
     "lead_id": "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
@@ -139,7 +139,7 @@
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "rec699kYNY8uBfkcQ"
+    "airtable_record_id": "recrCr209QXAoTDhn"
   },
   {
     "lead_id": "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -351,7 +351,7 @@
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "reciazP5kpIZ775CK"
+    "airtable_record_id": "recRQ11g9gOeOHbBj"
   },
   {
     "lead_id": "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
@@ -387,7 +387,7 @@
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recCrZsoLDPi7KKHg"
+    "airtable_record_id": "rectjLZAnBa276FQS"
   },
   {
     "lead_id": "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
@@ -531,7 +531,7 @@
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recDM2Pd4umaQwCAB"
+    "airtable_record_id": "recitptEwCAsFA3rO"
   },
   {
     "lead_id": "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -566,7 +566,7 @@
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recuuDnk4X3pwDBWp"
+    "airtable_record_id": "recsuShGLKpvJ2Gyb"
   },
   {
     "lead_id": "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
@@ -601,7 +601,7 @@
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recVDak3K4Rrr3pSi"
+    "airtable_record_id": "rec6kdXvmkvcFWYEt"
   },
   {
     "lead_id": "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
@@ -812,7 +812,7 @@
     "proof_3": "Business observed at position 5 among the first 11 Maps results returned in this run.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
@@ -887,7 +887,7 @@
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "reclvS3RvPnTf68uP"
+    "airtable_record_id": "recIoyv8L4uk2TWBL"
   },
   {
     "lead_id": "fahrschule hofmann|chemnitz|http://www.hofmann-fahrschule.de/",
@@ -918,7 +918,7 @@
     "proof_3": "Business observed at position 7 among the first 11 Maps results returned in this run.",
     "next_action": "PRIORITY_SALES_REVIEW",
     "airtable_ready": true,
-    "airtable_sync_status": "SYNCED_CREATED",
+    "airtable_sync_status": "SYNCED_UPDATED",
     "outreach_status": "NOT_CONTACTED",
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
@@ -958,7 +958,7 @@
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recHHqh7O9uKNVawm"
+    "airtable_record_id": "rec7e1uORXUUS1KW0"
   },
   {
     "lead_id": "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
@@ -1028,7 +1028,7 @@
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "rec0h700UcdePX38I"
+    "airtable_record_id": "recoKt0LhRT6mUKnF"
   },
   {
     "lead_id": "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/",
@@ -1063,7 +1063,7 @@
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "rec0DO9dP57Mj12Ep"
+    "airtable_record_id": "recC3NFoXk5NPBKe4"
   },
   {
     "lead_id": "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
@@ -1171,7 +1171,7 @@
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "rec5MyrfuoLqTEngF"
+    "airtable_record_id": "recanVrK42b9BJdqx"
   },
   {
     "lead_id": "tierarztpraxis hernández|sankt augustin|https://tierarztpraxishernandez.com/",
@@ -1484,6 +1484,41 @@
     "queue_date": "2026-09-15",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
+  },
+  {
+    "lead_id": "tiermedizin am rothenbaum deckena & dr. elsner gmbh|hamburg|https://www.hh-tierarzt.de/",
+    "company_name": "Tiermedizin am Rothenbaum Deckena & Dr. Elsner GmbH",
+    "industry": "Tierarzt",
+    "city": "Hamburg",
+    "website": "https://www.hh-tierarzt.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Tiermedizin+am+Rothenbaum+Deckena+%26+Dr.+Elsner+GmbH/data=!4m7!3m6!1s0x47b18f33709a0793:0x7b39c0ae613ecc54!8m2!3d53.5782865!4d9.9884415!16s%2Fg%2F1tdq9n0m!19sChIJkweacDOPsUcRVMw-Ya7AOXs?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "email": "mail@hh-tierarzt.de",
+    "email_source_url": "https://hh-tierarzt.de/impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T11:56:46.688054+00:00",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 90,
+    "visibility_checked": false,
+    "weak_visibility_observed": null,
+    "visibility_opportunity_score": null,
+    "priority_score": 100,
+    "sales_tier": "A",
+    "primary_pitch": "Verified source data: 309 reviews vs. comparison median 647; gap 338.",
+    "why_now": [
+      "Verified source data: 309 reviews vs. comparison median 647; gap 338.",
+      "Business website links to at least one social profile."
+    ],
+    "proof_1": "Verified source data: 309 reviews vs. comparison median 647; gap 338.",
+    "proof_2": "Business website links to at least one social profile.",
+    "proof_3": null,
+    "next_action": "PRIORITY_SALES_REVIEW",
+    "airtable_ready": true,
+    "airtable_sync_status": "SYNCED_CREATED",
+    "outreach_status": "NOT_CONTACTED",
+    "queue_date": "2026-09-15",
+    "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+    "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
+    "airtable_record_id": "recKiyttwiAjp2EGr"
   },
   {
     "lead_id": "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
@@ -2684,6 +2719,74 @@
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
   },
   {
+    "lead_id": "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
+    "company_name": "msd-photography fotostudio köln",
+    "industry": "Fotograf",
+    "city": "Koeln",
+    "website": "http://msd-photography.de/",
+    "google_maps_url": "https://www.google.com/maps/place/msd-photography+fotostudio+k%C3%B6ln/data=!4m7!3m6!1s0x47bf244ec6f3efd9:0xe70ff01bb4b5e664!8m2!3d50.9236818!4d6.9588531!16s%2Fg%2F1tksmh9g!19sChIJ2e_zxk4kv0cRZOa1tBvwD-c?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "email": "info@msd-photography.de",
+    "email_source_url": "https://msd-photography.de/kontakt/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T11:56:58.168330+00:00",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_checked": false,
+    "weak_visibility_observed": null,
+    "visibility_opportunity_score": null,
+    "priority_score": 92,
+    "sales_tier": "A",
+    "primary_pitch": "Verified source data: 187 reviews vs. comparison median 353; gap 166.",
+    "why_now": [
+      "Verified source data: 187 reviews vs. comparison median 353; gap 166.",
+      "Business website links to at least one social profile."
+    ],
+    "proof_1": "Verified source data: 187 reviews vs. comparison median 353; gap 166.",
+    "proof_2": "Business website links to at least one social profile.",
+    "proof_3": null,
+    "next_action": "SALES_REVIEW",
+    "airtable_ready": false,
+    "airtable_sync_status": "NOT_READY",
+    "outreach_status": "NOT_CONTACTED",
+    "queue_date": "2026-09-15",
+    "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+    "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
+  },
+  {
+    "lead_id": "tierarztpraxis hamburg berne - tierärztin linda brüggemann|hamburg|https://www.tierarzt-hamburg-berne.de/",
+    "company_name": "Tierarztpraxis Hamburg Berne - Tierärztin Linda Brüggemann",
+    "industry": "Tierarzt",
+    "city": "Hamburg",
+    "website": "https://www.tierarzt-hamburg-berne.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Hamburg+Berne+-+Tier%C3%A4rztin+Linda+Br%C3%BCggemann/data=!4m7!3m6!1s0x47b18bfc5cb61fb7:0x46e816a71cd8a6cc!8m2!3d53.6244222!4d10.1408412!16s%2Fg%2F11ht63jf53!19sChIJtx-2XPyLsUcRzKbYHKcW6EY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "email": "info@tierarzt-hamburg-berne.de",
+    "email_source_url": "https://www.tierarzt-hamburg-berne.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T11:57:11.802017+00:00",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "visibility_checked": false,
+    "weak_visibility_observed": null,
+    "visibility_opportunity_score": null,
+    "priority_score": 92,
+    "sales_tier": "A",
+    "primary_pitch": "Verified source data: 239 reviews vs. comparison median 647; gap 408.",
+    "why_now": [
+      "Verified source data: 239 reviews vs. comparison median 647; gap 408.",
+      "Business website links to at least one social profile."
+    ],
+    "proof_1": "Verified source data: 239 reviews vs. comparison median 647; gap 408.",
+    "proof_2": "Business website links to at least one social profile.",
+    "proof_3": null,
+    "next_action": "SALES_REVIEW",
+    "airtable_ready": false,
+    "airtable_sync_status": "NOT_READY",
+    "outreach_status": "NOT_CONTACTED",
+    "queue_date": "2026-09-15",
+    "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+    "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
+  },
+  {
     "lead_id": "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
     "company_name": "Kleintierklinik München Riem - Dres. med. vet. Lutz",
     "industry": "Tierarzt",
@@ -2939,6 +3042,39 @@
       "Verified source data: 256 reviews vs. comparison median 630; gap 374."
     ],
     "proof_1": "Verified source data: 256 reviews vs. comparison median 630; gap 374.",
+    "proof_2": null,
+    "proof_3": null,
+    "next_action": "SALES_REVIEW",
+    "airtable_ready": false,
+    "airtable_sync_status": "NOT_READY",
+    "outreach_status": "NOT_CONTACTED",
+    "queue_date": "2026-09-15",
+    "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+    "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
+  },
+  {
+    "lead_id": "dr.med.vet. dirk krüger|rostock|https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
+    "company_name": "Dr.med.vet. Dirk Krüger",
+    "industry": "Tierarzt",
+    "city": "Rostock",
+    "website": "https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
+    "google_maps_url": "https://www.google.com/maps/place/Dr.med.vet.+Dirk+Kr%C3%BCger/data=!4m7!3m6!1s0x47ac50a9fe482257:0xdc9f8e38c6607668!8m2!3d54.0785692!4d12.136395!16s%2Fg%2F1tdwp3st!19sChIJVyJI_qlQrEcRaHZgxjiOn9w?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "email": "info@tierarztportal.com",
+    "email_source_url": "https://pfotencheck.tierarztportal.com/Kontakt.html",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-15T11:57:04.635321+00:00",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 86,
+    "visibility_checked": false,
+    "weak_visibility_observed": null,
+    "visibility_opportunity_score": null,
+    "priority_score": 90,
+    "sales_tier": "A",
+    "primary_pitch": "Verified source data: 168 reviews vs. comparison median 334; gap 166.",
+    "why_now": [
+      "Verified source data: 168 reviews vs. comparison median 334; gap 166."
+    ],
+    "proof_1": "Verified source data: 168 reviews vs. comparison median 334; gap 166.",
     "proof_2": null,
     "proof_3": null,
     "next_action": "SALES_REVIEW",

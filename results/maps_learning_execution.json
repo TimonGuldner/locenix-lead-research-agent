@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 52,
-  "focus": "city_exploitation",
+  "learning_run_count": 53,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen"
+    "Braunschweig",
+    "Krefeld",
+    "Chemnitz"
   ],
   "selected_industries": [
-    "Friseur",
-    "Kosmetikstudio",
-    "Nagelstudio"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
-      "industry": "Friseur",
-      "query": "Friseur Muenchen"
+      "city": "Braunschweig",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Braunschweig"
     },
     {
-      "city": "Muenchen",
-      "industry": "Kosmetikstudio",
-      "query": "Kosmetikstudio Muenchen"
+      "city": "Krefeld",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Krefeld"
     },
     {
-      "city": "Muenchen",
-      "industry": "Nagelstudio",
-      "query": "Nagelstudio Muenchen"
+      "city": "Chemnitz",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Chemnitz"
     }
   ],
   "queries_per_run": 3

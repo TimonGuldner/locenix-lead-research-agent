@@ -6251,6 +6251,160 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "immobilien martin weiherer|muenchen|http://weiherer-immobilien.de/",
+    "company_name": "Immobilien Martin Weiherer",
+    "industry": "Immobilienmakler",
+    "city": "Muenchen",
+    "source_total_score": 82,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Immobilien+Martin+Weiherer/data=!4m7!3m6!1s0x479ddf50deb159b3:0x8864de9011c54103!8m2!3d48.120701!4d11.640631!16s%2Fg%2F11mvtspt4m!19sChIJs1mx3lDfnUcRA0HFEZDeZIg?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://weiherer-immobilien.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.weiherer-immobilien.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.instagram.com/weiherer.immobilien/",
+        "https://www.linkedin.com/in/martin-weiherer-45930131a/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "verkauf",
+        "vermietung",
+        "bewertung"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@weiherer-immobilien.de",
+      "email_source_url": "https://www.weiherer-immobilien.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T11:28:13.136633+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 68 reviews vs. comparison median 170; gap 102."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 68 reviews vs. comparison median 170; gap 102.",
+    "proof": [
+      "Verified source data: 68 reviews vs. comparison median 170; gap 102.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@weiherer-immobilien.de",
+    "email_source_url": "https://www.weiherer-immobilien.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-16T11:28:13.136633+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-16",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "riedel immobilien gmbh - - immobilienmakler schwabing|muenchen|https://www.riedel-immobilien.de/immobilienmakler-schwabing/",
+    "company_name": "RIEDEL Immobilien GmbH - - Immobilienmakler Schwabing",
+    "industry": "Immobilienmakler",
+    "city": "Muenchen",
+    "source_total_score": 82,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/RIEDEL+Immobilien+GmbH+-+-+Immobilienmakler+Schwabing/data=!4m7!3m6!1s0x479e753a19e65f83:0x2cc1a0bfb202001a!8m2!3d48.1597451!4d11.5813954!16s%2Fg%2F11krcmcmzk!19sChIJg1_mGTp1nkcRGgACsr-gwSw?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.riedel-immobilien.de/immobilienmakler-schwabing/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.riedel-immobilien.de/immobilienmakler-schwabing/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.instagram.com/riedelimmobilien/?utm_source=website&utm_medium=icons&utm_campaign=socials",
+        "https://www.linkedin.com/company/riedel-immobilien/?utm_source=website&utm_medium=icons&utm_campaign=socials",
+        "https://www.facebook.com/RiedelImmobilien/",
+        "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.riedel-immobilien.de%2Fimmobilienmakler-schwabing%2F",
+        "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.riedel-immobilien.de%2Fimmobilienmakler-schwabing%2F"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "verkauf",
+        "vermietung"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (5 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@riedel-immobilien.de",
+      "email_source_url": "https://www.riedel-immobilien.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T11:28:24.689925+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 74 reviews vs. comparison median 170; gap 96."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 74 reviews vs. comparison median 170; gap 96.",
+    "proof": [
+      "Verified source data: 74 reviews vs. comparison median 170; gap 96.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@riedel-immobilien.de",
+    "email_source_url": "https://www.riedel-immobilien.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-16T11:28:24.689925+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-16",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "company_name": "MANU Elektrobau GmbH",
     "industry": "Elektriker",
@@ -9484,6 +9638,199 @@
     "email_found_at": "2026-09-15T15:42:38.584274+00:00",
     "airtable_ready": false,
     "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "implaneo dental clinic|muenchen|https://www.implaneo.de/",
+    "company_name": "implaneo Dental Clinic",
+    "industry": "Zahnarzt",
+    "city": "Muenchen",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/implaneo+Dental+Clinic/data=!4m7!3m6!1s0x479e7572280393e9:0xa2d29b064fb8ec52!8m2!3d48.145698!4d11.615529!16s%2Fg%2F1hc2lljgb!19sChIJ6ZMDKHJ1nkcRUuy4Twab0qI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.implaneo.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.implaneo.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "implantate",
+        "prophylaxe",
+        "parodontologie"
+      ],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@implaneo.de",
+      "email_source_url": "https://www.implaneo.de/kontakt/knochenaufbau-muenchen/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T11:28:35.517902+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 86,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 83 reviews vs. comparison median 297; gap 214."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 83 reviews vs. comparison median 297; gap 214.",
+    "proof": [
+      "Verified source data: 83 reviews vs. comparison median 297; gap 214."
+    ],
+    "email": "info@implaneo.de",
+    "email_source_url": "https://www.implaneo.de/kontakt/knochenaufbau-muenchen/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-16T11:28:35.517902+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-16",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "dr.med.vet tina brahm|dortmund|http://kleintierpraxis-am-wall.de/",
+    "company_name": "Dr.med.vet Tina Brahm",
+    "industry": "Tierarzt",
+    "city": "Dortmund",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Dr.med.vet+Tina+Brahm/data=!4m7!3m6!1s0x47b919e70214b277:0x9add18e3836cdf4e!8m2!3d51.51245!4d7.4568201!16s%2Fg%2F1tfvs0vt!19sChIJd7IUAucZuUcRTt9sg-MY3Zo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://kleintierpraxis-am-wall.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://kleintierpraxis-am-wall.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@kleintierpraxis-am-wall.de",
+      "email_source_url": "https://kleintierpraxis-am-wall.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T11:28:45.157756+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 86,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 405 reviews vs. comparison median 598; gap 193."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 405 reviews vs. comparison median 598; gap 193.",
+    "proof": [
+      "Verified source data: 405 reviews vs. comparison median 598; gap 193."
+    ],
+    "email": "info@kleintierpraxis-am-wall.de",
+    "email_source_url": "https://kleintierpraxis-am-wall.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-16T11:28:45.157756+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-16",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "kleintierpraxis bielefeld dr. silke mehlhose-koch|bielefeld|https://www.kleintierpraxis-bielefeld.de/",
+    "company_name": "Kleintierpraxis Bielefeld Dr. Silke Mehlhose-Koch",
+    "industry": "Tierarzt",
+    "city": "Bielefeld",
+    "source_total_score": 81,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Bielefeld+Dr.+Silke+Mehlhose-Koch/data=!4m7!3m6!1s0x47ba3d7d521bdc29:0xa7846726be0fccef!8m2!3d52.0501642!4d8.5457952!16s%2Fg%2F1tcvsz7f!19sChIJKdwbUn09ukcR78wPviZnhKc?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.kleintierpraxis-bielefeld.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.kleintierpraxis-bielefeld.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@kleintierpraxis-bielefeld.de",
+      "email_source_url": "https://www.kleintierpraxis-bielefeld.de/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T11:28:54.085874+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 86,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 307 reviews vs. comparison median 491; gap 184."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 307 reviews vs. comparison median 491; gap 184.",
+    "proof": [
+      "Verified source data: 307 reviews vs. comparison median 491; gap 184."
+    ],
+    "email": "info@kleintierpraxis-bielefeld.de",
+    "email_source_url": "https://www.kleintierpraxis-bielefeld.de/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-16T11:28:54.085874+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-16",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
   },

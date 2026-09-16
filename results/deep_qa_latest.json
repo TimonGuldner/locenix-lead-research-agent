@@ -1,82 +1,14 @@
 {
   "results": [
     {
-      "lead_id": "dr. p. mayerhauser, kleintierpraxis im gewerbehof unterfeldweg|augsburg|https://www.tierarztpraxis-mayerhauser.de/",
-      "company_name": "Dr. P. Mayerhauser, Kleintierpraxis im Gewerbehof Unterfeldweg",
-      "industry": "Tierarzt",
-      "city": "Augsburg",
-      "source_total_score": 89,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Dr.+P.+Mayerhauser,+Kleintierpraxis+im+Gewerbehof+Unterfeldweg/data=!4m7!3m6!1s0x479ea3956640aeff:0x4359451009863f14!8m2!3d48.3460023!4d10.8883909!16s%2Fg%2F11w9ybx173!19sChIJ_65AZpWjnkcRFD-GCRBFWUM?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.tierarztpraxis-mayerhauser.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.tierarztpraxis-mayerhauser.de/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "impfung",
-          "chirurgie",
-          "ultraschall",
-          "labor"
-        ],
-        "website_evidence": [
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "tierarztpraxis.dr.mayerhauser@t-online.de",
-        "email_source_url": "https://www.tierarztpraxis-mayerhauser.de/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-16T10:19:37.123298+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 94,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 48 reviews vs. comparison median 287; gap 239."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 48 reviews vs. comparison median 287; gap 239.",
-      "proof": [
-        "Verified source data: 48 reviews vs. comparison median 287; gap 239."
-      ],
-      "email": "tierarztpraxis.dr.mayerhauser@t-online.de",
-      "email_source_url": "https://www.tierarztpraxis-mayerhauser.de/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-16T10:19:37.123298+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-16",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "tierarzt piliar|moenchengladbach|https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
-      "company_name": "Tierarzt Piliar",
-      "industry": "Tierarzt",
-      "city": "Moenchengladbach",
-      "source_total_score": 85,
+      "lead_id": "immobilien martin weiherer|muenchen|http://weiherer-immobilien.de/",
+      "company_name": "Immobilien Martin Weiherer",
+      "industry": "Immobilienmakler",
+      "city": "Muenchen",
+      "source_total_score": 82,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Piliar/data=!4m7!3m6!1s0x47b8ab6f570a60df:0x115e57d3f5ab8f05!8m2!3d51.1982359!4d6.4136603!16s%2Fg%2F11g6z1dvs4!19sChIJ32AKV2-ruEcRBY-r9dNXXhE?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
+      "google_maps_url": "https://www.google.com/maps/place/Immobilien+Martin+Weiherer/data=!4m7!3m6!1s0x479ddf50deb159b3:0x8864de9011c54103!8m2!3d48.120701!4d11.640631!16s%2Fg%2F11mvtspt4m!19sChIJs1mx3lDfnUcRA0HFEZDeZIg?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://weiherer-immobilien.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -94,95 +26,34 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://pfotencheck.tierarztportal.com/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "zahnsanierung"
-        ],
-        "website_evidence": [
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@tierarztportal.com",
-        "email_source_url": "https://pfotencheck.tierarztportal.com/Kontakt.html",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-16T10:19:43.997920+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 90,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 75 reviews vs. comparison median 525; gap 450."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 75 reviews vs. comparison median 525; gap 450.",
-      "proof": [
-        "Verified source data: 75 reviews vs. comparison median 525; gap 450."
-      ],
-      "email": "info@tierarztportal.com",
-      "email_source_url": "https://pfotencheck.tierarztportal.com/Kontakt.html",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-16T10:19:43.997920+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-16",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "johann achnitz gmbh|koeln|https://achnitz.dms-logistik.de/",
-      "company_name": "Johann Achnitz GmbH",
-      "industry": "Umzugsunternehmen",
-      "city": "Koeln",
-      "source_total_score": 84,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Johann+Achnitz+GmbH/data=!4m7!3m6!1s0x47bedd8554af062b:0xf6d6d470396c246b!8m2!3d50.800347!4d7.212611!16s%2Fg%2F1tgh6pvc!19sChIJKwavVIXdvkcRayRsOXDU1vY?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://achnitz.dms-logistik.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://achnitz.dms-logistik.de/",
+        "website_final_url": "https://www.weiherer-immobilien.de/",
         "booking_link": null,
         "social_links": [
-          "https://www.facebook.com/Johann-Achnitz-GmbH-174765072609633",
-          "https://www.instagram.com/achnitz/"
+          "https://www.instagram.com/weiherer.immobilien/",
+          "https://www.linkedin.com/in/martin-weiherer-45930131a/"
         ],
         "contact_page_observed": true,
-        "website_service_matches": [],
+        "website_service_matches": [
+          "verkauf",
+          "vermietung",
+          "bewertung"
+        ],
         "website_evidence": [
           "Active social-link footprint observed (2 link(s)).",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@umzuege-achnitz.de",
-        "email_source_url": "https://achnitz.dms-logistik.de/impressum.html",
+        "email": "info@weiherer-immobilien.de",
+        "email_source_url": "https://www.weiherer-immobilien.de/impressum/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-16T10:19:54.307081+00:00"
+        "email_found_at": "2026-09-16T11:28:13.136633+00:00"
       },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 91,
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 89,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 29 reviews vs. comparison median 110; gap 81."
+          "proof": "Verified source data: 68 reviews vs. comparison median 170; gap 102."
         },
         {
           "type": "digital_maturity_social",
@@ -191,29 +62,29 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 29 reviews vs. comparison median 110; gap 81.",
+      "primary_sales_angle_verified": "Verified source data: 68 reviews vs. comparison median 170; gap 102.",
       "proof": [
-        "Verified source data: 29 reviews vs. comparison median 110; gap 81.",
+        "Verified source data: 68 reviews vs. comparison median 170; gap 102.",
         "Business website links to at least one social profile."
       ],
-      "email": "info@umzuege-achnitz.de",
-      "email_source_url": "https://achnitz.dms-logistik.de/impressum.html",
+      "email": "info@weiherer-immobilien.de",
+      "email_source_url": "https://www.weiherer-immobilien.de/impressum/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-16T10:19:54.307081+00:00",
-      "airtable_ready": true,
+      "email_found_at": "2026-09-16T11:28:13.136633+00:00",
+      "airtable_ready": false,
       "qa_date": "2026-09-16",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
-      "company_name": "Medivet Tierarztpraxis Nürnberg",
-      "industry": "Tierarzt",
-      "city": "Nuernberg",
-      "source_total_score": 83,
+      "lead_id": "riedel immobilien gmbh - - immobilienmakler schwabing|muenchen|https://www.riedel-immobilien.de/immobilienmakler-schwabing/",
+      "company_name": "RIEDEL Immobilien GmbH - - Immobilienmakler Schwabing",
+      "industry": "Immobilienmakler",
+      "city": "Muenchen",
+      "source_total_score": 82,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Medivet+Tierarztpraxis+N%C3%BCrnberg/data=!4m7!3m6!1s0x479f56ee55ca604d:0xfa77e9779f2a6115!8m2!3d49.435292!4d11.0402869!16s%2Fg%2F1hhgwgmnm!19sChIJTWDKVe5Wn0cRFWEqn3fpd_o?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
+      "google_maps_url": "https://www.google.com/maps/place/RIEDEL+Immobilien+GmbH+-+-+Immobilienmakler+Schwabing/data=!4m7!3m6!1s0x479e753a19e65f83:0x2cc1a0bfb202001a!8m2!3d48.1597451!4d11.5813954!16s%2Fg%2F11krcmcmzk!19sChIJg1_mGTp1nkcRGgACsr-gwSw?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.riedel-immobilien.de/immobilienmakler-schwabing/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -231,41 +102,36 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
-        "booking_link": "https://petleo.app/?iframe=true&group=0&lang=de&redirect_url=/clinic/9754a6e26f893d0296058ef1b7e4bd1258ee8dca0207572847cbc7a8890ab1d2/branch/1/book-appointment/",
+        "website_final_url": "https://www.riedel-immobilien.de/immobilienmakler-schwabing/",
+        "booking_link": null,
         "social_links": [
-          "http://instagram.com/medivet_de",
-          "https://www.facebook.com/medivet.de",
-          "https://www.linkedin.com/company/medivetdeutschland/"
+          "https://www.instagram.com/riedelimmobilien/?utm_source=website&utm_medium=icons&utm_campaign=socials",
+          "https://www.linkedin.com/company/riedel-immobilien/?utm_source=website&utm_medium=icons&utm_campaign=socials",
+          "https://www.facebook.com/RiedelImmobilien/",
+          "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.riedel-immobilien.de%2Fimmobilienmakler-schwabing%2F",
+          "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.riedel-immobilien.de%2Fimmobilienmakler-schwabing%2F"
         ],
         "contact_page_observed": true,
         "website_service_matches": [
-          "impfung",
-          "chirurgie",
-          "ultraschall",
-          "labor"
+          "verkauf",
+          "vermietung"
         ],
         "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (3 link(s)).",
+          "Active social-link footprint observed (5 link(s)).",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "nuernberg@medivetgroup.com",
-        "email_source_url": "https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
+        "email": "info@riedel-immobilien.de",
+        "email_source_url": "https://www.riedel-immobilien.de/impressum/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-16T10:20:00.239371+00:00"
+        "email_found_at": "2026-09-16T11:28:24.689925+00:00"
       },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 92,
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 89,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 242 reviews vs. comparison median 630; gap 388."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
+          "proof": "Verified source data: 74 reviews vs. comparison median 170; gap 96."
         },
         {
           "type": "digital_maturity_social",
@@ -274,30 +140,29 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 242 reviews vs. comparison median 630; gap 388.",
+      "primary_sales_angle_verified": "Verified source data: 74 reviews vs. comparison median 170; gap 96.",
       "proof": [
-        "Verified source data: 242 reviews vs. comparison median 630; gap 388.",
-        "Online booking/appointment link observed on website.",
+        "Verified source data: 74 reviews vs. comparison median 170; gap 96.",
         "Business website links to at least one social profile."
       ],
-      "email": "nuernberg@medivetgroup.com",
-      "email_source_url": "https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
+      "email": "info@riedel-immobilien.de",
+      "email_source_url": "https://www.riedel-immobilien.de/impressum/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-16T10:20:00.239371+00:00",
-      "airtable_ready": true,
+      "email_found_at": "2026-09-16T11:28:24.689925+00:00",
+      "airtable_ready": false,
       "qa_date": "2026-09-16",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "ats umzug münchen|muenchen|http://www.ats-umzug-muenchen.de/",
-      "company_name": "ATS Umzug München",
-      "industry": "Umzugsunternehmen",
+      "lead_id": "implaneo dental clinic|muenchen|https://www.implaneo.de/",
+      "company_name": "implaneo Dental Clinic",
+      "industry": "Zahnarzt",
       "city": "Muenchen",
-      "source_total_score": 83,
+      "source_total_score": 81,
       "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/ATS+Umzug+M%C3%BCnchen/data=!4m7!3m6!1s0x479e0a85d74ff223:0xaeae6d636ae9abf7!8m2!3d48.130048!4d11.6973787!16s%2Fg%2F1td2fx2d!19sChIJI_JP14UKnkcR96vpamNtrq4?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.ats-umzug-muenchen.de/",
+      "google_maps_url": "https://www.google.com/maps/place/implaneo+Dental+Clinic/data=!4m7!3m6!1s0x479e7572280393e9:0xa2d29b064fb8ec52!8m2!3d48.145698!4d11.615529!16s%2Fg%2F1hc2lljgb!19sChIJ6ZMDKHJ1nkcRUuy4Twab0qI?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.implaneo.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -315,7 +180,74 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.ats-umzug-muenchen.de/",
+        "website_final_url": "https://www.implaneo.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "implantate",
+          "prophylaxe",
+          "parodontologie"
+        ],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@implaneo.de",
+        "email_source_url": "https://www.implaneo.de/kontakt/knochenaufbau-muenchen/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-16T11:28:35.517902+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 83 reviews vs. comparison median 297; gap 214."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 83 reviews vs. comparison median 297; gap 214.",
+      "proof": [
+        "Verified source data: 83 reviews vs. comparison median 297; gap 214."
+      ],
+      "email": "info@implaneo.de",
+      "email_source_url": "https://www.implaneo.de/kontakt/knochenaufbau-muenchen/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T11:28:35.517902+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-16",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "dr.med.vet tina brahm|dortmund|http://kleintierpraxis-am-wall.de/",
+      "company_name": "Dr.med.vet Tina Brahm",
+      "industry": "Tierarzt",
+      "city": "Dortmund",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Dr.med.vet+Tina+Brahm/data=!4m7!3m6!1s0x47b919e70214b277:0x9add18e3836cdf4e!8m2!3d51.51245!4d7.4568201!16s%2Fg%2F1tfvs0vt!19sChIJd7IUAucZuUcRTt9sg-MY3Zo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://kleintierpraxis-am-wall.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://kleintierpraxis-am-wall.de/",
         "booking_link": null,
         "social_links": [],
         "contact_page_observed": true,
@@ -324,29 +256,92 @@
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "service@ats-umzug.de",
-        "email_source_url": "https://www.ats-umzug-muenchen.de/impressum.html",
+        "email": "info@kleintierpraxis-am-wall.de",
+        "email_source_url": "https://kleintierpraxis-am-wall.de/impressum/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-16T10:20:07.172950+00:00"
+        "email_found_at": "2026-09-16T11:28:45.157756+00:00"
       },
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
+      "deep_qa_score": 86,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 50 reviews vs. comparison median 200; gap 150."
+          "proof": "Verified source data: 405 reviews vs. comparison median 598; gap 193."
         }
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 50 reviews vs. comparison median 200; gap 150.",
+      "primary_sales_angle_verified": "Verified source data: 405 reviews vs. comparison median 598; gap 193.",
       "proof": [
-        "Verified source data: 50 reviews vs. comparison median 200; gap 150."
+        "Verified source data: 405 reviews vs. comparison median 598; gap 193."
       ],
-      "email": "service@ats-umzug.de",
-      "email_source_url": "https://www.ats-umzug-muenchen.de/impressum.html",
+      "email": "info@kleintierpraxis-am-wall.de",
+      "email_source_url": "https://kleintierpraxis-am-wall.de/impressum/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-16T10:20:07.172950+00:00",
+      "email_found_at": "2026-09-16T11:28:45.157756+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-16",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "kleintierpraxis bielefeld dr. silke mehlhose-koch|bielefeld|https://www.kleintierpraxis-bielefeld.de/",
+      "company_name": "Kleintierpraxis Bielefeld Dr. Silke Mehlhose-Koch",
+      "industry": "Tierarzt",
+      "city": "Bielefeld",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Bielefeld+Dr.+Silke+Mehlhose-Koch/data=!4m7!3m6!1s0x47ba3d7d521bdc29:0xa7846726be0fccef!8m2!3d52.0501642!4d8.5457952!16s%2Fg%2F1tcvsz7f!19sChIJKdwbUn09ukcR78wPviZnhKc?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.kleintierpraxis-bielefeld.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.kleintierpraxis-bielefeld.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@kleintierpraxis-bielefeld.de",
+        "email_source_url": "https://www.kleintierpraxis-bielefeld.de/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-16T11:28:54.085874+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 307 reviews vs. comparison median 491; gap 184."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 307 reviews vs. comparison median 491; gap 184.",
+      "proof": [
+        "Verified source data: 307 reviews vs. comparison median 491; gap 184."
+      ],
+      "email": "info@kleintierpraxis-bielefeld.de",
+      "email_source_url": "https://www.kleintierpraxis-bielefeld.de/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T11:28:54.085874+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-16",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
@@ -354,7 +349,7 @@
     }
   ],
   "state": {
-    "runs": 30,
+    "runs": 31,
     "processed_ids": [
       "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -377,6 +372,7 @@
       "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
       "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
       "dr. p. mayerhauser, kleintierpraxis im gewerbehof unterfeldweg|augsburg|https://www.tierarztpraxis-mayerhauser.de/",
+      "dr.med.vet tina brahm|dortmund|http://kleintierpraxis-am-wall.de/",
       "dr.med.vet. dirk krüger|rostock|https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
       "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
       "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
@@ -403,8 +399,10 @@
       "hilke friseur kopffabrik|hamburg|http://www.hilke-kopffabrik.de/",
       "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
       "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
+      "immobilien martin weiherer|muenchen|http://weiherer-immobilien.de/",
       "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
       "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
+      "implaneo dental clinic|muenchen|https://www.implaneo.de/",
       "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
       "jg kosmetikstudio köln - hydrafacial / microneedling / haarentfernung|koeln|https://jgkosmetik-koeln.de/",
       "johann achnitz gmbh|koeln|https://achnitz.dms-logistik.de/",
@@ -414,6 +412,7 @@
       "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
       "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
       "kleintierpraxis berg|bremen|https://www.tieraerztin-berg.de/",
+      "kleintierpraxis bielefeld dr. silke mehlhose-koch|bielefeld|https://www.kleintierpraxis-bielefeld.de/",
       "kleintierpraxis heidelberg hans neumann|heidelberg|https://kleintierpraxis-heidelberg.com/",
       "kleintierpraxis karlsruhe dr. magdalena behrendt-wippermann|karlsruhe|http://www.kleintierpraxiskarlsruhe.de/",
       "kleintierpraxis wimmer|braunschweig|http://www.kleintierpraxis-wimmer.de/",
@@ -448,6 +447,7 @@
       "rainer fischer immobilien|muenchen|https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
       "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
       "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
+      "riedel immobilien gmbh - - immobilienmakler schwabing|muenchen|https://www.riedel-immobilien.de/immobilienmakler-schwabing/",
       "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
       "since eleven - friseure|koeln|https://www.since-eleven.de/",
       "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
@@ -496,11 +496,11 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 139,
-    "remaining_eligible": 7,
+    "processed_count": 144,
+    "remaining_eligible": 2,
     "last_batch_count": 5,
     "final_a_total": 53,
-    "final_b_total": 85,
+    "final_b_total": 90,
     "email_ready_total": 40,
     "email_missing_total": 31
   }

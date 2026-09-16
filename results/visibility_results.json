@@ -1879,6 +1879,56 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "tierarzt piliar|moenchengladbach|https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
+    "company_name": "Tierarzt Piliar",
+    "industry": "Tierarzt",
+    "city": "Moenchengladbach",
+    "email": "info@tierarztportal.com",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 90,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Moenchengladbach",
+        "status": "OBSERVED",
+        "observed_position": 11,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
+          "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
+          "AniCura Tiergesundheitszentrum Mönchengladbach-Venn",
+          "AniCura Bökelberg GmbH",
+          "AniCura Kleintierpraxis Am Reststrauch (ehem. Tierärztliche Kleintierpraxis Claus Meyer)"
+        ],
+        "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Moenchengladbach",
+        "status": "OBSERVED",
+        "observed_position": 11,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
+          "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
+          "AniCura Tiergesundheitszentrum Mönchengladbach-Venn",
+          "AniCura Bökelberg GmbH",
+          "Tierärzte am Nordpark"
+        ],
+        "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 8,
+    "visibility_evidence": [
+      "Business observed at position 11 among the first 11 Maps results returned in this run.",
+      "Business observed at position 11 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-16",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
     "company_name": "NIICE Kleintiertagesklinik Potsdam",
     "industry": "Tierarzt",
@@ -3114,6 +3164,55 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
+    "company_name": "Wassa & Plieske Sanitär Heizung",
+    "industry": "Sanitaer Heizung",
+    "city": "Muenchen",
+    "email": "info@wp-sanitaer.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 91,
+    "visibility_tests": [
+      {
+        "query": "Sanitaer Heizung Muenchen",
+        "status": "OBSERVED",
+        "observed_position": 5,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Durmus Haustechnik GmbH | Sanitär & Heizung München",
+          "NM Heizung und Sanitär Meisterbetrieb",
+          "Florian Häusler Heizung-Sanitär GmbH",
+          "R&S Heizung - Sanitär - Klima | SHK Meisterbetrieb München"
+        ],
+        "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Sanitaer Heizung in Muenchen",
+        "status": "OBSERVED",
+        "observed_position": 6,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Sachverstand",
+          "Lippert Gebäudetechnik Services GmbH",
+          "NM Heizung und Sanitär Meisterbetrieb",
+          "Durmus Haustechnik GmbH | Sanitär & Heizung München",
+          "R&S Heizung - Sanitär - Klima | SHK Meisterbetrieb München"
+        ],
+        "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 3,
+    "visibility_evidence": [
+      "Business observed at position 5 among the first 11 Maps results returned in this run.",
+      "Business observed at position 6 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-16",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
     "company_name": "AniCura Kleintierspezialisten Karlsruhe GmbH",
     "industry": "Tierarzt",
@@ -3302,6 +3401,54 @@
       "Business observed at position 8 among the first 10 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-14",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "rainer fischer immobilien|muenchen|https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
+    "company_name": "Rainer Fischer Immobilien",
+    "industry": "Immobilienmakler",
+    "city": "Muenchen",
+    "email": "info@immobilienfischer.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "visibility_tests": [
+      {
+        "query": "Immobilienmakler Muenchen",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Immobilien Martin Weiherer",
+          "Wohnen & Gut Leben GmbH",
+          "Immosmart GmbH",
+          "Wandl-Immobilien Immobilienmakler München",
+          "Hegerich Immobilien GmbH"
+        ],
+        "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Immobilienmakler in Muenchen",
+        "status": "OBSERVED",
+        "observed_position": 4,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Immobilien Martin Weiherer",
+          "Wohnen & Gut Leben GmbH",
+          "Wandl-Immobilien Immobilienmakler München"
+        ],
+        "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 3,
+    "visibility_evidence": [
+      "Business observed at position 7 among the first 11 Maps results returned in this run.",
+      "Business observed at position 4 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-16",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
     "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
     "outreach_status": "NOT_CONTACTED"
@@ -3670,6 +3817,48 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "johann achnitz gmbh|koeln|https://achnitz.dms-logistik.de/",
+    "company_name": "Johann Achnitz GmbH",
+    "industry": "Umzugsunternehmen",
+    "city": "Koeln",
+    "email": "info@umzuege-achnitz.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 91,
+    "visibility_tests": [
+      {
+        "query": "Umzugsunternehmen Koeln",
+        "status": "OBSERVED",
+        "observed_position": 2,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Dollmann räumt – Entrümpelungen und Haushaltsauflösungen in Köln"
+        ],
+        "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Umzugsunternehmen in Koeln",
+        "status": "OBSERVED",
+        "observed_position": 2,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Dollmann räumt – Entrümpelungen und Haushaltsauflösungen in Köln"
+        ],
+        "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 2 among the first 11 Maps results returned in this run.",
+      "Business observed at position 2 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-16",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/",
     "company_name": "Ästhetik Hamburg",
     "industry": "Beauty Aesthetik",
@@ -4001,6 +4190,44 @@
       "Business observed at position 2 among the first 11 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-15",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "immobilien martin weiherer|muenchen|http://weiherer-immobilien.de/",
+    "company_name": "Immobilien Martin Weiherer",
+    "industry": "Immobilienmakler",
+    "city": "Muenchen",
+    "email": "info@weiherer-immobilien.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 89,
+    "visibility_tests": [
+      {
+        "query": "Immobilienmakler Muenchen",
+        "status": "OBSERVED",
+        "observed_position": 1,
+        "results_checked": 11,
+        "competitors_ahead": [],
+        "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Immobilienmakler in Muenchen",
+        "status": "OBSERVED",
+        "observed_position": 1,
+        "results_checked": 11,
+        "competitors_ahead": [],
+        "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 1 among the first 11 Maps results returned in this run.",
+      "Business observed at position 1 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-16",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
     "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
     "outreach_status": "NOT_CONTACTED"

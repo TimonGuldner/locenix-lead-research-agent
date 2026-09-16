@@ -1,49 +1,48 @@
 {
   "results": [
     {
-      "lead_id": "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
-      "company_name": "ISARDENT® | Kieferorthopädie & Kinderzahnarzt München-Freiham",
-      "industry": "Zahnarzt",
+      "lead_id": "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
+      "company_name": "Wassa & Plieske Sanitär Heizung",
+      "industry": "Sanitaer Heizung",
       "city": "Muenchen",
-      "email": "info@isardent-freiham.de",
+      "email": "info@wp-sanitaer.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 96,
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 91,
       "visibility_tests": [
         {
-          "query": "Zahnarzt Muenchen",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 8,
+          "query": "Sanitaer Heizung Muenchen",
+          "status": "OBSERVED",
+          "observed_position": 5,
+          "results_checked": 11,
           "competitors_ahead": [
-            "AllDent Zahnzentrum München",
-            "dent + face Zahnzentrum München",
-            "AllDent Zahnzentrum München Ost",
-            "Zahnärzte am Gärtnerplatz 1",
-            "Zahnarzt München am Marienplatz - Dr. Tomas Hoischen & Dr. Matthias Kelch"
+            "Durmus Haustechnik GmbH | Sanitär & Heizung München",
+            "NM Heizung und Sanitär Meisterbetrieb",
+            "Florian Häusler Heizung-Sanitär GmbH",
+            "R&S Heizung - Sanitär - Klima | SHK Meisterbetrieb München"
           ],
-          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Zahnarzt in Muenchen",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 8,
+          "query": "Sanitaer Heizung in Muenchen",
+          "status": "OBSERVED",
+          "observed_position": 6,
+          "results_checked": 11,
           "competitors_ahead": [
-            "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
-            "Dr. Barth Dr. Naumann Zahnarzt Schwabing | Hohenzollernplatz",
-            "Zahnarzt München - Dental21",
-            "AllDent Zahnzentrum München",
-            "Zahnarzt Stachus München Innenstadt - Munich Dental Works"
+            "Sachverstand",
+            "Lippert Gebäudetechnik Services GmbH",
+            "NM Heizung und Sanitär Meisterbetrieb",
+            "Durmus Haustechnik GmbH | Sanitär & Heizung München",
+            "R&S Heizung - Sanitär - Klima | SHK Meisterbetrieb München"
           ],
-          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+          "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
         }
       ],
       "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
+      "visibility_opportunity_score": 3,
       "visibility_evidence": [
-        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim.",
-        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+        "Business observed at position 5 among the first 11 Maps results returned in this run.",
+        "Business observed at position 6 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -51,17 +50,157 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "ks autoglas zentrum germering|muenchen|https://germering.ksautoglas.com/",
-      "company_name": "KS AUTOGLAS ZENTRUM Germering",
-      "industry": "Autowerkstatt",
-      "city": "Muenchen",
-      "email": "info@ksautoglas.de",
+      "lead_id": "johann achnitz gmbh|koeln|https://achnitz.dms-logistik.de/",
+      "company_name": "Johann Achnitz GmbH",
+      "industry": "Umzugsunternehmen",
+      "city": "Koeln",
+      "email": "info@umzuege-achnitz.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 94,
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 91,
       "visibility_tests": [
         {
-          "query": "Autowerkstatt Muenchen",
+          "query": "Umzugsunternehmen Koeln",
+          "status": "OBSERVED",
+          "observed_position": 2,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Dollmann räumt – Entrümpelungen und Haushaltsauflösungen in Köln"
+          ],
+          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Umzugsunternehmen in Koeln",
+          "status": "OBSERVED",
+          "observed_position": 2,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Dollmann räumt – Entrümpelungen und Haushaltsauflösungen in Köln"
+          ],
+          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
+      "visibility_evidence": [
+        "Business observed at position 2 among the first 11 Maps results returned in this run.",
+        "Business observed at position 2 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-16",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "tierarzt piliar|moenchengladbach|https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
+      "company_name": "Tierarzt Piliar",
+      "industry": "Tierarzt",
+      "city": "Moenchengladbach",
+      "email": "info@tierarztportal.com",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 90,
+      "visibility_tests": [
+        {
+          "query": "Tierarzt Moenchengladbach",
+          "status": "OBSERVED",
+          "observed_position": 11,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
+            "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
+            "AniCura Tiergesundheitszentrum Mönchengladbach-Venn",
+            "AniCura Bökelberg GmbH",
+            "AniCura Kleintierpraxis Am Reststrauch (ehem. Tierärztliche Kleintierpraxis Claus Meyer)"
+          ],
+          "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Tierarzt in Moenchengladbach",
+          "status": "OBSERVED",
+          "observed_position": 11,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
+            "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
+            "AniCura Tiergesundheitszentrum Mönchengladbach-Venn",
+            "AniCura Bökelberg GmbH",
+            "Tierärzte am Nordpark"
+          ],
+          "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 8,
+      "visibility_evidence": [
+        "Business observed at position 11 among the first 11 Maps results returned in this run.",
+        "Business observed at position 11 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-16",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "rainer fischer immobilien|muenchen|https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
+      "company_name": "Rainer Fischer Immobilien",
+      "industry": "Immobilienmakler",
+      "city": "Muenchen",
+      "email": "info@immobilienfischer.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 89,
+      "visibility_tests": [
+        {
+          "query": "Immobilienmakler Muenchen",
+          "status": "OBSERVED",
+          "observed_position": 7,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Immobilien Martin Weiherer",
+            "Wohnen & Gut Leben GmbH",
+            "Immosmart GmbH",
+            "Wandl-Immobilien Immobilienmakler München",
+            "Hegerich Immobilien GmbH"
+          ],
+          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Immobilienmakler in Muenchen",
+          "status": "OBSERVED",
+          "observed_position": 4,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Immobilien Martin Weiherer",
+            "Wohnen & Gut Leben GmbH",
+            "Wandl-Immobilien Immobilienmakler München"
+          ],
+          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 3,
+      "visibility_evidence": [
+        "Business observed at position 7 among the first 11 Maps results returned in this run.",
+        "Business observed at position 4 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-16",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "immobilien martin weiherer|muenchen|http://weiherer-immobilien.de/",
+      "company_name": "Immobilien Martin Weiherer",
+      "industry": "Immobilienmakler",
+      "city": "Muenchen",
+      "email": "info@weiherer-immobilien.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 89,
+      "visibility_tests": [
+        {
+          "query": "Immobilienmakler Muenchen",
           "status": "OBSERVED",
           "observed_position": 1,
           "results_checked": 11,
@@ -69,174 +208,19 @@
           "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Autowerkstatt in Muenchen",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
+          "query": "Immobilienmakler in Muenchen",
+          "status": "OBSERVED",
+          "observed_position": 1,
           "results_checked": 11,
-          "competitors_ahead": [
-            "KS AUTOGLAS ZENTRUM Dachau",
-            "Autohaus Gröbenzell GmbH & Co. KG",
-            "Auto München Kfz-Meisterbetrieb",
-            "Rudolf Dvorak GmbH",
-            "Gorans Werkstatt GmbH & Co. KG in München"
-          ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+          "competitors_ahead": [],
+          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
         }
       ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
       "visibility_evidence": [
         "Business observed at position 1 among the first 11 Maps results returned in this run.",
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-      ],
-      "visibility_date": "2026-09-16",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "dr. p. mayerhauser, kleintierpraxis im gewerbehof unterfeldweg|augsburg|https://www.tierarztpraxis-mayerhauser.de/",
-      "company_name": "Dr. P. Mayerhauser, Kleintierpraxis im Gewerbehof Unterfeldweg",
-      "industry": "Tierarzt",
-      "city": "Augsburg",
-      "email": "tierarztpraxis.dr.mayerhauser@t-online.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 94,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Augsburg",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "AniCura Kleintierspezialisten Augsburg",
-            "AniCura Tierärztliche Fachpraxis am Klinkerberg",
-            "Tierarztpraxis Andrea Henke in Augsburg",
-            "Tierarztpraxis am Roten Tor",
-            "Tierarztpraxis Bergheim"
-          ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-        },
-        {
-          "query": "Tierarzt in Augsburg",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "AniCura Kleintierspezialisten Augsburg",
-            "AniCura Tierärztliche Fachpraxis am Klinkerberg",
-            "Tierarztpraxis Bergheim",
-            "Tierarztpraxis Renata Danko",
-            "Tierarztpraxis Andrea Henke in Augsburg"
-          ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
-      "visibility_evidence": [
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-      ],
-      "visibility_date": "2026-09-16",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
-      "company_name": "Praxis für Tierheilkunde und Verhaltenstherapie",
-      "industry": "Tierarzt",
-      "city": "Sankt Augustin",
-      "email": "info@tierheilkunde-verhaltenstherapie.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 92,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Sankt Augustin",
-          "status": "OBSERVED",
-          "observed_position": 8,
-          "results_checked": 9,
-          "competitors_ahead": [
-            "Tierarzt Dr. Dietmar Braun",
-            "AniCura Tiergesundheitszentrum Sankt Augustin",
-            "Kleintierpraxis Kirsten Mertens",
-            "Kleintierpraxis Dr. med. vet. Guido Wygand",
-            "Tierarztpraxis am Wohnpark"
-          ],
-          "evidence": "Business observed at position 8 among the first 9 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Sankt Augustin",
-          "status": "OBSERVED",
-          "observed_position": 8,
-          "results_checked": 9,
-          "competitors_ahead": [
-            "AniCura Tiergesundheitszentrum Sankt Augustin",
-            "AniCura Tiergesundheitszentrum Sankt Augustin",
-            "Kleintierpraxis Kirsten Mertens",
-            "Kleintierpraxis Dr. med. vet. Guido Wygand",
-            "Tierarztpraxis am Wohnpark"
-          ],
-          "evidence": "Business observed at position 8 among the first 9 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 6,
-      "visibility_evidence": [
-        "Business observed at position 8 among the first 9 Maps results returned in this run.",
-        "Business observed at position 8 among the first 9 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-16",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
-      "company_name": "Medivet Tierarztpraxis Nürnberg",
-      "industry": "Tierarzt",
-      "city": "Nuernberg",
-      "email": "nuernberg@medivetgroup.com",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 92,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Nuernberg",
-          "status": "OBSERVED",
-          "observed_position": 5,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Tierärztliche Klinik Nürnberg (Hafen)",
-            "Tierklinik Am Stadtpark GmbH",
-            "felmo Mobiler Tierarzt Nürnberg",
-            "TierStadt GmbH"
-          ],
-          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Nuernberg",
-          "status": "OBSERVED",
-          "observed_position": 8,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Tierärztliche Klinik Nürnberg (Hafen)",
-            "felmo Mobiler Tierarzt Nürnberg",
-            "TierStadt GmbH",
-            "Tierklinik Am Stadtpark GmbH",
-            "Tierärzte am Nordring"
-          ],
-          "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 3,
-      "visibility_evidence": [
-        "Business observed at position 5 among the first 11 Maps results returned in this run.",
-        "Business observed at position 8 among the first 11 Maps results returned in this run."
+        "Business observed at position 1 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -245,7 +229,7 @@
     }
   ],
   "state": {
-    "runs": 23,
+    "runs": 24,
     "processed_ids": [
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -281,8 +265,10 @@
       "hilke friseur kopffabrik|hamburg|http://www.hilke-kopffabrik.de/",
       "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
       "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
+      "immobilien martin weiherer|muenchen|http://weiherer-immobilien.de/",
       "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
       "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
+      "johann achnitz gmbh|koeln|https://achnitz.dms-logistik.de/",
       "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/",
       "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
       "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
@@ -310,9 +296,11 @@
       "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
       "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
       "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
+      "rainer fischer immobilien|muenchen|https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
       "since eleven - friseure|koeln|https://www.since-eleven.de/",
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
       "tierarzt berlin prenzlauer berg, tierarztpraxis am arnimplatz|berlin|https://tierarztpraxis-arnimplatz.de/",
+      "tierarzt piliar|moenchengladbach|https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
       "tierarzt potsdam, tierarztpraxis activet potsdam|potsdam|https://activet-potsdam.de/",
       "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
       "tierarztpraxis am wohnpark|sankt augustin|https://kleintierpraxis-spieker.de/",
@@ -334,6 +322,7 @@
       "tierärztliche gemeinschaftspraxis viola daub & dr. med. vet. claudia szattelberger|koeln|http://www.tierarztpraxis-koeln-dellbrueck.de/",
       "tierärztliche praxis daglis|dortmund|http://www.tierarztpraxis-daglis.de/",
       "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
+      "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
       "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
       "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
       "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
@@ -344,10 +333,10 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 96,
+    "processed_count": 101,
     "last_batch_count": 5,
-    "remaining_eligible": 11,
-    "weak_visibility_total": 67,
+    "remaining_eligible": 13,
+    "weak_visibility_total": 70,
     "email_gate_rejected_count": 31,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

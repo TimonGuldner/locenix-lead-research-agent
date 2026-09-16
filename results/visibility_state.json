@@ -1,5 +1,5 @@
 {
-  "runs": 23,
+  "runs": 24,
   "processed_ids": [
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -35,8 +35,10 @@
     "hilke friseur kopffabrik|hamburg|http://www.hilke-kopffabrik.de/",
     "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
     "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
+    "immobilien martin weiherer|muenchen|http://weiherer-immobilien.de/",
     "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
     "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
+    "johann achnitz gmbh|koeln|https://achnitz.dms-logistik.de/",
     "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/",
     "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
     "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
@@ -64,9 +66,11 @@
     "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
     "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
     "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
+    "rainer fischer immobilien|muenchen|https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
     "since eleven - friseure|koeln|https://www.since-eleven.de/",
     "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
     "tierarzt berlin prenzlauer berg, tierarztpraxis am arnimplatz|berlin|https://tierarztpraxis-arnimplatz.de/",
+    "tierarzt piliar|moenchengladbach|https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
     "tierarzt potsdam, tierarztpraxis activet potsdam|potsdam|https://activet-potsdam.de/",
     "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
     "tierarztpraxis am wohnpark|sankt augustin|https://kleintierpraxis-spieker.de/",
@@ -88,6 +92,7 @@
     "tierärztliche gemeinschaftspraxis viola daub & dr. med. vet. claudia szattelberger|koeln|http://www.tierarztpraxis-koeln-dellbrueck.de/",
     "tierärztliche praxis daglis|dortmund|http://www.tierarztpraxis-daglis.de/",
     "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
+    "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
     "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
     "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
     "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
@@ -98,12 +103,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 96,
+  "processed_count": 101,
   "last_batch_count": 5,
-  "remaining_eligible": 11,
-  "weak_visibility_total": 67,
+  "remaining_eligible": 13,
+  "weak_visibility_total": 70,
   "email_gate_rejected_count": 31,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

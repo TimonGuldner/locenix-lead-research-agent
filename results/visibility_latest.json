@@ -1,49 +1,43 @@
 {
   "results": [
     {
-      "lead_id": "riedel immobilien gmbh - - immobilienmakler schwabing|muenchen|https://www.riedel-immobilien.de/immobilienmakler-schwabing/",
-      "company_name": "RIEDEL Immobilien GmbH - - Immobilienmakler Schwabing",
-      "industry": "Immobilienmakler",
-      "city": "Muenchen",
-      "email": "info@riedel-immobilien.de",
+      "lead_id": "dr.med.vet. dirk krüger|rostock|https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
+      "company_name": "Dr.med.vet. Dirk Krüger",
+      "industry": "Tierarzt",
+      "city": "Rostock",
+      "email": "info@tierarztportal.com",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 89,
+      "deep_qa_score": 86,
       "visibility_tests": [
         {
-          "query": "Immobilienmakler Muenchen",
+          "query": "Tierarzt Rostock",
           "status": "OBSERVED",
-          "observed_position": 6,
+          "observed_position": 3,
           "results_checked": 11,
           "competitors_ahead": [
-            "Immosmart GmbH",
-            "Wandl-Immobilien Immobilienmakler München",
-            "Hegerich Immobilien GmbH",
-            "David & Jacques Immobilien",
-            "Rainer Fischer Immobilien"
+            "Tierarzt/Tierklinik Rostock 24/7 Notfallklinik",
+            "Tierärztliche Gemeinschaftspraxis Dr.med.vet. Tido Winkler Dipl.vet.med. Barbara Richter"
           ],
-          "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Immobilienmakler in Muenchen",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
+          "query": "Tierarzt in Rostock",
+          "status": "OBSERVED",
+          "observed_position": 3,
           "results_checked": 11,
           "competitors_ahead": [
-            "Immobilien Martin Weiherer",
-            "Wohnen & Gut Leben GmbH",
-            "Wandl-Immobilien Immobilienmakler München",
-            "Rainer Fischer Immobilien",
-            "Immosmart GmbH"
+            "Tierarzt/Tierklinik Rostock 24/7 Notfallklinik",
+            "Tierärztliche Gemeinschaftspraxis Dr.med.vet. Tido Winkler Dipl.vet.med. Barbara Richter"
           ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
         }
       ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
       "visibility_evidence": [
-        "Business observed at position 6 among the first 11 Maps results returned in this run.",
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+        "Business observed at position 3 among the first 11 Maps results returned in this run.",
+        "Business observed at position 3 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -51,49 +45,49 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "ats umzug münchen|muenchen|http://www.ats-umzug-muenchen.de/",
-      "company_name": "ATS Umzug München",
-      "industry": "Umzugsunternehmen",
-      "city": "Muenchen",
-      "email": "service@ats-umzug.de",
+      "lead_id": "carolin pokriefke - kleintierpraxis am viewegsgarten|braunschweig|http://www.tierarztpraxis-viewegsgarten.de/",
+      "company_name": "Carolin Pokriefke - Kleintierpraxis am Viewegsgarten",
+      "industry": "Tierarzt",
+      "city": "Braunschweig",
+      "email": "post@tierarztpraxis-viewegsgarten.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
+      "deep_qa_score": 86,
       "visibility_tests": [
         {
-          "query": "Umzugsunternehmen Muenchen",
+          "query": "Tierarzt Braunschweig",
           "status": "OBSERVED",
           "observed_position": 11,
           "results_checked": 11,
           "competitors_ahead": [
-            "Lechner Umzüge - MoveOn",
-            "Europcar München Hauptbahnhof",
-            "Paultrans Umzüge | Umzugsunternehmen München",
-            "Fröhliche Umzüge",
-            "Express Umzugsservice GmbH"
+            "Fachtierarztpraxis Am Erzberg",
+            "Dr. Daniel Mertens; Tierarztpraxis am Prinzenpark",
+            "Fachärztliches Zentrum – Dr. Helge Tholen Fachtierarzt für Kleintiere",
+            "Kleintierpraxis an der Oker - Ihr Tierarzt in Braunschweig",
+            "Tierarztpraxis Wenden - Kleintierpraxis Sonja Werner in Braunschweig"
           ],
           "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Umzugsunternehmen in Muenchen",
+          "query": "Tierarzt in Braunschweig",
           "status": "OBSERVED",
-          "observed_position": 9,
+          "observed_position": 10,
           "results_checked": 11,
           "competitors_ahead": [
-            "Lechner Umzüge - MoveOn",
-            "Europcar München Hauptbahnhof",
-            "Fröhliche Umzüge",
-            "LASTENTAXI MÜNCHEN",
-            "Express Umzugsservice GmbH"
+            "Dr. Daniel Mertens; Tierarztpraxis am Prinzenpark",
+            "Fachtierarztpraxis Am Erzberg",
+            "Fachärztliches Zentrum – Dr. Helge Tholen Fachtierarzt für Kleintiere",
+            "Kleintierpraxis an der Oker - Ihr Tierarzt in Braunschweig",
+            "Tierarztpraxis Wenden - Kleintierpraxis Sonja Werner in Braunschweig"
           ],
-          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 10 among the first 11 Maps results returned in this run."
         }
       ],
       "weak_visibility_observed": true,
       "visibility_opportunity_score": 6,
       "visibility_evidence": [
         "Business observed at position 11 among the first 11 Maps results returned in this run.",
-        "Business observed at position 9 among the first 11 Maps results returned in this run."
+        "Business observed at position 10 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -101,146 +95,133 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "praxis für kleintiermedizin dr. götte|krefeld|http://www.tierzentrum-krefeld.de/",
-      "company_name": "Praxis für Kleintiermedizin Dr. Götte",
-      "industry": "Tierarzt",
-      "city": "Krefeld",
-      "email": "info@tierzentrum-krefeld.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 87,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Krefeld",
-          "status": "OBSERVED",
-          "observed_position": 5,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Animal Tree Tierbestattung - Tierkrematorium Willich",
-            "Kleintierzentrum AniCura Duisburg-Asterlagen",
-            "AniCura Tierärztliche Praxis für Kleintiere Krefeld",
-            "Tierarztpraxis Verberg"
-          ],
-          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Krefeld",
-          "status": "OBSERVED",
-          "observed_position": 4,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Animal Tree Tierbestattung - Tierkrematorium Willich",
-            "Tierarztpraxis Steffen",
-            "AniCura Tierärztliche Praxis für Kleintiere Krefeld"
-          ],
-          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 3,
-      "visibility_evidence": [
-        "Business observed at position 5 among the first 11 Maps results returned in this run.",
-        "Business observed at position 4 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-16",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
-      "company_name": "Dr. med. vet. Stefan Kozak - Mönchengladbach",
-      "industry": "Tierarzt",
-      "city": "Moenchengladbach",
-      "email": "info@gmail.com",
+      "lead_id": "implaneo dental clinic|muenchen|https://www.implaneo.de/",
+      "company_name": "implaneo Dental Clinic",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "email": "info@implaneo.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
       "deep_qa_score": 86,
       "visibility_tests": [
         {
-          "query": "Tierarzt Moenchengladbach",
-          "status": "OBSERVED",
-          "observed_position": 11,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Animal Tree Tierbestattung - Tierkrematorium Willich",
-            "Tierarztpraxis Steffen",
-            "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
-            "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
-            "AniCura Bökelberg GmbH"
-          ],
-          "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Moenchengladbach",
-          "status": "OBSERVED",
-          "observed_position": 11,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Animal Tree Tierbestattung - Tierkrematorium Willich",
-            "Tierarztpraxis Steffen",
-            "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
-            "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
-            "AniCura Bökelberg GmbH"
-          ],
-          "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 8,
-      "visibility_evidence": [
-        "Business observed at position 11 among the first 11 Maps results returned in this run.",
-        "Business observed at position 11 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-16",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "tierärztliche praxis elena waldhier|nuernberg|http://www.tierarzt-ziegelstein.de/",
-      "company_name": "Tierärztliche Praxis Elena Waldhier",
-      "industry": "Tierarzt",
-      "city": "Nuernberg",
-      "email": "tierarzt-ziegelstein@gmx.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Nuernberg",
+          "query": "Zahnarzt Muenchen",
           "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
           "observed_position": null,
-          "results_checked": 11,
+          "results_checked": 8,
           "competitors_ahead": [
-            "Animal Tree Tierbestattung - Nürnberg",
-            "Tierärztliche Klinik Nürnberg (Hafen)",
-            "Tierärzte am Nordring",
-            "Tierklinik Am Stadtpark GmbH",
-            "felmo Mobiler Tierarzt Nürnberg"
+            "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
+            "DEIN DENTAL Unterhaching",
+            "AllDent Zahnzentrum München",
+            "dent + face Zahnzentrum München",
+            "AllDent Zahnzentrum München Ost"
           ],
-          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
         },
         {
-          "query": "Tierarzt in Nuernberg",
-          "status": "OBSERVED",
-          "observed_position": 9,
-          "results_checked": 11,
+          "query": "Zahnarzt in Muenchen",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 8,
           "competitors_ahead": [
-            "Animal Tree Tierbestattung - Nürnberg",
-            "Tierärztliche Klinik Nürnberg (Hafen)",
-            "Tierärzte am Nordring",
-            "TierStadt GmbH",
-            "felmo Mobiler Tierarzt Nürnberg"
+            "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
+            "Dr. med. dent Birgit Heberle",
+            "Zahnarzt München - Dental21",
+            "AllDent Zahnzentrum München",
+            "dent + face Zahnzentrum München"
           ],
-          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
+          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
         }
       ],
       "weak_visibility_observed": true,
       "visibility_opportunity_score": 10,
       "visibility_evidence": [
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
-        "Business observed at position 9 among the first 11 Maps results returned in this run."
+        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim.",
+        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+      ],
+      "visibility_date": "2026-09-16",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "dr.med.vet tina brahm|dortmund|http://kleintierpraxis-am-wall.de/",
+      "company_name": "Dr.med.vet Tina Brahm",
+      "industry": "Tierarzt",
+      "city": "Dortmund",
+      "email": "info@kleintierpraxis-am-wall.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "visibility_tests": [
+        {
+          "query": "Tierarzt Dortmund",
+          "status": "OBSERVED",
+          "observed_position": 2,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Dr. Ostermann"
+          ],
+          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Tierarzt in Dortmund",
+          "status": "OBSERVED",
+          "observed_position": 3,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Dr. med. vet. Kai Boye",
+            "Tierärztliche Praxis für Kleintiere Scharnhorst GmbH"
+          ],
+          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
+      "visibility_evidence": [
+        "Business observed at position 2 among the first 11 Maps results returned in this run.",
+        "Business observed at position 3 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-16",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "kleintierpraxis bielefeld dr. silke mehlhose-koch|bielefeld|https://www.kleintierpraxis-bielefeld.de/",
+      "company_name": "Kleintierpraxis Bielefeld Dr. Silke Mehlhose-Koch",
+      "industry": "Tierarzt",
+      "city": "Bielefeld",
+      "email": "info@kleintierpraxis-bielefeld.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "visibility_tests": [
+        {
+          "query": "Tierarzt Bielefeld",
+          "status": "OBSERVED",
+          "observed_position": 3,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "AniCura Bielefeld",
+            "AniCura Bielefeld"
+          ],
+          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Tierarzt in Bielefeld",
+          "status": "OBSERVED",
+          "observed_position": 1,
+          "results_checked": 11,
+          "competitors_ahead": [],
+          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": false,
+      "visibility_opportunity_score": 1,
+      "visibility_evidence": [
+        "Business observed at position 3 among the first 11 Maps results returned in this run.",
+        "Business observed at position 1 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -249,7 +230,7 @@
     }
   ],
   "state": {
-    "runs": 25,
+    "runs": 26,
     "processed_ids": [
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -261,11 +242,14 @@
       "beauty & aesthetics oe studio|hamburg|https://beautyandaesthetics.de/",
       "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
       "bsn fahrschule|braunschweig|http://bsn-fahrschule.de/",
+      "carolin pokriefke - kleintierpraxis am viewegsgarten|braunschweig|http://www.tierarztpraxis-viewegsgarten.de/",
       "city fahrschule braunschweig|braunschweig|https://www.cityfahrschulebs.info/",
       "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
       "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
       "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
       "dr. p. mayerhauser, kleintierpraxis im gewerbehof unterfeldweg|augsburg|https://www.tierarztpraxis-mayerhauser.de/",
+      "dr.med.vet tina brahm|dortmund|http://kleintierpraxis-am-wall.de/",
+      "dr.med.vet. dirk krüger|rostock|https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
       "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
       "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
       "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
@@ -289,6 +273,7 @@
       "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
       "immobilien martin weiherer|muenchen|http://weiherer-immobilien.de/",
       "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
+      "implaneo dental clinic|muenchen|https://www.implaneo.de/",
       "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
       "johann achnitz gmbh|koeln|https://achnitz.dms-logistik.de/",
       "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/",
@@ -296,6 +281,7 @@
       "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
       "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
       "kleintierpraxis berg|bremen|https://www.tieraerztin-berg.de/",
+      "kleintierpraxis bielefeld dr. silke mehlhose-koch|bielefeld|https://www.kleintierpraxis-bielefeld.de/",
       "kleintierpraxis heidelberg hans neumann|heidelberg|https://kleintierpraxis-heidelberg.com/",
       "kleintierpraxis karlsruhe dr. magdalena behrendt-wippermann|karlsruhe|http://www.kleintierpraxiskarlsruhe.de/",
       "kleintierpraxis wimmer|braunschweig|http://www.kleintierpraxis-wimmer.de/",
@@ -358,10 +344,10 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 106,
+    "processed_count": 111,
     "last_batch_count": 5,
-    "remaining_eligible": 8,
-    "weak_visibility_total": 74,
+    "remaining_eligible": 3,
+    "weak_visibility_total": 76,
     "email_gate_rejected_count": 31,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

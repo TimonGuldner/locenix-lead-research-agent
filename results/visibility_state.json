@@ -1,5 +1,5 @@
 {
-  "runs": 22,
+  "runs": 23,
   "processed_ids": [
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -13,6 +13,7 @@
     "city fahrschule braunschweig|braunschweig|https://www.cityfahrschulebs.info/",
     "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
+    "dr. p. mayerhauser, kleintierpraxis im gewerbehof unterfeldweg|augsburg|https://www.tierarztpraxis-mayerhauser.de/",
     "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
     "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
     "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
@@ -35,6 +36,7 @@
     "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
     "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
     "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
+    "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
     "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/",
     "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
     "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
@@ -46,9 +48,11 @@
     "kleintierzentrum bonn hardtberg|bonn|https://www.kleintierzentrum-bonn.de/",
     "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
     "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
+    "ks autoglas zentrum germering|muenchen|https://germering.ksautoglas.com/",
     "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
     "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
     "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
+    "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
     "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
     "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
     "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
@@ -58,6 +62,7 @@
     "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
     "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
     "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
+    "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
     "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
     "since eleven - friseure|koeln|https://www.since-eleven.de/",
     "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -93,12 +98,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 91,
+  "processed_count": 96,
   "last_batch_count": 5,
-  "remaining_eligible": 6,
-  "weak_visibility_total": 62,
+  "remaining_eligible": 11,
+  "weak_visibility_total": 67,
   "email_gate_rejected_count": 31,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

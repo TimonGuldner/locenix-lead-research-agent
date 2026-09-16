@@ -1,84 +1,134 @@
 {
   "results": [
     {
-      "lead_id": "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
-      "company_name": "msd-photography fotostudio köln",
-      "industry": "Fotograf",
-      "city": "Koeln",
-      "email": "info@msd-photography.de",
+      "lead_id": "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
+      "company_name": "ISARDENT® | Kieferorthopädie & Kinderzahnarzt München-Freiham",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "email": "info@isardent-freiham.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 96,
       "visibility_tests": [
         {
-          "query": "Fotograf Koeln",
-          "status": "OBSERVED",
-          "observed_position": 3,
-          "results_checked": 11,
+          "query": "Zahnarzt Muenchen",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 8,
           "competitors_ahead": [
-            "Studio Schloen",
-            "Fotostudio Helle Kammer"
+            "AllDent Zahnzentrum München",
+            "dent + face Zahnzentrum München",
+            "AllDent Zahnzentrum München Ost",
+            "Zahnärzte am Gärtnerplatz 1",
+            "Zahnarzt München am Marienplatz - Dr. Tomas Hoischen & Dr. Matthias Kelch"
           ],
-          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
         },
         {
-          "query": "Fotograf in Koeln",
-          "status": "OBSERVED",
-          "observed_position": 3,
-          "results_checked": 11,
+          "query": "Zahnarzt in Muenchen",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 8,
           "competitors_ahead": [
-            "Jenny Egerer Fotografie Hochzeitsfotograf Köln",
-            "Fotostudio Helle Kammer"
+            "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
+            "Dr. Barth Dr. Naumann Zahnarzt Schwabing | Hohenzollernplatz",
+            "Zahnarzt München - Dental21",
+            "AllDent Zahnzentrum München",
+            "Zahnarzt Stachus München Innenstadt - Munich Dental Works"
           ],
-          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
         }
       ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
       "visibility_evidence": [
-        "Business observed at position 3 among the first 11 Maps results returned in this run.",
-        "Business observed at position 3 among the first 11 Maps results returned in this run."
+        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim.",
+        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
       ],
-      "visibility_date": "2026-09-15",
+      "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
       "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "tierarztpraxis hamburg berne - tierärztin linda brüggemann|hamburg|https://www.tierarzt-hamburg-berne.de/",
-      "company_name": "Tierarztpraxis Hamburg Berne - Tierärztin Linda Brüggemann",
-      "industry": "Tierarzt",
-      "city": "Hamburg",
-      "email": "info@tierarzt-hamburg-berne.de",
+      "lead_id": "ks autoglas zentrum germering|muenchen|https://germering.ksautoglas.com/",
+      "company_name": "KS AUTOGLAS ZENTRUM Germering",
+      "industry": "Autowerkstatt",
+      "city": "Muenchen",
+      "email": "info@ksautoglas.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 88,
+      "deep_qa_score": 94,
       "visibility_tests": [
         {
-          "query": "Tierarzt Hamburg",
+          "query": "Autowerkstatt Muenchen",
+          "status": "OBSERVED",
+          "observed_position": 1,
+          "results_checked": 11,
+          "competitors_ahead": [],
+          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Autowerkstatt in Muenchen",
           "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
           "observed_position": null,
           "results_checked": 11,
           "competitors_ahead": [
-            "AniCura Quickborn GbR",
-            "Kleintierpraxis Blankenese Dr. Daniel Böttner",
-            "felmo Mobiler Tierarzt Hamburg",
-            "Die Hamburger Tierärzte - Florian Grosser und Dr. med. vet. Ulf Krohn",
-            "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin"
+            "KS AUTOGLAS ZENTRUM Dachau",
+            "Autohaus Gröbenzell GmbH & Co. KG",
+            "Auto München Kfz-Meisterbetrieb",
+            "Rudolf Dvorak GmbH",
+            "Gorans Werkstatt GmbH & Co. KG in München"
+          ],
+          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
+      "visibility_evidence": [
+        "Business observed at position 1 among the first 11 Maps results returned in this run.",
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      ],
+      "visibility_date": "2026-09-16",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "dr. p. mayerhauser, kleintierpraxis im gewerbehof unterfeldweg|augsburg|https://www.tierarztpraxis-mayerhauser.de/",
+      "company_name": "Dr. P. Mayerhauser, Kleintierpraxis im Gewerbehof Unterfeldweg",
+      "industry": "Tierarzt",
+      "city": "Augsburg",
+      "email": "tierarztpraxis.dr.mayerhauser@t-online.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 94,
+      "visibility_tests": [
+        {
+          "query": "Tierarzt Augsburg",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "AniCura Kleintierspezialisten Augsburg",
+            "AniCura Tierärztliche Fachpraxis am Klinkerberg",
+            "Tierarztpraxis Andrea Henke in Augsburg",
+            "Tierarztpraxis am Roten Tor",
+            "Tierarztpraxis Bergheim"
           ],
           "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
         },
         {
-          "query": "Tierarzt in Hamburg",
+          "query": "Tierarzt in Augsburg",
           "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
           "observed_position": null,
           "results_checked": 11,
           "competitors_ahead": [
-            "Kleintierpraxis Blankenese Dr. Daniel Böttner",
-            "felmo Mobiler Tierarzt Hamburg",
-            "Dr. Fenske Tierarztpraxis Hamburg Bergedorf für Kleintiere und Vögel",
-            "filu Tierarztpraxis Hoheluft - Allgemein- und Notfallmedizin",
-            "Tiermedizin am Rothenbaum Deckena & Dr. Elsner GmbH"
+            "AniCura Kleintierspezialisten Augsburg",
+            "AniCura Tierärztliche Fachpraxis am Klinkerberg",
+            "Tierarztpraxis Bergheim",
+            "Tierarztpraxis Renata Danko",
+            "Tierarztpraxis Andrea Henke in Augsburg"
           ],
           "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
         }
@@ -89,136 +139,95 @@
         "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
         "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
       ],
-      "visibility_date": "2026-09-15",
+      "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
       "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "tierarztpraxis holt dr. kathagen, dr. riecken, dr. sixt|moenchengladbach|http://www.fachtierarztpraxis-holt.de/",
-      "company_name": "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
+      "lead_id": "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
+      "company_name": "Praxis für Tierheilkunde und Verhaltenstherapie",
       "industry": "Tierarzt",
-      "city": "Moenchengladbach",
-      "email": "info@fachtierarztpraxis-holt.de",
+      "city": "Sankt Augustin",
+      "email": "info@tierheilkunde-verhaltenstherapie.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 87,
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 92,
       "visibility_tests": [
         {
-          "query": "Tierarzt Moenchengladbach",
+          "query": "Tierarzt Sankt Augustin",
           "status": "OBSERVED",
-          "observed_position": 3,
-          "results_checked": 11,
+          "observed_position": 8,
+          "results_checked": 9,
           "competitors_ahead": [
-            "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
-            "AniCura Bökelberg GmbH"
+            "Tierarzt Dr. Dietmar Braun",
+            "AniCura Tiergesundheitszentrum Sankt Augustin",
+            "Kleintierpraxis Kirsten Mertens",
+            "Kleintierpraxis Dr. med. vet. Guido Wygand",
+            "Tierarztpraxis am Wohnpark"
           ],
-          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 8 among the first 9 Maps results returned in this run."
         },
         {
-          "query": "Tierarzt in Moenchengladbach",
+          "query": "Tierarzt in Sankt Augustin",
           "status": "OBSERVED",
-          "observed_position": 4,
-          "results_checked": 11,
+          "observed_position": 8,
+          "results_checked": 9,
           "competitors_ahead": [
-            "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
-            "AniCura Bökelberg GmbH",
-            "Dr. med. vet. Susanne Matthei"
+            "AniCura Tiergesundheitszentrum Sankt Augustin",
+            "AniCura Tiergesundheitszentrum Sankt Augustin",
+            "Kleintierpraxis Kirsten Mertens",
+            "Kleintierpraxis Dr. med. vet. Guido Wygand",
+            "Tierarztpraxis am Wohnpark"
           ],
-          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 8 among the first 9 Maps results returned in this run."
         }
       ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 6,
       "visibility_evidence": [
-        "Business observed at position 3 among the first 11 Maps results returned in this run.",
-        "Business observed at position 4 among the first 11 Maps results returned in this run."
+        "Business observed at position 8 among the first 9 Maps results returned in this run.",
+        "Business observed at position 8 among the first 9 Maps results returned in this run."
       ],
-      "visibility_date": "2026-09-15",
+      "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
       "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "barbershop am rudolfplatz - köln|koeln|https://www.friseur-am-rudolfplatz.de/",
-      "company_name": "Barbershop Am Rudolfplatz - Köln",
-      "industry": "Barbershop",
-      "city": "Koeln",
-      "email": "team@friseur-am-rudolfplatz.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 87,
-      "visibility_tests": [
-        {
-          "query": "Barbershop Koeln",
-          "status": "OBSERVED",
-          "observed_position": 4,
-          "results_checked": 8,
-          "competitors_ahead": [
-            "Barbershop Just Men 10",
-            "Barbershop Tiraschci",
-            "Barbershop Cologne"
-          ],
-          "evidence": "Business observed at position 4 among the first 8 Maps results returned in this run."
-        },
-        {
-          "query": "Barbershop in Koeln",
-          "status": "OBSERVED",
-          "observed_position": 4,
-          "results_checked": 8,
-          "competitors_ahead": [
-            "Barbershop Just Men 10",
-            "Barbershop just men 7.0",
-            "Barbershop Tiraschci"
-          ],
-          "evidence": "Business observed at position 4 among the first 8 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 3,
-      "visibility_evidence": [
-        "Business observed at position 4 among the first 8 Maps results returned in this run.",
-        "Business observed at position 4 among the first 8 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-15",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
-      "company_name": "Mobiler Tierarzt Ryanvet für Notdienst",
+      "lead_id": "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
+      "company_name": "Medivet Tierarztpraxis Nürnberg",
       "industry": "Tierarzt",
-      "city": "Mannheim",
-      "email": "info@ryanvet.de",
+      "city": "Nuernberg",
+      "email": "nuernberg@medivetgroup.com",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 92,
       "visibility_tests": [
         {
-          "query": "Tierarzt Mannheim",
+          "query": "Tierarzt Nuernberg",
           "status": "OBSERVED",
           "observed_position": 5,
           "results_checked": 11,
           "competitors_ahead": [
-            "felmo Mobiler Tierarzt Mannheim",
-            "Tierarztpraxis Dr.vet. Stupar",
-            "Kleintierpraxis Wendel | Inh. Dr. Fabian Wendel",
-            "Medivet Tierarztpraxis Mannheim"
+            "Tierärztliche Klinik Nürnberg (Hafen)",
+            "Tierklinik Am Stadtpark GmbH",
+            "felmo Mobiler Tierarzt Nürnberg",
+            "TierStadt GmbH"
           ],
           "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Tierarzt in Mannheim",
+          "query": "Tierarzt in Nuernberg",
           "status": "OBSERVED",
           "observed_position": 8,
           "results_checked": 11,
           "competitors_ahead": [
-            "felmo Mobiler Tierarzt Mannheim",
-            "Medivet Tierarztpraxis Mannheim",
-            "Tierarztpraxis Dr.vet. Stupar",
-            "Dr. med. vet. Robert Hausner Tierarztpraxis",
-            "Kleintierpraxis Wendel | Inh. Dr. Fabian Wendel"
+            "Tierärztliche Klinik Nürnberg (Hafen)",
+            "felmo Mobiler Tierarzt Nürnberg",
+            "TierStadt GmbH",
+            "Tierklinik Am Stadtpark GmbH",
+            "Tierärzte am Nordring"
           ],
           "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
         }
@@ -229,14 +238,14 @@
         "Business observed at position 5 among the first 11 Maps results returned in this run.",
         "Business observed at position 8 among the first 11 Maps results returned in this run."
       ],
-      "visibility_date": "2026-09-15",
+      "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
       "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
   "state": {
-    "runs": 22,
+    "runs": 23,
     "processed_ids": [
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -250,6 +259,7 @@
       "city fahrschule braunschweig|braunschweig|https://www.cityfahrschulebs.info/",
       "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
       "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
+      "dr. p. mayerhauser, kleintierpraxis im gewerbehof unterfeldweg|augsburg|https://www.tierarztpraxis-mayerhauser.de/",
       "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
       "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
       "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
@@ -272,6 +282,7 @@
       "hundesalon miez&mops|berlin|https://www.miez-mops.com/",
       "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
       "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
+      "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
       "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/",
       "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
       "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
@@ -283,9 +294,11 @@
       "kleintierzentrum bonn hardtberg|bonn|https://www.kleintierzentrum-bonn.de/",
       "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
       "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
+      "ks autoglas zentrum germering|muenchen|https://germering.ksautoglas.com/",
       "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
       "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
       "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
+      "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
       "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
       "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
       "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
@@ -295,6 +308,7 @@
       "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
       "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
       "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
+      "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
       "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
       "since eleven - friseure|koeln|https://www.since-eleven.de/",
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -330,10 +344,10 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 91,
+    "processed_count": 96,
     "last_batch_count": 5,
-    "remaining_eligible": 6,
-    "weak_visibility_total": 62,
+    "remaining_eligible": 11,
+    "weak_visibility_total": 67,
     "email_gate_rejected_count": 31,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

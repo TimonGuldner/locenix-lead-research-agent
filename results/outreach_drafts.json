@@ -201,7 +201,7 @@
   },
   {
     "lead_id": "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
-    "airtable_record_id": "recY2GORsEdGPIVIM",
+    "airtable_record_id": "recCAvAQxXMq4NuuL",
     "company_name": "Tierarztpraxis Tierärztlicher Notfalldienst - in der HAFENCITY- jeden Tag am selben Ort",
     "industry": "Tierarzt",
     "city": "Hamburg",
@@ -215,13 +215,13 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-15T15:40:46.810835+00:00",
+    "generated_at": "2026-09-16T11:25:37.407260+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
   {
     "lead_id": "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/",
-    "airtable_record_id": "recrCr209QXAoTDhn",
+    "airtable_record_id": "recaiLiladsRPQjZM",
     "company_name": "Zahnarzt München Zentrum Dr. Rüdiger Hansen",
     "industry": "Zahnarzt",
     "city": "Muenchen",
@@ -235,7 +235,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-15T15:40:46.810835+00:00",
+    "generated_at": "2026-09-16T11:25:37.407260+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -255,13 +255,13 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-15T15:40:46.810835+00:00",
+    "generated_at": "2026-09-16T11:25:37.407260+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
   {
     "lead_id": "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
-    "airtable_record_id": "recRQ11g9gOeOHbBj",
+    "airtable_record_id": "reciYLHi7RxxbOMn6",
     "company_name": "myPhysio Physiotherapie Köln Am Gürzenich (Privatpatienten&Selbstzahler)",
     "industry": "Physiotherapie",
     "city": "Koeln",
@@ -275,13 +275,13 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-15T15:40:46.810835+00:00",
+    "generated_at": "2026-09-16T11:25:37.407260+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
   {
     "lead_id": "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
-    "airtable_record_id": "rectjLZAnBa276FQS",
+    "airtable_record_id": "recc42wJxieCnK1ju",
     "company_name": "DOM Haustechnik e.K. Sanitär | Heizung | Badsanierung | Wärmepumpe",
     "industry": "Sanitaer Heizung",
     "city": "Koeln",
@@ -295,7 +295,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-15T15:40:46.810835+00:00",
+    "generated_at": "2026-09-16T11:25:37.407260+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -415,7 +415,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-15T15:40:46.810835+00:00",
+    "generated_at": "2026-09-16T11:25:37.407260+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -435,7 +435,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-15T15:40:46.810835+00:00",
+    "generated_at": "2026-09-16T11:25:37.407260+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -455,7 +455,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-15T15:40:46.810835+00:00",
+    "generated_at": "2026-09-16T11:25:37.407260+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -475,7 +475,27 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-15T15:40:46.810835+00:00",
+    "generated_at": "2026-09-16T11:25:37.407260+00:00",
+    "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
+    "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
+  },
+  {
+    "lead_id": "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
+    "airtable_record_id": "recUCVmQ4ofzOu7MB",
+    "company_name": "ISARDENT® | Kieferorthopädie & Kinderzahnarzt München-Freiham",
+    "industry": "Zahnarzt",
+    "city": "Muenchen",
+    "website": "http://www.isardent-freiham.de/",
+    "google_maps_url": "https://www.google.com/maps/place/ISARDENT%C2%AE+%7C+Kieferorthop%C3%A4die+%26+Kinderzahnarzt+M%C3%BCnchen-Freiham/data=!4m7!3m6!1s0x479dd78bb0ee6a47:0x3ceb98596e653f60!8m2!3d48.141115!4d11.408495!16s%2Fg%2F11zj1q3rbd!19sChIJR2rusIvXnUcRYD9lblmY6zw?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "priority_score": 100,
+    "deep_qa_decision": "FINAL_A",
+    "verified_basis": "Verified source data: 19 reviews vs. comparison median 297; gap 278.",
+    "draft_channel": "LINKEDIN_OR_MANUAL_LEGAL_CHANNEL",
+    "draft_message": "Hi, ich habe mir euer Google-Maps-Profil kurz angesehen. Dabei ist mir aufgefallen, dass euer Profil hat aktuell 19 Bewertungen; der Vergleichswert der geprüften Wettbewerber liegt bei 297 Bewertungen. Da könnte noch Potenzial für mehr lokale Sichtbarkeit in Muenchen liegen. Wenn du möchtest, erstelle ich dir kostenlos einen kurzen Local Visibility Check und schicke dir die wichtigsten Hebel.",
+    "draft_status": "READY_FOR_HUMAN_REVIEW",
+    "send_status": "NOT_SENT",
+    "automatic_send_allowed": false,
+    "generated_at": "2026-09-16T11:25:37.407260+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   }

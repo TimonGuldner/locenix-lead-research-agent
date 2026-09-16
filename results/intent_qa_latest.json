@@ -1,13 +1,13 @@
 {
   "state": {
     "agent": "AGENT_15B_INTENT_QA",
-    "last_run_at": "2026-09-16T13:30:32.434331+00:00",
+    "last_run_at": "2026-09-16T18:12:13.902056+00:00",
     "pending": 0,
-    "hot": 13,
-    "warm": 3,
+    "hot": 17,
+    "warm": 4,
     "watch": 0,
     "rejected": 4,
-    "airtable_created": 13,
+    "airtable_created": 18,
     "airtable_updated": 4,
     "quarantined": 4,
     "errors": 0
@@ -88,8 +88,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-16T13:30:32.434331+00:00",
-      "airtable_record_id": "recAiFRLVIebqYDRX"
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recVbTuTWkos9y6Du"
     },
     {
       "signal_id": "intent-1a64f0f7eecea5df",
@@ -112,8 +112,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-16T13:30:32.434331+00:00",
-      "airtable_record_id": "recRgBJVj9rZvRaSB"
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recQokIAFftdtrYb3"
     },
     {
       "signal_id": "intent-2011b4a6ecb7adae",
@@ -136,8 +136,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-16T13:30:32.434331+00:00",
-      "airtable_record_id": "recyn9lZbbdI5CoNU"
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "rec18LWK4sksOI27X"
     },
     {
       "signal_id": "intent-2d262a0f2b2d9bd4",
@@ -160,8 +160,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-16T13:30:32.434331+00:00",
-      "airtable_record_id": "recqtsr7b5GKTV8MG"
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recb0q7AnumYCbj8f"
     },
     {
       "signal_id": "intent-bcbc1f7a5e477b76",
@@ -184,8 +184,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-16T13:30:32.434331+00:00",
-      "airtable_record_id": "recnnTntP114moGZv"
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recqssrXWHpuUFe6M"
     },
     {
       "signal_id": "intent-72356faa6df8e726",
@@ -208,8 +208,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-16T13:30:32.434331+00:00",
-      "airtable_record_id": "recx9QUvFgNazrDQu"
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recKR2Uz5qkTV4BtW"
     },
     {
       "signal_id": "intent-597644a0bdf58703",
@@ -232,8 +232,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-16T13:30:32.434331+00:00",
-      "airtable_record_id": "recVHObNg7ES3oRgP"
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recGonqrs6wzW6OoV"
     },
     {
       "signal_id": "intent-014890ef2627ed38",
@@ -256,8 +256,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-16T13:30:32.434331+00:00",
-      "airtable_record_id": "recl7hzzSbDWrMYkR"
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "receS5xTUAIQ9Gmq3"
     },
     {
       "signal_id": "intent-831983a748b2ab68",
@@ -280,8 +280,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-16T13:30:32.434331+00:00",
-      "airtable_record_id": "recKNTdRj4ap7oueq"
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recJOj91H47MnIwI0"
     },
     {
       "signal_id": "intent-e4535c08a79d6e21",
@@ -304,8 +304,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-16T13:30:32.434331+00:00",
-      "airtable_record_id": "rec7HdB7i7QbgmhZR"
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "rec6JIpQPrtylV0W6"
     },
     {
       "signal_id": "intent-75380c82bceafb1e",
@@ -328,8 +328,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-16T13:30:32.434331+00:00",
-      "airtable_record_id": "rechemLxY1Ag0pYUP"
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recU88t6vaeGjDthg"
     },
     {
       "signal_id": "intent-d665286f0debdc3e",
@@ -352,8 +352,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-16T13:30:32.434331+00:00",
-      "airtable_record_id": "reczXdv8hIlvIIPf2"
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recvWmQXHvQ1EHngN"
     },
     {
       "signal_id": "intent-59c327811eaffb64",
@@ -376,8 +376,128 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-16T13:30:32.434331+00:00",
-      "airtable_record_id": "recupODKDPOeYnZZo"
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recBqiJ56kWjVRViG"
+    },
+    {
+      "signal_id": "intent-8dad94b0095cbb47",
+      "source": "softwareu.de",
+      "source_url": "https://softwareu.de/tutorials/local-seo-fuer-freelancer-deutschland-google-business-profile",
+      "title": "Local SEO Freelancer Deutschland | softwareu Tutorial | softwareu",
+      "snippet": "softwareu.de\nhttps://softwareu.de › tutorials › local-seo-fuer...\nLocal SEO Freelancer Deutschland | softwareu Tutorial | softwareu\n\nLocal-SEO-Anleitung für Freelancer und KMU in Deutschland mit Fokus auf Hamburg, Niedersachsen und Norddeutschland.",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-09-16T18:12:08.572121+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true,
+      "tier": "HOT",
+      "intent_score": 100,
+      "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recZxcDLLDkxQbI8K"
+    },
+    {
+      "signal_id": "intent-c47f0ef59137f521",
+      "source": "upwork.com",
+      "source_url": "https://www.upwork.com/freelance-jobs/apply/German-speaking-Closer-for-Website-Local-SEO-Services_~022070721622767286452/",
+      "title": "German-speaking Closer for Website & Local SEO Services",
+      "snippet": "Upwork\nhttps://www.upwork.com › freelance-jobs › apply › Germ…\nDieses Ergebnis übersetzen\nGerman-speaking Closer for Website & Local SEO Services\n\nGerman-Speaking Sales Caller / Closer for Warm Leads (Local SEO & Website Optimization) We are looking for a native German …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 4,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": true
+      },
+      "detected_at": "2026-09-16T18:12:08.572121+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true,
+      "tier": "HOT",
+      "intent_score": 100,
+      "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recjPuiFOsLmHSgvs"
+    },
+    {
+      "signal_id": "intent-57a7954d9623960a",
+      "source": "webdienster.de",
+      "source_url": "https://www.webdienster.de/blog/lokale-seo-freelancer",
+      "title": "Lokale SEO für Freelancer - webdienster.de",
+      "snippet": "webdienster.de\nhttps://www.webdienster.de › blog › lokale-seo-freelancer\nLokale SEO für Freelancer - webdienster.de\n\n29. Jan. 2026 · In diesem umfassenden Guide erkläre ich, wie du als Freelancer deine lokale Sichtbarkeit maximierst – von Google …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-09-16T18:12:08.572121+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true,
+      "tier": "HOT",
+      "intent_score": 100,
+      "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recKN2lkhPKFAzZYQ"
+    },
+    {
+      "signal_id": "intent-72c86ea922186325",
+      "source": "upwork.com",
+      "source_url": "https://www.upwork.com/freelance-jobs/apply/Local-SEO-Google-Business-Profile-Expert_~022078896664531354244/",
+      "title": "Local SEO & Google Business Profile Expert - Upwork",
+      "snippet": "Upwork\nhttps://www.upwork.com › freelance-jobs › apply › Local...\nDieses Ergebnis übersetzen\nLocal SEO & Google Business Profile Expert - Upwork\n\nProven experience in Local SEO and managing Google Business Profiles for service-based or home-service businesses. Strong …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 5,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 3,
+        "active_intent_hits": 0,
+        "marketplace_listing": true
+      },
+      "detected_at": "2026-09-16T18:12:08.572121+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true,
+      "tier": "WARM",
+      "intent_score": 95,
+      "qa_reason": "Relevant marketplace/project listing; explicit demand language is weak in extracted text.",
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recweyJiIDkKKdGgg"
+    },
+    {
+      "signal_id": "intent-5c6c585d4e8a1789",
+      "source": "business.google.com",
+      "source_url": "https://business.google.com/de/business-profile/",
+      "title": "Bei Google gelistet werden – Google Unternehmensprofil",
+      "snippet": "Vibgyor Photos\nhttps://business.google.com › de › business-profile\nBei Google gelistet werden – Google Unternehmensprofil\n\nSie selbst bestimmen, wie Ihr kostenloses Unternehmensprofil in der Google Suche und auf Google Maps präsentiert wird. Sie …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 3,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 2,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-09-16T18:12:08.572121+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true,
+      "tier": "HOT",
+      "intent_score": 100,
+      "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
+      "qa_at": "2026-09-16T18:12:13.902056+00:00",
+      "airtable_record_id": "recc9roZkQzxe4Yxk"
     }
   ]
 }

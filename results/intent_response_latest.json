@@ -1,25 +1,15 @@
 {
   "state": {
     "agent": "AGENT_15D_INTENT_RESPONSE",
-    "last_run_at": "2026-09-16T13:30:47.034272+00:00",
-    "prepared": 16,
-    "new_prepared": 0,
+    "last_run_at": "2026-09-16T18:12:38.201104+00:00",
+    "prepared": 21,
+    "new_prepared": 5,
     "pending": 0,
     "sent": 0,
     "errors": 0,
     "mode": "DRAFT_ONLY"
   },
   "latest_drafts": [
-    {
-      "signal_id": "intent-7e56262cde92330b",
-      "airtable_record_id": "recCdZ8TUpb55WcDF",
-      "tier": "WARM",
-      "source": "upwork.com",
-      "source_url": "https://www.upwork.com/freelance-jobs/apply/Google-Business-Profile-Local-SEO-Expert-German-Speaking_~022087054167304112185/",
-      "draft": "Hallo, ich bin über deinen Beitrag auf upwork.com gestolpert. Du beschreibst dort sinngemäß: Long-term collaboration across multiple client accounts; seeks German-speaking specialist for Google Business Profile, Google Maps and Local SEO.\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
-      "status": "DRAFTED",
-      "prepared_at": "2026-09-12T23:32:48.544585+00:00"
-    },
     {
       "signal_id": "intent-ba6cea20b5d91ebd",
       "airtable_record_id": "reco9nejkQJC9A4Bx",
@@ -169,6 +159,56 @@
       "draft": "Hallo, ich bin über deinen Beitrag auf optiphin.de gestolpert. Du beschreibst dort sinngemäß: optiphin.de\nhttps://www.optiphin.de › leistungen › local-seo-freelancer\nLocal SEO Freelancer – nachhaltige lokale Sichtbarkeit | Optiphin\n\nDu bist auf der Suche nach einem Local SEO-Freelancer mit Expertise, der deine Sichtbarkeit für lokale Suchanfragen steigert? …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
       "status": "DRAFTED",
       "prepared_at": "2026-09-14T04:55:07.550529+00:00"
+    },
+    {
+      "signal_id": "intent-8dad94b0095cbb47",
+      "airtable_record_id": "recZxcDLLDkxQbI8K",
+      "tier": "HOT",
+      "source": "softwareu.de",
+      "source_url": "https://softwareu.de/tutorials/local-seo-fuer-freelancer-deutschland-google-business-profile",
+      "draft": "Hallo, ich bin über deinen Beitrag auf softwareu.de gestolpert. Du beschreibst dort sinngemäß: softwareu.de\nhttps://softwareu.de › tutorials › local-seo-fuer...\nLocal SEO Freelancer Deutschland | softwareu Tutorial | softwareu\n\nLocal-SEO-Anleitung für Freelancer und KMU in Deutschland mit Fokus auf Hamburg, Niedersachsen und Norddeutschland.\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-09-16T18:12:38.201104+00:00"
+    },
+    {
+      "signal_id": "intent-c47f0ef59137f521",
+      "airtable_record_id": "recjPuiFOsLmHSgvs",
+      "tier": "HOT",
+      "source": "upwork.com",
+      "source_url": "https://www.upwork.com/freelance-jobs/apply/German-speaking-Closer-for-Website-Local-SEO-Services_~022070721622767286452/",
+      "draft": "Hallo, ich bin über deinen Beitrag auf upwork.com gestolpert. Du beschreibst dort sinngemäß: Upwork\nhttps://www.upwork.com › freelance-jobs › apply › Germ…\nDieses Ergebnis übersetzen\nGerman-speaking Closer for Website & Local SEO Services\n\nGerman-Speaking Sales Caller / Closer for Warm Leads (Local SEO & Website Optimization) We are looking for a native German …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-09-16T18:12:38.201104+00:00"
+    },
+    {
+      "signal_id": "intent-57a7954d9623960a",
+      "airtable_record_id": "recKN2lkhPKFAzZYQ",
+      "tier": "HOT",
+      "source": "webdienster.de",
+      "source_url": "https://www.webdienster.de/blog/lokale-seo-freelancer",
+      "draft": "Hallo, ich bin über deinen Beitrag auf webdienster.de gestolpert. Du beschreibst dort sinngemäß: webdienster.de\nhttps://www.webdienster.de › blog › lokale-seo-freelancer\nLokale SEO für Freelancer - webdienster.de\n\n29. Jan. 2026 · In diesem umfassenden Guide erkläre ich, wie du als Freelancer deine lokale Sichtbarkeit maximierst – von Google …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-09-16T18:12:38.201104+00:00"
+    },
+    {
+      "signal_id": "intent-72c86ea922186325",
+      "airtable_record_id": "recweyJiIDkKKdGgg",
+      "tier": "WARM",
+      "source": "upwork.com",
+      "source_url": "https://www.upwork.com/freelance-jobs/apply/Local-SEO-Google-Business-Profile-Expert_~022078896664531354244/",
+      "draft": "Hallo, ich bin über deinen Beitrag auf upwork.com gestolpert. Du beschreibst dort sinngemäß: Upwork\nhttps://www.upwork.com › freelance-jobs › apply › Local...\nDieses Ergebnis übersetzen\nLocal SEO & Google Business Profile Expert - Upwork\n\nProven experience in Local SEO and managing Google Business Profiles for service-based or home-service businesses. Strong …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-09-16T18:12:38.201104+00:00"
+    },
+    {
+      "signal_id": "intent-5c6c585d4e8a1789",
+      "airtable_record_id": "recc9roZkQzxe4Yxk",
+      "tier": "HOT",
+      "source": "business.google.com",
+      "source_url": "https://business.google.com/de/business-profile/",
+      "draft": "Hallo, ich bin über deinen Beitrag auf business.google.com gestolpert. Du beschreibst dort sinngemäß: Vibgyor Photos\nhttps://business.google.com › de › business-profile\nBei Google gelistet werden – Google Unternehmensprofil\n\nSie selbst bestimmen, wie Ihr kostenloses Unternehmensprofil in der Google Suche und auf Google Maps präsentiert wird. Sie …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-09-16T18:12:38.201104+00:00"
     }
   ]
 }

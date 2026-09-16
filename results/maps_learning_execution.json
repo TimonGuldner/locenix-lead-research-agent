@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 62,
-  "focus": "city_exploitation",
-  "exploration": false,
+  "learning_run_count": 63,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Muenchen",
+    "Koeln",
+    "Frankfurt am Main"
   ],
   "selected_industries": [
-    "Hundefriseur",
-    "Reifenservice",
     "Umzugsunternehmen"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Hundefriseur",
-      "query": "Hundefriseur Hamburg"
-    },
-    {
-      "city": "Hamburg",
-      "industry": "Reifenservice",
-      "query": "Reifenservice Hamburg"
-    },
-    {
-      "city": "Hamburg",
+      "city": "Muenchen",
       "industry": "Umzugsunternehmen",
-      "query": "Umzugsunternehmen Hamburg"
+      "query": "Umzugsunternehmen Muenchen"
+    },
+    {
+      "city": "Koeln",
+      "industry": "Umzugsunternehmen",
+      "query": "Umzugsunternehmen Koeln"
+    },
+    {
+      "city": "Frankfurt am Main",
+      "industry": "Umzugsunternehmen",
+      "query": "Umzugsunternehmen Frankfurt am Main"
     }
   ],
   "queries_per_run": 3

@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 61,
-  "focus": "industry_exploitation",
+  "learning_run_count": 62,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Bielefeld",
-    "Muenster",
-    "Potsdam"
+    "Hamburg"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Hundefriseur",
+    "Reifenservice",
+    "Umzugsunternehmen"
   ],
   "selected_pairs": [
     {
-      "city": "Bielefeld",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Bielefeld"
+      "city": "Hamburg",
+      "industry": "Hundefriseur",
+      "query": "Hundefriseur Hamburg"
     },
     {
-      "city": "Muenster",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Muenster"
+      "city": "Hamburg",
+      "industry": "Reifenservice",
+      "query": "Reifenservice Hamburg"
     },
     {
-      "city": "Potsdam",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Potsdam"
+      "city": "Hamburg",
+      "industry": "Umzugsunternehmen",
+      "query": "Umzugsunternehmen Hamburg"
     }
   ],
   "queries_per_run": 3

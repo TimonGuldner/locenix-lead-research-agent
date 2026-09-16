@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 63,
-  "focus": "exploration",
-  "exploration": true,
+  "learning_run_count": 64,
+  "focus": "city_exploitation",
+  "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen",
-    "Koeln",
-    "Frankfurt am Main"
+    "Hamburg"
   ],
   "selected_industries": [
-    "Umzugsunternehmen"
+    "Umzugsunternehmen",
+    "Gebaeudereinigung",
+    "Barbershop"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
+      "city": "Hamburg",
       "industry": "Umzugsunternehmen",
-      "query": "Umzugsunternehmen Muenchen"
+      "query": "Umzugsunternehmen Hamburg"
     },
     {
-      "city": "Koeln",
-      "industry": "Umzugsunternehmen",
-      "query": "Umzugsunternehmen Koeln"
+      "city": "Hamburg",
+      "industry": "Gebaeudereinigung",
+      "query": "Gebaeudereinigung Hamburg"
     },
     {
-      "city": "Frankfurt am Main",
-      "industry": "Umzugsunternehmen",
-      "query": "Umzugsunternehmen Frankfurt am Main"
+      "city": "Hamburg",
+      "industry": "Barbershop",
+      "query": "Barbershop Hamburg"
     }
   ],
   "queries_per_run": 3

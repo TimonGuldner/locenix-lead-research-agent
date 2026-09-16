@@ -1,8 +1,9 @@
 LOCENIX lead research agent wake trigger.
-Automation continuation: Germany-wide qualified lead mission resumed 2026-09-16 00:09 Europe/Berlin.
-Current qualified Airtable leads after QA sync: 73/200.
-Repository deterministic state before this trigger: 154 raw leads across 89 runs; latest batch inspected 24, accepted 1, rejected 18.
-Latest candidate Dr.med.vet Tina Brahm was NOT synced: duplicate business/location of existing Airtable lead Kleintierpraxis am Wall (same website and address).
+Automation continuation: Germany-wide qualified lead mission resumed 2026-09-16 02:34 Europe/Berlin.
+Current qualified Airtable leads after QA sync: 74/200.
+Repository deterministic state before this trigger: 159 raw leads across 90 runs; latest batch inspected 24, accepted 5, rejected 19.
+Final QA synced Wassa & Plieske Sanitär Heizung (86/A) after deduplication and verified review-gap evidence. Unverified service-gap claims were not promoted.
+Other latest candidates remain pending final QA; one candidate contained an invalid email-like asset filename and must not have that value imported as an email.
 Continue research toward 200 unique qualified Airtable leads.
 Use only publicly available business data. Do not invent or infer email addresses. Do not contact leads.
 Final QA remains required before Airtable sync. Only unique leads with a plausible total score >=70 may be added.

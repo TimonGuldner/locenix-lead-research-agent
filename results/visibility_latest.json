@@ -1,93 +1,49 @@
 {
   "results": [
     {
-      "lead_id": "dr.med.vet. dirk krüger|rostock|https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
-      "company_name": "Dr.med.vet. Dirk Krüger",
+      "lead_id": "tierarzt dr. frank vennemann|muenster|http://www.tierarzt-ms.de/",
+      "company_name": "Tierarzt Dr. Frank Vennemann",
       "industry": "Tierarzt",
-      "city": "Rostock",
-      "email": "info@tierarztportal.com",
+      "city": "Muenster",
+      "email": "info@tierarzt-ms.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
+      "deep_qa_score": 85,
       "visibility_tests": [
         {
-          "query": "Tierarzt Rostock",
+          "query": "Tierarzt Muenster",
           "status": "OBSERVED",
-          "observed_position": 3,
+          "observed_position": 7,
           "results_checked": 11,
           "competitors_ahead": [
-            "Tierarzt/Tierklinik Rostock 24/7 Notfallklinik",
-            "Tierärztliche Gemeinschaftspraxis Dr.med.vet. Tido Winkler Dipl.vet.med. Barbara Richter"
+            "Tierärztliche Praxis am Wienburgpark, Dr. Partale",
+            "Tierarztpraxis Radev & Schilp",
+            "Medivet Tierarztpraxis Münster",
+            "Tierarztpraxis Dr. Schulze Grotthoff",
+            "Tierarztpraxis im Gesundheitszentrum Dr.med.vet. Daniel Wigger - Münster-Roxel"
           ],
-          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Tierarzt in Rostock",
+          "query": "Tierarzt in Muenster",
           "status": "OBSERVED",
-          "observed_position": 3,
+          "observed_position": 7,
           "results_checked": 11,
           "competitors_ahead": [
-            "Tierarzt/Tierklinik Rostock 24/7 Notfallklinik",
-            "Tierärztliche Gemeinschaftspraxis Dr.med.vet. Tido Winkler Dipl.vet.med. Barbara Richter"
+            "Dr. Pelz | Tierarzt in Münster",
+            "Tierarztpraxis Radev & Schilp",
+            "Tierärztliche Praxis am Wienburgpark, Dr. Partale",
+            "Medivet Tierarztpraxis Münster",
+            "Tierarztpraxis im Gesundheitszentrum Dr.med.vet. Daniel Wigger - Münster-Roxel"
           ],
-          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
-      "visibility_evidence": [
-        "Business observed at position 3 among the first 11 Maps results returned in this run.",
-        "Business observed at position 3 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-16",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "carolin pokriefke - kleintierpraxis am viewegsgarten|braunschweig|http://www.tierarztpraxis-viewegsgarten.de/",
-      "company_name": "Carolin Pokriefke - Kleintierpraxis am Viewegsgarten",
-      "industry": "Tierarzt",
-      "city": "Braunschweig",
-      "email": "post@tierarztpraxis-viewegsgarten.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Braunschweig",
-          "status": "OBSERVED",
-          "observed_position": 11,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Fachtierarztpraxis Am Erzberg",
-            "Dr. Daniel Mertens; Tierarztpraxis am Prinzenpark",
-            "Fachärztliches Zentrum – Dr. Helge Tholen Fachtierarzt für Kleintiere",
-            "Kleintierpraxis an der Oker - Ihr Tierarzt in Braunschweig",
-            "Tierarztpraxis Wenden - Kleintierpraxis Sonja Werner in Braunschweig"
-          ],
-          "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Braunschweig",
-          "status": "OBSERVED",
-          "observed_position": 10,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Dr. Daniel Mertens; Tierarztpraxis am Prinzenpark",
-            "Fachtierarztpraxis Am Erzberg",
-            "Fachärztliches Zentrum – Dr. Helge Tholen Fachtierarzt für Kleintiere",
-            "Kleintierpraxis an der Oker - Ihr Tierarzt in Braunschweig",
-            "Tierarztpraxis Wenden - Kleintierpraxis Sonja Werner in Braunschweig"
-          ],
-          "evidence": "Business observed at position 10 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
         }
       ],
       "weak_visibility_observed": true,
       "visibility_opportunity_score": 6,
       "visibility_evidence": [
-        "Business observed at position 11 among the first 11 Maps results returned in this run.",
-        "Business observed at position 10 among the first 11 Maps results returned in this run."
+        "Business observed at position 7 among the first 11 Maps results returned in this run.",
+        "Business observed at position 7 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -95,49 +51,49 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "implaneo dental clinic|muenchen|https://www.implaneo.de/",
-      "company_name": "implaneo Dental Clinic",
-      "industry": "Zahnarzt",
-      "city": "Muenchen",
-      "email": "info@implaneo.de",
+      "lead_id": "profi firmenumzug hamburg - büroumzüge|hamburg|http://www.umzugsunternehmen-umzug.hamburg/",
+      "company_name": "Profi Firmenumzug Hamburg - Büroumzüge",
+      "industry": "Umzugsunternehmen",
+      "city": "Hamburg",
+      "email": "info@town-express.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
+      "deep_qa_score": 85,
       "visibility_tests": [
         {
-          "query": "Zahnarzt Muenchen",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 8,
+          "query": "Umzugsunternehmen Hamburg",
+          "status": "OBSERVED",
+          "observed_position": 10,
+          "results_checked": 10,
           "competitors_ahead": [
-            "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
-            "DEIN DENTAL Unterhaching",
-            "AllDent Zahnzentrum München",
-            "dent + face Zahnzentrum München",
-            "AllDent Zahnzentrum München Ost"
+            "Krügel Umzugslogistik GmbH",
+            "DACHSER & KOLB: Umzugsunternehmen Hamburg",
+            "Hinz Transporte",
+            "Innpack GmbH",
+            "Quest Umzüge & Transporte"
           ],
-          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+          "evidence": "Business observed at position 10 among the first 10 Maps results returned in this run."
         },
         {
-          "query": "Zahnarzt in Muenchen",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 8,
+          "query": "Umzugsunternehmen in Hamburg",
+          "status": "OBSERVED",
+          "observed_position": 6,
+          "results_checked": 10,
           "competitors_ahead": [
-            "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
-            "Dr. med. dent Birgit Heberle",
-            "Zahnarzt München - Dental21",
-            "AllDent Zahnzentrum München",
-            "dent + face Zahnzentrum München"
+            "Krügel Umzugslogistik GmbH",
+            "DACHSER & KOLB: Umzugsunternehmen Hamburg",
+            "Innpack GmbH",
+            "Hinz Transporte",
+            "Quest Umzüge & Transporte"
           ],
-          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+          "evidence": "Business observed at position 6 among the first 10 Maps results returned in this run."
         }
       ],
       "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
+      "visibility_opportunity_score": 6,
       "visibility_evidence": [
-        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim.",
-        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+        "Business observed at position 10 among the first 10 Maps results returned in this run.",
+        "Business observed at position 6 among the first 10 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -145,71 +101,25 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "dr.med.vet tina brahm|dortmund|http://kleintierpraxis-am-wall.de/",
-      "company_name": "Dr.med.vet Tina Brahm",
-      "industry": "Tierarzt",
-      "city": "Dortmund",
-      "email": "info@kleintierpraxis-am-wall.de",
+      "lead_id": "mk umzüge – ihr experte für stressfreie umzüge|frankfurt am main|https://mk-umzuegefrankfurt.de/",
+      "company_name": "MK UMZÜGE – Ihr Experte für stressfreie Umzüge",
+      "industry": "Umzugsunternehmen",
+      "city": "Frankfurt am Main",
+      "email": "milankesic2018@gmail.com",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
+      "deep_qa_score": 85,
       "visibility_tests": [
         {
-          "query": "Tierarzt Dortmund",
+          "query": "Umzugsunternehmen Frankfurt am Main",
           "status": "OBSERVED",
-          "observed_position": 2,
+          "observed_position": 1,
           "results_checked": 11,
-          "competitors_ahead": [
-            "Dr. Ostermann"
-          ],
-          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
+          "competitors_ahead": [],
+          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Tierarzt in Dortmund",
-          "status": "OBSERVED",
-          "observed_position": 3,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Dr. med. vet. Kai Boye",
-            "Tierärztliche Praxis für Kleintiere Scharnhorst GmbH"
-          ],
-          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
-      "visibility_evidence": [
-        "Business observed at position 2 among the first 11 Maps results returned in this run.",
-        "Business observed at position 3 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-16",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "kleintierpraxis bielefeld dr. silke mehlhose-koch|bielefeld|https://www.kleintierpraxis-bielefeld.de/",
-      "company_name": "Kleintierpraxis Bielefeld Dr. Silke Mehlhose-Koch",
-      "industry": "Tierarzt",
-      "city": "Bielefeld",
-      "email": "info@kleintierpraxis-bielefeld.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Bielefeld",
-          "status": "OBSERVED",
-          "observed_position": 3,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "AniCura Bielefeld",
-            "AniCura Bielefeld"
-          ],
-          "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Bielefeld",
+          "query": "Umzugsunternehmen in Frankfurt am Main",
           "status": "OBSERVED",
           "observed_position": 1,
           "results_checked": 11,
@@ -220,7 +130,7 @@
       "weak_visibility_observed": false,
       "visibility_opportunity_score": 1,
       "visibility_evidence": [
-        "Business observed at position 3 among the first 11 Maps results returned in this run.",
+        "Business observed at position 1 among the first 11 Maps results returned in this run.",
         "Business observed at position 1 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-16",
@@ -230,7 +140,7 @@
     }
   ],
   "state": {
-    "runs": 26,
+    "runs": 27,
     "processed_ids": [
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -293,6 +203,7 @@
       "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
       "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
       "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
+      "mk umzüge – ihr experte für stressfreie umzüge|frankfurt am main|https://mk-umzuegefrankfurt.de/",
       "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
       "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
       "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
@@ -304,12 +215,14 @@
       "praxis für kleintiermedizin dr. götte|krefeld|http://www.tierzentrum-krefeld.de/",
       "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
       "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
+      "profi firmenumzug hamburg - büroumzüge|hamburg|http://www.umzugsunternehmen-umzug.hamburg/",
       "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
       "rainer fischer immobilien|muenchen|https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
       "riedel immobilien gmbh - - immobilienmakler schwabing|muenchen|https://www.riedel-immobilien.de/immobilienmakler-schwabing/",
       "since eleven - friseure|koeln|https://www.since-eleven.de/",
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
       "tierarzt berlin prenzlauer berg, tierarztpraxis am arnimplatz|berlin|https://tierarztpraxis-arnimplatz.de/",
+      "tierarzt dr. frank vennemann|muenster|http://www.tierarzt-ms.de/",
       "tierarzt piliar|moenchengladbach|https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
       "tierarzt potsdam, tierarztpraxis activet potsdam|potsdam|https://activet-potsdam.de/",
       "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
@@ -344,10 +257,10 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 111,
-    "last_batch_count": 5,
-    "remaining_eligible": 3,
-    "weak_visibility_total": 76,
+    "processed_count": 114,
+    "last_batch_count": 3,
+    "remaining_eligible": 0,
+    "weak_visibility_total": 78,
     "email_gate_rejected_count": 31,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

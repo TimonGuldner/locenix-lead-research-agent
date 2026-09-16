@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 65,
-  "focus": "industry_exploitation",
+  "learning_run_count": 66,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Moenchengladbach",
-    "Aachen",
-    "Augsburg"
+    "Hamburg"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Barbershop",
+    "Dachdecker",
+    "Elektriker"
   ],
   "selected_pairs": [
     {
-      "city": "Moenchengladbach",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Moenchengladbach"
+      "city": "Hamburg",
+      "industry": "Barbershop",
+      "query": "Barbershop Hamburg"
     },
     {
-      "city": "Aachen",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Aachen"
+      "city": "Hamburg",
+      "industry": "Dachdecker",
+      "query": "Dachdecker Hamburg"
     },
     {
-      "city": "Augsburg",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Augsburg"
+      "city": "Hamburg",
+      "industry": "Elektriker",
+      "query": "Elektriker Hamburg"
     }
   ],
   "queries_per_run": 3

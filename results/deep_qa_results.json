@@ -8622,6 +8622,81 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "praxis für kleintiermedizin dr. götte|krefeld|http://www.tierzentrum-krefeld.de/",
+    "company_name": "Praxis für Kleintiermedizin Dr. Götte",
+    "industry": "Tierarzt",
+    "city": "Krefeld",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Praxis+f%C3%BCr+Kleintiermedizin+Dr.+G%C3%B6tte/data=!4m7!3m6!1s0x47b8a56ef5233b9d:0x84bb75f87ec69966!8m2!3d51.3477641!4d6.5310218!16s%2Fg%2F11bx1t7skd!19sChIJnTsj9W6luEcRZpnGfvh1u4Q?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.tierzentrum-krefeld.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.tierzentrum-krefeld.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/TierzentrumKrefeld",
+        "https://www.instagram.com/tierarztpraxis_goette"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "ultraschall",
+        "labor"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@tierzentrum-krefeld.de",
+      "email_source_url": "https://www.tierzentrum-krefeld.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T11:53:08.500433+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 314 reviews vs. comparison median 426; gap 112."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 314 reviews vs. comparison median 426; gap 112.",
+    "proof": [
+      "Verified source data: 314 reviews vs. comparison median 426; gap 112.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@tierzentrum-krefeld.de",
+    "email_source_url": "https://www.tierzentrum-krefeld.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-16T11:53:08.500433+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-16",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "maison de nails berlin|berlin|https://maisondenails.de/",
     "company_name": "Maison De Nails Berlin",
     "industry": "Nagelstudio",
@@ -10151,6 +10226,69 @@
     "email_found_at": "2026-09-15T16:58:39.189950+00:00",
     "airtable_ready": false,
     "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "mk umzüge – ihr experte für stressfreie umzüge|frankfurt am main|https://mk-umzuegefrankfurt.de/",
+    "company_name": "MK UMZÜGE – Ihr Experte für stressfreie Umzüge",
+    "industry": "Umzugsunternehmen",
+    "city": "Frankfurt am Main",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/MK+UMZ%C3%9CGE+%E2%80%93+Ihr+Experte+f%C3%BCr+stressfreie+Umz%C3%BCge/data=!4m7!3m6!1s0x47bd0f436d88d149:0x75201c930458f31d!8m2!3d50.163764!4d8.725508!16s%2Fg%2F11tf23rsfs!19sChIJSdGIbUMPvUcRHfNYBJMcIHU?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://mk-umzuegefrankfurt.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://mk-umzuegefrankfurt.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "milankesic2018@gmail.com",
+      "email_source_url": "https://mk-umzuegefrankfurt.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T11:53:16.295427+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 85,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 57 reviews vs. comparison median 202; gap 145."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 57 reviews vs. comparison median 202; gap 145.",
+    "proof": [
+      "Verified source data: 57 reviews vs. comparison median 202; gap 145."
+    ],
+    "email": "milankesic2018@gmail.com",
+    "email_source_url": "https://mk-umzuegefrankfurt.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-16T11:53:16.295427+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-16",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
   },

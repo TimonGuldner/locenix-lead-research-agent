@@ -1,5 +1,5 @@
 {
-  "runs": 31,
+  "runs": 32,
   "processed_ids": [
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -79,6 +79,7 @@
     "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
     "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
     "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
+    "mk umzüge – ihr experte für stressfreie umzüge|frankfurt am main|https://mk-umzuegefrankfurt.de/",
     "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
     "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
     "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
@@ -90,6 +91,7 @@
     "podologie edelmann|berlin|https://podologie-edelmann.com/",
     "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
     "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
+    "praxis für kleintiermedizin dr. götte|krefeld|http://www.tierzentrum-krefeld.de/",
     "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
     "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
     "profi firmenumzug hamburg - büroumzüge|hamburg|http://www.umzugsunternehmen-umzug.hamburg/",
@@ -146,15 +148,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 144,
-  "remaining_eligible": 2,
-  "last_batch_count": 5,
+  "processed_count": 146,
+  "remaining_eligible": 0,
+  "last_batch_count": 2,
   "final_a_total": 53,
-  "final_b_total": 90,
+  "final_b_total": 92,
   "email_ready_total": 40,
-  "email_missing_total": 31,
-  "email_gate_qualified_total": 107,
-  "email_missing_excluded_total": 31,
-  "downstream_eligible_total": 107,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "email_missing_total": 31
 }

@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 59,
-  "focus": "industry_exploitation",
+  "learning_run_count": 60,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Nuernberg",
-    "Stuttgart",
-    "Bielefeld"
+    "Hamburg"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Autowerkstatt",
+    "Podologie",
+    "Hundefriseur"
   ],
   "selected_pairs": [
     {
-      "city": "Nuernberg",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Nuernberg"
+      "city": "Hamburg",
+      "industry": "Autowerkstatt",
+      "query": "Autowerkstatt Hamburg"
     },
     {
-      "city": "Stuttgart",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Stuttgart"
+      "city": "Hamburg",
+      "industry": "Podologie",
+      "query": "Podologie Hamburg"
     },
     {
-      "city": "Bielefeld",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Bielefeld"
+      "city": "Hamburg",
+      "industry": "Hundefriseur",
+      "query": "Hundefriseur Hamburg"
     }
   ],
   "queries_per_run": 3

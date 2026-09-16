@@ -1,25 +1,74 @@
 {
   "agent": "AGENT_15A_INTENT_SCOUT",
-  "last_run_at": "2026-09-16T18:12:06.514090+00:00",
-  "signals_found": 16,
+  "last_run_at": "2026-09-16T21:17:36.924765+00:00",
+  "signals_found": 21,
   "new_signals": 0,
-  "unreviewed": 16,
-  "queries_run": 8,
-  "errors": 0,
-  "query_errors": [],
+  "unreviewed": 21,
+  "queries_run": 11,
+  "errors": 11,
+  "query_errors": [
+    {
+      "provider": "reddit_api",
+      "query": "Google Unternehmensprofil",
+      "error": "HTTP Error 403: Blocked"
+    },
+    {
+      "provider": "reddit_api",
+      "query": "Google Maps Local SEO",
+      "error": "HTTP Error 403: Blocked"
+    },
+    {
+      "provider": "reddit_api",
+      "query": "Google Business Profile",
+      "error": "HTTP Error 403: Blocked"
+    },
+    {
+      "provider": "jina_search",
+      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "provider": "jina_search",
+      "query": "\"Local SEO\" Projekt Deutschland Freelancer",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "provider": "jina_search",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "provider": "jina_search",
+      "query": "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "provider": "jina_search",
+      "query": "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "provider": "jina_search",
+      "query": "site:upwork.com/freelance-jobs \"Local SEO\" Germany",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "provider": "jina_search",
+      "query": "site:freelancermap.de \"Local SEO\"",
+      "error": "HTTP Error 401: Unauthorized"
+    }
+  ],
   "provider_hits": {
     "verified_seed": 3,
     "reddit_api": 0,
     "jina_search": 0,
     "duckduckgo": 0
   },
-  "providers_skipped_by_learning": [
-    "jina_search",
-    "reddit_api"
-  ],
+  "providers_skipped_by_learning": [],
   "learning_config_used": true,
   "sources": [
     "aloma.de",
+    "business.google.com",
     "drweb.de",
     "freelancer.com",
     "janphilipps.de",
@@ -27,7 +76,9 @@
     "lokando24.de",
     "optiphin.de",
     "seotariat.de",
+    "softwareu.de",
     "thomasrees.de",
-    "upwork.com"
+    "upwork.com",
+    "webdienster.de"
   ]
 }

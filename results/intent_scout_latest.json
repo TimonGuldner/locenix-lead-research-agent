@@ -1,26 +1,75 @@
 {
   "state": {
     "agent": "AGENT_15A_INTENT_SCOUT",
-    "last_run_at": "2026-09-16T18:12:06.514090+00:00",
-    "signals_found": 16,
+    "last_run_at": "2026-09-16T21:17:36.924765+00:00",
+    "signals_found": 21,
     "new_signals": 0,
-    "unreviewed": 16,
-    "queries_run": 8,
-    "errors": 0,
-    "query_errors": [],
+    "unreviewed": 21,
+    "queries_run": 11,
+    "errors": 11,
+    "query_errors": [
+      {
+        "provider": "reddit_api",
+        "query": "Google Unternehmensprofil",
+        "error": "HTTP Error 403: Blocked"
+      },
+      {
+        "provider": "reddit_api",
+        "query": "Google Maps Local SEO",
+        "error": "HTTP Error 403: Blocked"
+      },
+      {
+        "provider": "reddit_api",
+        "query": "Google Business Profile",
+        "error": "HTTP Error 403: Blocked"
+      },
+      {
+        "provider": "jina_search",
+        "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
+        "error": "HTTP Error 401: Unauthorized"
+      },
+      {
+        "provider": "jina_search",
+        "query": "\"Local SEO\" Projekt Deutschland Freelancer",
+        "error": "HTTP Error 401: Unauthorized"
+      },
+      {
+        "provider": "jina_search",
+        "query": "\"Google Business Profile\" German Local SEO freelancer job",
+        "error": "HTTP Error 401: Unauthorized"
+      },
+      {
+        "provider": "jina_search",
+        "query": "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
+        "error": "HTTP Error 401: Unauthorized"
+      },
+      {
+        "provider": "jina_search",
+        "query": "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
+        "error": "HTTP Error 401: Unauthorized"
+      },
+      {
+        "provider": "jina_search",
+        "query": "site:upwork.com/freelance-jobs \"Local SEO\" Germany",
+        "error": "HTTP Error 401: Unauthorized"
+      },
+      {
+        "provider": "jina_search",
+        "query": "site:freelancermap.de \"Local SEO\"",
+        "error": "HTTP Error 401: Unauthorized"
+      }
+    ],
     "provider_hits": {
       "verified_seed": 3,
       "reddit_api": 0,
       "jina_search": 0,
       "duckduckgo": 0
     },
-    "providers_skipped_by_learning": [
-      "jina_search",
-      "reddit_api"
-    ],
+    "providers_skipped_by_learning": [],
     "learning_config_used": true,
     "sources": [
       "aloma.de",
+      "business.google.com",
       "drweb.de",
       "freelancer.com",
       "janphilipps.de",
@@ -28,14 +77,16 @@
       "lokando24.de",
       "optiphin.de",
       "seotariat.de",
+      "softwareu.de",
       "thomasrees.de",
-      "upwork.com"
+      "upwork.com",
+      "webdienster.de"
     ]
   },
   "query_plan": [
-    "\"Google Business Profile\" German Local SEO freelancer job",
     "\"Google Unternehmensprofil\" Freelancer Deutschland",
     "\"Local SEO\" Projekt Deutschland Freelancer",
+    "\"Google Business Profile\" German Local SEO freelancer job",
     "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
     "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
     "site:upwork.com/freelance-jobs \"Local SEO\" Germany",
@@ -43,6 +94,101 @@
     "site:reddit.com/r/selbststaendig \"Google Unternehmensprofil\""
   ],
   "newest": [
+    {
+      "signal_id": "intent-8dad94b0095cbb47",
+      "source": "softwareu.de",
+      "source_url": "https://softwareu.de/tutorials/local-seo-fuer-freelancer-deutschland-google-business-profile",
+      "title": "Local SEO Freelancer Deutschland | softwareu Tutorial | softwareu",
+      "snippet": "softwareu.de\nhttps://softwareu.de › tutorials › local-seo-fuer...\nLocal SEO Freelancer Deutschland | softwareu Tutorial | softwareu\n\nLocal-SEO-Anleitung für Freelancer und KMU in Deutschland mit Fokus auf Hamburg, Niedersachsen und Norddeutschland.",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-09-16T18:12:08.572121+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-c47f0ef59137f521",
+      "source": "upwork.com",
+      "source_url": "https://www.upwork.com/freelance-jobs/apply/German-speaking-Closer-for-Website-Local-SEO-Services_~022070721622767286452/",
+      "title": "German-speaking Closer for Website & Local SEO Services",
+      "snippet": "Upwork\nhttps://www.upwork.com › freelance-jobs › apply › Germ…\nDieses Ergebnis übersetzen\nGerman-speaking Closer for Website & Local SEO Services\n\nGerman-Speaking Sales Caller / Closer for Warm Leads (Local SEO & Website Optimization) We are looking for a native German …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 4,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": true
+      },
+      "detected_at": "2026-09-16T18:12:08.572121+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-57a7954d9623960a",
+      "source": "webdienster.de",
+      "source_url": "https://www.webdienster.de/blog/lokale-seo-freelancer",
+      "title": "Lokale SEO für Freelancer - webdienster.de",
+      "snippet": "webdienster.de\nhttps://www.webdienster.de › blog › lokale-seo-freelancer\nLokale SEO für Freelancer - webdienster.de\n\n29. Jan. 2026 · In diesem umfassenden Guide erkläre ich, wie du als Freelancer deine lokale Sichtbarkeit maximierst – von Google …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-09-16T18:12:08.572121+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-72c86ea922186325",
+      "source": "upwork.com",
+      "source_url": "https://www.upwork.com/freelance-jobs/apply/Local-SEO-Google-Business-Profile-Expert_~022078896664531354244/",
+      "title": "Local SEO & Google Business Profile Expert - Upwork",
+      "snippet": "Upwork\nhttps://www.upwork.com › freelance-jobs › apply › Local...\nDieses Ergebnis übersetzen\nLocal SEO & Google Business Profile Expert - Upwork\n\nProven experience in Local SEO and managing Google Business Profiles for service-based or home-service businesses. Strong …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 5,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 3,
+        "active_intent_hits": 0,
+        "marketplace_listing": true
+      },
+      "detected_at": "2026-09-16T18:12:08.572121+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-5c6c585d4e8a1789",
+      "source": "business.google.com",
+      "source_url": "https://business.google.com/de/business-profile/",
+      "title": "Bei Google gelistet werden – Google Unternehmensprofil",
+      "snippet": "Vibgyor Photos\nhttps://business.google.com › de › business-profile\nBei Google gelistet werden – Google Unternehmensprofil\n\nSie selbst bestimmen, wie Ihr kostenloses Unternehmensprofil in der Google Suche und auf Google Maps präsentiert wird. Sie …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 3,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 2,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-09-16T18:12:08.572121+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
     {
       "signal_id": "intent-014890ef2627ed38",
       "source": "janphilipps.de",

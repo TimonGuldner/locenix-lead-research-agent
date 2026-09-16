@@ -1,21 +1,21 @@
 {
   "results": [
     {
-      "lead_id": "tierarztpraxis holt dr. kathagen, dr. riecken, dr. sixt|moenchengladbach|http://www.fachtierarztpraxis-holt.de/",
-      "company_name": "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
-      "industry": "Tierarzt",
-      "city": "Moenchengladbach",
-      "source_total_score": 80,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Holt+Dr.+Kathagen,+Dr.+Riecken,+Dr.+Sixt/data=!4m7!3m6!1s0x47b8abb7877d8345:0x4a25d2f5594d3113!8m2!3d51.1843863!4d6.4031618!16s%2Fg%2F11qqg_2qv1!19sChIJRYN9h7eruEcREzFNWfXSJUo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.fachtierarztpraxis-holt.de/",
+      "lead_id": "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
+      "company_name": "ISARDENT® | Kieferorthopädie & Kinderzahnarzt München-Freiham",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "source_total_score": 89,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/ISARDENT%C2%AE+%7C+Kieferorthop%C3%A4die+%26+Kinderzahnarzt+M%C3%BCnchen-Freiham/data=!4m7!3m6!1s0x479dd78bb0ee6a47:0x3ceb98596e653f60!8m2!3d48.141115!4d11.408495!16s%2Fg%2F11zj1q3rbd!19sChIJR2rusIvXnUcRYD9lblmY6zw?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.isardent-freiham.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
         "maps_text_observed": true,
         "posts_signal": "NOT_OBSERVED",
         "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
+        "booking_signal": "OBSERVED",
         "website_link_observed": true,
         "phone_observed": true,
         "address_observed": true,
@@ -26,107 +26,29 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.fachtierarztpraxis-holt.de/",
-        "booking_link": null,
-        "social_links": [
-          "https://www.facebook.com/tierarztpraxisholt",
-          "https://www.instagram.com/tierarztpraxisholt/"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "impfung"
-        ],
-        "website_evidence": [
-          "Active social-link footprint observed (2 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@fachtierarztpraxis-holt.de",
-        "email_source_url": "https://www.fachtierarztpraxis-holt.de/texte/impressum.html",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-15T16:57:50.208281+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 87,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 385 reviews vs. comparison median 525; gap 140."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 385 reviews vs. comparison median 525; gap 140.",
-      "proof": [
-        "Verified source data: 385 reviews vs. comparison median 525; gap 140.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "info@fachtierarztpraxis-holt.de",
-      "email_source_url": "https://www.fachtierarztpraxis-holt.de/texte/impressum.html",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-15T16:57:50.208281+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-15",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "barbershop am rudolfplatz - köln|koeln|https://www.friseur-am-rudolfplatz.de/",
-      "company_name": "Barbershop Am Rudolfplatz - Köln",
-      "industry": "Barbershop",
-      "city": "Koeln",
-      "source_total_score": 80,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Barbershop+Am+Rudolfplatz+-+K%C3%B6ln/data=!4m7!3m6!1s0x47bf25aff503e099:0x81ff4da797d9af57!8m2!3d50.9349633!4d6.9425692!16s%2Fg%2F11mqtdx22l!19sChIJmeAD9a8lv0cRV6_Zl6dN_4E?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.friseur-am-rudolfplatz.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.friseur-am-rudolfplatz.de/",
-        "booking_link": "https://www.friseur-am-rudolfplatz.de/kontakt/",
+        "website_final_url": "https://www.isardent-freiham.de/",
+        "booking_link": "https://www.doctolib.de/praxis/muenchen/isardent-freiham?utm_campaign=website-button&utm_source=isardent-freiham-website-button&utm_medium=referral&utm_content=option-8&utm_term=isardent-freiham",
         "social_links": [],
         "contact_page_observed": true,
         "website_service_matches": [
-          "bart",
-          "rasur",
-          "haarschnitt",
-          "fade",
-          "konturen"
+          "invisalign"
         ],
         "website_evidence": [
           "Online booking/appointment link observed on website.",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "team@friseur-am-rudolfplatz.de",
-        "email_source_url": "https://www.friseur-am-rudolfplatz.de/",
+        "email": "info@isardent-freiham.de",
+        "email_source_url": "https://www.isardent-freiham.de/impressum/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-15T16:57:57.439425+00:00"
+        "email_found_at": "2026-09-16T00:59:14.851319+00:00"
       },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 87,
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 96,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 157 reviews vs. comparison median 254; gap 97."
+          "proof": "Verified source data: 19 reviews vs. comparison median 297; gap 278."
         },
         {
           "type": "digital_maturity_booking",
@@ -135,36 +57,36 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 157 reviews vs. comparison median 254; gap 97.",
+      "primary_sales_angle_verified": "Verified source data: 19 reviews vs. comparison median 297; gap 278.",
       "proof": [
-        "Verified source data: 157 reviews vs. comparison median 254; gap 97.",
+        "Verified source data: 19 reviews vs. comparison median 297; gap 278.",
         "Online booking/appointment link observed on website."
       ],
-      "email": "team@friseur-am-rudolfplatz.de",
-      "email_source_url": "https://www.friseur-am-rudolfplatz.de/",
+      "email": "info@isardent-freiham.de",
+      "email_source_url": "https://www.isardent-freiham.de/impressum/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-15T16:57:57.439425+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-15",
+      "email_found_at": "2026-09-16T00:59:14.851319+00:00",
+      "airtable_ready": true,
+      "qa_date": "2026-09-16",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "tierarzt dr. frank vennemann|muenster|http://www.tierarzt-ms.de/",
-      "company_name": "Tierarzt Dr. Frank Vennemann",
-      "industry": "Tierarzt",
-      "city": "Muenster",
-      "source_total_score": 80,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Dr.+Frank+Vennemann/data=!4m7!3m6!1s0x47b9ba7fd96547c9:0x815be9b81d5973b!8m2!3d51.989031!4d7.5984111!16s%2Fg%2F1vj5z9kv!19sChIJyUdl2X-6uUcRO5fVgZu-FQg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.tierarzt-ms.de/",
+      "lead_id": "ks autoglas zentrum germering|muenchen|https://germering.ksautoglas.com/",
+      "company_name": "KS AUTOGLAS ZENTRUM Germering",
+      "industry": "Autowerkstatt",
+      "city": "Muenchen",
+      "source_total_score": 89,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/KS+AUTOGLAS+ZENTRUM+Germering/data=!4m7!3m6!1s0x479dd7e1064aea73:0x56f70c6303b3fb0c!8m2!3d48.1395!4d11.3602!16s%2Fg%2F11j087p3sb!19sChIJc-pKBuHXnUcRDPuzA2MM91Y?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://germering.ksautoglas.com/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
         "maps_text_observed": true,
         "posts_signal": "NOT_OBSERVED",
         "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
+        "booking_signal": "OBSERVED",
         "website_link_observed": true,
         "phone_observed": true,
         "address_observed": true,
@@ -175,7 +97,7 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://tierarzt-ms.de/",
+        "website_final_url": "https://germering.ksautoglas.com/",
         "booking_link": null,
         "social_links": [],
         "contact_page_observed": true,
@@ -184,43 +106,43 @@
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@tierarzt-ms.de",
-        "email_source_url": "https://tierarzt-ms.de/impressum/",
+        "email": "info@ksautoglas.de",
+        "email_source_url": "https://germering.ksautoglas.com/texte/impressum.1557.html",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-15T16:58:09.457205+00:00"
+        "email_found_at": "2026-09-16T00:59:23.055081+00:00"
       },
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 85,
+      "deep_qa_score": 94,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 65 reviews vs. comparison median 168; gap 103."
+          "proof": "Verified source data: 10 reviews vs. comparison median 227; gap 217."
         }
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 65 reviews vs. comparison median 168; gap 103.",
+      "primary_sales_angle_verified": "Verified source data: 10 reviews vs. comparison median 227; gap 217.",
       "proof": [
-        "Verified source data: 65 reviews vs. comparison median 168; gap 103."
+        "Verified source data: 10 reviews vs. comparison median 227; gap 217."
       ],
-      "email": "info@tierarzt-ms.de",
-      "email_source_url": "https://tierarzt-ms.de/impressum/",
+      "email": "info@ksautoglas.de",
+      "email_source_url": "https://germering.ksautoglas.com/texte/impressum.1557.html",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-15T16:58:09.457205+00:00",
+      "email_found_at": "2026-09-16T00:59:23.055081+00:00",
       "airtable_ready": false,
-      "qa_date": "2026-09-15",
+      "qa_date": "2026-09-16",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "tierarzt potsdam, tierarztpraxis activet potsdam|potsdam|https://activet-potsdam.de/",
-      "company_name": "Tierarzt Potsdam, Tierarztpraxis Activet Potsdam",
-      "industry": "Tierarzt",
-      "city": "Potsdam",
-      "source_total_score": 80,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Potsdam,+Tierarztpraxis+Activet+Potsdam/data=!4m7!3m6!1s0x47b8bbe03406afe7:0xbacd6856a8f7f52e!8m2!3d52.3817758!4d13.1257706!16s%2Fg%2F11hkt39pwp!19sChIJ568GNOC7uEcRLvX3qFZozbo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://activet-potsdam.de/",
+      "lead_id": "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
+      "company_name": "Wassa & Plieske Sanitär Heizung",
+      "industry": "Sanitaer Heizung",
+      "city": "Muenchen",
+      "source_total_score": 86,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Wassa+%26+Plieske+Sanit%C3%A4r+Heizung/data=!4m7!3m6!1s0x479dd982585a0237:0x4c4564f8b5d1a1a!8m2!3d48.1254969!4d11.5431477!16s%2Fg%2F11yz77s45_!19sChIJNwJaWILZnUcRGhpdi09WxAQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.wp-sanitaer.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -238,130 +160,189 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://activet-potsdam.de/",
-        "booking_link": "https://activet-potsdam.de/terminbuchung/",
-        "social_links": [
-          "https://www.facebook.com/tierarztpraxis.activetpotsdam",
-          "https://www.instagram.com/activet.tierarzt.potsdam/",
-          "https://www.facebook.com/tierarztpraxis.activetpotsdam/"
-        ],
+        "website_final_url": "https://www.wp-sanitaer.de/",
+        "booking_link": null,
+        "social_links": [],
         "contact_page_observed": true,
         "website_service_matches": [
-          "impfung",
-          "chirurgie",
-          "ultraschall",
-          "labor"
+          "heizung",
+          "wartung"
         ],
         "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (3 link(s)).",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "praxis@activet-potsdam.de",
-        "email_source_url": "https://activet-potsdam.de/",
+        "email": "info@wp-sanitaer.de",
+        "email_source_url": "https://www.wp-sanitaer.de/kontakt/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-15T16:58:18.312071+00:00"
+        "email_found_at": "2026-09-16T00:59:31.860537+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 91,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 18 reviews vs. comparison median 105; gap 87."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 18 reviews vs. comparison median 105; gap 87.",
+      "proof": [
+        "Verified source data: 18 reviews vs. comparison median 105; gap 87."
+      ],
+      "email": "info@wp-sanitaer.de",
+      "email_source_url": "https://www.wp-sanitaer.de/kontakt/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T00:59:31.860537+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-16",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
+      "company_name": "Praxis für Tierheilkunde und Verhaltenstherapie",
+      "industry": "Tierarzt",
+      "city": "Sankt Augustin",
+      "source_total_score": 85,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Praxis+f%C3%BCr+Tierheilkunde+und+Verhaltenstherapie/data=!4m7!3m6!1s0x47bee773c149e0ef:0xd84e757592be161c!8m2!3d50.7833425!4d7.2339982!16s%2Fg%2F11h_bmdcp6!19sChIJ7-BJwXPnvkcRHBa-knV1Ttg?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.tierheilkunde-verhaltenstherapie.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.tierheilkunde-verhaltenstherapie.de/",
+        "booking_link": null,
+        "social_links": [
+          "https://www.facebook.com/profile.php?id=100091266129380",
+          "https://instagram.com/ptvrh?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [],
+        "website_evidence": [
+          "Active social-link footprint observed (2 link(s)).",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@tierheilkunde-verhaltenstherapie.de",
+        "email_source_url": "https://www.tierheilkunde-verhaltenstherapie.de/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-16T00:59:41.060230+00:00"
+      },
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 92,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 31 reviews vs. comparison median 202; gap 171."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 31 reviews vs. comparison median 202; gap 171.",
+      "proof": [
+        "Verified source data: 31 reviews vs. comparison median 202; gap 171.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "info@tierheilkunde-verhaltenstherapie.de",
+      "email_source_url": "https://www.tierheilkunde-verhaltenstherapie.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T00:59:41.060230+00:00",
+      "airtable_ready": true,
+      "qa_date": "2026-09-16",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "rainer fischer immobilien|muenchen|https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
+      "company_name": "Rainer Fischer Immobilien",
+      "industry": "Immobilienmakler",
+      "city": "Muenchen",
+      "source_total_score": 84,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Rainer+Fischer+Immobilien/data=!4m7!3m6!1s0x479e7616e9bcfaed:0xaa294b6ef7a0896a!8m2!3d48.1488965!4d11.5498558!16s%2Fg%2F1tg_8gl2!19sChIJ7fq86RZ2nkcRaomg925LKao?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "verkauf",
+          "vermietung",
+          "bewertung",
+          "immobilienbewertung"
+        ],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@immobilienfischer.de",
+        "email_source_url": "https://www.fischer-immobilien-muenchen.de/kontakt/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-16T00:59:48.707981+00:00"
       },
       "deep_qa_decision": "FINAL_B",
       "deep_qa_score": 89,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 234 reviews vs. comparison median 340; gap 106."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
+          "proof": "Verified source data: 68 reviews vs. comparison median 170; gap 102."
         }
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 234 reviews vs. comparison median 340; gap 106.",
+      "primary_sales_angle_verified": "Verified source data: 68 reviews vs. comparison median 170; gap 102.",
       "proof": [
-        "Verified source data: 234 reviews vs. comparison median 340; gap 106.",
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
+        "Verified source data: 68 reviews vs. comparison median 170; gap 102."
       ],
-      "email": "praxis@activet-potsdam.de",
-      "email_source_url": "https://activet-potsdam.de/",
+      "email": "info@immobilienfischer.de",
+      "email_source_url": "https://www.fischer-immobilien-muenchen.de/kontakt/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-15T16:58:18.312071+00:00",
+      "email_found_at": "2026-09-16T00:59:48.707981+00:00",
       "airtable_ready": false,
-      "qa_date": "2026-09-15",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "profi firmenumzug hamburg - büroumzüge|hamburg|http://www.umzugsunternehmen-umzug.hamburg/",
-      "company_name": "Profi Firmenumzug Hamburg - Büroumzüge",
-      "industry": "Umzugsunternehmen",
-      "city": "Hamburg",
-      "source_total_score": 80,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Profi+Firmenumzug+Hamburg+-+B%C3%BCroumz%C3%BCge/data=!4m7!3m6!1s0x47b18eea82fd05a3:0x9a88c19a5b0d500a!8m2!3d53.56666!4d10.0422!16s%2Fg%2F12nqgngp4!19sChIJowX9guqOsUcRClANW5rBiJo?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.umzugsunternehmen-umzug.hamburg/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "http://www.umzugsunternehmen-umzug.hamburg/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [],
-        "website_evidence": [
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@town-express.de",
-        "email_source_url": "http://www.umzugsunternehmen-umzug.hamburg/impressum.html",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-15T16:58:39.189950+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 85,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 55 reviews vs. comparison median 146; gap 91."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 55 reviews vs. comparison median 146; gap 91.",
-      "proof": [
-        "Verified source data: 55 reviews vs. comparison median 146; gap 91."
-      ],
-      "email": "info@town-express.de",
-      "email_source_url": "http://www.umzugsunternehmen-umzug.hamburg/impressum.html",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-15T16:58:39.189950+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-15",
+      "qa_date": "2026-09-16",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
   "state": {
-    "runs": 28,
+    "runs": 29,
     "processed_ids": [
       "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -410,6 +391,7 @@
       "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
       "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
       "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
+      "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
       "jg kosmetikstudio köln - hydrafacial / microneedling / haarentfernung|koeln|https://jgkosmetik-koeln.de/",
       "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
       "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/",
@@ -425,6 +407,7 @@
       "kosmetikstudio gala beauty space|gelsenkirchen|https://dikidi.net/2118040",
       "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
       "kosmetikstudio la perla - lehel münchen|muenchen|https://www.laperla-beauty.de/",
+      "ks autoglas zentrum germering|muenchen|https://germering.ksautoglas.com/",
       "ks autoglas zentrum hamburg-farmsen|hamburg|https://hamburg-farmsen.ksautoglas.com/",
       "maison de nails berlin|berlin|https://maisondenails.de/",
       "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
@@ -443,8 +426,10 @@
       "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
       "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
       "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
+      "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
       "profi firmenumzug hamburg - büroumzüge|hamburg|http://www.umzugsunternehmen-umzug.hamburg/",
       "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
+      "rainer fischer immobilien|muenchen|https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
       "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
       "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
       "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
@@ -482,6 +467,7 @@
       "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
       "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
       "walk again center|berlin|https://walk-again.de/",
+      "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
       "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
       "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
       "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
@@ -493,12 +479,12 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 129,
-    "remaining_eligible": 0,
+    "processed_count": 134,
+    "remaining_eligible": 7,
     "last_batch_count": 5,
-    "final_a_total": 49,
-    "final_b_total": 79,
-    "email_ready_total": 36,
+    "final_a_total": 51,
+    "final_b_total": 82,
+    "email_ready_total": 38,
     "email_missing_total": 31
   }
 }

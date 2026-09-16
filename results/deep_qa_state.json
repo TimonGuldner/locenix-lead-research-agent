@@ -1,5 +1,5 @@
 {
-  "runs": 28,
+  "runs": 29,
   "processed_ids": [
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -48,6 +48,7 @@
     "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
     "immobilien55 | immobilienmakler köln|koeln|https://www.immobilien55.de/",
     "immobilienmakler köln|koeln|https://www.xn--immobilienmakler-in-kln-slc.de/koeln-deutz.html",
+    "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
     "jg kosmetikstudio köln - hydrafacial / microneedling / haarentfernung|koeln|https://jgkosmetik-koeln.de/",
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
     "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/",
@@ -63,6 +64,7 @@
     "kosmetikstudio gala beauty space|gelsenkirchen|https://dikidi.net/2118040",
     "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
     "kosmetikstudio la perla - lehel münchen|muenchen|https://www.laperla-beauty.de/",
+    "ks autoglas zentrum germering|muenchen|https://germering.ksautoglas.com/",
     "ks autoglas zentrum hamburg-farmsen|hamburg|https://hamburg-farmsen.ksautoglas.com/",
     "maison de nails berlin|berlin|https://maisondenails.de/",
     "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
@@ -81,8 +83,10 @@
     "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
     "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
     "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
+    "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
     "profi firmenumzug hamburg - büroumzüge|hamburg|http://www.umzugsunternehmen-umzug.hamburg/",
     "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
+    "rainer fischer immobilien|muenchen|https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
     "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
     "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
     "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
@@ -120,6 +124,7 @@
     "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
     "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
     "walk again center|berlin|https://walk-again.de/",
+    "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
     "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
     "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
     "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
@@ -131,15 +136,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 129,
-  "remaining_eligible": 0,
+  "processed_count": 134,
+  "remaining_eligible": 7,
   "last_batch_count": 5,
-  "final_a_total": 49,
-  "final_b_total": 79,
-  "email_ready_total": 36,
-  "email_missing_total": 31,
-  "email_gate_qualified_total": 97,
-  "email_missing_excluded_total": 31,
-  "downstream_eligible_total": 97,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "final_a_total": 51,
+  "final_b_total": 82,
+  "email_ready_total": 38,
+  "email_missing_total": 31
 }

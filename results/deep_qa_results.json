@@ -1271,6 +1271,74 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "dr. p. mayerhauser, kleintierpraxis im gewerbehof unterfeldweg|augsburg|https://www.tierarztpraxis-mayerhauser.de/",
+    "company_name": "Dr. P. Mayerhauser, Kleintierpraxis im Gewerbehof Unterfeldweg",
+    "industry": "Tierarzt",
+    "city": "Augsburg",
+    "source_total_score": 89,
+    "source_lead_class": "A_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Dr.+P.+Mayerhauser,+Kleintierpraxis+im+Gewerbehof+Unterfeldweg/data=!4m7!3m6!1s0x479ea3956640aeff:0x4359451009863f14!8m2!3d48.3460023!4d10.8883909!16s%2Fg%2F11w9ybx173!19sChIJ_65AZpWjnkcRFD-GCRBFWUM?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.tierarztpraxis-mayerhauser.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.tierarztpraxis-mayerhauser.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "impfung",
+        "chirurgie",
+        "ultraschall",
+        "labor"
+      ],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "tierarztpraxis.dr.mayerhauser@t-online.de",
+      "email_source_url": "https://www.tierarztpraxis-mayerhauser.de/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T10:19:37.123298+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 94,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 48 reviews vs. comparison median 287; gap 239."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 48 reviews vs. comparison median 287; gap 239.",
+    "proof": [
+      "Verified source data: 48 reviews vs. comparison median 287; gap 239."
+    ],
+    "email": "tierarztpraxis.dr.mayerhauser@t-online.de",
+    "email_source_url": "https://www.tierarztpraxis-mayerhauser.de/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-16T10:19:37.123298+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-16",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
     "company_name": "Turna KFZ Werkstatt Berlin",
     "industry": "Autowerkstatt",
@@ -2777,6 +2845,90 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
+    "company_name": "Medivet Tierarztpraxis Nürnberg",
+    "industry": "Tierarzt",
+    "city": "Nuernberg",
+    "source_total_score": 83,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Medivet+Tierarztpraxis+N%C3%BCrnberg/data=!4m7!3m6!1s0x479f56ee55ca604d:0xfa77e9779f2a6115!8m2!3d49.435292!4d11.0402869!16s%2Fg%2F1hhgwgmnm!19sChIJTWDKVe5Wn0cRFWEqn3fpd_o?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
+      "booking_link": "https://petleo.app/?iframe=true&group=0&lang=de&redirect_url=/clinic/9754a6e26f893d0296058ef1b7e4bd1258ee8dca0207572847cbc7a8890ab1d2/branch/1/book-appointment/",
+      "social_links": [
+        "http://instagram.com/medivet_de",
+        "https://www.facebook.com/medivet.de",
+        "https://www.linkedin.com/company/medivetdeutschland/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "impfung",
+        "chirurgie",
+        "ultraschall",
+        "labor"
+      ],
+      "website_evidence": [
+        "Online booking/appointment link observed on website.",
+        "Active social-link footprint observed (3 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "nuernberg@medivetgroup.com",
+      "email_source_url": "https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T10:20:00.239371+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 92,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 242 reviews vs. comparison median 630; gap 388."
+      },
+      {
+        "type": "digital_maturity_booking",
+        "proof": "Online booking/appointment link observed on website."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 242 reviews vs. comparison median 630; gap 388.",
+    "proof": [
+      "Verified source data: 242 reviews vs. comparison median 630; gap 388.",
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "nuernberg@medivetgroup.com",
+    "email_source_url": "https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-16T10:20:00.239371+00:00",
+    "airtable_ready": true,
+    "qa_date": "2026-09-16",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
     "company_name": "Physiotherapiepraxis Monolith",
     "industry": "Physiotherapie",
@@ -3220,6 +3372,78 @@
     "email_verification_status": "PUBLICLY_OBSERVED",
     "email_found_at": "2026-09-16T00:59:31.860537+00:00",
     "airtable_ready": false,
+    "qa_date": "2026-09-16",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "johann achnitz gmbh|koeln|https://achnitz.dms-logistik.de/",
+    "company_name": "Johann Achnitz GmbH",
+    "industry": "Umzugsunternehmen",
+    "city": "Koeln",
+    "source_total_score": 84,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Johann+Achnitz+GmbH/data=!4m7!3m6!1s0x47bedd8554af062b:0xf6d6d470396c246b!8m2!3d50.800347!4d7.212611!16s%2Fg%2F1tgh6pvc!19sChIJKwavVIXdvkcRayRsOXDU1vY?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://achnitz.dms-logistik.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://achnitz.dms-logistik.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/Johann-Achnitz-GmbH-174765072609633",
+        "https://www.instagram.com/achnitz/"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@umzuege-achnitz.de",
+      "email_source_url": "https://achnitz.dms-logistik.de/impressum.html",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T10:19:54.307081+00:00"
+    },
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 91,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 29 reviews vs. comparison median 110; gap 81."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 29 reviews vs. comparison median 110; gap 81.",
+    "proof": [
+      "Verified source data: 29 reviews vs. comparison median 110; gap 81.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@umzuege-achnitz.de",
+    "email_source_url": "https://achnitz.dms-logistik.de/impressum.html",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-16T10:19:54.307081+00:00",
+    "airtable_ready": true,
     "qa_date": "2026-09-16",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
@@ -4851,6 +5075,71 @@
     "email_found_at": "2026-09-15T15:42:51.563409+00:00",
     "airtable_ready": true,
     "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "tierarzt piliar|moenchengladbach|https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
+    "company_name": "Tierarzt Piliar",
+    "industry": "Tierarzt",
+    "city": "Moenchengladbach",
+    "source_total_score": 85,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Piliar/data=!4m7!3m6!1s0x47b8ab6f570a60df:0x115e57d3f5ab8f05!8m2!3d51.1982359!4d6.4136603!16s%2Fg%2F11g6z1dvs4!19sChIJ32AKV2-ruEcRBY-r9dNXXhE?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://pfotencheck.tierarztportal.com/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "zahnsanierung"
+      ],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@tierarztportal.com",
+      "email_source_url": "https://pfotencheck.tierarztportal.com/Kontakt.html",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T10:19:43.997920+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 90,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 75 reviews vs. comparison median 525; gap 450."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 75 reviews vs. comparison median 525; gap 450.",
+    "proof": [
+      "Verified source data: 75 reviews vs. comparison median 525; gap 450."
+    ],
+    "email": "info@tierarztportal.com",
+    "email_source_url": "https://pfotencheck.tierarztportal.com/Kontakt.html",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-16T10:19:43.997920+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-16",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
   },
@@ -7407,6 +7696,69 @@
     "email_found_at": "2026-09-15T11:57:11.802017+00:00",
     "airtable_ready": false,
     "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "ats umzug münchen|muenchen|http://www.ats-umzug-muenchen.de/",
+    "company_name": "ATS Umzug München",
+    "industry": "Umzugsunternehmen",
+    "city": "Muenchen",
+    "source_total_score": 83,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/ATS+Umzug+M%C3%BCnchen/data=!4m7!3m6!1s0x479e0a85d74ff223:0xaeae6d636ae9abf7!8m2!3d48.130048!4d11.6973787!16s%2Fg%2F1td2fx2d!19sChIJI_JP14UKnkcR96vpamNtrq4?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+    "website": "http://www.ats-umzug-muenchen.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.ats-umzug-muenchen.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "service@ats-umzug.de",
+      "email_source_url": "https://www.ats-umzug-muenchen.de/impressum.html",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-16T10:20:07.172950+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 88,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 50 reviews vs. comparison median 200; gap 150."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 50 reviews vs. comparison median 200; gap 150.",
+    "proof": [
+      "Verified source data: 50 reviews vs. comparison median 200; gap 150."
+    ],
+    "email": "service@ats-umzug.de",
+    "email_source_url": "https://www.ats-umzug-muenchen.de/impressum.html",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-16T10:20:07.172950+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-16",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
   },

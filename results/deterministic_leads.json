@@ -664,6 +664,107 @@
     "final_qa_required": true
   },
   {
+    "company_name": "Dr. P. Mayerhauser, Kleintierpraxis im Gewerbehof Unterfeldweg",
+    "industry": "Tierarzt",
+    "city": "Augsburg",
+    "address": "Unterfeldweg 3, 86199 Göggingen, Deutschland",
+    "website": "https://www.tierarztpraxis-mayerhauser.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Dr.+P.+Mayerhauser,+Kleintierpraxis+im+Gewerbehof+Unterfeldweg/data=!4m7!3m6!1s0x479ea3956640aeff:0x4359451009863f14!8m2!3d48.3460023!4d10.8883909!16s%2Fg%2F11w9ybx173!19sChIJ_65AZpWjnkcRFD-GCRBFWUM?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 821 2594288",
+    "public_business_email": "tierarztpraxis.dr.mayerhauser@t-online.de",
+    "email_source_url": "https://www.tierarztpraxis-mayerhauser.de/",
+    "contact_form_url": "https://www.tierarztpraxis-mayerhauser.de/kontakt/",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.7,
+    "google_review_count": 48,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "impfung",
+      "chirurgie",
+      "ultraschall",
+      "labor"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "AniCura Kleintierspezialisten Augsburg",
+    "competitor_1_reviews": 846,
+    "competitor_2": "AniCura Tierärztliche Fachpraxis am Klinkerberg",
+    "competitor_2_reviews": 382,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "48 eigene Bewertungen vs. lokaler Wettbewerbsmedian 287; Gap 239."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 48 Google-Bewertungen."
+      },
+      {
+        "type": "rating_headroom",
+        "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 3,
+    "report_potential_score": 28,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 89,
+    "competitor_review_median": 287,
+    "review_gap": 239,
+    "grade": "A",
+    "lead_class": "A_LEAD",
+    "qa_gate": "PASS_PRE_AIRTABLE_QA",
+    "primary_pitch": "48 eigene Bewertungen vs. lokaler Wettbewerbsmedian 287; Gap 239.",
+    "proof": [
+      "48 eigene Bewertungen vs. lokaler Wettbewerbsmedian 287; Gap 239.",
+      "Nur 48 Google-Bewertungen.",
+      "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "48 eigene Bewertungen vs. lokaler Wettbewerbsmedian 287; Gap 239.",
+    "second_outreach_angle": "Nur 48 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Augsburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-16",
+    "research_status": "QUALIFIED",
+    "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 239; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
     "company_name": "Immobilienmakler Köln",
     "industry": "Immobilienmakler",
     "city": "Koeln",
@@ -3512,6 +3613,94 @@
     "signal_confidence": "MEDIUM",
     "obvious_chain_candidate": false,
     "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 361; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 9/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "Tierarzt Piliar",
+    "industry": "Tierarzt",
+    "city": "Moenchengladbach",
+    "address": "Roermonder Str. 76A, 41068 Mönchengladbach-Nord, Deutschland",
+    "website": "https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Piliar/data=!4m7!3m6!1s0x47b8ab6f570a60df:0x115e57d3f5ab8f05!8m2!3d51.1982359!4d6.4136603!16s%2Fg%2F11g6z1dvs4!19sChIJ32AKV2-ruEcRBY-r9dNXXhE?authuser=0&hl=de&g_ep=EgoyMDI2MDkxMy4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 2161 890018",
+    "public_business_email": "name@beispiel.de",
+    "email_source_url": "https://pfotencheck.tierarztportal.com/",
+    "contact_form_url": null,
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.8,
+    "google_review_count": 75,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "zahnsanierung"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: zahnsanierung"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "AniCura Bökelberg GmbH",
+    "competitor_1_reviews": 2657,
+    "competitor_2": "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
+    "competitor_2_reviews": 759,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "75 eigene Bewertungen vs. lokaler Wettbewerbsmedian 525; Gap 450."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: zahnsanierung",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 1,
+    "report_potential_score": 24,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 85,
+    "competitor_review_median": 525,
+    "review_gap": 450,
+    "grade": "A",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "75 eigene Bewertungen vs. lokaler Wettbewerbsmedian 525; Gap 450.",
+    "proof": [
+      "75 eigene Bewertungen vs. lokaler Wettbewerbsmedian 525; Gap 450.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: zahnsanierung"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "75 eigene Bewertungen vs. lokaler Wettbewerbsmedian 525; Gap 450.",
+    "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: zahnsanierung",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Moenchengladbach. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-16",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 9,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 450; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 9/10.",
     "airtable_ready": false,
     "final_qa_required": true
   },

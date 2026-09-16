@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 64,
-  "focus": "city_exploitation",
+  "learning_run_count": 65,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hamburg"
+    "Moenchengladbach",
+    "Aachen",
+    "Augsburg"
   ],
   "selected_industries": [
-    "Umzugsunternehmen",
-    "Gebaeudereinigung",
-    "Barbershop"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Hamburg",
-      "industry": "Umzugsunternehmen",
-      "query": "Umzugsunternehmen Hamburg"
+      "city": "Moenchengladbach",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Moenchengladbach"
     },
     {
-      "city": "Hamburg",
-      "industry": "Gebaeudereinigung",
-      "query": "Gebaeudereinigung Hamburg"
+      "city": "Aachen",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Aachen"
     },
     {
-      "city": "Hamburg",
-      "industry": "Barbershop",
-      "query": "Barbershop Hamburg"
+      "city": "Augsburg",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Augsburg"
     }
   ],
   "queries_per_run": 3

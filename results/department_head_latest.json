@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-16T18:54:01.499636+00:00",
+  "generated_at": "2026-09-16T21:50:47.043033+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 166,
@@ -23,9 +23,9 @@
     "qa_final_b": 92,
     "qa_email_ready": 40,
     "qa_email_missing": 31,
-    "visibility_remaining": 3,
+    "visibility_remaining": 0,
     "visibility_email_gate_rejected": 31,
-    "weak_visibility": 76,
+    "weak_visibility": 78,
     "sales_queue_count": 114,
     "airtable_ready": 40,
     "airtable_errors": [],
@@ -51,7 +51,7 @@
     "email_positive_replies": 0,
     "email_trial_interest": 0,
     "email_human_reviews_required": 0,
-    "email_last_run_at": "2026-09-16T18:53:32.332260+00:00",
+    "email_last_run_at": "2026-09-16T21:50:28.539501+00:00",
     "departments_total": 1,
     "departments_proposed": 0,
     "agents_total": 10,
@@ -92,7 +92,7 @@
       "trial_interest": 0,
       "human_reviews_required": 0,
       "errors": 0,
-      "last_run_at": "2026-09-16T18:53:32.332260+00:00"
+      "last_run_at": "2026-09-16T21:50:28.539501+00:00"
     }
   },
   "departments": [
@@ -385,8 +385,8 @@
       "_kind": "agent"
     }
   ],
-  "next_agent": "visibility",
-  "reason": "Visibility has 3 email-qualified leads waiting.",
+  "next_agent": "outreach_controller",
+  "reason": "Airtable-ready email-qualified leads are missing outreach drafts.",
   "dispatch_attempted": true,
   "dispatch_success": true,
   "dispatch_detail": "HTTP 204",

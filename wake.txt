@@ -1,9 +1,8 @@
 LOCENIX lead research agent wake trigger.
-Automation continuation: Germany-wide qualified lead mission resumed 2026-09-16 02:34 Europe/Berlin.
+Automation continuation: Germany-wide qualified lead mission resumed 2026-09-16 04:26 Europe/Berlin.
 Current qualified Airtable leads after QA sync: 74/200.
-Repository deterministic state before this trigger: 159 raw leads across 90 runs; latest batch inspected 24, accepted 5, rejected 19.
-Final QA synced Wassa & Plieske Sanitär Heizung (86/A) after deduplication and verified review-gap evidence. Unverified service-gap claims were not promoted.
-Other latest candidates remain pending final QA; one candidate contained an invalid email-like asset filename and must not have that value imported as an email.
+Repository deterministic state before this trigger: 161 raw leads across 91 runs; latest batch inspected 24, accepted 2, rejected 19.
+Latest raw candidates require final QA before Airtable sync. Medivet Tierarztpraxis Nürnberg is a group/chain candidate and should not be promoted under the LOCENIX independent-local-business criteria without an explicit exception. Kleintierpraxis Bielefeld Dr. Silke Mehlhose-Koch remains pending deep QA; duplicate competitor evidence must not be treated as two independent competitors.
 Continue research toward 200 unique qualified Airtable leads.
 Use only publicly available business data. Do not invent or infer email addresses. Do not contact leads.
 Final QA remains required before Airtable sync. Only unique leads with a plausible total score >=70 may be added.

@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-16T15:06:50.974746+00:00",
+  "generated_at": "2026-09-16T15:32:28.464949+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 166,
@@ -23,10 +23,10 @@
     "qa_final_b": 92,
     "qa_email_ready": 40,
     "qa_email_missing": 31,
-    "visibility_remaining": 11,
+    "visibility_remaining": 8,
     "visibility_email_gate_rejected": 31,
-    "weak_visibility": 67,
-    "sales_queue_count": 107,
+    "weak_visibility": 74,
+    "sales_queue_count": 114,
     "airtable_ready": 40,
     "airtable_errors": [],
     "sales_hard_email_gate_rejected": 31,
@@ -386,7 +386,7 @@
     }
   ],
   "next_agent": "visibility",
-  "reason": "Visibility has 11 email-qualified leads waiting.",
+  "reason": "Visibility has 8 email-qualified leads waiting.",
   "dispatch_attempted": true,
   "dispatch_success": true,
   "dispatch_detail": "HTTP 204",

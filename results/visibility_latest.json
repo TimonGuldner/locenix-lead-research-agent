@@ -1,48 +1,49 @@
 {
   "results": [
     {
-      "lead_id": "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
-      "company_name": "Wassa & Plieske Sanitär Heizung",
-      "industry": "Sanitaer Heizung",
+      "lead_id": "riedel immobilien gmbh - - immobilienmakler schwabing|muenchen|https://www.riedel-immobilien.de/immobilienmakler-schwabing/",
+      "company_name": "RIEDEL Immobilien GmbH - - Immobilienmakler Schwabing",
+      "industry": "Immobilienmakler",
       "city": "Muenchen",
-      "email": "info@wp-sanitaer.de",
+      "email": "info@riedel-immobilien.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 91,
+      "deep_qa_score": 89,
       "visibility_tests": [
         {
-          "query": "Sanitaer Heizung Muenchen",
-          "status": "OBSERVED",
-          "observed_position": 5,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Durmus Haustechnik GmbH | Sanitär & Heizung München",
-            "NM Heizung und Sanitär Meisterbetrieb",
-            "Florian Häusler Heizung-Sanitär GmbH",
-            "R&S Heizung - Sanitär - Klima | SHK Meisterbetrieb München"
-          ],
-          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Sanitaer Heizung in Muenchen",
+          "query": "Immobilienmakler Muenchen",
           "status": "OBSERVED",
           "observed_position": 6,
           "results_checked": 11,
           "competitors_ahead": [
-            "Sachverstand",
-            "Lippert Gebäudetechnik Services GmbH",
-            "NM Heizung und Sanitär Meisterbetrieb",
-            "Durmus Haustechnik GmbH | Sanitär & Heizung München",
-            "R&S Heizung - Sanitär - Klima | SHK Meisterbetrieb München"
+            "Immosmart GmbH",
+            "Wandl-Immobilien Immobilienmakler München",
+            "Hegerich Immobilien GmbH",
+            "David & Jacques Immobilien",
+            "Rainer Fischer Immobilien"
           ],
           "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Immobilienmakler in Muenchen",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Immobilien Martin Weiherer",
+            "Wohnen & Gut Leben GmbH",
+            "Wandl-Immobilien Immobilienmakler München",
+            "Rainer Fischer Immobilien",
+            "Immosmart GmbH"
+          ],
+          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
         }
       ],
       "weak_visibility_observed": true,
-      "visibility_opportunity_score": 3,
+      "visibility_opportunity_score": 10,
       "visibility_evidence": [
-        "Business observed at position 5 among the first 11 Maps results returned in this run.",
-        "Business observed at position 6 among the first 11 Maps results returned in this run."
+        "Business observed at position 6 among the first 11 Maps results returned in this run.",
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
       ],
       "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -50,41 +51,96 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "johann achnitz gmbh|koeln|https://achnitz.dms-logistik.de/",
-      "company_name": "Johann Achnitz GmbH",
+      "lead_id": "ats umzug münchen|muenchen|http://www.ats-umzug-muenchen.de/",
+      "company_name": "ATS Umzug München",
       "industry": "Umzugsunternehmen",
-      "city": "Koeln",
-      "email": "info@umzuege-achnitz.de",
+      "city": "Muenchen",
+      "email": "service@ats-umzug.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 91,
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 88,
       "visibility_tests": [
         {
-          "query": "Umzugsunternehmen Koeln",
+          "query": "Umzugsunternehmen Muenchen",
           "status": "OBSERVED",
-          "observed_position": 2,
+          "observed_position": 11,
           "results_checked": 11,
           "competitors_ahead": [
-            "Dollmann räumt – Entrümpelungen und Haushaltsauflösungen in Köln"
+            "Lechner Umzüge - MoveOn",
+            "Europcar München Hauptbahnhof",
+            "Paultrans Umzüge | Umzugsunternehmen München",
+            "Fröhliche Umzüge",
+            "Express Umzugsservice GmbH"
           ],
-          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Umzugsunternehmen in Koeln",
+          "query": "Umzugsunternehmen in Muenchen",
           "status": "OBSERVED",
-          "observed_position": 2,
+          "observed_position": 9,
           "results_checked": 11,
           "competitors_ahead": [
-            "Dollmann räumt – Entrümpelungen und Haushaltsauflösungen in Köln"
+            "Lechner Umzüge - MoveOn",
+            "Europcar München Hauptbahnhof",
+            "Fröhliche Umzüge",
+            "LASTENTAXI MÜNCHEN",
+            "Express Umzugsservice GmbH"
           ],
-          "evidence": "Business observed at position 2 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 6,
+      "visibility_evidence": [
+        "Business observed at position 11 among the first 11 Maps results returned in this run.",
+        "Business observed at position 9 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-16",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "praxis für kleintiermedizin dr. götte|krefeld|http://www.tierzentrum-krefeld.de/",
+      "company_name": "Praxis für Kleintiermedizin Dr. Götte",
+      "industry": "Tierarzt",
+      "city": "Krefeld",
+      "email": "info@tierzentrum-krefeld.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 87,
+      "visibility_tests": [
+        {
+          "query": "Tierarzt Krefeld",
+          "status": "OBSERVED",
+          "observed_position": 5,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Animal Tree Tierbestattung - Tierkrematorium Willich",
+            "Kleintierzentrum AniCura Duisburg-Asterlagen",
+            "AniCura Tierärztliche Praxis für Kleintiere Krefeld",
+            "Tierarztpraxis Verberg"
+          ],
+          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Tierarzt in Krefeld",
+          "status": "OBSERVED",
+          "observed_position": 4,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Animal Tree Tierbestattung - Tierkrematorium Willich",
+            "Tierarztpraxis Steffen",
+            "AniCura Tierärztliche Praxis für Kleintiere Krefeld"
+          ],
+          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
         }
       ],
       "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
+      "visibility_opportunity_score": 3,
       "visibility_evidence": [
-        "Business observed at position 2 among the first 11 Maps results returned in this run.",
-        "Business observed at position 2 among the first 11 Maps results returned in this run."
+        "Business observed at position 5 among the first 11 Maps results returned in this run.",
+        "Business observed at position 4 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -92,14 +148,14 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "tierarzt piliar|moenchengladbach|https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
-      "company_name": "Tierarzt Piliar",
+      "lead_id": "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
+      "company_name": "Dr. med. vet. Stefan Kozak - Mönchengladbach",
       "industry": "Tierarzt",
       "city": "Moenchengladbach",
-      "email": "info@tierarztportal.com",
+      "email": "info@gmail.com",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 90,
+      "deep_qa_score": 86,
       "visibility_tests": [
         {
           "query": "Tierarzt Moenchengladbach",
@@ -107,11 +163,11 @@
           "observed_position": 11,
           "results_checked": 11,
           "competitors_ahead": [
+            "Animal Tree Tierbestattung - Tierkrematorium Willich",
+            "Tierarztpraxis Steffen",
             "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
             "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
-            "AniCura Tiergesundheitszentrum Mönchengladbach-Venn",
-            "AniCura Bökelberg GmbH",
-            "AniCura Kleintierpraxis Am Reststrauch (ehem. Tierärztliche Kleintierpraxis Claus Meyer)"
+            "AniCura Bökelberg GmbH"
           ],
           "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
         },
@@ -121,11 +177,11 @@
           "observed_position": 11,
           "results_checked": 11,
           "competitors_ahead": [
+            "Animal Tree Tierbestattung - Tierkrematorium Willich",
+            "Tierarztpraxis Steffen",
             "Tiergesundheitszentrum Mönchengladbach - Dr. Bildheim, Dunn, Nottbrock & Gerlatzek",
             "Tierarztpraxis Holt Dr. Kathagen, Dr. Riecken, Dr. Sixt",
-            "AniCura Tiergesundheitszentrum Mönchengladbach-Venn",
-            "AniCura Bökelberg GmbH",
-            "Tierärzte am Nordpark"
+            "AniCura Bökelberg GmbH"
           ],
           "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
         }
@@ -142,85 +198,49 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "rainer fischer immobilien|muenchen|https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
-      "company_name": "Rainer Fischer Immobilien",
-      "industry": "Immobilienmakler",
-      "city": "Muenchen",
-      "email": "info@immobilienfischer.de",
+      "lead_id": "tierärztliche praxis elena waldhier|nuernberg|http://www.tierarzt-ziegelstein.de/",
+      "company_name": "Tierärztliche Praxis Elena Waldhier",
+      "industry": "Tierarzt",
+      "city": "Nuernberg",
+      "email": "tierarzt-ziegelstein@gmx.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 89,
+      "deep_qa_score": 86,
       "visibility_tests": [
         {
-          "query": "Immobilienmakler Muenchen",
-          "status": "OBSERVED",
-          "observed_position": 7,
+          "query": "Tierarzt Nuernberg",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
           "results_checked": 11,
           "competitors_ahead": [
-            "Immobilien Martin Weiherer",
-            "Wohnen & Gut Leben GmbH",
-            "Immosmart GmbH",
-            "Wandl-Immobilien Immobilienmakler München",
-            "Hegerich Immobilien GmbH"
+            "Animal Tree Tierbestattung - Nürnberg",
+            "Tierärztliche Klinik Nürnberg (Hafen)",
+            "Tierärzte am Nordring",
+            "Tierklinik Am Stadtpark GmbH",
+            "felmo Mobiler Tierarzt Nürnberg"
           ],
-          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
         },
         {
-          "query": "Immobilienmakler in Muenchen",
+          "query": "Tierarzt in Nuernberg",
           "status": "OBSERVED",
-          "observed_position": 4,
+          "observed_position": 9,
           "results_checked": 11,
           "competitors_ahead": [
-            "Immobilien Martin Weiherer",
-            "Wohnen & Gut Leben GmbH",
-            "Wandl-Immobilien Immobilienmakler München"
+            "Animal Tree Tierbestattung - Nürnberg",
+            "Tierärztliche Klinik Nürnberg (Hafen)",
+            "Tierärzte am Nordring",
+            "TierStadt GmbH",
+            "felmo Mobiler Tierarzt Nürnberg"
           ],
-          "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
         }
       ],
       "weak_visibility_observed": true,
-      "visibility_opportunity_score": 3,
+      "visibility_opportunity_score": 10,
       "visibility_evidence": [
-        "Business observed at position 7 among the first 11 Maps results returned in this run.",
-        "Business observed at position 4 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-16",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "immobilien martin weiherer|muenchen|http://weiherer-immobilien.de/",
-      "company_name": "Immobilien Martin Weiherer",
-      "industry": "Immobilienmakler",
-      "city": "Muenchen",
-      "email": "info@weiherer-immobilien.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 89,
-      "visibility_tests": [
-        {
-          "query": "Immobilienmakler Muenchen",
-          "status": "OBSERVED",
-          "observed_position": 1,
-          "results_checked": 11,
-          "competitors_ahead": [],
-          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Immobilienmakler in Muenchen",
-          "status": "OBSERVED",
-          "observed_position": 1,
-          "results_checked": 11,
-          "competitors_ahead": [],
-          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
-      "visibility_evidence": [
-        "Business observed at position 1 among the first 11 Maps results returned in this run.",
-        "Business observed at position 1 among the first 11 Maps results returned in this run."
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+        "Business observed at position 9 among the first 11 Maps results returned in this run."
       ],
       "visibility_date": "2026-09-16",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -229,11 +249,12 @@
     }
   ],
   "state": {
-    "runs": 24,
+    "runs": 25,
     "processed_ids": [
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
       "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
+      "ats umzug münchen|muenchen|http://www.ats-umzug-muenchen.de/",
       "barbershop am rudolfplatz - köln|koeln|https://www.friseur-am-rudolfplatz.de/",
       "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
       "be beautiful | ästhetik & kosmetik hamburg|hamburg|https://www.bebeautiful.hamburg/",
@@ -243,6 +264,7 @@
       "city fahrschule braunschweig|braunschweig|https://www.cityfahrschulebs.info/",
       "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
       "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
+      "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
       "dr. p. mayerhauser, kleintierpraxis im gewerbehof unterfeldweg|augsburg|https://www.tierarztpraxis-mayerhauser.de/",
       "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
       "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
@@ -293,10 +315,12 @@
       "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
       "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
       "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
+      "praxis für kleintiermedizin dr. götte|krefeld|http://www.tierzentrum-krefeld.de/",
       "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
       "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
       "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
       "rainer fischer immobilien|muenchen|https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
+      "riedel immobilien gmbh - - immobilienmakler schwabing|muenchen|https://www.riedel-immobilien.de/immobilienmakler-schwabing/",
       "since eleven - friseure|koeln|https://www.since-eleven.de/",
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
       "tierarzt berlin prenzlauer berg, tierarztpraxis am arnimplatz|berlin|https://tierarztpraxis-arnimplatz.de/",
@@ -321,6 +345,7 @@
       "tierärzte mobil nürnberg|nuernberg|http://tieraerzte-mobil-nuernberg.de/",
       "tierärztliche gemeinschaftspraxis viola daub & dr. med. vet. claudia szattelberger|koeln|http://www.tierarztpraxis-koeln-dellbrueck.de/",
       "tierärztliche praxis daglis|dortmund|http://www.tierarztpraxis-daglis.de/",
+      "tierärztliche praxis elena waldhier|nuernberg|http://www.tierarzt-ziegelstein.de/",
       "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
       "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
       "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
@@ -333,10 +358,10 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 101,
+    "processed_count": 106,
     "last_batch_count": 5,
-    "remaining_eligible": 13,
-    "weak_visibility_total": 70,
+    "remaining_eligible": 8,
+    "weak_visibility_total": 74,
     "email_gate_rejected_count": 31,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

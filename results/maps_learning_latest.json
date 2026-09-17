@@ -1,36 +1,36 @@
 {
   "state": {
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-    "last_run_at": "2026-09-16T11:45:17.886931+00:00",
+    "last_run_at": "2026-09-17T11:49:59.865832+00:00",
     "status": "OK",
-    "learning_run_count": 67,
+    "learning_run_count": 68,
     "research_leads_evaluated": 166,
-    "leads_with_downstream_evidence": 144,
+    "leads_with_downstream_evidence": 146,
     "airtable_leads_deduped": 51,
     "industries_learned": 21,
     "cities_learned": 27,
     "pairs_learned": 72,
     "recommended_industry": "Tierarzt",
-    "recommended_city": "Hamburg",
+    "recommended_city": "Muenchen",
     "exploration_share": 0.15,
     "errors": 0,
     "error_details": []
   },
   "learning": {
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-    "generated_at": "2026-09-16T11:45:17.886931+00:00",
-    "learning_run_count": 67,
+    "generated_at": "2026-09-17T11:49:59.865832+00:00",
+    "learning_run_count": 68,
     "mode": "SAFE_OUTCOME_LEARNING",
     "principle": "Optimize Google Maps research toward downstream sales quality, not raw lead count; never rewrite code or relax safety/legal guardrails.",
     "exploration_share": 0.15,
     "minimum_samples_before_downweight": 5,
     "minimum_samples_before_boost": 2,
     "industry_weights": {
-      "Autowerkstatt": 1.077,
-      "Tierarzt": 1.272,
-      "Immobilienmakler": 1.109,
-      "Zahnarzt": 1.164,
-      "Sanitaer Heizung": 1.116,
+      "Autowerkstatt": 1.079,
+      "Tierarzt": 1.278,
+      "Immobilienmakler": 1.119,
+      "Zahnarzt": 1.17,
+      "Sanitaer Heizung": 1.117,
       "Elektriker": 1.0,
       "Physiotherapie": 1.217,
       "Nagelstudio": 1.131,
@@ -40,7 +40,7 @@
       "Friseur": 1.255,
       "Hundefriseur": 1.053,
       "Massagepraxis": 1.0,
-      "Umzugsunternehmen": 1.052,
+      "Umzugsunternehmen": 1.066,
       "Reifenservice": 1.047,
       "Beauty Aesthetik": 1.136,
       "Gebaeudereinigung": 1.029,
@@ -50,26 +50,26 @@
     },
     "city_weights": {
       "Berlin": 1.175,
-      "Hamburg": 1.275,
+      "Hamburg": 1.277,
       "Bonn": 1.0,
       "Potsdam": 1.04,
-      "Muenchen": 1.266,
-      "Augsburg": 1.013,
-      "Koeln": 1.259,
-      "Sankt Augustin": 1.093,
+      "Muenchen": 1.28,
+      "Augsburg": 1.019,
+      "Koeln": 1.261,
+      "Sankt Augustin": 1.095,
       "Karlsruhe": 1.054,
       "Stuttgart": 1.05,
-      "Krefeld": 1.079,
+      "Krefeld": 1.083,
       "Bremen": 1.0,
       "Heidelberg": 1.0,
-      "Braunschweig": 1.123,
-      "Bielefeld": 1.054,
-      "Moenchengladbach": 1.033,
+      "Braunschweig": 1.125,
+      "Bielefeld": 1.056,
+      "Moenchengladbach": 1.04,
       "Chemnitz": 1.077,
       "Gelsenkirchen": 1.0,
-      "Dortmund": 1.059,
-      "Nuernberg": 1.068,
-      "Muenster": 1.037,
+      "Dortmund": 1.061,
+      "Nuernberg": 1.074,
+      "Muenster": 1.039,
       "Aachen": 1.0,
       "Bochum": 1.0,
       "Mannheim": 1.031,
@@ -85,18 +85,18 @@
       "Zahnarzt",
       "Beauty Aesthetik",
       "Nagelstudio",
-      "Sanitaer Heizung",
       "Immobilienmakler",
+      "Sanitaer Heizung",
       "Fahrschule",
       "Autowerkstatt",
+      "Umzugsunternehmen",
       "Podologie",
       "Hundefriseur",
-      "Umzugsunternehmen",
       "Reifenservice"
     ],
     "recommended_cities": [
-      "Hamburg",
       "Muenchen",
+      "Hamburg",
       "Koeln",
       "Berlin",
       "Braunschweig",
@@ -108,9 +108,9 @@
       "Bielefeld",
       "Karlsruhe",
       "Stuttgart",
+      "Moenchengladbach",
       "Potsdam",
       "Muenster",
-      "Moenchengladbach",
       "Mannheim",
       "Augsburg",
       "Aachen",
@@ -126,29 +126,29 @@
       },
       "Tierarzt": {
         "samples": 60,
-        "reward": 256.4,
-        "avg_reward": 4.273,
-        "positive_rate": 0.633,
+        "reward": 270.55,
+        "avg_reward": 4.509,
+        "positive_rate": 0.733,
         "negative_rate": 0.0
       },
       "Immobilienmakler": {
         "samples": 7,
-        "reward": 21.35,
-        "avg_reward": 3.05,
-        "positive_rate": 0.286,
+        "reward": 24.95,
+        "avg_reward": 3.564,
+        "positive_rate": 0.571,
         "negative_rate": 0.0
       },
       "Zahnarzt": {
         "samples": 7,
-        "reward": 34.55,
-        "avg_reward": 4.936,
-        "positive_rate": 0.571,
+        "reward": 37.2,
+        "avg_reward": 5.314,
+        "positive_rate": 0.714,
         "negative_rate": 0.0
       },
       "Sanitaer Heizung": {
         "samples": 5,
-        "reward": 22.1,
-        "avg_reward": 4.42,
+        "reward": 23.2,
+        "avg_reward": 4.64,
         "positive_rate": 1.0,
         "negative_rate": 0.0
       },
@@ -217,9 +217,9 @@
       },
       "Umzugsunternehmen": {
         "samples": 5,
-        "reward": 13.5,
-        "avg_reward": 2.7,
-        "positive_rate": 0.4,
+        "reward": 19.55,
+        "avg_reward": 3.91,
+        "positive_rate": 0.8,
         "negative_rate": 0.0
       },
       "Reifenservice": {
@@ -275,9 +275,9 @@
       },
       "Hamburg": {
         "samples": 25,
-        "reward": 105.85,
-        "avg_reward": 4.234,
-        "positive_rate": 0.68,
+        "reward": 107.75,
+        "avg_reward": 4.31,
+        "positive_rate": 0.72,
         "negative_rate": 0.0
       },
       "Bonn": {
@@ -296,9 +296,9 @@
       },
       "Muenchen": {
         "samples": 21,
-        "reward": 92.8,
-        "avg_reward": 4.419,
-        "positive_rate": 0.571,
+        "reward": 102.05,
+        "avg_reward": 4.86,
+        "positive_rate": 0.762,
         "negative_rate": 0.0
       },
       "Augsburg": {
@@ -338,9 +338,9 @@
       },
       "Krefeld": {
         "samples": 5,
-        "reward": 13.2,
-        "avg_reward": 2.64,
-        "positive_rate": 0.4,
+        "reward": 16.05,
+        "avg_reward": 3.21,
+        "positive_rate": 0.6,
         "negative_rate": 0.0
       },
       "Bremen": {
@@ -359,9 +359,9 @@
       },
       "Braunschweig": {
         "samples": 5,
-        "reward": 24.0,
-        "avg_reward": 4.8,
-        "positive_rate": 0.8,
+        "reward": 25.9,
+        "avg_reward": 5.18,
+        "positive_rate": 1.0,
         "negative_rate": 0.0
       },
       "Bielefeld": {
@@ -373,9 +373,9 @@
       },
       "Moenchengladbach": {
         "samples": 3,
-        "reward": 7.8,
-        "avg_reward": 2.6,
-        "positive_rate": 0.0,
+        "reward": 12.8,
+        "avg_reward": 4.267,
+        "positive_rate": 0.667,
         "negative_rate": 0.0
       },
       "Chemnitz": {
@@ -401,16 +401,16 @@
       },
       "Nuernberg": {
         "samples": 4,
-        "reward": 15.65,
-        "avg_reward": 3.912,
-        "positive_rate": 0.5,
+        "reward": 18.15,
+        "avg_reward": 4.537,
+        "positive_rate": 0.75,
         "negative_rate": 0.0
       },
       "Muenster": {
         "samples": 2,
-        "reward": 6.85,
-        "avg_reward": 3.425,
-        "positive_rate": 0.5,
+        "reward": 8.75,
+        "avg_reward": 4.375,
+        "positive_rate": 1.0,
         "negative_rate": 0.0
       },
       "Aachen": {
@@ -450,8 +450,8 @@
       },
       "Frankfurt am Main": {
         "samples": 1,
-        "reward": 0.35,
-        "avg_reward": 0.35,
+        "reward": 2.6,
+        "avg_reward": 2.6,
         "positive_rate": 0.0,
         "negative_rate": 0.0
       }
@@ -494,9 +494,9 @@
       },
       "Zahnarzt|Muenchen": {
         "samples": 5,
-        "reward": 30.1,
-        "avg_reward": 6.02,
-        "positive_rate": 0.8,
+        "reward": 32.75,
+        "avg_reward": 6.55,
+        "positive_rate": 1.0,
         "negative_rate": 0.0
       },
       "Autowerkstatt|Muenchen": {
@@ -585,8 +585,8 @@
       },
       "Sanitaer Heizung|Muenchen": {
         "samples": 1,
-        "reward": 3.0,
-        "avg_reward": 3.0,
+        "reward": 4.1,
+        "avg_reward": 4.1,
         "positive_rate": 1.0,
         "negative_rate": 0.0
       },
@@ -648,9 +648,9 @@
       },
       "Tierarzt|Krefeld": {
         "samples": 2,
-        "reward": 4.85,
-        "avg_reward": 2.425,
-        "positive_rate": 0.5,
+        "reward": 7.7,
+        "avg_reward": 3.85,
+        "positive_rate": 1.0,
         "negative_rate": 0.0
       },
       "Tierarzt|Bielefeld": {
@@ -669,9 +669,9 @@
       },
       "Tierarzt|Moenchengladbach": {
         "samples": 3,
-        "reward": 7.8,
-        "avg_reward": 2.6,
-        "positive_rate": 0.0,
+        "reward": 12.8,
+        "avg_reward": 4.267,
+        "positive_rate": 0.667,
         "negative_rate": 0.0
       },
       "Hundefriseur|Berlin": {
@@ -718,9 +718,9 @@
       },
       "Immobilienmakler|Muenchen": {
         "samples": 3,
-        "reward": 7.8,
-        "avg_reward": 2.6,
-        "positive_rate": 0.0,
+        "reward": 11.4,
+        "avg_reward": 3.8,
+        "positive_rate": 0.667,
         "negative_rate": 0.0
       },
       "Umzugsunternehmen|Koeln": {
@@ -753,9 +753,9 @@
       },
       "Tierarzt|Braunschweig": {
         "samples": 3,
-        "reward": 11.35,
-        "avg_reward": 3.783,
-        "positive_rate": 0.667,
+        "reward": 13.25,
+        "avg_reward": 4.417,
+        "positive_rate": 1.0,
         "negative_rate": 0.0
       },
       "Kosmetikstudio|Gelsenkirchen": {
@@ -774,16 +774,16 @@
       },
       "Tierarzt|Nuernberg": {
         "samples": 4,
-        "reward": 15.65,
-        "avg_reward": 3.912,
-        "positive_rate": 0.5,
+        "reward": 18.15,
+        "avg_reward": 4.537,
+        "positive_rate": 0.75,
         "negative_rate": 0.0
       },
       "Umzugsunternehmen|Muenchen": {
         "samples": 1,
-        "reward": 2.6,
-        "avg_reward": 2.6,
-        "positive_rate": 0.0,
+        "reward": 4.5,
+        "avg_reward": 4.5,
+        "positive_rate": 1.0,
         "negative_rate": 0.0
       },
       "Nagelstudio|Berlin": {
@@ -809,16 +809,16 @@
       },
       "Umzugsunternehmen|Hamburg": {
         "samples": 2,
-        "reward": 6.3,
-        "avg_reward": 3.15,
-        "positive_rate": 0.5,
+        "reward": 8.2,
+        "avg_reward": 4.1,
+        "positive_rate": 1.0,
         "negative_rate": 0.0
       },
       "Tierarzt|Muenster": {
         "samples": 2,
-        "reward": 6.85,
-        "avg_reward": 3.425,
-        "positive_rate": 0.5,
+        "reward": 8.75,
+        "avg_reward": 4.375,
+        "positive_rate": 1.0,
         "negative_rate": 0.0
       },
       "Reifenservice|Berlin": {
@@ -942,8 +942,8 @@
       },
       "Umzugsunternehmen|Frankfurt am Main": {
         "samples": 1,
-        "reward": 0.35,
-        "avg_reward": 0.35,
+        "reward": 2.6,
+        "avg_reward": 2.6,
         "positive_rate": 0.0,
         "negative_rate": 0.0
       },
@@ -965,37 +965,37 @@
     "feature_stats": {
       "rating_4.8_plus": {
         "samples": 107,
-        "reward": 382.65,
-        "avg_reward": 3.576,
-        "positive_rate": 0.579,
+        "reward": 399.35,
+        "avg_reward": 3.732,
+        "positive_rate": 0.636,
         "negative_rate": 0.0
       },
       "reviews_0_29": {
         "samples": 32,
-        "reward": 124.25,
-        "avg_reward": 3.883,
+        "reward": 125.35,
+        "avg_reward": 3.917,
         "positive_rate": 0.719,
         "negative_rate": 0.0
       },
       "gap_150_plus": {
         "samples": 83,
-        "reward": 371.3,
-        "avg_reward": 4.473,
-        "positive_rate": 0.675,
+        "reward": 385.25,
+        "avg_reward": 4.642,
+        "positive_rate": 0.747,
         "negative_rate": 0.0
       },
       "website_ready": {
         "samples": 166,
-        "reward": 592.3,
-        "avg_reward": 3.568,
-        "positive_rate": 0.566,
+        "reward": 619.85,
+        "avg_reward": 3.734,
+        "positive_rate": 0.633,
         "negative_rate": 0.0
       },
       "email_missing": {
-        "samples": 53,
-        "reward": 80.1,
-        "avg_reward": 1.511,
-        "positive_rate": 0.208,
+        "samples": 51,
+        "reward": 79.4,
+        "avg_reward": 1.557,
+        "positive_rate": 0.216,
         "negative_rate": 0.0
       },
       "rating_4.0_4.49": {
@@ -1007,16 +1007,16 @@
       },
       "reviews_30_79": {
         "samples": 55,
-        "reward": 221.2,
-        "avg_reward": 4.022,
-        "positive_rate": 0.618,
+        "reward": 235.4,
+        "avg_reward": 4.28,
+        "positive_rate": 0.727,
         "negative_rate": 0.0
       },
       "email_observed": {
-        "samples": 113,
-        "reward": 512.2,
-        "avg_reward": 4.533,
-        "positive_rate": 0.735,
+        "samples": 115,
+        "reward": 540.45,
+        "avg_reward": 4.7,
+        "positive_rate": 0.817,
         "negative_rate": 0.0
       },
       "rating_under_4.0": {
@@ -1028,16 +1028,16 @@
       },
       "rating_4.5_4.79": {
         "samples": 39,
-        "reward": 130.0,
-        "avg_reward": 3.333,
-        "positive_rate": 0.462,
+        "reward": 140.85,
+        "avg_reward": 3.612,
+        "positive_rate": 0.59,
         "negative_rate": 0.0
       },
       "gap_75_149": {
         "samples": 49,
-        "reward": 168.1,
-        "avg_reward": 3.431,
-        "positive_rate": 0.551,
+        "reward": 181.7,
+        "avg_reward": 3.708,
+        "positive_rate": 0.653,
         "negative_rate": 0.0
       },
       "rating_unknown": {
@@ -1063,16 +1063,16 @@
       },
       "reviews_80_199": {
         "samples": 35,
-        "reward": 104.85,
-        "avg_reward": 2.996,
-        "positive_rate": 0.457,
+        "reward": 109.25,
+        "avg_reward": 3.121,
+        "positive_rate": 0.514,
         "negative_rate": 0.0
       },
       "reviews_200_plus": {
         "samples": 37,
-        "reward": 121.9,
-        "avg_reward": 3.295,
-        "positive_rate": 0.486,
+        "reward": 129.75,
+        "avg_reward": 3.507,
+        "positive_rate": 0.568,
         "negative_rate": 0.0
       },
       "gap_under_30": {

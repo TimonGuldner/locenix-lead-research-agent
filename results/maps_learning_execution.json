@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 67,
-  "focus": "industry_exploitation",
+  "learning_run_count": 68,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Aachen",
-    "Bochum",
-    "Bonn"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Elektriker",
+    "Ergotherapie",
+    "Fotograf"
   ],
   "selected_pairs": [
     {
-      "city": "Aachen",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Aachen"
+      "city": "Muenchen",
+      "industry": "Elektriker",
+      "query": "Elektriker Muenchen"
     },
     {
-      "city": "Bochum",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Bochum"
+      "city": "Muenchen",
+      "industry": "Ergotherapie",
+      "query": "Ergotherapie Muenchen"
     },
     {
-      "city": "Bonn",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Bonn"
+      "city": "Muenchen",
+      "industry": "Fotograf",
+      "query": "Fotograf Muenchen"
     }
   ],
   "queries_per_run": 3

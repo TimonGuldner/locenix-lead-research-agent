@@ -1,146 +1,7 @@
 {
-  "results": [
-    {
-      "lead_id": "tierarzt dr. frank vennemann|muenster|http://www.tierarzt-ms.de/",
-      "company_name": "Tierarzt Dr. Frank Vennemann",
-      "industry": "Tierarzt",
-      "city": "Muenster",
-      "email": "info@tierarzt-ms.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 85,
-      "visibility_tests": [
-        {
-          "query": "Tierarzt Muenster",
-          "status": "OBSERVED",
-          "observed_position": 7,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Tierärztliche Praxis am Wienburgpark, Dr. Partale",
-            "Tierarztpraxis Radev & Schilp",
-            "Medivet Tierarztpraxis Münster",
-            "Tierarztpraxis Dr. Schulze Grotthoff",
-            "Tierarztpraxis im Gesundheitszentrum Dr.med.vet. Daniel Wigger - Münster-Roxel"
-          ],
-          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Tierarzt in Muenster",
-          "status": "OBSERVED",
-          "observed_position": 7,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Dr. Pelz | Tierarzt in Münster",
-            "Tierarztpraxis Radev & Schilp",
-            "Tierärztliche Praxis am Wienburgpark, Dr. Partale",
-            "Medivet Tierarztpraxis Münster",
-            "Tierarztpraxis im Gesundheitszentrum Dr.med.vet. Daniel Wigger - Münster-Roxel"
-          ],
-          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 6,
-      "visibility_evidence": [
-        "Business observed at position 7 among the first 11 Maps results returned in this run.",
-        "Business observed at position 7 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-16",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "profi firmenumzug hamburg - büroumzüge|hamburg|http://www.umzugsunternehmen-umzug.hamburg/",
-      "company_name": "Profi Firmenumzug Hamburg - Büroumzüge",
-      "industry": "Umzugsunternehmen",
-      "city": "Hamburg",
-      "email": "info@town-express.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 85,
-      "visibility_tests": [
-        {
-          "query": "Umzugsunternehmen Hamburg",
-          "status": "OBSERVED",
-          "observed_position": 10,
-          "results_checked": 10,
-          "competitors_ahead": [
-            "Krügel Umzugslogistik GmbH",
-            "DACHSER & KOLB: Umzugsunternehmen Hamburg",
-            "Hinz Transporte",
-            "Innpack GmbH",
-            "Quest Umzüge & Transporte"
-          ],
-          "evidence": "Business observed at position 10 among the first 10 Maps results returned in this run."
-        },
-        {
-          "query": "Umzugsunternehmen in Hamburg",
-          "status": "OBSERVED",
-          "observed_position": 6,
-          "results_checked": 10,
-          "competitors_ahead": [
-            "Krügel Umzugslogistik GmbH",
-            "DACHSER & KOLB: Umzugsunternehmen Hamburg",
-            "Innpack GmbH",
-            "Hinz Transporte",
-            "Quest Umzüge & Transporte"
-          ],
-          "evidence": "Business observed at position 6 among the first 10 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 6,
-      "visibility_evidence": [
-        "Business observed at position 10 among the first 10 Maps results returned in this run.",
-        "Business observed at position 6 among the first 10 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-16",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "mk umzüge – ihr experte für stressfreie umzüge|frankfurt am main|https://mk-umzuegefrankfurt.de/",
-      "company_name": "MK UMZÜGE – Ihr Experte für stressfreie Umzüge",
-      "industry": "Umzugsunternehmen",
-      "city": "Frankfurt am Main",
-      "email": "milankesic2018@gmail.com",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 85,
-      "visibility_tests": [
-        {
-          "query": "Umzugsunternehmen Frankfurt am Main",
-          "status": "OBSERVED",
-          "observed_position": 1,
-          "results_checked": 11,
-          "competitors_ahead": [],
-          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Umzugsunternehmen in Frankfurt am Main",
-          "status": "OBSERVED",
-          "observed_position": 1,
-          "results_checked": 11,
-          "competitors_ahead": [],
-          "evidence": "Business observed at position 1 among the first 11 Maps results returned in this run."
-        }
-      ],
-      "weak_visibility_observed": false,
-      "visibility_opportunity_score": 1,
-      "visibility_evidence": [
-        "Business observed at position 1 among the first 11 Maps results returned in this run.",
-        "Business observed at position 1 among the first 11 Maps results returned in this run."
-      ],
-      "visibility_date": "2026-09-16",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    }
-  ],
+  "results": [],
   "state": {
-    "runs": 27,
+    "runs": 28,
     "processed_ids": [
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -258,7 +119,7 @@
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
     "processed_count": 114,
-    "last_batch_count": 3,
+    "last_batch_count": 0,
     "remaining_eligible": 0,
     "weak_visibility_total": 78,
     "email_gate_rejected_count": 31,

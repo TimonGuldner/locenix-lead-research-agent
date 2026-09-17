@@ -9,9 +9,9 @@
   "airtable_updated": 23,
   "airtable_skipped": 74,
   "airtable_errors": [],
-  "priority_a_count": 111,
-  "priority_b_count": 3,
-  "visibility_pending_count": 13,
-  "last_run_date": "2026-09-16",
+  "priority_a_count": 114,
+  "priority_b_count": 0,
+  "visibility_pending_count": 0,
+  "last_run_date": "2026-09-17",
   "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_DOWNSTREAM_HANDOFF"
 }

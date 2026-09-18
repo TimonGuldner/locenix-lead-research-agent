@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-18T11:08:36.458677+00:00",
+  "generated_at": "2026-09-18T11:49:37.816229+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 166,
@@ -12,7 +12,7 @@
     "research_unqa": 0,
     "maps_learning_available": true,
     "maps_learning_status": "OK",
-    "maps_learning_runs": 68,
+    "maps_learning_runs": 69,
     "maps_learning_evaluated": 166,
     "maps_learning_downstream_evidence": 146,
     "maps_learning_recommended_industry": "Tierarzt",
@@ -44,14 +44,14 @@
     "email_daily_gap": 5,
     "email_agent_available": true,
     "email_auto_reply_enabled": true,
-    "email_received_scanned": 6,
+    "email_received_scanned": 8,
     "email_handled": 0,
-    "email_unmatched": 0,
+    "email_unmatched": 2,
     "email_errors": 0,
     "email_positive_replies": 0,
     "email_trial_interest": 0,
     "email_human_reviews_required": 0,
-    "email_last_run_at": "2026-09-18T06:39:16.273865+00:00",
+    "email_last_run_at": "2026-09-18T11:49:05.565327+00:00",
     "departments_total": 1,
     "departments_proposed": 0,
     "agents_total": 10,
@@ -71,7 +71,7 @@
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
     "available": true,
     "status": "OK",
-    "learning_runs": 68,
+    "learning_runs": 69,
     "research_leads_evaluated": 166,
     "leads_with_downstream_evidence": 146,
     "recommended_industry": "Tierarzt",
@@ -92,7 +92,7 @@
       "trial_interest": 0,
       "human_reviews_required": 0,
       "errors": 0,
-      "last_run_at": "2026-09-18T06:39:16.273865+00:00"
+      "last_run_at": "2026-09-18T11:49:05.565327+00:00"
     }
   },
   "departments": [

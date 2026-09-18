@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-18T14:58:06.218304+00:00",
+  "generated_at": "2026-09-18T15:38:20.595344+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 166,
@@ -44,14 +44,14 @@
     "email_daily_gap": 5,
     "email_agent_available": true,
     "email_auto_reply_enabled": true,
-    "email_received_scanned": 8,
+    "email_received_scanned": 9,
     "email_handled": 0,
-    "email_unmatched": 2,
+    "email_unmatched": 1,
     "email_errors": 0,
     "email_positive_replies": 0,
     "email_trial_interest": 0,
     "email_human_reviews_required": 0,
-    "email_last_run_at": "2026-09-18T11:49:05.565327+00:00",
+    "email_last_run_at": "2026-09-18T15:37:55.722593+00:00",
     "departments_total": 1,
     "departments_proposed": 0,
     "agents_total": 10,
@@ -92,7 +92,7 @@
       "trial_interest": 0,
       "human_reviews_required": 0,
       "errors": 0,
-      "last_run_at": "2026-09-18T11:49:05.565327+00:00"
+      "last_run_at": "2026-09-18T15:37:55.722593+00:00"
     }
   },
   "departments": [

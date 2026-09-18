@@ -6,28 +6,23 @@
     "sender": "Timon Guldner <hello@locenix.com>",
     "reply_to": "hello@locenix.com",
     "auto_reply_enabled": true,
-    "received_scanned": 8,
+    "received_scanned": 9,
     "handled": 0,
-    "unmatched": 2,
-    "duplicates_skipped": 6,
+    "unmatched": 1,
+    "duplicates_skipped": 8,
     "errors": 0,
     "positive_replies": 0,
     "trial_interest": 0,
     "human_reviews_required": 0,
-    "processed_message_ids_total": 8,
-    "last_run_at": "2026-09-18T11:49:05.565327+00:00"
+    "processed_message_ids_total": 9,
+    "last_run_at": "2026-09-18T15:37:55.722593+00:00"
   },
   "handled": [],
   "unmatched": [
     {
-      "message_id": "<010001a0b3bc417b-f1624344-1460-4791-a5ca-bceda8fc8980-000000@email.amazonses.com>",
-      "from": "noreply@reddit.com",
-      "subject": "Passwort für Reddit zurücksetzen"
-    },
-    {
-      "message_id": "<010001a0b3be4060-03a57854-96bd-4fb5-af3f-5876210c0be8-000000@email.amazonses.com>",
-      "from": "noreply@reddit.com",
-      "subject": "Dein Reddit-Passwort wurde aktualisiert."
+      "message_id": "<1789736763408.857eaba7-d1b5-43bb-86c4-83534b48891a@bf58x.hubspotemail.net>",
+      "from": "advertising@redditads.com",
+      "subject": "Welcome to Reddit for Business"
     }
   ],
   "duplicates": [
@@ -36,7 +31,9 @@
     "<970734512.24121.1789321479801@mssem05p.vkbads.de>",
     "<595c028cd3de4799ba2f38206e2f1a52@VeTEX01.vetos.local>",
     "<5vK4TaWJ5o00NqLUX838aA@notifications.google.com>",
-    "<010001a0ad8ede6f-36e9f73b-075f-400e-974d-0e74d9d7c641-000000@email.amazonses.com>"
+    "<010001a0ad8ede6f-36e9f73b-075f-400e-974d-0e74d9d7c641-000000@email.amazonses.com>",
+    "<010001a0b3bc417b-f1624344-1460-4791-a5ca-bceda8fc8980-000000@email.amazonses.com>",
+    "<010001a0b3be4060-03a57854-96bd-4fb5-af3f-5876210c0be8-000000@email.amazonses.com>"
   ],
   "errors": []
 }

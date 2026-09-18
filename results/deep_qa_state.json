@@ -1,5 +1,5 @@
 {
-  "runs": 33,
+  "runs": 34,
   "processed_ids": [
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -154,9 +154,5 @@
   "final_a_total": 53,
   "final_b_total": 92,
   "email_ready_total": 40,
-  "email_missing_total": 31,
-  "email_gate_qualified_total": 114,
-  "email_missing_excluded_total": 31,
-  "downstream_eligible_total": 114,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "email_missing_total": 31
 }

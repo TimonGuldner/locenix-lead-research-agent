@@ -1,17 +1,17 @@
 {
   "accepted": [],
   "accepted_count": 0,
-  "rejected_count": 23,
+  "rejected_count": 24,
   "inspected": 24,
   "state": {
-    "query_cursor": 303,
-    "runs": 101,
+    "query_cursor": 306,
+    "runs": 102,
     "lead_count": 166,
     "target_leads": 999999999,
     "last_accepted": 0,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 23,
+    "last_rejected": 24,
     "a_leads": 28,
     "b_leads": 107
   }

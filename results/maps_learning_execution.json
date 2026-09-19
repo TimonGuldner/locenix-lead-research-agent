@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 69,
-  "focus": "industry_exploitation",
-  "exploration": false,
+  "learning_run_count": 70,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Bonn",
-    "Bremen",
-    "Dresden"
+    "Bochum",
+    "Freiburg",
+    "Heidelberg"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Nagelstudio"
   ],
   "selected_pairs": [
     {
-      "city": "Bonn",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Bonn"
+      "city": "Bochum",
+      "industry": "Nagelstudio",
+      "query": "Nagelstudio Bochum"
     },
     {
-      "city": "Bremen",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Bremen"
+      "city": "Freiburg",
+      "industry": "Nagelstudio",
+      "query": "Nagelstudio Freiburg"
     },
     {
-      "city": "Dresden",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Dresden"
+      "city": "Heidelberg",
+      "industry": "Nagelstudio",
+      "query": "Nagelstudio Heidelberg"
     }
   ],
   "queries_per_run": 3

@@ -1,14 +1,14 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-09-19T07:20:12.671332+00:00",
-    "status": "PARTIAL",
+    "last_run_at": "2026-09-19T12:30:07.542444+00:00",
+    "status": "OK",
     "signals_added": 0,
     "stale_signals_removed": 0,
-    "pages_checked": 7,
+    "pages_checked": 8,
     "blocked_pages": 0,
     "human_action_required": 0,
-    "errors": 1,
+    "errors": 0,
     "learning_config_used": true,
     "queries_planned": 8,
     "blocked_domains_learned": 0
@@ -25,10 +25,5 @@
   ],
   "added": [],
   "blockers": [],
-  "errors": [
-    {
-      "query": "site:freelancermap.de \"Local SEO\"",
-      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Afreelancermap.de%20%22Local%20SEO%22\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Afreelancermap.de%20%22Local%20SEO%22\", waiting until \"domcontentloaded\"\n"
-    }
-  ]
+  "errors": []
 }

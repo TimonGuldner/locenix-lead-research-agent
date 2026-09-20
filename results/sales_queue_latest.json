@@ -69,7 +69,7 @@
       "queue_date": "2026-09-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recNnuAPrgBFfLVJ6"
+      "airtable_record_id": "recuzzzJZ54A6Idju"
     },
     {
       "lead_id": "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
@@ -105,7 +105,43 @@
       "queue_date": "2026-09-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recDHYYGVAJs6emW4"
+      "airtable_record_id": "recRWkUOCd6vmZYLM"
+    },
+    {
+      "lead_id": "lunavet - tierarztpraxis in dresden|dresden|https://luna-vet.de/",
+      "company_name": "LUNAVET - Tierarztpraxis in Dresden",
+      "industry": "Tierarzt",
+      "city": "Dresden",
+      "website": "https://luna-vet.de/",
+      "google_maps_url": "https://www.google.com/maps/place/LUNAVET+-+Tierarztpraxis+in+Dresden/data=!4m7!3m6!1s0x4709c500435524a1:0x6a645c0d16a7b0aa!8m2!3d51.0445866!4d13.6987943!16s%2Fg%2F11mllfd99t!19sChIJoSRVQwDFCUcRqrCnFg1cZGo?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "email": "kontakt@luna-vet.de",
+      "email_source_url": "https://luna-vet.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-20T11:40:06.975705+00:00",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 96,
+      "visibility_checked": true,
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 6,
+      "priority_score": 100,
+      "sales_tier": "A",
+      "primary_pitch": "Verified source data: 32 reviews vs. comparison median 614; gap 582.",
+      "why_now": [
+        "Verified source data: 32 reviews vs. comparison median 614; gap 582.",
+        "Online booking/appointment link observed on website.",
+        "Business observed at position 7 among the first 11 Maps results returned in this run."
+      ],
+      "proof_1": "Verified source data: 32 reviews vs. comparison median 614; gap 582.",
+      "proof_2": "Online booking/appointment link observed on website.",
+      "proof_3": "Business website links to at least one social profile.",
+      "next_action": "PRIORITY_SALES_REVIEW",
+      "airtable_ready": true,
+      "airtable_sync_status": "SYNCED_CREATED",
+      "outreach_status": "NOT_CONTACTED",
+      "queue_date": "2026-09-20",
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
+      "airtable_record_id": "recAkUFBwzqe4BWfL"
     },
     {
       "lead_id": "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
@@ -176,7 +212,7 @@
       "queue_date": "2026-09-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recojtbzMNKsMTusE"
+      "airtable_record_id": "recCVeSfSGuTUh9a1"
     },
     {
       "lead_id": "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -456,7 +492,7 @@
       "queue_date": "2026-09-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recp3qpDDqIGoaOpw"
+      "airtable_record_id": "reczTKiGeiyI2Crbb"
     },
     {
       "lead_id": "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
@@ -492,7 +528,7 @@
       "queue_date": "2026-09-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recWRA1XgIiGiG6iU"
+      "airtable_record_id": "recwDIHR2ns96YMhJ"
     },
     {
       "lead_id": "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
@@ -636,7 +672,7 @@
       "queue_date": "2026-09-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recldflOIV48bVIdC"
+      "airtable_record_id": "recOesxO3FD3ydpsv"
     },
     {
       "lead_id": "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -671,7 +707,7 @@
       "queue_date": "2026-09-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "rect6Z6hNOAmIojMd"
+      "airtable_record_id": "recoGRkIZyZ1X2TK2"
     },
     {
       "lead_id": "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
@@ -706,7 +742,7 @@
       "queue_date": "2026-09-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recqvrYvQvaDdAOSQ"
+      "airtable_record_id": "rec1dMUBN9Yfr34z5"
     },
     {
       "lead_id": "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
@@ -851,56 +887,20 @@
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recO0u5woWbhHTMiI"
-    },
-    {
-      "lead_id": "tierarzt berlin prenzlauer berg, tierarztpraxis am arnimplatz|berlin|https://tierarztpraxis-arnimplatz.de/",
-      "company_name": "Tierarzt Berlin Prenzlauer Berg, Tierarztpraxis am Arnimplatz",
-      "industry": "Tierarzt",
-      "city": "Berlin",
-      "website": "https://tierarztpraxis-arnimplatz.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Berlin+Prenzlauer+Berg,+Tierarztpraxis+am+Arnimplatz/data=!4m7!3m6!1s0x47a85204e4613689:0x80002afdc49ca4a7!8m2!3d52.5501883!4d13.4083331!16s%2Fg%2F1tqpy8hf!19sChIJiTZh5ARSqEcRp6ScxP0qAIA?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "email": "info@tierarztpraxis-arnimplatz.de",
-      "email_source_url": "https://tierarztpraxis-arnimplatz.de/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-14T00:11:21.768531+00:00",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 92,
-      "visibility_checked": true,
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
-      "priority_score": 100,
-      "sales_tier": "A",
-      "primary_pitch": "Verified source data: 849 reviews vs. comparison median 1150; gap 301.",
-      "why_now": [
-        "Verified source data: 849 reviews vs. comparison median 1150; gap 301.",
-        "Online booking/appointment link observed on website.",
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-      ],
-      "proof_1": "Verified source data: 849 reviews vs. comparison median 1150; gap 301.",
-      "proof_2": "Online booking/appointment link observed on website.",
-      "proof_3": "Business website links to at least one social profile.",
-      "next_action": "PRIORITY_SALES_REVIEW",
-      "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_UPDATED",
-      "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-09-20",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "reckcI2k0hFTgmb6X"
     }
   ],
   "state": {
-    "queue_count": 114,
-    "airtable_ready_count": 40,
-    "email_ready_count": 114,
+    "queue_count": 117,
+    "airtable_ready_count": 41,
+    "email_ready_count": 117,
     "email_missing_count": 0,
-    "hard_email_gate_rejected_count": 31,
+    "hard_email_gate_rejected_count": 33,
     "downstream_email_gate_violations": 0,
-    "airtable_created": 17,
+    "airtable_created": 18,
     "airtable_updated": 23,
-    "airtable_skipped": 74,
+    "airtable_skipped": 76,
     "airtable_errors": [],
-    "priority_a_count": 114,
+    "priority_a_count": 117,
     "priority_b_count": 0,
     "visibility_pending_count": 0,
     "last_run_date": "2026-09-20",

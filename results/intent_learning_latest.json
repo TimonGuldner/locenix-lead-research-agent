@@ -1,22 +1,22 @@
 {
   "state": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "last_run_at": "2026-09-20T11:22:02.721186+00:00",
+    "last_run_at": "2026-09-20T16:05:08.160005+00:00",
     "status": "OK",
-    "learning_run_count": 30,
+    "learning_run_count": 31,
     "evaluated_opportunities": 21,
     "queries_learned": 4,
     "sources_learned": 13,
     "boosted_queries": 3,
     "paused_queries": 0,
     "blocked_domains": 0,
-    "provider_cooldowns": 0,
+    "provider_cooldowns": 2,
     "errors": 0
   },
   "config": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "generated_at": "2026-09-20T11:22:02.721186+00:00",
-    "learning_run_count": 30,
+    "generated_at": "2026-09-20T16:05:08.160005+00:00",
+    "learning_run_count": 31,
     "mode": "SAFE_OUTCOME_LEARNING",
     "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
     "query_weights": {
@@ -48,6 +48,13 @@
     "paused_queries": [],
     "blocked_domains": [],
     "provider_policy": {
+      "jina_search": {
+        "fail_streak": 8,
+        "cooldown": true,
+        "probe_due": false,
+        "last_errors": 7,
+        "last_hits": 0
+      },
       "verified_seed": {
         "fail_streak": 0,
         "cooldown": false,
@@ -55,24 +62,17 @@
         "last_errors": 0,
         "last_hits": 3
       },
+      "reddit_api": {
+        "fail_streak": 8,
+        "cooldown": true,
+        "probe_due": false,
+        "last_errors": 3,
+        "last_hits": 0
+      },
       "duckduckgo": {
         "fail_streak": 0,
         "cooldown": false,
         "probe_due": false,
-        "last_errors": 0,
-        "last_hits": 0
-      },
-      "jina_search": {
-        "fail_streak": 7,
-        "cooldown": false,
-        "probe_due": true,
-        "last_errors": 0,
-        "last_hits": 0
-      },
-      "reddit_api": {
-        "fail_streak": 7,
-        "cooldown": false,
-        "probe_due": true,
         "last_errors": 0,
         "last_hits": 0
       }

@@ -765,6 +765,99 @@
     "final_qa_required": true
   },
   {
+    "company_name": "Mobiler Tierarzt Alovet – Notdienst Essen",
+    "industry": "Tierarzt",
+    "city": "Essen",
+    "address": "Glühstraße 6, 45355 Essen, Deutschland",
+    "website": "https://alovet.de/essen",
+    "google_maps_url": "https://www.google.com/maps/place/Mobiler+Tierarzt+Alovet+%E2%80%93+Notdienst+Essen/data=!4m7!3m6!1s0x47b8c3cb729f1185:0x18179aecc734de39!8m2!3d51.4661562!4d6.9456479!16s%2Fg%2F11nhyypv7d!19sChIJhRGfcsvDuEcROd40x-yaFxg?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 1575 8157795",
+    "public_business_email": "info@alovet.de",
+    "email_source_url": "https://alovet.de/essen/",
+    "contact_form_url": "https://alovet.de/kontakt/",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.8,
+    "google_review_count": 18,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "impfung"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "Tierärztliche Klinik für Kleintiere Dr. med. vet. Jan Apelt",
+    "competitor_1_reviews": 3381,
+    "competitor_2": "Kleintierpraxis - Dr. med. vet. Ricarda Häuser",
+    "competitor_2_reviews": 574,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "18 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 522."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 18 Google-Bewertungen."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 2,
+    "report_potential_score": 28,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 89,
+    "competitor_review_median": 540,
+    "review_gap": 522,
+    "grade": "A",
+    "lead_class": "A_LEAD",
+    "qa_gate": "PASS_PRE_AIRTABLE_QA",
+    "primary_pitch": "18 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 522.",
+    "proof": [
+      "18 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 522.",
+      "Nur 18 Google-Bewertungen.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "18 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 522.",
+    "second_outreach_angle": "Nur 18 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Essen. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-20",
+    "research_status": "QUALIFIED",
+    "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 9,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 522; Kaufwahrscheinlichkeit 9/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
     "company_name": "Immobilienmakler Köln",
     "industry": "Immobilienmakler",
     "city": "Koeln",
@@ -1237,6 +1330,100 @@
     "signal_confidence": "HIGH",
     "obvious_chain_candidate": false,
     "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 283; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "LUNAVET - Tierarztpraxis in Dresden",
+    "industry": "Tierarzt",
+    "city": "Dresden",
+    "address": "Wernerstraße 38, 01159 Dresden, Deutschland",
+    "website": "https://luna-vet.de/",
+    "google_maps_url": "https://www.google.com/maps/place/LUNAVET+-+Tierarztpraxis+in+Dresden/data=!4m7!3m6!1s0x4709c500435524a1:0x6a645c0d16a7b0aa!8m2!3d51.0445866!4d13.6987943!16s%2Fg%2F11mllfd99t!19sChIJoSRVQwDFCUcRqrCnFg1cZGo?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 1516 7439269",
+    "public_business_email": "info@luna-vet.de",
+    "email_source_url": "https://luna-vet.de/kontakt",
+    "contact_form_url": "https://luna-vet.de/kontakt",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.8,
+    "google_review_count": 32,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "labor"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: labor"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "Avetia Dresden",
+    "competitor_1_reviews": 1116,
+    "competitor_2": "Diagnostikzentrum für Kleintiere - Terminsprechstunde",
+    "competitor_2_reviews": 657,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "32 eigene Bewertungen vs. lokaler Wettbewerbsmedian 614; Gap 582."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 32 Google-Bewertungen."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: labor",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 2,
+    "report_potential_score": 26,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 87,
+    "competitor_review_median": 614,
+    "review_gap": 582,
+    "grade": "A",
+    "lead_class": "A_LEAD",
+    "qa_gate": "PASS_PRE_AIRTABLE_QA",
+    "primary_pitch": "32 eigene Bewertungen vs. lokaler Wettbewerbsmedian 614; Gap 582.",
+    "proof": [
+      "32 eigene Bewertungen vs. lokaler Wettbewerbsmedian 614; Gap 582.",
+      "Nur 32 Google-Bewertungen.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: labor"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "32 eigene Bewertungen vs. lokaler Wettbewerbsmedian 614; Gap 582.",
+    "second_outreach_angle": "Nur 32 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Dresden. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-20",
+    "research_status": "QUALIFIED",
+    "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 582; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
     "airtable_ready": false,
     "final_qa_required": true
   },
@@ -10965,6 +11152,265 @@
     "final_qa_required": true
   },
   {
+    "company_name": "Kleintierpraxis Benitz",
+    "industry": "Tierarzt",
+    "city": "Dresden",
+    "address": "Schandauer Str. 43, 01277 Dresden-Blasewitz, Deutschland",
+    "website": "http://www.kleintierpraxis-benitz.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Benitz/data=!4m7!3m6!1s0x4709c891cc55e84f:0x8d17131c66cbe036!8m2!3d51.0417088!4d13.8001233!16s%2Fg%2F11clv7mxqj!19sChIJT-hVzJHICUcRNuDLZhwTF40?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 351 3115063",
+    "public_business_email": null,
+    "email_source_url": null,
+    "contact_form_url": "https://kleintierpraxis-benitz.de/#sprechzeiten-und-kontakt",
+    "contact_basis": "CONTACT_FORM",
+    "google_rating": 4.8,
+    "google_review_count": 429,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "impfung",
+      "chirurgie",
+      "ultraschall",
+      "labor"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "Avetia Dresden",
+    "competitor_1_reviews": 1116,
+    "competitor_2": "Diagnostikzentrum für Kleintiere - Terminsprechstunde",
+    "competitor_2_reviews": 657,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "429 eigene Bewertungen vs. lokaler Wettbewerbsmedian 614; Gap 185."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 1,
+    "report_potential_score": 20,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 81,
+    "competitor_review_median": 614,
+    "review_gap": 185,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "429 eigene Bewertungen vs. lokaler Wettbewerbsmedian 614; Gap 185.",
+    "proof": [
+      "429 eigene Bewertungen vs. lokaler Wettbewerbsmedian 614; Gap 185.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "429 eigene Bewertungen vs. lokaler Wettbewerbsmedian 614; Gap 185.",
+    "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Dresden. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-20",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 5,
+    "contact_quality_reasons": [
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 185; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 5/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "Tierarztpraxis Steffen",
+    "industry": "Tierarzt",
+    "city": "Duesseldorf",
+    "address": "Gillbachstraße 23, 41466 Neuss-Weckhoven, Deutschland",
+    "website": "http://www.pet1.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Steffen/data=!4m7!3m6!1s0x47b8b532d0344d83:0xfed010d8f21d7d5f!8m2!3d51.157765!4d6.691871!16s%2Fg%2F1thxzwvp!19sChIJg0000DK1uEcRX30d8tgQ0P4?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 2131 949405",
+    "public_business_email": "vetery@t-online.de",
+    "email_source_url": "https://www.pet1.de/",
+    "contact_form_url": "https://www.pet1.de/kontakt-anfahrt/",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.7,
+    "google_review_count": 226,
+    "main_category": "Tierarzt",
+    "website_services": [],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [],
+    "service_gap_status": "NOT_DETECTED",
+    "competitor_1": "felmo mobiler Tierarzt Düsseldorf",
+    "competitor_1_reviews": 4292,
+    "competitor_2": "Tierklinik Düsseldorf",
+    "competitor_2_reviews": 1494,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "226 eigene Bewertungen vs. lokaler Wettbewerbsmedian 644; Gap 418."
+      },
+      {
+        "type": "rating_headroom",
+        "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+      }
+    ],
+    "soft_optimization_signals": [],
+    "verified_signal_count": 2,
+    "report_potential_score": 22,
+    "visible_value_score": 12,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 81,
+    "competitor_review_median": 644,
+    "review_gap": 418,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "226 eigene Bewertungen vs. lokaler Wettbewerbsmedian 644; Gap 418.",
+    "proof": [
+      "226 eigene Bewertungen vs. lokaler Wettbewerbsmedian 644; Gap 418.",
+      "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "226 eigene Bewertungen vs. lokaler Wettbewerbsmedian 644; Gap 418.",
+    "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Duesseldorf. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-20",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 418; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "Tierärztliche Praxis Dr. Sabel",
+    "industry": "Tierarzt",
+    "city": "Essen",
+    "address": "Alfredstraße 25, 45130 Essen-Stadtbezirke II, Deutschland",
+    "website": "http://www.tierarzt-dr-sabel.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Tier%C3%A4rztliche+Praxis+Dr.+Sabel/data=!4m7!3m6!1s0x47b8c2d090a45aaf:0x72208f006fab38ab!8m2!3d51.4392842!4d7.003745!16s%2Fg%2F1tmpd01_!19sChIJr1qkkNDCuEcRqzirbwCPIHI?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 201 773030",
+    "public_business_email": "kontakt@tierarzt-dr-sabel.de",
+    "email_source_url": "https://www.tierarzt-dr-sabel.de/",
+    "contact_form_url": "https://www.tierarzt-dr-sabel.de/kontakt.php",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.7,
+    "google_review_count": 268,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "labor"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [],
+    "service_gap_status": "NOT_DETECTED",
+    "competitor_1": "Tierärztliche Klinik für Kleintiere Dr. med. vet. Jan Apelt",
+    "competitor_1_reviews": 3381,
+    "competitor_2": "Kleintierpraxis - Dr. med. vet. Ricarda Häuser",
+    "competitor_2_reviews": 574,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "268 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 272."
+      },
+      {
+        "type": "rating_headroom",
+        "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+      }
+    ],
+    "soft_optimization_signals": [],
+    "verified_signal_count": 2,
+    "report_potential_score": 22,
+    "visible_value_score": 12,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 81,
+    "competitor_review_median": 540,
+    "review_gap": 272,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "268 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 272.",
+    "proof": [
+      "268 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 272.",
+      "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "268 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 272.",
+    "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Essen. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-20",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 272; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
     "company_name": "ELYSIO Physiotherapie-Mitte",
     "industry": "Physiotherapie",
     "city": "Berlin",
@@ -12884,6 +13330,278 @@
     "signal_confidence": "MEDIUM",
     "obvious_chain_candidate": false,
     "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 145; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "Dr. SAM - dein online Tierarzt",
+    "industry": "Tierarzt",
+    "city": "Duesseldorf",
+    "address": "Rethelstraße 47, 40237 Düsseldorf, Deutschland",
+    "website": "https://www.drsam.de/?utm_source=gmb&utm_medium=organic&utm_content=listing&utm_campaign=gtm",
+    "google_maps_url": "https://www.google.com/maps/place/Dr.+SAM+-+dein+online+Tierarzt/data=!4m7!3m6!1s0x47b8c9fa7dd5652d:0xb3e897e58ab08aa2!8m2!3d51.2328222!4d6.7982305!16s%2Fg%2F11gwmpfcg5!19sChIJLWXVffrJuEcRooqwiuWX6LM?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "phone": null,
+    "public_business_email": null,
+    "email_source_url": null,
+    "contact_form_url": null,
+    "contact_basis": "UNKNOWN",
+    "google_rating": 4.6,
+    "google_review_count": 477,
+    "main_category": "Tierarzt",
+    "website_services": [],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [],
+    "service_gap_status": "NOT_DETECTED",
+    "competitor_1": "felmo mobiler Tierarzt Düsseldorf",
+    "competitor_1_reviews": 4292,
+    "competitor_2": "Tierklinik Düsseldorf",
+    "competitor_2_reviews": 1494,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "477 eigene Bewertungen vs. lokaler Wettbewerbsmedian 644; Gap 167."
+      },
+      {
+        "type": "rating_headroom",
+        "proof": "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
+      }
+    ],
+    "soft_optimization_signals": [],
+    "verified_signal_count": 2,
+    "report_potential_score": 22,
+    "visible_value_score": 12,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 9,
+    "saas_fit_score": 5,
+    "total_score": 80,
+    "competitor_review_median": 644,
+    "review_gap": 167,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "477 eigene Bewertungen vs. lokaler Wettbewerbsmedian 644; Gap 167.",
+    "proof": [
+      "477 eigene Bewertungen vs. lokaler Wettbewerbsmedian 644; Gap 167.",
+      "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "477 eigene Bewertungen vs. lokaler Wettbewerbsmedian 644; Gap 167.",
+    "second_outreach_angle": "Google-Bewertung 4.6; sichtbares Reputationspotenzial.",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Duesseldorf. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-20",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 8,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 2,
+    "contact_quality_reasons": [
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 167; Kaufwahrscheinlichkeit 8/10; Kontaktqualität 2/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "Ebeling Maike Kleintierpraxis",
+    "industry": "Tierarzt",
+    "city": "Essen",
+    "address": "Hendrik-Witte-Straße 6, 45128 Essen, Deutschland",
+    "website": "https://kleintierpraxis-im-suedviertel.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Ebeling+Maike+Kleintierpraxis/data=!4m7!3m6!1s0x47b8dd333b48a06b:0x1b5a340755e92353!8m2!3d51.4452435!4d7.019067!16s%2Fg%2F1tdndbdb!19sChIJa6BIOzPduEcRUyPpVQc0Whs?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 201 1769710",
+    "public_business_email": "kontakt@kleintierpraxis-im-suedviertel.de",
+    "email_source_url": "https://kleintierpraxis-im-suedviertel.de/impressum/",
+    "contact_form_url": "https://kleintierpraxis-im-suedviertel.de/kontakt/",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.7,
+    "google_review_count": 448,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "impfung",
+      "ultraschall",
+      "labor"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "Tierärztliche Klinik für Kleintiere Dr. med. vet. Jan Apelt",
+    "competitor_1_reviews": 3381,
+    "competitor_2": "Kleintierpraxis - Dr. med. vet. Ricarda Häuser",
+    "competitor_2_reviews": 574,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "448 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 92."
+      },
+      {
+        "type": "rating_headroom",
+        "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 2,
+    "report_potential_score": 19,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 80,
+    "competitor_review_median": 540,
+    "review_gap": 92,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "448 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 92.",
+    "proof": [
+      "448 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 92.",
+      "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, ultraschall, labor"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "448 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 92.",
+    "second_outreach_angle": "Google-Bewertung 4.7; sichtbares Reputationspotenzial.",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Essen. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-20",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 92; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
+    "company_name": "Tierarzt Essen GmbH - Dr. Annette Baltes - Tierärztin",
+    "industry": "Tierarzt",
+    "city": "Essen",
+    "address": "Jahnstraße 61, 45355 Essen-Stadtbezirk IV, Deutschland",
+    "website": "https://tierarzt-essen.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Essen+GmbH+-+Dr.+Annette+Baltes+-+Tier%C3%A4rztin/data=!4m7!3m6!1s0x47b8c27f282f591f:0x454f8dd635870580!8m2!3d51.4741956!4d6.965576!16s%2Fg%2F1tjppl6b!19sChIJH1kvKH_CuEcRgAWHNdaNT0U?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 201 675663",
+    "public_business_email": "info@tierarzt-essen.de",
+    "email_source_url": "https://tierarzt-essen.de/",
+    "contact_form_url": "https://tierarzt-essen.de/kontakt/",
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 4.5,
+    "google_review_count": 425,
+    "main_category": "Tierarzt",
+    "website_services": [
+      "impfung",
+      "chirurgie",
+      "ultraschall",
+      "labor"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "Tierärztliche Klinik für Kleintiere Dr. med. vet. Jan Apelt",
+    "competitor_1_reviews": 3381,
+    "competitor_2": "Kleintierpraxis - Dr. med. vet. Ricarda Häuser",
+    "competitor_2_reviews": 574,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "425 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 115."
+      },
+      {
+        "type": "rating_headroom",
+        "proof": "Google-Bewertung 4.5; sichtbares Reputationspotenzial."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 2,
+    "report_potential_score": 19,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 80,
+    "competitor_review_median": 540,
+    "review_gap": 115,
+    "grade": "B+",
+    "lead_class": "B_LEAD",
+    "qa_gate": "REVIEW",
+    "primary_pitch": "425 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 115.",
+    "proof": [
+      "425 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 115.",
+      "Google-Bewertung 4.5; sichtbares Reputationspotenzial.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: impfung, chirurgie, ultraschall, labor"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "425 eigene Bewertungen vs. lokaler Wettbewerbsmedian 540; Gap 115.",
+    "second_outreach_angle": "Google-Bewertung 4.5; sichtbares Reputationspotenzial.",
+    "research_notes": "Deterministic research v2. Query: Tierarzt Essen. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-09-20",
+    "research_status": "PARTIAL",
+    "qa_status": "PENDING",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 10,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "etablierter Betrieb",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 10,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "contact form",
+      "working website candidate"
+    ],
+    "signal_confidence": "HIGH",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 115; Kaufwahrscheinlichkeit 10/10; Kontaktqualität 10/10.",
     "airtable_ready": false,
     "final_qa_required": true
   },

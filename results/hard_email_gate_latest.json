@@ -1,10 +1,10 @@
 {
   "state": {
     "agent": "LOCENIX_HARD_EMAIL_GATE_ENFORCER",
-    "last_run_at": "2026-09-20T11:16:52.980893+00:00",
-    "qualified_qa_total": 145,
-    "downstream_email_qualified_total": 114,
-    "email_missing_excluded_total": 31,
+    "last_run_at": "2026-09-20T12:20:10.955581+00:00",
+    "qualified_qa_total": 150,
+    "downstream_email_qualified_total": 117,
+    "email_missing_excluded_total": 33,
     "visibility_rows_before": 114,
     "visibility_rows_after": 114,
     "visibility_rows_purged_this_run": 0,
@@ -25,6 +25,7 @@
     "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
     "podologie edelmann|berlin|https://podologie-edelmann.com/",
     "thead - blond friseur münchen | aveda salon|muenchen|https://thehead-salon.de/",
+    "mobiler tierarzt alovet – notdienst essen|essen|https://alovet.de/essen",
     "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
     "podopro - podologie berlin-mitte medizinische fußbehandlung|berlin|https://www.podopro.de/",
     "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
@@ -47,6 +48,7 @@
     "fachzentrum für kleintiermedizin am chemnitz center|chemnitz|https://www.vet-chemnitz.de/",
     "tierärztliche praxis für kleintiere scharnhorst gmbh|dortmund|http://www.petdoc.de/",
     "fahrschule schlierf|chemnitz|http://fahrschule-schlierf.com/",
+    "kleintierpraxis benitz|dresden|http://www.kleintierpraxis-benitz.de/",
     "tierarztpraxis dr. kochner|mannheim|https://www.tierarztpraxiskochner.de/",
     "torami nails · lashes|krefeld|https://beacons.ai/torami.co",
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/"

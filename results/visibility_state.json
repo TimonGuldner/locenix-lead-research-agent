@@ -120,7 +120,7 @@
   "last_batch_count": 0,
   "remaining_eligible": 0,
   "weak_visibility_total": 78,
-  "email_gate_rejected_count": 31,
+  "email_gate_rejected_count": 33,
   "downstream_email_gate_violations": 0,
   "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
   "legacy_visibility_rows_purged": 0

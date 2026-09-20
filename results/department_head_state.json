@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-20T12:20:19.439100+00:00",
+  "last_run_at": "2026-09-20T14:51:32.619004+00:00",
   "department_status": "BACKLOG",
   "next_agent": "deep_qa",
   "reason": "Deep QA has 3 eligible leads waiting.",
@@ -17,7 +17,7 @@
   "maps_learning_recommended_city": "Muenchen",
   "maps_learning_errors": 0,
   "maps_downstream_email_gate_violations": 0,
-  "sales_hard_email_gate_rejected": 31,
+  "sales_hard_email_gate_rejected": 33,
   "email_daily_target": 5,
   "email_sent_today": 0,
   "email_daily_gap": 5,

@@ -1,10 +1,10 @@
 {
   "state": {
     "agent": "LOCENIX_HARD_EMAIL_GATE_ENFORCER",
-    "last_run_at": "2026-09-20T14:51:24.711615+00:00",
-    "qualified_qa_total": 150,
-    "downstream_email_qualified_total": 117,
-    "email_missing_excluded_total": 33,
+    "last_run_at": "2026-09-20T16:21:08.612725+00:00",
+    "qualified_qa_total": 153,
+    "downstream_email_qualified_total": 118,
+    "email_missing_excluded_total": 35,
     "visibility_rows_before": 117,
     "visibility_rows_after": 117,
     "visibility_rows_purged_this_run": 0,
@@ -43,6 +43,7 @@
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "kosmetikstudio gala beauty space|gelsenkirchen|https://dikidi.net/2118040",
+    "dr. sam - dein online tierarzt|duesseldorf|https://www.drsam.de/?utm_source=gmb&utm_medium=organic&utm_content=listing&utm_campaign=gtm",
     "maison de nails berlin|berlin|https://maisondenails.de/",
     "zahnärzte in der hamburger city - dr. med. dent. daria von riewel (ehem. niemietz)|hamburg|https://zahnarzt.hamburg/",
     "fachzentrum für kleintiermedizin am chemnitz center|chemnitz|https://www.vet-chemnitz.de/",
@@ -50,6 +51,7 @@
     "fahrschule schlierf|chemnitz|http://fahrschule-schlierf.com/",
     "kleintierpraxis benitz|dresden|http://www.kleintierpraxis-benitz.de/",
     "tierarztpraxis dr. kochner|mannheim|https://www.tierarztpraxiskochner.de/",
+    "ebeling maike kleintierpraxis|essen|https://kleintierpraxis-im-suedviertel.de/",
     "torami nails · lashes|krefeld|https://beacons.ai/torami.co",
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/"
   ]

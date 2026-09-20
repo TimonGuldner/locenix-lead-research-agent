@@ -1,14 +1,14 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-20T14:51:32.619004+00:00",
+  "generated_at": "2026-09-20T16:21:13.413406+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 174,
     "lead_a": 30,
     "lead_b": 113,
     "eligible_research_count": 143,
-    "qa_processed_count": 151,
+    "qa_processed_count": 154,
     "research_unqa": 0,
     "maps_learning_available": true,
     "maps_learning_status": "OK",
@@ -18,13 +18,13 @@
     "maps_learning_recommended_industry": "Tierarzt",
     "maps_learning_recommended_city": "Muenchen",
     "maps_learning_errors": 0,
-    "qa_remaining": 3,
+    "qa_remaining": 0,
     "qa_final_a": 54,
-    "qa_final_b": 96,
+    "qa_final_b": 99,
     "qa_email_ready": 41,
-    "qa_email_missing": 33,
+    "qa_email_missing": 35,
     "visibility_remaining": 0,
-    "visibility_email_gate_rejected": 33,
+    "visibility_email_gate_rejected": 35,
     "weak_visibility": 81,
     "sales_queue_count": 117,
     "airtable_ready": 41,
@@ -51,7 +51,7 @@
     "email_positive_replies": 0,
     "email_trial_interest": 0,
     "email_human_reviews_required": 0,
-    "email_last_run_at": "2026-09-20T12:19:56.869101+00:00",
+    "email_last_run_at": "2026-09-20T16:20:51.784891+00:00",
     "departments_total": 1,
     "departments_proposed": 0,
     "agents_total": 10,
@@ -92,7 +92,7 @@
       "trial_interest": 0,
       "human_reviews_required": 0,
       "errors": 0,
-      "last_run_at": "2026-09-20T12:19:56.869101+00:00"
+      "last_run_at": "2026-09-20T16:20:51.784891+00:00"
     }
   },
   "departments": [
@@ -385,8 +385,8 @@
       "_kind": "agent"
     }
   ],
-  "next_agent": "deep_qa",
-  "reason": "Deep QA has 3 eligible leads waiting.",
+  "next_agent": "outreach_controller",
+  "reason": "Airtable-ready email-qualified leads are missing outreach drafts.",
   "dispatch_attempted": true,
   "dispatch_success": true,
   "dispatch_detail": "HTTP 204",

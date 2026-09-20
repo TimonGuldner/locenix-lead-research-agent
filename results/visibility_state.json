@@ -1,5 +1,5 @@
 {
-  "runs": 34,
+  "runs": 35,
   "processed_ids": [
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -58,6 +58,7 @@
     "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
     "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
     "ks autoglas zentrum germering|muenchen|https://germering.ksautoglas.com/",
+    "lunavet - tierarztpraxis in dresden|dresden|https://luna-vet.de/",
     "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
     "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
     "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
@@ -94,6 +95,7 @@
     "tierarztpraxis holt dr. kathagen, dr. riecken, dr. sixt|moenchengladbach|http://www.fachtierarztpraxis-holt.de/",
     "tierarztpraxis köln-langel gmbh|koeln|http://www.tierarztpraxis-koeln-langel.de/",
     "tierarztpraxis lisa plagge|krefeld|https://tierarzt-plagge.de/",
+    "tierarztpraxis steffen|duesseldorf|http://www.pet1.de/",
     "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
     "tiergesundheitszentrum an der flora (ex tierarztpraxis am nippeser tälchen)|koeln|https://www.vet-nippes.de/",
     "tiergesundheitszentrum pankow|berlin|https://www.tgz-pankow.de/",
@@ -103,6 +105,7 @@
     "tierärzte mobil nürnberg|nuernberg|http://tieraerzte-mobil-nuernberg.de/",
     "tierärztliche gemeinschaftspraxis viola daub & dr. med. vet. claudia szattelberger|koeln|http://www.tierarztpraxis-koeln-dellbrueck.de/",
     "tierärztliche praxis daglis|dortmund|http://www.tierarztpraxis-daglis.de/",
+    "tierärztliche praxis dr. sabel|essen|http://www.tierarzt-dr-sabel.de/",
     "tierärztliche praxis elena waldhier|nuernberg|http://www.tierarzt-ziegelstein.de/",
     "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
     "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
@@ -116,12 +119,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 114,
-  "last_batch_count": 0,
+  "processed_count": 117,
+  "last_batch_count": 3,
   "remaining_eligible": 0,
-  "weak_visibility_total": 78,
+  "weak_visibility_total": 81,
   "email_gate_rejected_count": 33,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

@@ -1,7 +1,156 @@
 {
-  "results": [],
+  "results": [
+    {
+      "lead_id": "lunavet - tierarztpraxis in dresden|dresden|https://luna-vet.de/",
+      "company_name": "LUNAVET - Tierarztpraxis in Dresden",
+      "industry": "Tierarzt",
+      "city": "Dresden",
+      "email": "kontakt@luna-vet.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 96,
+      "visibility_tests": [
+        {
+          "query": "Tierarzt Dresden",
+          "status": "OBSERVED",
+          "observed_position": 7,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Kleintierpraxis Benitz",
+            "VetPraxis Tierarztpraxis für Kleintiere prakt. Tierarzt Krzysztof Sliwinski",
+            "Kleintierpraxis am Großen Garten",
+            "Tierarztpraxis Vockert",
+            "Kleintierpraxis Schneider"
+          ],
+          "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+        },
+        {
+          "query": "Tierarzt in Dresden",
+          "status": "OBSERVED",
+          "observed_position": 10,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Tierarztpraxis Langebrück - Dr. med. vet. Mathias Ehrlich",
+            "Kleintierpraxis am Großen Garten",
+            "VetPraxis Tierarztpraxis für Kleintiere prakt. Tierarzt Krzysztof Sliwinski",
+            "Kleintierpraxis Benitz",
+            "Kleintierpraxis Schneider"
+          ],
+          "evidence": "Business observed at position 10 among the first 11 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 6,
+      "visibility_evidence": [
+        "Business observed at position 7 among the first 11 Maps results returned in this run.",
+        "Business observed at position 10 among the first 11 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-20",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "tierarztpraxis steffen|duesseldorf|http://www.pet1.de/",
+      "company_name": "Tierarztpraxis Steffen",
+      "industry": "Tierarzt",
+      "city": "Duesseldorf",
+      "email": "vetery@t-online.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "visibility_tests": [
+        {
+          "query": "Tierarzt Duesseldorf",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "AniCura Tierklinik Neandertal (24h-Notdienst vor Ort)",
+            "Rex Tierarztpraxis Düsseldorf-Friedrichstadt",
+            "Die Kleintierärzte Düsseldorf",
+            "felmo mobiler Tierarzt Düsseldorf",
+            "Dr. SAM - dein online Tierarzt"
+          ],
+          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+        },
+        {
+          "query": "Tierarzt in Duesseldorf",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "Rex Tierarztpraxis Düsseldorf-Friedrichstadt",
+            "Die Kleintierärzte Düsseldorf",
+            "felmo mobiler Tierarzt Düsseldorf",
+            "Tierarztpraxis Düsselpfoten Dr. Hoelper & Dr. Wuchert | Tierarzt Düsseldorf",
+            "Dr. SAM - dein online Tierarzt"
+          ],
+          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
+      "visibility_evidence": [
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      ],
+      "visibility_date": "2026-09-20",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "tierärztliche praxis dr. sabel|essen|http://www.tierarzt-dr-sabel.de/",
+      "company_name": "Tierärztliche Praxis Dr. Sabel",
+      "industry": "Tierarzt",
+      "city": "Essen",
+      "email": "kontakt@tierarzt-dr-sabel.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "visibility_tests": [
+        {
+          "query": "Tierarzt Essen",
+          "status": "OBSERVED",
+          "observed_position": 4,
+          "results_checked": 10,
+          "competitors_ahead": [
+            "AniCura Essen Reuenberg GmbH",
+            "Tierärztliche Klinik für Kleintiere Dr. med. vet. Jan Apelt",
+            "Ebeling Maike Kleintierpraxis"
+          ],
+          "evidence": "Business observed at position 4 among the first 10 Maps results returned in this run."
+        },
+        {
+          "query": "Tierarzt in Essen",
+          "status": "OBSERVED",
+          "observed_position": 6,
+          "results_checked": 10,
+          "competitors_ahead": [
+            "AniCura Essen Reuenberg GmbH",
+            "Ebeling Maike Kleintierpraxis",
+            "Tierarztpraxis Schott",
+            "Tierärztliche Klinik für Kleintiere Dr. med. vet. Jan Apelt",
+            "Tierarzt Essen GmbH - Dr. Annette Baltes - Tierärztin"
+          ],
+          "evidence": "Business observed at position 6 among the first 10 Maps results returned in this run."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 3,
+      "visibility_evidence": [
+        "Business observed at position 4 among the first 10 Maps results returned in this run.",
+        "Business observed at position 6 among the first 10 Maps results returned in this run."
+      ],
+      "visibility_date": "2026-09-20",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
   "state": {
-    "runs": 34,
+    "runs": 35,
     "processed_ids": [
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -60,6 +209,7 @@
       "kosmetik belatime i kosmetikstudio köln|koeln|https://belatime-kosmetik.de/",
       "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/",
       "ks autoglas zentrum germering|muenchen|https://germering.ksautoglas.com/",
+      "lunavet - tierarztpraxis in dresden|dresden|https://luna-vet.de/",
       "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
       "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
       "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
@@ -96,6 +246,7 @@
       "tierarztpraxis holt dr. kathagen, dr. riecken, dr. sixt|moenchengladbach|http://www.fachtierarztpraxis-holt.de/",
       "tierarztpraxis köln-langel gmbh|koeln|http://www.tierarztpraxis-koeln-langel.de/",
       "tierarztpraxis lisa plagge|krefeld|https://tierarzt-plagge.de/",
+      "tierarztpraxis steffen|duesseldorf|http://www.pet1.de/",
       "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
       "tiergesundheitszentrum an der flora (ex tierarztpraxis am nippeser tälchen)|koeln|https://www.vet-nippes.de/",
       "tiergesundheitszentrum pankow|berlin|https://www.tgz-pankow.de/",
@@ -105,6 +256,7 @@
       "tierärzte mobil nürnberg|nuernberg|http://tieraerzte-mobil-nuernberg.de/",
       "tierärztliche gemeinschaftspraxis viola daub & dr. med. vet. claudia szattelberger|koeln|http://www.tierarztpraxis-koeln-dellbrueck.de/",
       "tierärztliche praxis daglis|dortmund|http://www.tierarztpraxis-daglis.de/",
+      "tierärztliche praxis dr. sabel|essen|http://www.tierarzt-dr-sabel.de/",
       "tierärztliche praxis elena waldhier|nuernberg|http://www.tierarzt-ziegelstein.de/",
       "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
       "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
@@ -118,11 +270,11 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 114,
-    "last_batch_count": 0,
+    "processed_count": 117,
+    "last_batch_count": 3,
     "remaining_eligible": 0,
-    "weak_visibility_total": 78,
-    "email_gate_rejected_count": 31,
+    "weak_visibility_total": 81,
+    "email_gate_rejected_count": 33,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
   }

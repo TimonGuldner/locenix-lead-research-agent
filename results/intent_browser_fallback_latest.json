@@ -1,14 +1,14 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-09-20T00:09:24.584541+00:00",
-    "status": "PARTIAL",
+    "last_run_at": "2026-09-20T04:53:12.158289+00:00",
+    "status": "OK",
     "signals_added": 0,
     "stale_signals_removed": 0,
-    "pages_checked": 6,
+    "pages_checked": 8,
     "blocked_pages": 0,
     "human_action_required": 0,
-    "errors": 2,
+    "errors": 0,
     "learning_config_used": true,
     "queries_planned": 8,
     "blocked_domains_learned": 0
@@ -25,14 +25,5 @@
   ],
   "added": [],
   "blockers": [],
-  "errors": [
-    {
-      "query": "\"Google Business Profile\" German Local SEO freelancer job",
-      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=%22Google%20Business%20Profile%22%20German%20Local%20SEO%20freelancer%20job\nCall log:\n  - navigating to \"https://www.bing.com/search?q=%22Google%20Business%20Profile%22%20German%20Local%20SEO%20freelancer%20job\", waiting until \"domcontentl"
-    },
-    {
-      "query": "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
-      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Google%20Business%20Profile%22%20German\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Google%20Business%20Profile%22%20German\", waiting until \"domcont"
-    }
-  ]
+  "errors": []
 }

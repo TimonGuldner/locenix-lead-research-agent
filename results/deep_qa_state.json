@@ -1,5 +1,5 @@
 {
-  "runs": 36,
+  "runs": 37,
   "processed_ids": [
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -22,9 +22,11 @@
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
     "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
     "dr. p. mayerhauser, kleintierpraxis im gewerbehof unterfeldweg|augsburg|https://www.tierarztpraxis-mayerhauser.de/",
+    "dr. sam - dein online tierarzt|duesseldorf|https://www.drsam.de/?utm_source=gmb&utm_medium=organic&utm_content=listing&utm_campaign=gtm",
     "dr.med.vet tina brahm|dortmund|http://kleintierpraxis-am-wall.de/",
     "dr.med.vet. dirk krüger|rostock|https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
     "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
+    "ebeling maike kleintierpraxis|essen|https://kleintierpraxis-im-suedviertel.de/",
     "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
     "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
@@ -110,6 +112,7 @@
     "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
     "tierarzt berlin prenzlauer berg, tierarztpraxis am arnimplatz|berlin|https://tierarztpraxis-arnimplatz.de/",
     "tierarzt dr. frank vennemann|muenster|http://www.tierarzt-ms.de/",
+    "tierarzt essen gmbh - dr. annette baltes - tierärztin|essen|https://tierarzt-essen.de/",
     "tierarzt piliar|moenchengladbach|https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
     "tierarzt potsdam, tierarztpraxis activet potsdam|potsdam|https://activet-potsdam.de/",
     "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
@@ -153,15 +156,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 151,
-  "remaining_eligible": 3,
-  "last_batch_count": 5,
+  "processed_count": 154,
+  "remaining_eligible": 0,
+  "last_batch_count": 3,
   "final_a_total": 54,
-  "final_b_total": 96,
+  "final_b_total": 99,
   "email_ready_total": 41,
-  "email_missing_total": 33,
-  "email_gate_qualified_total": 117,
-  "email_missing_excluded_total": 33,
-  "downstream_eligible_total": 117,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "email_missing_total": 35
 }

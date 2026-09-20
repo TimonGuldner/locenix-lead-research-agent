@@ -8840,6 +8840,151 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "dr. sam - dein online tierarzt|duesseldorf|https://www.drsam.de/?utm_source=gmb&utm_medium=organic&utm_content=listing&utm_campaign=gtm",
+    "company_name": "Dr. SAM - dein online Tierarzt",
+    "industry": "Tierarzt",
+    "city": "Duesseldorf",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Dr.+SAM+-+dein+online+Tierarzt/data=!4m7!3m6!1s0x47b8c9fa7dd5652d:0xb3e897e58ab08aa2!8m2!3d51.2328222!4d6.7982305!16s%2Fg%2F11gwmpfcg5!19sChIJLWXVffrJuEcRooqwiuWX6LM?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.drsam.de/?utm_source=gmb&utm_medium=organic&utm_content=listing&utm_campaign=gtm",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": false,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.drsam.de/?utm_source=gmb&utm_medium=organic&utm_content=listing&utm_campaign=gtm",
+      "booking_link": null,
+      "social_links": [
+        "https://www.instagram.com/dr.sam_onlinetierarzt/",
+        "https://www.facebook.com/SAM-dein-online-Tierarzt-1915188928786821/",
+        "https://www.linkedin.com/company/drsam"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Active social-link footprint observed (3 link(s)).",
+        "Contact/imprint page observed on website."
+      ],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 477 reviews vs. comparison median 644; gap 167."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+    ],
+    "primary_sales_angle_verified": "Verified source data: 477 reviews vs. comparison median 644; gap 167.",
+    "proof": [
+      "Verified source data: 477 reviews vs. comparison median 644; gap 167.",
+      "Business website links to at least one social profile."
+    ],
+    "email": null,
+    "email_source_url": null,
+    "email_verification_status": "EMAIL_MISSING",
+    "email_found_at": null,
+    "airtable_ready": false,
+    "qa_date": "2026-09-20",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "tierarzt essen gmbh - dr. annette baltes - tierärztin|essen|https://tierarzt-essen.de/",
+    "company_name": "Tierarzt Essen GmbH - Dr. Annette Baltes - Tierärztin",
+    "industry": "Tierarzt",
+    "city": "Essen",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Essen+GmbH+-+Dr.+Annette+Baltes+-+Tier%C3%A4rztin/data=!4m7!3m6!1s0x47b8c27f282f591f:0x454f8dd635870580!8m2!3d51.4741956!4d6.965576!16s%2Fg%2F1tjppl6b!19sChIJH1kvKH_CuEcRgAWHNdaNT0U?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://tierarzt-essen.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://tierarzt-essen.de/",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/tierarztpraxisessen",
+        "https://www.instagram.com/tierarztessen?utm_source=ig_web_button_share_sheet&igsh=a3Mxd3dkdzhsYnA="
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [],
+      "website_evidence": [
+        "Active social-link footprint observed (2 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@tierarzt-essen.de",
+      "email_source_url": "https://tierarzt-essen.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-20T14:52:57.806596+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 425 reviews vs. comparison median 540; gap 115."
+      },
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 425 reviews vs. comparison median 540; gap 115.",
+    "proof": [
+      "Verified source data: 425 reviews vs. comparison median 540; gap 115.",
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@tierarzt-essen.de",
+    "email_source_url": "https://tierarzt-essen.de/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-20T14:52:57.806596+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-20",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "maison de nails berlin|berlin|https://maisondenails.de/",
     "company_name": "Maison De Nails Berlin",
     "industry": "Nagelstudio",
@@ -10629,6 +10774,69 @@
     "email_found_at": "2026-09-16T11:53:16.295427+00:00",
     "airtable_ready": false,
     "qa_date": "2026-09-16",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "ebeling maike kleintierpraxis|essen|https://kleintierpraxis-im-suedviertel.de/",
+    "company_name": "Ebeling Maike Kleintierpraxis",
+    "industry": "Tierarzt",
+    "city": "Essen",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Ebeling+Maike+Kleintierpraxis/data=!4m7!3m6!1s0x47b8dd333b48a06b:0x1b5a340755e92353!8m2!3d51.4452435!4d7.019067!16s%2Fg%2F1tdndbdb!19sChIJa6BIOzPduEcRUyPpVQc0Whs?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://kleintierpraxis-im-suedviertel.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": false,
+      "website_final_url": "https://kleintierpraxis-im-suedviertel.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": false,
+      "website_service_matches": [],
+      "website_evidence": [],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 85,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 448 reviews vs. comparison median 540; gap 92."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "Website could not be verified as accessible in this run.",
+      "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+    ],
+    "primary_sales_angle_verified": "Verified source data: 448 reviews vs. comparison median 540; gap 92.",
+    "proof": [
+      "Verified source data: 448 reviews vs. comparison median 540; gap 92."
+    ],
+    "email": null,
+    "email_source_url": null,
+    "email_verification_status": "EMAIL_MISSING",
+    "email_found_at": null,
+    "airtable_ready": false,
+    "qa_date": "2026-09-20",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
   },

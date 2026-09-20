@@ -1,14 +1,87 @@
 {
   "results": [
     {
-      "lead_id": "mobiler tierarzt alovet – notdienst essen|essen|https://alovet.de/essen",
-      "company_name": "Mobiler Tierarzt Alovet – Notdienst Essen",
+      "lead_id": "dr. sam - dein online tierarzt|duesseldorf|https://www.drsam.de/?utm_source=gmb&utm_medium=organic&utm_content=listing&utm_campaign=gtm",
+      "company_name": "Dr. SAM - dein online Tierarzt",
+      "industry": "Tierarzt",
+      "city": "Duesseldorf",
+      "source_total_score": 80,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Dr.+SAM+-+dein+online+Tierarzt/data=!4m7!3m6!1s0x47b8c9fa7dd5652d:0xb3e897e58ab08aa2!8m2!3d51.2328222!4d6.7982305!16s%2Fg%2F11gwmpfcg5!19sChIJLWXVffrJuEcRooqwiuWX6LM?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.drsam.de/?utm_source=gmb&utm_medium=organic&utm_content=listing&utm_campaign=gtm",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": false,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.drsam.de/?utm_source=gmb&utm_medium=organic&utm_content=listing&utm_campaign=gtm",
+        "booking_link": null,
+        "social_links": [
+          "https://www.instagram.com/dr.sam_onlinetierarzt/",
+          "https://www.facebook.com/SAM-dein-online-Tierarzt-1915188928786821/",
+          "https://www.linkedin.com/company/drsam"
+        ],
+        "contact_page_observed": true,
+        "website_service_matches": [],
+        "website_evidence": [
+          "Active social-link footprint observed (3 link(s)).",
+          "Contact/imprint page observed on website."
+        ],
+        "email": null,
+        "email_source_url": null,
+        "email_verification_status": "EMAIL_MISSING",
+        "email_found_at": null
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 87,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 477 reviews vs. comparison median 644; gap 167."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [
+        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+      ],
+      "primary_sales_angle_verified": "Verified source data: 477 reviews vs. comparison median 644; gap 167.",
+      "proof": [
+        "Verified source data: 477 reviews vs. comparison median 644; gap 167.",
+        "Business website links to at least one social profile."
+      ],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null,
+      "airtable_ready": false,
+      "qa_date": "2026-09-20",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "ebeling maike kleintierpraxis|essen|https://kleintierpraxis-im-suedviertel.de/",
+      "company_name": "Ebeling Maike Kleintierpraxis",
       "industry": "Tierarzt",
       "city": "Essen",
-      "source_total_score": 89,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Mobiler+Tierarzt+Alovet+%E2%80%93+Notdienst+Essen/data=!4m7!3m6!1s0x47b8c3cb729f1185:0x18179aecc734de39!8m2!3d51.4661562!4d6.9456479!16s%2Fg%2F11nhyypv7d!19sChIJhRGfcsvDuEcROd40x-yaFxg?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://alovet.de/essen",
+      "source_total_score": 80,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Ebeling+Maike+Kleintierpraxis/data=!4m7!3m6!1s0x47b8dd333b48a06b:0x1b5a340755e92353!8m2!3d51.4452435!4d7.019067!16s%2Fg%2F1tdndbdb!19sChIJa6BIOzPduEcRUyPpVQc0Whs?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://kleintierpraxis-im-suedviertel.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -26,7 +99,7 @@
       },
       "website_check": {
         "website_accessible": false,
-        "website_final_url": "https://alovet.de/essen",
+        "website_final_url": "https://kleintierpraxis-im-suedviertel.de/",
         "booking_link": null,
         "social_links": [],
         "contact_page_observed": false,
@@ -38,11 +111,11 @@
         "email_found_at": null
       },
       "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 94,
+      "deep_qa_score": 85,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 18 reviews vs. comparison median 540; gap 522."
+          "proof": "Verified source data: 448 reviews vs. comparison median 540; gap 92."
         }
       ],
       "deep_qa_blockers": [],
@@ -50,9 +123,9 @@
         "Website could not be verified as accessible in this run.",
         "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
       ],
-      "primary_sales_angle_verified": "Verified source data: 18 reviews vs. comparison median 540; gap 522.",
+      "primary_sales_angle_verified": "Verified source data: 448 reviews vs. comparison median 540; gap 92.",
       "proof": [
-        "Verified source data: 18 reviews vs. comparison median 540; gap 522."
+        "Verified source data: 448 reviews vs. comparison median 540; gap 92."
       ],
       "email": null,
       "email_source_url": null,
@@ -64,14 +137,14 @@
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "lunavet - tierarztpraxis in dresden|dresden|https://luna-vet.de/",
-      "company_name": "LUNAVET - Tierarztpraxis in Dresden",
+      "lead_id": "tierarzt essen gmbh - dr. annette baltes - tierärztin|essen|https://tierarzt-essen.de/",
+      "company_name": "Tierarzt Essen GmbH - Dr. Annette Baltes - Tierärztin",
       "industry": "Tierarzt",
-      "city": "Dresden",
-      "source_total_score": 87,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/LUNAVET+-+Tierarztpraxis+in+Dresden/data=!4m7!3m6!1s0x4709c500435524a1:0x6a645c0d16a7b0aa!8m2!3d51.0445866!4d13.6987943!16s%2Fg%2F11mllfd99t!19sChIJoSRVQwDFCUcRqrCnFg1cZGo?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://luna-vet.de/",
+      "city": "Essen",
+      "source_total_score": 80,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarzt+Essen+GmbH+-+Dr.+Annette+Baltes+-+Tier%C3%A4rztin/data=!4m7!3m6!1s0x47b8c27f282f591f:0x454f8dd635870580!8m2!3d51.4741956!4d6.965576!16s%2Fg%2F1tjppl6b!19sChIJH1kvKH_CuEcRgAWHNdaNT0U?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://tierarzt-essen.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -89,37 +162,30 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://luna-vet.de/",
-        "booking_link": "https://www.termin.vet/lunavet/termin_buchen",
+        "website_final_url": "https://tierarzt-essen.de/",
+        "booking_link": null,
         "social_links": [
-          "https://www.facebook.com/tierarzt.lunavet/",
-          "https://www.instagram.com/tierarzt_lunavet/"
+          "https://www.facebook.com/tierarztpraxisessen",
+          "https://www.instagram.com/tierarztessen?utm_source=ig_web_button_share_sheet&igsh=a3Mxd3dkdzhsYnA="
         ],
         "contact_page_observed": true,
-        "website_service_matches": [
-          "labor"
-        ],
+        "website_service_matches": [],
         "website_evidence": [
-          "Online booking/appointment link observed on website.",
           "Active social-link footprint observed (2 link(s)).",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "kontakt@luna-vet.de",
-        "email_source_url": "https://luna-vet.de/impressum",
+        "email": "info@tierarzt-essen.de",
+        "email_source_url": "https://tierarzt-essen.de/impressum/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-20T11:40:06.975705+00:00"
+        "email_found_at": "2026-09-20T14:52:57.806596+00:00"
       },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 96,
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 87,
       "deep_qa_verified_signals": [
         {
           "type": "review_gap",
-          "proof": "Verified source data: 32 reviews vs. comparison median 614; gap 582."
-        },
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
+          "proof": "Verified source data: 425 reviews vs. comparison median 540; gap 115."
         },
         {
           "type": "digital_maturity_social",
@@ -128,213 +194,15 @@
       ],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 32 reviews vs. comparison median 614; gap 582.",
+      "primary_sales_angle_verified": "Verified source data: 425 reviews vs. comparison median 540; gap 115.",
       "proof": [
-        "Verified source data: 32 reviews vs. comparison median 614; gap 582.",
-        "Online booking/appointment link observed on website.",
+        "Verified source data: 425 reviews vs. comparison median 540; gap 115.",
         "Business website links to at least one social profile."
       ],
-      "email": "kontakt@luna-vet.de",
-      "email_source_url": "https://luna-vet.de/impressum",
+      "email": "info@tierarzt-essen.de",
+      "email_source_url": "https://tierarzt-essen.de/impressum/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-20T11:40:06.975705+00:00",
-      "airtable_ready": true,
-      "qa_date": "2026-09-20",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "kleintierpraxis benitz|dresden|http://www.kleintierpraxis-benitz.de/",
-      "company_name": "Kleintierpraxis Benitz",
-      "industry": "Tierarzt",
-      "city": "Dresden",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Benitz/data=!4m7!3m6!1s0x4709c891cc55e84f:0x8d17131c66cbe036!8m2!3d51.0417088!4d13.8001233!16s%2Fg%2F11clv7mxqj!19sChIJT-hVzJHICUcRNuDLZhwTF40?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.kleintierpraxis-benitz.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://kleintierpraxis-benitz.de/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "impfung",
-          "chirurgie",
-          "ultraschall",
-          "labor"
-        ],
-        "website_evidence": [
-          "Contact/imprint page observed on website."
-        ],
-        "email": null,
-        "email_source_url": null,
-        "email_verification_status": "EMAIL_MISSING",
-        "email_found_at": null
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 429 reviews vs. comparison median 614; gap 185."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
-      ],
-      "primary_sales_angle_verified": "Verified source data: 429 reviews vs. comparison median 614; gap 185.",
-      "proof": [
-        "Verified source data: 429 reviews vs. comparison median 614; gap 185."
-      ],
-      "email": null,
-      "email_source_url": null,
-      "email_verification_status": "EMAIL_MISSING",
-      "email_found_at": null,
-      "airtable_ready": false,
-      "qa_date": "2026-09-20",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "tierarztpraxis steffen|duesseldorf|http://www.pet1.de/",
-      "company_name": "Tierarztpraxis Steffen",
-      "industry": "Tierarzt",
-      "city": "Duesseldorf",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+Steffen/data=!4m7!3m6!1s0x47b8b532d0344d83:0xfed010d8f21d7d5f!8m2!3d51.157765!4d6.691871!16s%2Fg%2F1thxzwvp!19sChIJg0000DK1uEcRX30d8tgQ0P4?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.pet1.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.pet1.de/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [],
-        "website_evidence": [
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "vetery@t-online.de",
-        "email_source_url": "https://www.pet1.de/impressum-datenschutz/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-20T11:40:26.419530+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 226 reviews vs. comparison median 644; gap 418."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 226 reviews vs. comparison median 644; gap 418.",
-      "proof": [
-        "Verified source data: 226 reviews vs. comparison median 644; gap 418."
-      ],
-      "email": "vetery@t-online.de",
-      "email_source_url": "https://www.pet1.de/impressum-datenschutz/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-20T11:40:26.419530+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-20",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "tierärztliche praxis dr. sabel|essen|http://www.tierarzt-dr-sabel.de/",
-      "company_name": "Tierärztliche Praxis Dr. Sabel",
-      "industry": "Tierarzt",
-      "city": "Essen",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Tier%C3%A4rztliche+Praxis+Dr.+Sabel/data=!4m7!3m6!1s0x47b8c2d090a45aaf:0x72208f006fab38ab!8m2!3d51.4392842!4d7.003745!16s%2Fg%2F1tmpd01_!19sChIJr1qkkNDCuEcRqzirbwCPIHI?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.tierarzt-dr-sabel.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.tierarzt-dr-sabel.de/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "labor"
-        ],
-        "website_evidence": [
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "kontakt@tierarzt-dr-sabel.de",
-        "email_source_url": "https://www.tierarzt-dr-sabel.de/impressum.php",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-20T11:40:35.230890+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 268 reviews vs. comparison median 540; gap 272."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 268 reviews vs. comparison median 540; gap 272.",
-      "proof": [
-        "Verified source data: 268 reviews vs. comparison median 540; gap 272."
-      ],
-      "email": "kontakt@tierarzt-dr-sabel.de",
-      "email_source_url": "https://www.tierarzt-dr-sabel.de/impressum.php",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-20T11:40:35.230890+00:00",
+      "email_found_at": "2026-09-20T14:52:57.806596+00:00",
       "airtable_ready": false,
       "qa_date": "2026-09-20",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
@@ -342,7 +210,7 @@
     }
   ],
   "state": {
-    "runs": 36,
+    "runs": 37,
     "processed_ids": [
       "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -365,9 +233,11 @@
       "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
       "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
       "dr. p. mayerhauser, kleintierpraxis im gewerbehof unterfeldweg|augsburg|https://www.tierarztpraxis-mayerhauser.de/",
+      "dr. sam - dein online tierarzt|duesseldorf|https://www.drsam.de/?utm_source=gmb&utm_medium=organic&utm_content=listing&utm_campaign=gtm",
       "dr.med.vet tina brahm|dortmund|http://kleintierpraxis-am-wall.de/",
       "dr.med.vet. dirk krüger|rostock|https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
       "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
+      "ebeling maike kleintierpraxis|essen|https://kleintierpraxis-im-suedviertel.de/",
       "elb-umzüge-hamburg|hamburg|http://xn--elb-umzge-hamburg-82b.de/",
       "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",
       "exclusive barbershop - hamburg|hamburg|https://barber.de.ivof.com/exclusive-barbershop/",
@@ -453,6 +323,7 @@
       "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
       "tierarzt berlin prenzlauer berg, tierarztpraxis am arnimplatz|berlin|https://tierarztpraxis-arnimplatz.de/",
       "tierarzt dr. frank vennemann|muenster|http://www.tierarzt-ms.de/",
+      "tierarzt essen gmbh - dr. annette baltes - tierärztin|essen|https://tierarzt-essen.de/",
       "tierarzt piliar|moenchengladbach|https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
       "tierarzt potsdam, tierarztpraxis activet potsdam|potsdam|https://activet-potsdam.de/",
       "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
@@ -496,12 +367,12 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 151,
-    "remaining_eligible": 3,
-    "last_batch_count": 5,
+    "processed_count": 154,
+    "remaining_eligible": 0,
+    "last_batch_count": 3,
     "final_a_total": 54,
-    "final_b_total": 96,
+    "final_b_total": 99,
     "email_ready_total": 41,
-    "email_missing_total": 33
+    "email_missing_total": 35
   }
 }

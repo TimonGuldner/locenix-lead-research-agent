@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-21T12:42:08.017958+00:00",
+  "generated_at": "2026-09-21T13:06:53.002227+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 174,
@@ -12,9 +12,9 @@
     "research_unqa": 0,
     "maps_learning_available": true,
     "maps_learning_status": "OK",
-    "maps_learning_runs": 71,
-    "maps_learning_evaluated": 166,
-    "maps_learning_downstream_evidence": 146,
+    "maps_learning_runs": 72,
+    "maps_learning_evaluated": 174,
+    "maps_learning_downstream_evidence": 154,
     "maps_learning_recommended_industry": "Tierarzt",
     "maps_learning_recommended_city": "Muenchen",
     "maps_learning_errors": 0,
@@ -44,14 +44,14 @@
     "email_daily_gap": 5,
     "email_agent_available": true,
     "email_auto_reply_enabled": true,
-    "email_received_scanned": 9,
+    "email_received_scanned": 10,
     "email_handled": 0,
-    "email_unmatched": 0,
+    "email_unmatched": 1,
     "email_errors": 0,
     "email_positive_replies": 0,
     "email_trial_interest": 0,
     "email_human_reviews_required": 0,
-    "email_last_run_at": "2026-09-21T06:18:13.907215+00:00",
+    "email_last_run_at": "2026-09-21T13:06:34.904759+00:00",
     "departments_total": 1,
     "departments_proposed": 0,
     "agents_total": 10,
@@ -71,9 +71,9 @@
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
     "available": true,
     "status": "OK",
-    "learning_runs": 71,
-    "research_leads_evaluated": 166,
-    "leads_with_downstream_evidence": 146,
+    "learning_runs": 72,
+    "research_leads_evaluated": 174,
+    "leads_with_downstream_evidence": 154,
     "recommended_industry": "Tierarzt",
     "recommended_city": "Muenchen",
     "errors": 0
@@ -92,7 +92,7 @@
       "trial_interest": 0,
       "human_reviews_required": 0,
       "errors": 0,
-      "last_run_at": "2026-09-21T06:18:13.907215+00:00"
+      "last_run_at": "2026-09-21T13:06:34.904759+00:00"
     }
   },
   "departments": [

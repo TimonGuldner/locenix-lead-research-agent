@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 71,
-  "focus": "industry_exploitation",
+  "learning_run_count": 72,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Dresden",
-    "Duesseldorf",
-    "Essen"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Logopaedie",
+    "Maler",
+    "Massagepraxis"
   ],
   "selected_pairs": [
     {
-      "city": "Dresden",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Dresden"
+      "city": "Muenchen",
+      "industry": "Logopaedie",
+      "query": "Logopaedie Muenchen"
     },
     {
-      "city": "Duesseldorf",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Duesseldorf"
+      "city": "Muenchen",
+      "industry": "Maler",
+      "query": "Maler Muenchen"
     },
     {
-      "city": "Essen",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Essen"
+      "city": "Muenchen",
+      "industry": "Massagepraxis",
+      "query": "Massagepraxis Muenchen"
     }
   ],
   "queries_per_run": 3

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T04:54:39.219632+00:00",
+  "generated_at": "2026-09-21T12:46:43.141114+00:00",
   "items": [
     {
       "signal_id": "intent-7e56262cde92330b",
@@ -210,6 +210,16 @@
       "draft": "Hallo, ich bin über deinen Beitrag auf business.google.com gestolpert. Du beschreibst dort sinngemäß: Vibgyor Photos\nhttps://business.google.com › de › business-profile\nBei Google gelistet werden – Google Unternehmensprofil\n\nSie selbst bestimmen, wie Ihr kostenloses Unternehmensprofil in der Google Suche und auf Google Maps präsentiert wird. Sie …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
       "status": "DRAFTED",
       "prepared_at": "2026-09-16T18:12:38.201104+00:00"
+    },
+    {
+      "signal_id": "intent-f198ac762f25f40f",
+      "airtable_record_id": "recLBIpLGdhKWJoYW",
+      "tier": "HOT",
+      "source": "support.google.com",
+      "source_url": "https://support.google.com/business/answer/13763036?hl=de",
+      "draft": "Hallo, ich bin über deinen Beitrag auf support.google.com gestolpert. Du beschreibst dort sinngemäß: Google Support\nhttps://support.google.com › business › answer\nRichtlinien zur Berechtigung und Inhaberschaft für Unternehmen\n\nUnternehmensprofil-Dashboard Google Unternehmensprofil Unternehmensprofil bei Google bearbeiten Informationen in …\n\nFehlen: FreelancerMuss enthalten: Freelancer\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-09-21T12:46:43.141114+00:00"
     }
   ]
 }

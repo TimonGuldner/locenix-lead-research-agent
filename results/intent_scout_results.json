@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-21T04:54:15.349841+00:00",
+  "generated_at": "2026-09-21T12:46:26.959331+00:00",
   "signals": [
+    {
+      "signal_id": "intent-f198ac762f25f40f",
+      "source": "support.google.com",
+      "source_url": "https://support.google.com/business/answer/13763036?hl=de",
+      "title": "Richtlinien zur Berechtigung und Inhaberschaft für Unternehmen",
+      "snippet": "Google Support\nhttps://support.google.com › business › answer\nRichtlinien zur Berechtigung und Inhaberschaft für Unternehmen\n\nUnternehmensprofil-Dashboard Google Unternehmensprofil Unternehmensprofil bei Google bearbeiten Informationen in …\n\nFehlen: FreelancerMuss enthalten: Freelancer",
+      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-09-21T12:46:26.959331+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
     {
       "signal_id": "intent-8dad94b0095cbb47",
       "source": "softwareu.de",

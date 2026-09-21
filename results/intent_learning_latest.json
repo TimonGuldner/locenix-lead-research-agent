@@ -1,13 +1,13 @@
 {
   "state": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "last_run_at": "2026-09-21T04:54:39.296296+00:00",
+    "last_run_at": "2026-09-21T12:46:43.457483+00:00",
     "status": "OK",
-    "learning_run_count": 34,
-    "evaluated_opportunities": 21,
+    "learning_run_count": 35,
+    "evaluated_opportunities": 22,
     "queries_learned": 4,
-    "sources_learned": 13,
-    "boosted_queries": 3,
+    "sources_learned": 14,
+    "boosted_queries": 4,
     "paused_queries": 0,
     "blocked_domains": 0,
     "provider_cooldowns": 2,
@@ -15,8 +15,8 @@
   },
   "config": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "generated_at": "2026-09-21T04:54:39.296296+00:00",
-    "learning_run_count": 34,
+    "generated_at": "2026-09-21T12:46:43.457483+00:00",
+    "learning_run_count": 35,
     "mode": "SAFE_OUTCOME_LEARNING",
     "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
     "query_weights": {
@@ -38,9 +38,11 @@
       "optiphin.de": 1.8,
       "softwareu.de": 1.8,
       "webdienster.de": 1.8,
-      "business.google.com": 1.8
+      "business.google.com": 1.8,
+      "support.google.com": 1.8
     },
     "boosted_queries": [
+      "\"Google Unternehmensprofil\" Freelancer Deutschland",
       "\"Local SEO\" Projekt Deutschland Freelancer",
       "\"Google Business Profile\" German Local SEO freelancer job",
       "verified current opportunity"
@@ -48,13 +50,6 @@
     "paused_queries": [],
     "blocked_domains": [],
     "provider_policy": {
-      "reddit_api": {
-        "fail_streak": 8,
-        "cooldown": true,
-        "probe_due": false,
-        "last_errors": 0,
-        "last_hits": 0
-      },
       "jina_search": {
         "fail_streak": 8,
         "cooldown": true,
@@ -75,6 +70,13 @@
         "probe_due": false,
         "last_errors": 0,
         "last_hits": 3
+      },
+      "reddit_api": {
+        "fail_streak": 8,
+        "cooldown": true,
+        "probe_due": false,
+        "last_errors": 0,
+        "last_hits": 0
       }
     },
     "minimum_samples_before_pause": 5,
@@ -107,9 +109,9 @@
           "qualified_rate": 1.0
         },
         "\"Google Unternehmensprofil\" Freelancer Deutschland": {
-          "samples": 1,
-          "reward": 4.0,
-          "hot": 1,
+          "samples": 2,
+          "reward": 8.0,
+          "hot": 2,
           "warm": 0,
           "watch": 0,
           "reject": 0,
@@ -302,6 +304,19 @@
           "avg_reward": 4.0,
           "reject_rate": 0.0,
           "qualified_rate": 1.0
+        },
+        "support.google.com": {
+          "samples": 1,
+          "reward": 4.0,
+          "hot": 1,
+          "warm": 0,
+          "watch": 0,
+          "reject": 0,
+          "positive": 0,
+          "negative": 0,
+          "avg_reward": 4.0,
+          "reject_rate": 0.0,
+          "qualified_rate": 1.0
         }
       },
       "providers": {
@@ -319,15 +334,15 @@
           "qualified_rate": 1.0
         },
         "cloud_browser_bing": {
-          "samples": 18,
-          "reward": 70.0,
-          "hot": 17,
+          "samples": 19,
+          "reward": 74.0,
+          "hot": 18,
           "warm": 1,
           "watch": 0,
           "reject": 0,
           "positive": 0,
           "negative": 0,
-          "avg_reward": 3.889,
+          "avg_reward": 3.895,
           "reject_rate": 0.0,
           "qualified_rate": 1.0
         }

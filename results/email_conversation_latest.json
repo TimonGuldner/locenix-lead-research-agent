@@ -8,23 +8,17 @@
     "auto_reply_enabled": true,
     "received_scanned": 10,
     "handled": 0,
-    "unmatched": 1,
-    "duplicates_skipped": 9,
+    "unmatched": 0,
+    "duplicates_skipped": 10,
     "errors": 0,
     "positive_replies": 0,
     "trial_interest": 0,
     "human_reviews_required": 0,
     "processed_message_ids_total": 10,
-    "last_run_at": "2026-09-21T13:06:34.904759+00:00"
+    "last_run_at": "2026-09-21T18:40:29.705597+00:00"
   },
   "handled": [],
-  "unmatched": [
-    {
-      "message_id": "<1789989243777.020d23a7-244c-4e8b-bd43-329cb63185e5@bf58x.hubspotemail.net>",
-      "from": "advertising@redditads.com",
-      "subject": "Let's define Reddit Ads success for your company 🏆"
-    }
-  ],
+  "unmatched": [],
   "duplicates": [
     "<CA+cRC5Y3evN1QwSf_ZjK=rXwNC69iYECCQY8XCs0MSoaopH_Xg@mail.gmail.com>",
     "<CA+cRC5b4bvL9a0L8=OsEhOTUy55RVQ6mpMO1+sGLGXhxSXPJjw@mail.gmail.com>",
@@ -34,7 +28,8 @@
     "<010001a0ad8ede6f-36e9f73b-075f-400e-974d-0e74d9d7c641-000000@email.amazonses.com>",
     "<010001a0b3bc417b-f1624344-1460-4791-a5ca-bceda8fc8980-000000@email.amazonses.com>",
     "<010001a0b3be4060-03a57854-96bd-4fb5-af3f-5876210c0be8-000000@email.amazonses.com>",
-    "<1789736763408.857eaba7-d1b5-43bb-86c4-83534b48891a@bf58x.hubspotemail.net>"
+    "<1789736763408.857eaba7-d1b5-43bb-86c4-83534b48891a@bf58x.hubspotemail.net>",
+    "<1789989243777.020d23a7-244c-4e8b-bd43-329cb63185e5@bf58x.hubspotemail.net>"
   ],
   "errors": []
 }

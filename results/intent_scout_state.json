@@ -1,9 +1,9 @@
 {
   "agent": "AGENT_15A_INTENT_SCOUT",
-  "last_run_at": "2026-09-21T12:46:26.129039+00:00",
-  "signals_found": 21,
+  "last_run_at": "2026-09-21T19:27:19.922886+00:00",
+  "signals_found": 22,
   "new_signals": 0,
-  "unreviewed": 21,
+  "unreviewed": 22,
   "queries_run": 8,
   "errors": 0,
   "query_errors": [],
@@ -29,6 +29,7 @@
     "optiphin.de",
     "seotariat.de",
     "softwareu.de",
+    "support.google.com",
     "thomasrees.de",
     "upwork.com",
     "webdienster.de"

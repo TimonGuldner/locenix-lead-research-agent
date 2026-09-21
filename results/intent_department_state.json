@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-21T12:46:46.538574+00:00",
+  "last_run_at": "2026-09-21T19:27:34.975235+00:00",
   "department_status": "HEALTHY",
   "next_agent": "intent_scout",
   "reason": "No downstream backlog observed; find fresh high-intent DACH opportunities using the learned source/query priorities.",
@@ -13,15 +13,15 @@
   "positive_replies": 0,
   "trials": 0,
   "paid_customers": 0,
-  "browser_fallback_added": 1,
+  "browser_fallback_added": 0,
   "browser_stale_removed": 0,
   "transport_errors_recovered": 0,
-  "learning_runs": 35,
+  "learning_runs": 36,
   "learning_queries": 4,
   "learning_sources": 14,
   "learning_boosted_queries": 4,
   "learning_paused_queries": 0,
-  "learning_provider_cooldowns": 2,
+  "learning_provider_cooldowns": 0,
   "human_action_required": 0,
   "errors": 0
 }

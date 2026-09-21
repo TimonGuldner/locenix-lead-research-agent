@@ -1,5 +1,5 @@
 {
-  "runs": 35,
+  "runs": 36,
   "processed_ids": [
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -83,6 +83,7 @@
     "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
     "tierarzt berlin prenzlauer berg, tierarztpraxis am arnimplatz|berlin|https://tierarztpraxis-arnimplatz.de/",
     "tierarzt dr. frank vennemann|muenster|http://www.tierarzt-ms.de/",
+    "tierarzt essen gmbh - dr. annette baltes - tierärztin|essen|https://tierarzt-essen.de/",
     "tierarzt piliar|moenchengladbach|https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
     "tierarzt potsdam, tierarztpraxis activet potsdam|potsdam|https://activet-potsdam.de/",
     "tierarzt profelios aachen kleintierpraxis|aachen|https://www.profelios.de/",
@@ -119,12 +120,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 117,
-  "last_batch_count": 3,
+  "processed_count": 118,
+  "last_batch_count": 1,
   "remaining_eligible": 0,
   "weak_visibility_total": 81,
   "email_gate_rejected_count": 35,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

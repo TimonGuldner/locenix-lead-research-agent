@@ -5223,6 +5223,51 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "tierarzt essen gmbh - dr. annette baltes - tierärztin|essen|https://tierarzt-essen.de/",
+    "company_name": "Tierarzt Essen GmbH - Dr. Annette Baltes - Tierärztin",
+    "industry": "Tierarzt",
+    "city": "Essen",
+    "email": "info@tierarzt-essen.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 87,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Essen",
+        "status": "OBSERVED",
+        "observed_position": 4,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Ebeling Maike Kleintierpraxis",
+          "Kleintierpraxis Dr.Hartmut Metzlaff / Anke Adami-Metzlaff",
+          "Tierärztliche Klinik für Kleintiere Dr. med. vet. Jan Apelt"
+        ],
+        "evidence": "Business observed at position 4 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Essen",
+        "status": "OBSERVED",
+        "observed_position": 3,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Ebeling Maike Kleintierpraxis",
+          "Tierarztpraxis Schott"
+        ],
+        "evidence": "Business observed at position 3 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "visibility_evidence": [
+      "Business observed at position 4 among the first 11 Maps results returned in this run.",
+      "Business observed at position 3 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-21",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
     "company_name": "Podologie Praxis Marina Schwingeler-Hühne (Podologin)",
     "industry": "Podologie",

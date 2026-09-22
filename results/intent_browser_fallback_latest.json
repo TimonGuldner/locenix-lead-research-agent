@@ -1,14 +1,14 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-09-22T16:57:21.582140+00:00",
-    "status": "OK",
+    "last_run_at": "2026-09-22T21:17:59.417419+00:00",
+    "status": "PARTIAL",
     "signals_added": 0,
     "stale_signals_removed": 0,
-    "pages_checked": 8,
+    "pages_checked": 7,
     "blocked_pages": 0,
     "human_action_required": 0,
-    "errors": 0,
+    "errors": 1,
     "learning_config_used": true,
     "queries_planned": 8,
     "blocked_domains_learned": 0
@@ -25,5 +25,10 @@
   ],
   "added": [],
   "blockers": [],
-  "errors": []
+  "errors": [
+    {
+      "query": "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
+      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=%22Google%20Maps%22%20Ranking%20Hilfe%20Unternehmen%20Deutschland\nCall log:\n  - navigating to \"https://www.bing.com/search?q=%22Google%20Maps%22%20Ranking%20Hilfe%20Unternehmen%20Deutschland\", waiting until \"domcontentloaded\"\n"
+    }
+  ]
 }

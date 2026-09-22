@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-22T11:37:27.872795+00:00",
+  "last_run_at": "2026-09-22T16:57:36.531903+00:00",
   "department_status": "HEALTHY",
   "next_agent": "intent_scout",
   "reason": "No downstream backlog observed; find fresh high-intent DACH opportunities using the learned source/query priorities.",
@@ -16,7 +16,7 @@
   "browser_fallback_added": 0,
   "browser_stale_removed": 0,
   "transport_errors_recovered": 0,
-  "learning_runs": 39,
+  "learning_runs": 40,
   "learning_queries": 4,
   "learning_sources": 14,
   "learning_boosted_queries": 4,

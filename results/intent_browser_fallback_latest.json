@@ -1,9 +1,9 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-09-21T23:17:07.388286+00:00",
+    "last_run_at": "2026-09-22T04:54:15.548838+00:00",
     "status": "OK",
-    "signals_added": 0,
+    "signals_added": 1,
     "stale_signals_removed": 0,
     "pages_checked": 8,
     "blocked_pages": 0,
@@ -23,7 +23,27 @@
     "site:freelancermap.de \"Local SEO\"",
     "site:reddit.com \"Google Unternehmensprofil\" Deutschland"
   ],
-  "added": [],
+  "added": [
+    {
+      "signal_id": "intent-abc58def3a39240a",
+      "source": "freelancer.com",
+      "source_url": "https://www.freelancer.com/projects/content-marketing/deutschsprachiger-seo-spezialist",
+      "title": "Deutschsprachiger SEO-Spezialist für langfristige Partnerschaft gesucht",
+      "snippet": "freelancer.com\nhttps://www.freelancer.com › projects › content...\nDeutschsprachiger SEO-Spezialist für langfristige Partnerschaft gesucht\n\n26. Apr. 2026 · I have a proven track record in German SEO, including on-page SEO, technical SEO, local SEO, and white-hat link …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 6,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 3,
+        "marketplace_listing": true
+      },
+      "detected_at": "2026-09-22T04:54:15.548838+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    }
+  ],
   "blockers": [],
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T23:17:21.544556+00:00",
+  "generated_at": "2026-09-22T04:54:30.876339+00:00",
   "items": [
     {
       "signal_id": "intent-7e56262cde92330b",
@@ -220,6 +220,16 @@
       "draft": "Hallo, ich bin über deinen Beitrag auf support.google.com gestolpert. Du beschreibst dort sinngemäß: Google Support\nhttps://support.google.com › business › answer\nRichtlinien zur Berechtigung und Inhaberschaft für Unternehmen\n\nUnternehmensprofil-Dashboard Google Unternehmensprofil Unternehmensprofil bei Google bearbeiten Informationen in …\n\nFehlen: FreelancerMuss enthalten: Freelancer\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
       "status": "DRAFTED",
       "prepared_at": "2026-09-21T12:46:43.141114+00:00"
+    },
+    {
+      "signal_id": "intent-abc58def3a39240a",
+      "airtable_record_id": "recq3ODIKsQpXX0nN",
+      "tier": "HOT",
+      "source": "freelancer.com",
+      "source_url": "https://www.freelancer.com/projects/content-marketing/deutschsprachiger-seo-spezialist",
+      "draft": "Hallo, ich bin über deinen Beitrag auf freelancer.com gestolpert. Du beschreibst dort sinngemäß: freelancer.com\nhttps://www.freelancer.com › projects › content...\nDeutschsprachiger SEO-Spezialist für langfristige Partnerschaft gesucht\n\n26. Apr. 2026 · I have a proven track record in German SEO, including on-page SEO, technical SEO, local SEO, and white-hat link …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-09-22T04:54:30.876339+00:00"
     }
   ]
 }

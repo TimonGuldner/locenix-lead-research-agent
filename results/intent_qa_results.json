@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T23:17:12.558804+00:00",
+  "generated_at": "2026-09-22T04:54:19.900853+00:00",
   "items": [
     {
       "signal_id": "intent-7e56262cde92330b",
@@ -71,7 +71,7 @@
       "tier": "REJECT",
       "intent_score": 0,
       "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
       "airtable_record_id": "recKCoJ0M9biMYFgV",
       "quarantined": true
     },
@@ -91,7 +91,7 @@
       "tier": "REJECT",
       "intent_score": 0,
       "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
       "airtable_record_id": "recdMOIiK8tKSTBCL",
       "quarantined": true
     },
@@ -111,7 +111,7 @@
       "tier": "REJECT",
       "intent_score": 0,
       "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
       "airtable_record_id": "recf8hKuR6ZUMW7q7",
       "quarantined": true
     },
@@ -131,7 +131,7 @@
       "tier": "REJECT",
       "intent_score": 0,
       "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
       "airtable_record_id": "reck6F7I6pAlvyRZD",
       "quarantined": true
     },
@@ -156,8 +156,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recuvcnkillMcuXwu"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "reckGFjDLAHCr0Iy2"
     },
     {
       "signal_id": "intent-1a64f0f7eecea5df",
@@ -180,8 +180,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "rec5OgXiuI5aqMLmT"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recXInMLtmUz1QBbw"
     },
     {
       "signal_id": "intent-2011b4a6ecb7adae",
@@ -204,8 +204,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recGB1jOTxog0qRqz"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recSGC8v1vm0PajcI"
     },
     {
       "signal_id": "intent-2d262a0f2b2d9bd4",
@@ -228,8 +228,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recEBf86VJiWSEHbi"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recLbbYChsBpndnx5"
     },
     {
       "signal_id": "intent-bcbc1f7a5e477b76",
@@ -252,8 +252,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recINNtZ0KNBzb1fD"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "rec24BNrZvCkgA13I"
     },
     {
       "signal_id": "intent-72356faa6df8e726",
@@ -276,8 +276,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recARrXSWiRUIAHeN"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recn2V2M7AfB4pmcQ"
     },
     {
       "signal_id": "intent-597644a0bdf58703",
@@ -300,8 +300,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recxwA1DSVdtBG6jC"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recPHXieiqlZX5p8a"
     },
     {
       "signal_id": "intent-014890ef2627ed38",
@@ -324,8 +324,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recKyRpDDk8yFYgHi"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recBfYm1WaLbkSdxu"
     },
     {
       "signal_id": "intent-831983a748b2ab68",
@@ -348,8 +348,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "reczQi2Yvd5iu1s8O"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recUtNYpeqAFgP1cB"
     },
     {
       "signal_id": "intent-e4535c08a79d6e21",
@@ -372,8 +372,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "reciR72dpUNMZ1Rwu"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recE1bVM1aq1Rj3rQ"
     },
     {
       "signal_id": "intent-75380c82bceafb1e",
@@ -396,8 +396,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "rec0YPkgIFRxgRnUo"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "rect8O8SClJsEFl3v"
     },
     {
       "signal_id": "intent-d665286f0debdc3e",
@@ -420,8 +420,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recATPLeNScu8fRm4"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "rec1AdA9dtAcfIuim"
     },
     {
       "signal_id": "intent-59c327811eaffb64",
@@ -444,8 +444,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recBsgt5GaS4Bbegw"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recBFPBlpumsQfCTS"
     },
     {
       "signal_id": "intent-8dad94b0095cbb47",
@@ -468,8 +468,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recKzYmfVf9J0lgcM"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recnfPcPIRejUnPqc"
     },
     {
       "signal_id": "intent-c47f0ef59137f521",
@@ -492,8 +492,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recBLkNEkbwihVxnP"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "rec5ZdbfdmQ4UqqCZ"
     },
     {
       "signal_id": "intent-57a7954d9623960a",
@@ -516,8 +516,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recNYJBcfj1JZ10l7"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recHMsZ6F5gpYmYZZ"
     },
     {
       "signal_id": "intent-72c86ea922186325",
@@ -540,8 +540,8 @@
       "tier": "WARM",
       "intent_score": 95,
       "qa_reason": "Relevant marketplace/project listing; explicit demand language is weak in extracted text.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "reclB0P02dCLYIlGj"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recMzJ2YAq0ZwD4WB"
     },
     {
       "signal_id": "intent-5c6c585d4e8a1789",
@@ -564,8 +564,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recq6HtcJsWlDiWsd"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recv3snIhGmFRWk3v"
     },
     {
       "signal_id": "intent-f198ac762f25f40f",
@@ -588,8 +588,32 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-09-21T23:17:12.558804+00:00",
-      "airtable_record_id": "recuEdNvI6sKJQRfs"
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "rec560Wi3phRm9D46"
+    },
+    {
+      "signal_id": "intent-abc58def3a39240a",
+      "source": "freelancer.com",
+      "source_url": "https://www.freelancer.com/projects/content-marketing/deutschsprachiger-seo-spezialist",
+      "title": "Deutschsprachiger SEO-Spezialist für langfristige Partnerschaft gesucht",
+      "snippet": "freelancer.com\nhttps://www.freelancer.com › projects › content...\nDeutschsprachiger SEO-Spezialist für langfristige Partnerschaft gesucht\n\n26. Apr. 2026 · I have a proven track record in German SEO, including on-page SEO, technical SEO, local SEO, and white-hat link …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 6,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 3,
+        "marketplace_listing": true
+      },
+      "detected_at": "2026-09-22T04:54:15.548838+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true,
+      "tier": "HOT",
+      "intent_score": 100,
+      "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
+      "qa_at": "2026-09-22T04:54:19.900853+00:00",
+      "airtable_record_id": "recq3ODIKsQpXX0nN"
     }
   ]
 }

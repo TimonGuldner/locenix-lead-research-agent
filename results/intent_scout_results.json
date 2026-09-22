@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-21T23:17:07.388286+00:00",
+  "generated_at": "2026-09-22T04:54:15.548838+00:00",
   "signals": [
+    {
+      "signal_id": "intent-abc58def3a39240a",
+      "source": "freelancer.com",
+      "source_url": "https://www.freelancer.com/projects/content-marketing/deutschsprachiger-seo-spezialist",
+      "title": "Deutschsprachiger SEO-Spezialist für langfristige Partnerschaft gesucht",
+      "snippet": "freelancer.com\nhttps://www.freelancer.com › projects › content...\nDeutschsprachiger SEO-Spezialist für langfristige Partnerschaft gesucht\n\n26. Apr. 2026 · I have a proven track record in German SEO, including on-page SEO, technical SEO, local SEO, and white-hat link …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 6,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 3,
+        "marketplace_listing": true
+      },
+      "detected_at": "2026-09-22T04:54:15.548838+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
     {
       "signal_id": "intent-f198ac762f25f40f",
       "source": "support.google.com",

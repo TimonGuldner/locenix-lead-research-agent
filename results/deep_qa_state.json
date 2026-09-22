@@ -1,5 +1,5 @@
 {
-  "runs": 39,
+  "runs": 40,
   "processed_ids": [
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -107,6 +107,7 @@
     "rainer fischer immobilien|muenchen|https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
     "reifen-müller, georg müller gmbh & co.kg|berlin|https://reifen-mueller.de/filialen/berlin/berlin-kreuzberg-mitte",
     "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
+    "rex tierarztpraxis frankfurt-bockenheim|frankfurt am main|https://www.rex.app/praxen/frankfurt-bockenheim",
     "riedel immobilien gmbh - - immobilienmakler schwabing|muenchen|https://www.riedel-immobilien.de/immobilienmakler-schwabing/",
     "said rubaii hairstyling - hair salon in berlin mitte|berlin|https://saidrubaii.com/",
     "since eleven - friseure|koeln|https://www.since-eleven.de/",
@@ -128,6 +129,7 @@
     "tierarztpraxis hamburg berne - tierärztin linda brüggemann|hamburg|https://www.tierarzt-hamburg-berne.de/",
     "tierarztpraxis hernández|sankt augustin|https://tierarztpraxishernandez.com/",
     "tierarztpraxis holt dr. kathagen, dr. riecken, dr. sixt|moenchengladbach|http://www.fachtierarztpraxis-holt.de/",
+    "tierarztpraxis im steintor|bremen|https://www.tierarztpraxis-steintor.de/",
     "tierarztpraxis köln-langel gmbh|koeln|http://www.tierarztpraxis-koeln-langel.de/",
     "tierarztpraxis lisa plagge|krefeld|https://tierarzt-plagge.de/",
     "tierarztpraxis steffen|duesseldorf|http://www.pet1.de/",
@@ -161,15 +163,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 159,
-  "remaining_eligible": 2,
-  "last_batch_count": 5,
+  "processed_count": 161,
+  "remaining_eligible": 0,
+  "last_batch_count": 2,
   "final_a_total": 57,
-  "final_b_total": 101,
+  "final_b_total": 103,
   "email_ready_total": 44,
-  "email_missing_total": 35,
-  "email_gate_qualified_total": 123,
-  "email_missing_excluded_total": 35,
-  "downstream_eligible_total": 123,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "email_missing_total": 36
 }

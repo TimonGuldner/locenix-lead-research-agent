@@ -11208,6 +11208,71 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "tierarztpraxis im steintor|bremen|https://www.tierarztpraxis-steintor.de/",
+    "company_name": "Tierarztpraxis im Steintor",
+    "industry": "Tierarzt",
+    "city": "Bremen",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+im+Steintor/data=!4m7!3m6!1s0x47b1275ee8419e59:0xd931f4ed99fc2e05!8m2!3d53.0712318!4d8.8274334!16s%2Fg%2F11pfph40gt!19sChIJWZ5B6F4nsUcRBS78me30Mdk?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.tierarztpraxis-steintor.de/",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.tierarztpraxis-steintor.de/",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "chirurgie"
+      ],
+      "website_evidence": [
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "post@tierarztpraxis-steintor.de",
+      "email_source_url": "https://www.tierarztpraxis-steintor.de/kontakt/#anfahrt",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-22T15:41:40.377556+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 85,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 238 reviews vs. comparison median 323; gap 85."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [],
+    "primary_sales_angle_verified": "Verified source data: 238 reviews vs. comparison median 323; gap 85.",
+    "proof": [
+      "Verified source data: 238 reviews vs. comparison median 323; gap 85."
+    ],
+    "email": "post@tierarztpraxis-steintor.de",
+    "email_source_url": "https://www.tierarztpraxis-steintor.de/kontakt/#anfahrt",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-22T15:41:40.377556+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-09-22",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "torami nails · lashes|krefeld|https://beacons.ai/torami.co",
     "company_name": "TORAMI nails · lashes",
     "industry": "Nagelstudio",
@@ -11418,6 +11483,69 @@
     "email_found_at": null,
     "airtable_ready": false,
     "qa_date": "2026-09-15",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "rex tierarztpraxis frankfurt-bockenheim|frankfurt am main|https://www.rex.app/praxen/frankfurt-bockenheim",
+    "company_name": "Rex Tierarztpraxis Frankfurt-Bockenheim",
+    "industry": "Tierarzt",
+    "city": "Frankfurt am Main",
+    "source_total_score": 80,
+    "source_lead_class": "B_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Rex+Tierarztpraxis+Frankfurt-Bockenheim/data=!4m7!3m6!1s0x47bd096009866629:0xb66da26cad9d8da9!8m2!3d50.1222069!4d8.6462874!16s%2Fg%2F11nj6sddv_!19sChIJKWaGCWAJvUcRqY2drWyibbY?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.rex.app/praxen/frankfurt-bockenheim",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "NOT_OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": false,
+      "website_final_url": "https://www.rex.app/praxen/frankfurt-bockenheim",
+      "booking_link": null,
+      "social_links": [],
+      "contact_page_observed": false,
+      "website_service_matches": [],
+      "website_evidence": [],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 82,
+    "deep_qa_verified_signals": [
+      {
+        "type": "review_gap",
+        "proof": "Verified source data: 47 reviews vs. comparison median 224; gap 177."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "Website could not be verified as accessible in this run.",
+      "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
+    ],
+    "primary_sales_angle_verified": "Verified source data: 47 reviews vs. comparison median 224; gap 177.",
+    "proof": [
+      "Verified source data: 47 reviews vs. comparison median 224; gap 177."
+    ],
+    "email": null,
+    "email_source_url": null,
+    "email_verification_status": "EMAIL_MISSING",
+    "email_found_at": null,
+    "airtable_ready": false,
+    "qa_date": "2026-09-22",
     "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
     "outreach_status": "NOT_CONTACTED"
   }

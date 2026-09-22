@@ -1,18 +1,535 @@
 {
-  "accepted": [],
-  "accepted_count": 0,
-  "rejected_count": 24,
+  "accepted": [
+    {
+      "company_name": "Tierarztpraxis im Steintor",
+      "industry": "Tierarzt",
+      "city": "Bremen",
+      "address": "Brunnenstraße 18-20, 28203 Bremen, Deutschland",
+      "website": "https://www.tierarztpraxis-steintor.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+im+Steintor/data=!4m7!3m6!1s0x47b1275ee8419e59:0xd931f4ed99fc2e05!8m2!3d53.0712318!4d8.8274334!16s%2Fg%2F11pfph40gt!19sChIJWZ5B6F4nsUcRBS78me30Mdk?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 421 444411",
+      "public_business_email": "post@tierarztpraxis-steintor.deTelefon",
+      "email_source_url": "https://www.tierarztpraxis-steintor.de/impressum/",
+      "contact_form_url": "https://www.tierarztpraxis-steintor.de/kontakt/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.6,
+      "google_review_count": 238,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "chirurgie",
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "felmo Mobiler Tierarzt Bremen",
+      "competitor_1_reviews": 1204,
+      "competitor_2": "Kleintierklinik Bremen",
+      "competitor_2_reviews": 634,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "238 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 85."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.6; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 19,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 80,
+      "competitor_review_median": 323,
+      "review_gap": 85,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "238 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 85.",
+      "proof": [
+        "238 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 85.",
+        "Google-Bewertung 4.6; sichtbares Reputationspotenzial.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, labor"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "238 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 85.",
+      "second_outreach_angle": "Google-Bewertung 4.6; sichtbares Reputationspotenzial.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Bremen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-22",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Praxis für Kleintiermedizin Arbergen",
+      "industry": "Tierarzt",
+      "city": "Bremen",
+      "address": "Arberger Heerstraße 42, 28307 Hemelingen, Deutschland",
+      "website": "https://www.tierarzt-arbergen.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Praxis+f%C3%BCr+Kleintiermedizin+Arbergen/data=!4m7!3m6!1s0x47b0d9f28a9a637d:0x376113c117fcaaa4!8m2!3d53.0393456!4d8.9119642!16s%2Fg%2F11nc8r9kqf!19sChIJfWOaivLZsEcRpKr8F8ETYTc?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 421 488858",
+      "public_business_email": "info@tierarzt-arbergen.de",
+      "email_source_url": "https://www.tierarzt-arbergen.de/",
+      "contact_form_url": "https://static.parastorage.com/services/form-app/1.3080.0/client-viewer/form-app-contacts-phone.chunk.min.css",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 5.0,
+      "google_review_count": 14,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "ultraschall"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: ultraschall"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "felmo Mobiler Tierarzt Bremen",
+      "competitor_1_reviews": 1204,
+      "competitor_2": "Kleintierklinik Bremen",
+      "competitor_2_reviews": 634,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "14 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 309."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 14 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: ultraschall",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 28,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 89,
+      "competitor_review_median": 323,
+      "review_gap": 309,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "14 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 309.",
+      "proof": [
+        "14 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 309.",
+        "Nur 14 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: ultraschall"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "14 eigene Bewertungen vs. lokaler Wettbewerbsmedian 323; Gap 309.",
+      "second_outreach_angle": "Nur 14 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Bremen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-22",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Rex Tierarztpraxis Frankfurt-Bockenheim",
+      "industry": "Tierarzt",
+      "city": "Frankfurt am Main",
+      "address": "Leipziger Str. 41-43, 60487 Frankfurt am Main-Innenstadt II, Deutschland",
+      "website": "https://www.rex.app/praxen/frankfurt-bockenheim",
+      "google_maps_url": "https://www.google.com/maps/place/Rex+Tierarztpraxis+Frankfurt-Bockenheim/data=!4m7!3m6!1s0x47bd096009866629:0xb66da26cad9d8da9!8m2!3d50.1222069!4d8.6462874!16s%2Fg%2F11nj6sddv_!19sChIJKWaGCWAJvUcRqY2drWyibbY?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 69 33296662",
+      "public_business_email": null,
+      "email_source_url": null,
+      "contact_form_url": null,
+      "contact_basis": "UNKNOWN",
+      "google_rating": 4.9,
+      "google_review_count": 47,
+      "main_category": "Tierarzt",
+      "website_services": [],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [],
+      "service_gap_status": "NOT_DETECTED",
+      "competitor_1": "felmo Mobiler Tierarzt Frankfurt",
+      "competitor_1_reviews": 2748,
+      "competitor_2": "Tierklinik Kalbach - Fachklinik für Kleintiere Frankfurt",
+      "competitor_2_reviews": 2023,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "47 eigene Bewertungen vs. lokaler Wettbewerbsmedian 224; Gap 177."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 47 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [],
+      "verified_signal_count": 2,
+      "report_potential_score": 26,
+      "visible_value_score": 12,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 7,
+      "saas_fit_score": 3,
+      "total_score": 80,
+      "competitor_review_median": 224,
+      "review_gap": 177,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "47 eigene Bewertungen vs. lokaler Wettbewerbsmedian 224; Gap 177.",
+      "proof": [
+        "47 eigene Bewertungen vs. lokaler Wettbewerbsmedian 224; Gap 177.",
+        "Nur 47 Google-Bewertungen."
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "47 eigene Bewertungen vs. lokaler Wettbewerbsmedian 224; Gap 177.",
+      "second_outreach_angle": "Nur 47 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Frankfurt am Main. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-22",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Tierarztpraxis felmo Frankfurt am Main",
+      "industry": "Tierarzt",
+      "city": "Frankfurt am Main",
+      "address": "Emser Str. 40, 60486 Frankfurt am Main-Innenstadt II, Deutschland",
+      "website": "https://felmo.de/tierarztpraxis/frankfurt?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+felmo+Frankfurt+am+Main/data=!4m7!3m6!1s0x47bd09453f6b6d15:0x281782def4679055!8m2!3d50.1167283!4d8.6432916!16s%2Fg%2F11zb3rs5pr!19sChIJFW1rP0UJvUcRVZBn9N6CFyg?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 69 33296671",
+      "public_business_email": "tierarztpraxis-frankfurt@felmo.de",
+      "email_source_url": "https://felmo.de/tierarztpraxis/frankfurt?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
+      "contact_form_url": null,
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.8,
+      "google_review_count": 31,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "impfung",
+        "chirurgie",
+        "zahnsanierung",
+        "ultraschall",
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, zahnsanierung, ultraschall, labor"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "felmo Mobiler Tierarzt Frankfurt",
+      "competitor_1_reviews": 2748,
+      "competitor_2": "Tierklinik Kalbach - Fachklinik für Kleintiere Frankfurt",
+      "competitor_2_reviews": 2023,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "31 eigene Bewertungen vs. lokaler Wettbewerbsmedian 224; Gap 193."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 31 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, zahnsanierung, ultraschall, labor",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 26,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 87,
+      "competitor_review_median": 224,
+      "review_gap": 193,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "31 eigene Bewertungen vs. lokaler Wettbewerbsmedian 224; Gap 193.",
+      "proof": [
+        "31 eigene Bewertungen vs. lokaler Wettbewerbsmedian 224; Gap 193.",
+        "Nur 31 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: chirurgie, zahnsanierung, ultraschall, labor"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "31 eigene Bewertungen vs. lokaler Wettbewerbsmedian 224; Gap 193.",
+      "second_outreach_angle": "Nur 31 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Frankfurt am Main. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-22",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Tierärztliches Labor Freiburg - AniCura",
+      "industry": "Tierarzt",
+      "city": "Freiburg",
+      "address": "Engesserstraße 4B, 79108 Freiburg im Breisgau, Deutschland",
+      "website": "https://www.anicura.de/standorte/tierarztliches-labor-freiburg/",
+      "google_maps_url": "https://www.google.com/maps/place/Tier%C3%A4rztliches+Labor+Freiburg+-+AniCura/data=!4m7!3m6!1s0x47911b2b29561a4b:0x2051b84cd35fc3ab!8m2!3d48.021558!4d7.8482243!16s%2Fg%2F1tywwwhf!19sChIJSxpWKSsbkUcRq8Nf00y4USA?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 761 4599780",
+      "public_business_email": "freiburg.lab@anicura.de",
+      "email_source_url": "https://www.anicura.de/standorte/tierarztliches-labor-freiburg/",
+      "contact_form_url": "https://www.anicura.de/standorte/tierarztliches-labor-freiburg/kontakt/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.5,
+      "google_review_count": 11,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [],
+      "service_gap_status": "NOT_DETECTED",
+      "competitor_1": "Kleintierklinik Frank",
+      "competitor_1_reviews": 826,
+      "competitor_2": "Kleintierzentrum Landwasser",
+      "competitor_2_reviews": 497,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "11 eigene Bewertungen vs. lokaler Wettbewerbsmedian 237; Gap 226."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 11 Google-Bewertungen."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.5; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [],
+      "verified_signal_count": 3,
+      "report_potential_score": 30,
+      "visible_value_score": 12,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 89,
+      "competitor_review_median": 237,
+      "review_gap": 226,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "11 eigene Bewertungen vs. lokaler Wettbewerbsmedian 237; Gap 226.",
+      "proof": [
+        "11 eigene Bewertungen vs. lokaler Wettbewerbsmedian 237; Gap 226.",
+        "Nur 11 Google-Bewertungen.",
+        "Google-Bewertung 4.5; sichtbares Reputationspotenzial."
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "11 eigene Bewertungen vs. lokaler Wettbewerbsmedian 237; Gap 226.",
+      "second_outreach_angle": "Nur 11 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Freiburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-22",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Dr.Brigitte Weber",
+      "industry": "Tierarzt",
+      "city": "Freiburg",
+      "address": "Brombergstraße 33, 79102 Freiburg im Breisgau-Süd, Deutschland",
+      "website": "https://tierarztportal.com/freiburg-im-breisgau/2013-drbrigitte-weber",
+      "google_maps_url": "https://www.google.com/maps/place/Dr.Brigitte+Weber/data=!4m7!3m6!1s0x47911ca3834065e1:0x5f60b6bc73a4ab27!8m2!3d47.9866414!4d7.8506442!16s%2Fg%2F1wbfz9ym!19sChIJ4WVAg6MckUcRJ6ukc7y2YF8?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 761 702739",
+      "public_business_email": "name@beispiel.de",
+      "email_source_url": "https://pfotencheck.tierarztportal.com/",
+      "contact_form_url": null,
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.7,
+      "google_review_count": 43,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "zahnsanierung"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: zahnsanierung"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Kleintierklinik Frank",
+      "competitor_1_reviews": 826,
+      "competitor_2": "Kleintierzentrum Landwasser",
+      "competitor_2_reviews": 497,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "43 eigene Bewertungen vs. lokaler Wettbewerbsmedian 237; Gap 194."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 43 Google-Bewertungen."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: zahnsanierung",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 3,
+      "report_potential_score": 28,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 89,
+      "competitor_review_median": 237,
+      "review_gap": 194,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "43 eigene Bewertungen vs. lokaler Wettbewerbsmedian 237; Gap 194.",
+      "proof": [
+        "43 eigene Bewertungen vs. lokaler Wettbewerbsmedian 237; Gap 194.",
+        "Nur 43 Google-Bewertungen.",
+        "Google-Bewertung 4.7; sichtbares Reputationspotenzial."
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "43 eigene Bewertungen vs. lokaler Wettbewerbsmedian 237; Gap 194.",
+      "second_outreach_angle": "Nur 43 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Freiburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-22",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Kleintierpraxis Dr. Sabine Fehrle",
+      "industry": "Tierarzt",
+      "city": "Freiburg",
+      "address": "Basler Landstraße 52, 79111 Freiburg im Breisgau-Sankt Georgen, Deutschland",
+      "website": "https://www.tierarzt-onlineverzeichnis.de/tierarztpraxis/79111-freiburg-im-breisgau/dr-sabine-fehrle/13409/",
+      "google_maps_url": "https://www.google.com/maps/place/Kleintierpraxis+Dr.+Sabine+Fehrle/data=!4m7!3m6!1s0x47911b2fa9e976f5:0xdf2195f095360f61!8m2!3d47.9824286!4d7.8008842!16s%2Fg%2F1tyzxxnp!19sChIJ9XbpqS8bkUcRYQ82lfCVId8?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 761 8889181",
+      "public_business_email": "drsfehrle@gmx.de",
+      "email_source_url": "https://www.tierarzt-onlineverzeichnis.de/tierarztpraxis/79111-freiburg-im-breisgau/dr-sabine-fehrle/13409/",
+      "contact_form_url": "https://www.tierarzt-onlineverzeichnis.de/service/kontakt",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.2,
+      "google_review_count": 38,
+      "main_category": "Tierarzt",
+      "website_services": [
+        "labor"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: labor"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Kleintierklinik Frank",
+      "competitor_1_reviews": 826,
+      "competitor_2": "Kleintierzentrum Landwasser",
+      "competitor_2_reviews": 497,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "38 eigene Bewertungen vs. lokaler Wettbewerbsmedian 237; Gap 199."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 38 Google-Bewertungen."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.2; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: labor",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 3,
+      "report_potential_score": 28,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 89,
+      "competitor_review_median": 237,
+      "review_gap": 199,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "38 eigene Bewertungen vs. lokaler Wettbewerbsmedian 237; Gap 199.",
+      "proof": [
+        "38 eigene Bewertungen vs. lokaler Wettbewerbsmedian 237; Gap 199.",
+        "Nur 38 Google-Bewertungen.",
+        "Google-Bewertung 4.2; sichtbares Reputationspotenzial."
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "38 eigene Bewertungen vs. lokaler Wettbewerbsmedian 237; Gap 199.",
+      "second_outreach_angle": "Nur 38 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Tierarzt Freiburg. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-22",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
+  "accepted_count": 7,
+  "rejected_count": 17,
   "inspected": 24,
   "state": {
-    "query_cursor": 312,
-    "runs": 104,
-    "lead_count": 174,
+    "query_cursor": 315,
+    "runs": 105,
+    "lead_count": 181,
     "target_leads": 999999999,
-    "last_accepted": 0,
+    "last_accepted": 7,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 24,
-    "a_leads": 30,
-    "b_leads": 113
+    "last_rejected": 17,
+    "a_leads": 35,
+    "b_leads": 115
   }
 }

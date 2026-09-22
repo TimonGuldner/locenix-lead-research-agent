@@ -48,6 +48,56 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "praxis für kleintiermedizin arbergen|bremen|https://www.tierarzt-arbergen.de/",
+    "company_name": "Praxis für Kleintiermedizin Arbergen",
+    "industry": "Tierarzt",
+    "city": "Bremen",
+    "email": "info@tierarzt-arbergen.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 98,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Bremen",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Bremen",
+          "AniCura Kleintierpraxis Bremen",
+          "Tierarzt Pabst, Marcus",
+          "Medivet Tierarztpraxis",
+          "Kleintierpraxis Dr. Gaby Brünnlein"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      },
+      {
+        "query": "Tierarzt in Bremen",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Bremen",
+          "AniCura Kleintierpraxis Bremen",
+          "Tierarzt Pabst, Marcus",
+          "Dr. Andreas Seide Tierarzt",
+          "Kleintierpraxis Berg"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-09-22",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
     "company_name": "ISARDENT® | Kieferorthopädie & Kinderzahnarzt München-Freiham",
     "industry": "Zahnarzt",
@@ -2229,6 +2279,106 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "tierärztliches labor freiburg - anicura|freiburg|https://www.anicura.de/standorte/tierarztliches-labor-freiburg/",
+    "company_name": "Tierärztliches Labor Freiburg - AniCura",
+    "industry": "Tierarzt",
+    "city": "Freiburg",
+    "email": "presse@anicura.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 96,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Freiburg",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Kleintierklinik Frank",
+          "Kleintierzentrum Landwasser",
+          "Tierarztpraxis Eugen Schumaiko",
+          "José Luis Sanchez",
+          "Tierarztpraxis Bahr"
+        ],
+        "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Freiburg",
+        "status": "OBSERVED",
+        "observed_position": 8,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Kleintierzentrum Landwasser",
+          "Kleintierklinik Frank",
+          "Tierarztpraxis Eugen Schumaiko",
+          "José Luis Sanchez",
+          "Tierarztpraxis Bahr"
+        ],
+        "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 7 among the first 11 Maps results returned in this run.",
+      "Business observed at position 8 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-22",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "tierarztpraxis felmo frankfurt am main|frankfurt am main|https://felmo.de/tierarztpraxis/frankfurt?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
+    "company_name": "Tierarztpraxis felmo Frankfurt am Main",
+    "industry": "Tierarzt",
+    "city": "Frankfurt am Main",
+    "email": "info@mail.felmo.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 96,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Frankfurt am Main",
+        "status": "OBSERVED",
+        "observed_position": 11,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Frankfurt",
+          "Rex Tierarztpraxis Frankfurt-Bockenheim",
+          "Kleintierpraxis Frankfurt",
+          "VetZentrum Maja Firlé",
+          "Tierarztpraxis Vet Puls Frankfurt"
+        ],
+        "evidence": "Business observed at position 11 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Frankfurt am Main",
+        "status": "OBSERVED",
+        "observed_position": 9,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Frankfurt",
+          "Kleintierpraxis Frankfurt",
+          "Rex Tierarztpraxis Frankfurt-Bockenheim",
+          "VetZentrum Maja Firlé",
+          "Tierarztpraxis Vet Puls Frankfurt"
+        ],
+        "evidence": "Business observed at position 9 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 11 among the first 11 Maps results returned in this run.",
+      "Business observed at position 9 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-22",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
     "company_name": "NIICE Kleintiertagesklinik Potsdam",
     "industry": "Tierarzt",
@@ -2274,6 +2424,106 @@
       "Business observed at position 8 among the first 11 Maps results returned in this run."
     ],
     "visibility_date": "2026-09-15",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "dr.brigitte weber|freiburg|https://tierarztportal.com/freiburg-im-breisgau/2013-drbrigitte-weber",
+    "company_name": "Dr.Brigitte Weber",
+    "industry": "Tierarzt",
+    "city": "Freiburg",
+    "email": "info@tierarztportal.com",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 94,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Freiburg",
+        "status": "OBSERVED",
+        "observed_position": 6,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Kleintierzentrum Landwasser",
+          "Kleintierklinik Frank",
+          "Tierarztpraxis Eugen Schumaiko",
+          "Tierarztpraxis Bahr",
+          "José Luis Sanchez"
+        ],
+        "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Freiburg",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Kleintierzentrum Landwasser",
+          "Kleintierklinik Frank",
+          "Tierarztpraxis Eugen Schumaiko",
+          "José Luis Sanchez",
+          "Tierarztpraxis Bahr"
+        ],
+        "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 6 among the first 11 Maps results returned in this run.",
+      "Business observed at position 7 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-22",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
+    "lead_id": "kleintierpraxis dr. sabine fehrle|freiburg|https://www.tierarzt-onlineverzeichnis.de/tierarztpraxis/79111-freiburg-im-breisgau/dr-sabine-fehrle/13409/",
+    "company_name": "Kleintierpraxis Dr. Sabine Fehrle",
+    "industry": "Tierarzt",
+    "city": "Freiburg",
+    "email": "drsfehrle@gmx.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 94,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Freiburg",
+        "status": "OBSERVED",
+        "observed_position": 7,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Kleintierzentrum Landwasser",
+          "Kleintierklinik Frank",
+          "Tierarztpraxis Eugen Schumaiko",
+          "Tierarztpraxis Bahr",
+          "José Luis Sanchez"
+        ],
+        "evidence": "Business observed at position 7 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Freiburg",
+        "status": "OBSERVED",
+        "observed_position": 6,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "Kleintierzentrum Landwasser",
+          "Kleintierklinik Frank",
+          "Tierarztpraxis Eugen Schumaiko",
+          "José Luis Sanchez",
+          "Tierarztpraxis Bahr"
+        ],
+        "evidence": "Business observed at position 6 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 7 among the first 11 Maps results returned in this run.",
+      "Business observed at position 6 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-22",
     "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
     "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
     "outreach_status": "NOT_CONTACTED"

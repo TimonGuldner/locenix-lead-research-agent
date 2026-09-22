@@ -1,5 +1,5 @@
 {
-  "runs": 38,
+  "runs": 39,
   "processed_ids": [
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -17,6 +17,7 @@
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
     "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
     "dr. p. mayerhauser, kleintierpraxis im gewerbehof unterfeldweg|augsburg|https://www.tierarztpraxis-mayerhauser.de/",
+    "dr.brigitte weber|freiburg|https://tierarztportal.com/freiburg-im-breisgau/2013-drbrigitte-weber",
     "dr.med.vet tina brahm|dortmund|http://kleintierpraxis-am-wall.de/",
     "dr.med.vet. dirk krüger|rostock|https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
     "dr.med.vet. martin unger|augsburg|http://www.tierarzt-klinkerberg.de/",
@@ -51,6 +52,7 @@
     "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
     "kleintierpraxis berg|bremen|https://www.tieraerztin-berg.de/",
     "kleintierpraxis bielefeld dr. silke mehlhose-koch|bielefeld|https://www.kleintierpraxis-bielefeld.de/",
+    "kleintierpraxis dr. sabine fehrle|freiburg|https://www.tierarzt-onlineverzeichnis.de/tierarztpraxis/79111-freiburg-im-breisgau/dr-sabine-fehrle/13409/",
     "kleintierpraxis heidelberg hans neumann|heidelberg|https://kleintierpraxis-heidelberg.com/",
     "kleintierpraxis karlsruhe dr. magdalena behrendt-wippermann|karlsruhe|http://www.kleintierpraxiskarlsruhe.de/",
     "kleintierpraxis wimmer|braunschweig|http://www.kleintierpraxis-wimmer.de/",
@@ -72,6 +74,7 @@
     "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
     "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
     "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
+    "praxis für kleintiermedizin arbergen|bremen|https://www.tierarzt-arbergen.de/",
     "praxis für kleintiermedizin dr. götte|krefeld|http://www.tierzentrum-krefeld.de/",
     "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
     "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
@@ -91,6 +94,7 @@
     "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
     "tierarztpraxis elbvet hamburg|hamburg|https://www.elbvet-hamburg.de/",
     "tierarztpraxis felmo bochum|bochum|https://felmo.de/tierarztpraxis/bochum?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
+    "tierarztpraxis felmo frankfurt am main|frankfurt am main|https://felmo.de/tierarztpraxis/frankfurt?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
     "tierarztpraxis hamburg berne - tierärztin linda brüggemann|hamburg|https://www.tierarzt-hamburg-berne.de/",
     "tierarztpraxis hernández|sankt augustin|https://tierarztpraxishernandez.com/",
     "tierarztpraxis holt dr. kathagen, dr. riecken, dr. sixt|moenchengladbach|http://www.fachtierarztpraxis-holt.de/",
@@ -108,6 +112,7 @@
     "tierärztliche praxis daglis|dortmund|http://www.tierarztpraxis-daglis.de/",
     "tierärztliche praxis dr. sabel|essen|http://www.tierarzt-dr-sabel.de/",
     "tierärztliche praxis elena waldhier|nuernberg|http://www.tierarzt-ziegelstein.de/",
+    "tierärztliches labor freiburg - anicura|freiburg|https://www.anicura.de/standorte/tierarztliches-labor-freiburg/",
     "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
     "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
     "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
@@ -120,12 +125,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 118,
-  "last_batch_count": 0,
+  "processed_count": 123,
+  "last_batch_count": 5,
   "remaining_eligible": 0,
-  "weak_visibility_total": 81,
+  "weak_visibility_total": 86,
   "email_gate_rejected_count": 35,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

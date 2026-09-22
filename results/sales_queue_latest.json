@@ -37,6 +37,41 @@
       "airtable_record_id": "rec2ShbTYTJfOGGM6"
     },
     {
+      "lead_id": "praxis für kleintiermedizin arbergen|bremen|https://www.tierarzt-arbergen.de/",
+      "company_name": "Praxis für Kleintiermedizin Arbergen",
+      "industry": "Tierarzt",
+      "city": "Bremen",
+      "website": "https://www.tierarzt-arbergen.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Praxis+f%C3%BCr+Kleintiermedizin+Arbergen/data=!4m7!3m6!1s0x47b0d9f28a9a637d:0x376113c117fcaaa4!8m2!3d53.0393456!4d8.9119642!16s%2Fg%2F11nc8r9kqf!19sChIJfWOaivLZsEcRpKr8F8ETYTc?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "email": "info@tierarzt-arbergen.de",
+      "email_source_url": "https://www.tierarzt-arbergen.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-22T11:55:11.243573+00:00",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 98,
+      "visibility_checked": false,
+      "weak_visibility_observed": null,
+      "visibility_opportunity_score": null,
+      "priority_score": 100,
+      "sales_tier": "A",
+      "primary_pitch": "Verified source data: 14 reviews vs. comparison median 323; gap 309.",
+      "why_now": [
+        "Verified source data: 14 reviews vs. comparison median 323; gap 309.",
+        "Online booking/appointment link observed on website."
+      ],
+      "proof_1": "Verified source data: 14 reviews vs. comparison median 323; gap 309.",
+      "proof_2": "Online booking/appointment link observed on website.",
+      "proof_3": "Business website links to at least one social profile.",
+      "next_action": "PRIORITY_SALES_REVIEW",
+      "airtable_ready": true,
+      "airtable_sync_status": "SYNCED_CREATED",
+      "outreach_status": "NOT_CONTACTED",
+      "queue_date": "2026-09-22",
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
+      "airtable_record_id": "rec1BYsyUwWCnuH9w"
+    },
+    {
       "lead_id": "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
       "company_name": "Tierarztpraxis Tierärztlicher Notfalldienst - in der HAFENCITY- jeden Tag am selben Ort",
       "industry": "Tierarzt",
@@ -69,7 +104,7 @@
       "queue_date": "2026-09-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recBl8HHx29y1UQG0"
+      "airtable_record_id": "recX4EvpUzXKzrfhl"
     },
     {
       "lead_id": "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
@@ -105,7 +140,7 @@
       "queue_date": "2026-09-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "rec142FEMQURQf1Zu"
+      "airtable_record_id": "recbkPUPXruvVBnVc"
     },
     {
       "lead_id": "lunavet - tierarztpraxis in dresden|dresden|https://luna-vet.de/",
@@ -142,6 +177,76 @@
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recAkUFBwzqe4BWfL"
+    },
+    {
+      "lead_id": "tierärztliches labor freiburg - anicura|freiburg|https://www.anicura.de/standorte/tierarztliches-labor-freiburg/",
+      "company_name": "Tierärztliches Labor Freiburg - AniCura",
+      "industry": "Tierarzt",
+      "city": "Freiburg",
+      "website": "https://www.anicura.de/standorte/tierarztliches-labor-freiburg/",
+      "google_maps_url": "https://www.google.com/maps/place/Tier%C3%A4rztliches+Labor+Freiburg+-+AniCura/data=!4m7!3m6!1s0x47911b2b29561a4b:0x2051b84cd35fc3ab!8m2!3d48.021558!4d7.8482243!16s%2Fg%2F1tywwwhf!19sChIJSxpWKSsbkUcRq8Nf00y4USA?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "email": "presse@anicura.de",
+      "email_source_url": "https://www.anicura.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-22T11:55:19.824178+00:00",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 96,
+      "visibility_checked": false,
+      "weak_visibility_observed": null,
+      "visibility_opportunity_score": null,
+      "priority_score": 100,
+      "sales_tier": "A",
+      "primary_pitch": "Verified source data: 11 reviews vs. comparison median 237; gap 226.",
+      "why_now": [
+        "Verified source data: 11 reviews vs. comparison median 237; gap 226.",
+        "Business website links to at least one social profile."
+      ],
+      "proof_1": "Verified source data: 11 reviews vs. comparison median 237; gap 226.",
+      "proof_2": "Business website links to at least one social profile.",
+      "proof_3": null,
+      "next_action": "PRIORITY_SALES_REVIEW",
+      "airtable_ready": true,
+      "airtable_sync_status": "SYNCED_CREATED",
+      "outreach_status": "NOT_CONTACTED",
+      "queue_date": "2026-09-22",
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
+      "airtable_record_id": "recUny8qd3zapwy6c"
+    },
+    {
+      "lead_id": "tierarztpraxis felmo frankfurt am main|frankfurt am main|https://felmo.de/tierarztpraxis/frankfurt?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
+      "company_name": "Tierarztpraxis felmo Frankfurt am Main",
+      "industry": "Tierarzt",
+      "city": "Frankfurt am Main",
+      "website": "https://felmo.de/tierarztpraxis/frankfurt?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
+      "google_maps_url": "https://www.google.com/maps/place/Tierarztpraxis+felmo+Frankfurt+am+Main/data=!4m7!3m6!1s0x47bd09453f6b6d15:0x281782def4679055!8m2!3d50.1167283!4d8.6432916!16s%2Fg%2F11zb3rs5pr!19sChIJFW1rP0UJvUcRVZBn9N6CFyg?authuser=0&hl=de&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+      "email": "info@mail.felmo.de",
+      "email_source_url": "https://felmo.de/imprint",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-22T11:56:19.346910+00:00",
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 96,
+      "visibility_checked": false,
+      "weak_visibility_observed": null,
+      "visibility_opportunity_score": null,
+      "priority_score": 100,
+      "sales_tier": "A",
+      "primary_pitch": "Verified source data: 31 reviews vs. comparison median 224; gap 193.",
+      "why_now": [
+        "Verified source data: 31 reviews vs. comparison median 224; gap 193.",
+        "Online booking/appointment link observed on website."
+      ],
+      "proof_1": "Verified source data: 31 reviews vs. comparison median 224; gap 193.",
+      "proof_2": "Online booking/appointment link observed on website.",
+      "proof_3": "Business website links to at least one social profile.",
+      "next_action": "PRIORITY_SALES_REVIEW",
+      "airtable_ready": true,
+      "airtable_sync_status": "SYNCED_CREATED",
+      "outreach_status": "NOT_CONTACTED",
+      "queue_date": "2026-09-22",
+      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
+      "airtable_record_id": "recleQVG1ctq0S2Ed"
     },
     {
       "lead_id": "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
@@ -212,7 +317,7 @@
       "queue_date": "2026-09-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recdrCa0xnTG6JLFQ"
+      "airtable_record_id": "recwgX4BH2Z9ELHol"
     },
     {
       "lead_id": "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -492,7 +597,7 @@
       "queue_date": "2026-09-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recFIv95jl2OVENUy"
+      "airtable_record_id": "recAuovv8XfKUYhYc"
     },
     {
       "lead_id": "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
@@ -528,7 +633,7 @@
       "queue_date": "2026-09-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "rec6d7dh1vNr4e3zY"
+      "airtable_record_id": "recdiwshfZhXFgWgS"
     },
     {
       "lead_id": "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
@@ -672,7 +777,7 @@
       "queue_date": "2026-09-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recxiRF4Ml9MQTvvQ"
+      "airtable_record_id": "recYVQBFGePmYOBvF"
     },
     {
       "lead_id": "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -707,7 +812,7 @@
       "queue_date": "2026-09-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recgTX3D1FDT8aAN9"
+      "airtable_record_id": "recmKcnHfUwtR6nyP"
     },
     {
       "lead_id": "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
@@ -742,7 +847,7 @@
       "queue_date": "2026-09-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recHQO1J5qjrEbVQL"
+      "airtable_record_id": "rec5wxgkPAvLQz0vl"
     },
     {
       "lead_id": "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
@@ -779,130 +884,22 @@
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recX4mosFOhCfIPwq"
-    },
-    {
-      "lead_id": "valera tierklinik berlin|berlin|https://www.valeratierklinikberlin.com/",
-      "company_name": "Valera Tierklinik Berlin",
-      "industry": "Tierarzt",
-      "city": "Berlin",
-      "website": "https://www.valeratierklinikberlin.com/",
-      "google_maps_url": "https://www.google.com/maps/place/Valera+Tierklinik+Berlin/data=!4m7!3m6!1s0x47a85bc4b5b44561:0x815ff66b6440125e!8m2!3d52.4337469!4d13.2467881!16s%2Fg%2F11t28f8n9h!19sChIJYUW0tcRbqEcRXhJAZGv2X4E?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "email": "info@valeratierklinikberlin.com",
-      "email_source_url": "https://www.valeratierklinikberlin.com/about/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T10:30:15.750660+00:00",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 92,
-      "visibility_checked": true,
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
-      "priority_score": 100,
-      "sales_tier": "A",
-      "primary_pitch": "Verified source data: 637 reviews vs. comparison median 1944; gap 1307.",
-      "why_now": [
-        "Verified source data: 637 reviews vs. comparison median 1944; gap 1307.",
-        "Online booking/appointment link observed on website.",
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-      ],
-      "proof_1": "Verified source data: 637 reviews vs. comparison median 1944; gap 1307.",
-      "proof_2": "Online booking/appointment link observed on website.",
-      "proof_3": "Business website links to at least one social profile.",
-      "next_action": "PRIORITY_SALES_REVIEW",
-      "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_UPDATED",
-      "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-09-22",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recxnQcUR0Df0tp49"
-    },
-    {
-      "lead_id": "tiergesundheitszentrum pankow|berlin|https://www.tgz-pankow.de/",
-      "company_name": "Tiergesundheitszentrum Pankow",
-      "industry": "Tierarzt",
-      "city": "Berlin",
-      "website": "https://www.tgz-pankow.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Tiergesundheitszentrum+Pankow/data=!4m7!3m6!1s0x25864ec720c7bf75:0x8bff644efcffc496!8m2!3d52.5950135!4d13.4641914!16s%2Fg%2F11yz9_h3_y!19sChIJdb_HIMdOhiURlsT__E5k_4s?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "email": "info@tgz-pankow.de",
-      "email_source_url": "https://www.tgz-pankow.de/impressum",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-13T19:48:31.823887+00:00",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 92,
-      "visibility_checked": true,
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
-      "priority_score": 100,
-      "sales_tier": "A",
-      "primary_pitch": "Verified source data: 59 reviews vs. comparison median 1150; gap 1091.",
-      "why_now": [
-        "Verified source data: 59 reviews vs. comparison median 1150; gap 1091.",
-        "Business website links to at least one social profile.",
-        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
-      ],
-      "proof_1": "Verified source data: 59 reviews vs. comparison median 1150; gap 1091.",
-      "proof_2": "Business website links to at least one social profile.",
-      "proof_3": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
-      "next_action": "PRIORITY_SALES_REVIEW",
-      "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_UPDATED",
-      "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-09-22",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recqL5G40SxG7Nt8u"
-    },
-    {
-      "lead_id": "felmo mobiler tierarzt bielefeld|bielefeld|https://felmo.de/tierarzt/bielefeld?utm_medium=referral&utm_source=google_my_business&utm_term=bielefeld",
-      "company_name": "felmo Mobiler Tierarzt Bielefeld",
-      "industry": "Tierarzt",
-      "city": "Bielefeld",
-      "website": "https://felmo.de/tierarzt/bielefeld?utm_medium=referral&utm_source=google_my_business&utm_term=bielefeld",
-      "google_maps_url": "https://www.google.com/maps/place/felmo+Mobiler+Tierarzt+Bielefeld/data=!4m7!3m6!1s0x47ba3b3f93582709:0xe38b6050a10c347e!8m2!3d51.9574629!4d8.5768621!16s%2Fg%2F11nb4n4mk7!19sChIJCSdYkz87ukcRfjQMoVBgi-M?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
-      "email": "info@mail.felmo.de",
-      "email_source_url": "https://felmo.de/imprint",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-14T00:11:05.792394+00:00",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 92,
-      "visibility_checked": true,
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 6,
-      "priority_score": 100,
-      "sales_tier": "A",
-      "primary_pitch": "Verified source data: 53 reviews vs. comparison median 449; gap 396.",
-      "why_now": [
-        "Verified source data: 53 reviews vs. comparison median 449; gap 396.",
-        "Business website links to at least one social profile.",
-        "Business observed at position 7 among the first 11 Maps results returned in this run."
-      ],
-      "proof_1": "Verified source data: 53 reviews vs. comparison median 449; gap 396.",
-      "proof_2": "Business website links to at least one social profile.",
-      "proof_3": "Business observed at position 7 among the first 11 Maps results returned in this run.",
-      "next_action": "PRIORITY_SALES_REVIEW",
-      "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_UPDATED",
-      "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-09-22",
-      "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recO0u5woWbhHTMiI"
     }
   ],
   "state": {
-    "queue_count": 118,
-    "airtable_ready_count": 41,
-    "email_ready_count": 118,
+    "queue_count": 123,
+    "airtable_ready_count": 44,
+    "email_ready_count": 123,
     "email_missing_count": 0,
     "hard_email_gate_rejected_count": 35,
     "downstream_email_gate_violations": 0,
-    "airtable_created": 17,
+    "airtable_created": 20,
     "airtable_updated": 24,
-    "airtable_skipped": 77,
+    "airtable_skipped": 79,
     "airtable_errors": [],
-    "priority_a_count": 118,
+    "priority_a_count": 123,
     "priority_b_count": 0,
-    "visibility_pending_count": 0,
+    "visibility_pending_count": 5,
     "last_run_date": "2026-09-22",
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_DOWNSTREAM_HANDOFF"
   }

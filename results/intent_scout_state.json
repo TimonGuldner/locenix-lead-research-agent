@@ -1,9 +1,9 @@
 {
   "agent": "AGENT_15A_INTENT_SCOUT",
-  "last_run_at": "2026-09-22T04:54:14.906374+00:00",
-  "signals_found": 22,
+  "last_run_at": "2026-09-22T11:36:55.438279+00:00",
+  "signals_found": 23,
   "new_signals": 0,
-  "unreviewed": 22,
+  "unreviewed": 23,
   "queries_run": 8,
   "errors": 0,
   "query_errors": [],

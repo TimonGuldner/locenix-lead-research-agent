@@ -1,10 +1,10 @@
 {
   "state": {
     "agent": "AGENT_15A_INTENT_SCOUT",
-    "last_run_at": "2026-09-22T04:54:14.906374+00:00",
-    "signals_found": 22,
+    "last_run_at": "2026-09-22T11:36:55.438279+00:00",
+    "signals_found": 23,
     "new_signals": 0,
-    "unreviewed": 22,
+    "unreviewed": 23,
     "queries_run": 8,
     "errors": 0,
     "query_errors": [],
@@ -47,6 +47,25 @@
     "site:reddit.com/r/selbststaendig \"Google Unternehmensprofil\""
   ],
   "newest": [
+    {
+      "signal_id": "intent-abc58def3a39240a",
+      "source": "freelancer.com",
+      "source_url": "https://www.freelancer.com/projects/content-marketing/deutschsprachiger-seo-spezialist",
+      "title": "Deutschsprachiger SEO-Spezialist für langfristige Partnerschaft gesucht",
+      "snippet": "freelancer.com\nhttps://www.freelancer.com › projects › content...\nDeutschsprachiger SEO-Spezialist für langfristige Partnerschaft gesucht\n\n26. Apr. 2026 · I have a proven track record in German SEO, including on-page SEO, technical SEO, local SEO, and white-hat link …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 6,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 3,
+        "marketplace_listing": true
+      },
+      "detected_at": "2026-09-22T04:54:15.548838+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
     {
       "signal_id": "intent-f198ac762f25f40f",
       "source": "support.google.com",

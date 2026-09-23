@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-23T08:12:06.366339+00:00",
+  "generated_at": "2026-09-23T11:29:11.596876+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 181,
@@ -25,11 +25,11 @@
     "qa_email_missing": 36,
     "visibility_remaining": 0,
     "visibility_email_gate_rejected": 36,
-    "weak_visibility": 86,
-    "sales_queue_count": 123,
+    "weak_visibility": 87,
+    "sales_queue_count": 124,
     "airtable_ready": 44,
     "airtable_errors": [],
-    "sales_hard_email_gate_rejected": 35,
+    "sales_hard_email_gate_rejected": 36,
     "downstream_email_gate_violations": 0,
     "drafts_eligible": 44,
     "drafts_stored": 20,
@@ -64,7 +64,7 @@
     "approved_email_gap": 5,
     "maps_downstream_email_gate_target": 0,
     "maps_downstream_email_gate_actual": 0,
-    "research_missing_email_rejected_from_sales": 35,
+    "research_missing_email_rejected_from_sales": 36,
     "rule": "TARGET -> ACTUAL -> GAP -> ACTION -> RE-MEASURE. Missing-email Maps leads never enter downstream sales/outreach."
   },
   "learning": {

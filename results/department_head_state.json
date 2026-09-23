@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-23T08:12:06.366339+00:00",
+  "last_run_at": "2026-09-23T11:29:11.596876+00:00",
   "department_status": "BACKLOG",
   "next_agent": "outreach_controller",
   "reason": "Airtable-ready email-qualified leads are missing outreach drafts.",
@@ -17,7 +17,7 @@
   "maps_learning_recommended_city": "Muenchen",
   "maps_learning_errors": 0,
   "maps_downstream_email_gate_violations": 0,
-  "sales_hard_email_gate_rejected": 35,
+  "sales_hard_email_gate_rejected": 36,
   "email_daily_target": 5,
   "email_sent_today": 0,
   "email_daily_gap": 5,

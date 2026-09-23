@@ -1,11 +1,11 @@
 {
   "agent": "LOCENIX_HARD_EMAIL_GATE_ENFORCER",
-  "last_run_at": "2026-09-23T08:12:00.760274+00:00",
+  "last_run_at": "2026-09-23T11:28:59.503098+00:00",
   "qualified_qa_total": 160,
   "downstream_email_qualified_total": 124,
   "email_missing_excluded_total": 36,
-  "visibility_rows_before": 123,
-  "visibility_rows_after": 123,
+  "visibility_rows_before": 124,
+  "visibility_rows_after": 124,
   "visibility_rows_purged_this_run": 0,
   "downstream_email_gate_violations": 0,
   "airtable_quarantine": {

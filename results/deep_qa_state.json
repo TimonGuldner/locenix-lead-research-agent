@@ -1,5 +1,5 @@
 {
-  "runs": 40,
+  "runs": 41,
   "processed_ids": [
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -82,6 +82,7 @@
     "maison de nails berlin|berlin|https://maisondenails.de/",
     "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
     "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
+    "massage in münchen - edgar mauler|muenchen|http://www.massage-in-muenchen.com/",
     "medivet tierarztpraxis hannover|hannover|https://www.medivetgroup.com/de-de/tierarzt/hannover/",
     "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
     "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
@@ -92,6 +93,7 @@
     "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
     "nice aesthetic - kosmetikstudio hamburg|hamburg|https://niceaesthetic.de/",
     "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
+    "osteomuc: osteopathie münchen-schwabing | praxis für ganzheitliche therapie|muenchen|https://osteopathie-muc.de/",
     "osteopathie diana peuker (trawell - gesundheit & wellness am traveplatz)|berlin|http://www.trawell.berlin/",
     "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
     "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
@@ -163,15 +165,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 161,
+  "processed_count": 163,
   "remaining_eligible": 0,
   "last_batch_count": 2,
-  "final_a_total": 57,
-  "final_b_total": 103,
-  "email_ready_total": 44,
-  "email_missing_total": 36,
-  "email_gate_qualified_total": 124,
-  "email_missing_excluded_total": 36,
-  "downstream_eligible_total": 124,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "final_a_total": 58,
+  "final_b_total": 104,
+  "email_ready_total": 45,
+  "email_missing_total": 37
 }

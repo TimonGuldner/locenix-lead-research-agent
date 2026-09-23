@@ -1,5 +1,5 @@
 {
-  "runs": 40,
+  "runs": 41,
   "processed_ids": [
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -71,6 +71,7 @@
     "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
     "nice aesthetic - kosmetikstudio hamburg|hamburg|https://niceaesthetic.de/",
     "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
+    "osteomuc: osteopathie münchen-schwabing | praxis für ganzheitliche therapie|muenchen|https://osteopathie-muc.de/",
     "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
     "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
     "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
@@ -126,12 +127,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 124,
+  "processed_count": 125,
   "last_batch_count": 1,
   "remaining_eligible": 0,
-  "weak_visibility_total": 87,
+  "weak_visibility_total": 88,
   "email_gate_rejected_count": 37,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

@@ -1,49 +1,48 @@
 {
   "results": [
     {
-      "lead_id": "tierarztpraxis im steintor|bremen|https://www.tierarztpraxis-steintor.de/",
-      "company_name": "Tierarztpraxis im Steintor",
-      "industry": "Tierarzt",
-      "city": "Bremen",
-      "email": "post@tierarztpraxis-steintor.de",
+      "lead_id": "osteomuc: osteopathie münchen-schwabing | praxis für ganzheitliche therapie|muenchen|https://osteopathie-muc.de/",
+      "company_name": "OsteoMuc: Osteopathie München-Schwabing | Praxis für ganzheitliche Therapie",
+      "industry": "Osteopathie",
+      "city": "Muenchen",
+      "email": "info@osteopathie-muc.de",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 85,
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 90,
       "visibility_tests": [
         {
-          "query": "Tierarzt Bremen",
+          "query": "Osteopathie Muenchen",
           "status": "OBSERVED",
-          "observed_position": 8,
+          "observed_position": 5,
           "results_checked": 11,
           "competitors_ahead": [
-            "felmo Mobiler Tierarzt Bremen",
-            "AniCura Kleintierpraxis Bremen",
-            "Tierarzt Pabst, Marcus",
-            "Kleintierklinik Bremen",
-            "Kleintierpraxis Dr. Gaby Brünnlein"
+            "Osteopathie in Sendling",
+            "PHEOS München - Osteopathie in München Schwabing",
+            "Osteopathie Naumann & Kollegen",
+            "OsteopathieWerkstatt"
           ],
-          "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
+          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
         },
         {
-          "query": "Tierarzt in Bremen",
-          "status": "OBSERVED",
-          "observed_position": 10,
-          "results_checked": 11,
+          "query": "Osteopathie in Muenchen",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 10,
           "competitors_ahead": [
-            "felmo Mobiler Tierarzt Bremen",
-            "Tierarzt Pabst, Marcus",
-            "Tierarztpraxis Vegesack - Dr. med. vet. Katrin Klusacsek",
-            "AniCura Kleintierpraxis Bremen",
-            "Cadomo Tierarztpraxis Hermannsburg | Bremen"
+            "Chiropraktik | Dr. Thiele",
+            "Praxis Gern, Hanisch & Kollegen",
+            "Osteopathie in Sendling",
+            "PHEOS München - Osteopathie in München Schwabing",
+            "Praxis Butt - München Schwabing"
           ],
-          "evidence": "Business observed at position 10 among the first 11 Maps results returned in this run."
+          "evidence": "Business was not observed among the first 10 Maps results returned in this run. This is not a universal ranking claim."
         }
       ],
       "weak_visibility_observed": true,
-      "visibility_opportunity_score": 6,
+      "visibility_opportunity_score": 10,
       "visibility_evidence": [
-        "Business observed at position 8 among the first 11 Maps results returned in this run.",
-        "Business observed at position 10 among the first 11 Maps results returned in this run."
+        "Business observed at position 5 among the first 11 Maps results returned in this run.",
+        "Business was not observed among the first 10 Maps results returned in this run. This is not a universal ranking claim."
       ],
       "visibility_date": "2026-09-23",
       "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
@@ -52,7 +51,7 @@
     }
   ],
   "state": {
-    "runs": 40,
+    "runs": 41,
     "processed_ids": [
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -124,6 +123,7 @@
       "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
       "nice aesthetic - kosmetikstudio hamburg|hamburg|https://niceaesthetic.de/",
       "niice kleintiertagesklinik potsdam|potsdam|https://niice-tieraerzte-potsdam.de/",
+      "osteomuc: osteopathie münchen-schwabing | praxis für ganzheitliche therapie|muenchen|https://osteopathie-muc.de/",
       "physio-park gmbh|stuttgart|http://www.physio-park-filderstadt.de/",
       "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
       "podologie praxis marina schwingeler-hühne (podologin)|koeln|https://podologekoeln.de/",
@@ -179,11 +179,11 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 124,
+    "processed_count": 125,
     "last_batch_count": 1,
     "remaining_eligible": 0,
-    "weak_visibility_total": 87,
-    "email_gate_rejected_count": 36,
+    "weak_visibility_total": 88,
+    "email_gate_rejected_count": 37,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
   }

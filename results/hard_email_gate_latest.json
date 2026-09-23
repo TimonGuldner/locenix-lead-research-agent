@@ -1,10 +1,10 @@
 {
   "state": {
     "agent": "LOCENIX_HARD_EMAIL_GATE_ENFORCER",
-    "last_run_at": "2026-09-23T11:28:59.503098+00:00",
-    "qualified_qa_total": 160,
-    "downstream_email_qualified_total": 124,
-    "email_missing_excluded_total": 36,
+    "last_run_at": "2026-09-23T13:38:41.691185+00:00",
+    "qualified_qa_total": 162,
+    "downstream_email_qualified_total": 125,
+    "email_missing_excluded_total": 37,
     "visibility_rows_before": 124,
     "visibility_rows_after": 124,
     "visibility_rows_purged_this_run": 0,
@@ -39,6 +39,7 @@
     "reifendienst - all inn performance|berlin|http://facebook.com/allinnperformance",
     "jg kosmetikstudio köln - hydrafacial / microneedling / haarentfernung|koeln|https://jgkosmetik-koeln.de/",
     "city nails - krefeld|krefeld|https://esinafsar.com/city-nails/",
+    "massage in münchen - edgar mauler|muenchen|http://www.massage-in-muenchen.com/",
     "manu elektrobau gmbh|berlin|http://www.elektrikerundreinigung.de/",
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
     "elysio physiotherapie-mitte|berlin|http://www.elysio-physio.de/",

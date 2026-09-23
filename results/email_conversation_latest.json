@@ -8,23 +8,17 @@
     "auto_reply_enabled": true,
     "received_scanned": 12,
     "handled": 0,
-    "unmatched": 1,
-    "duplicates_skipped": 11,
+    "unmatched": 0,
+    "duplicates_skipped": 12,
     "errors": 0,
     "positive_replies": 0,
     "trial_interest": 0,
     "human_reviews_required": 0,
     "processed_message_ids_total": 12,
-    "last_run_at": "2026-09-23T21:14:09.081691+00:00"
+    "last_run_at": "2026-09-23T23:43:43.087754+00:00"
   },
   "handled": [],
-  "unmatched": [
-    {
-      "message_id": "<5b2156328b9f78fe63bebc020477e4a9b0ebfcd3-20155512-110937460@google.com>",
-      "from": "businessprofile-noreply@google.com",
-      "subject": "Leistungsbericht für Joey's Hausmeisterservice im August 2026"
-    }
-  ],
+  "unmatched": [],
   "duplicates": [
     "<CA+cRC5Y3evN1QwSf_ZjK=rXwNC69iYECCQY8XCs0MSoaopH_Xg@mail.gmail.com>",
     "<CA+cRC5b4bvL9a0L8=OsEhOTUy55RVQ6mpMO1+sGLGXhxSXPJjw@mail.gmail.com>",
@@ -36,7 +30,8 @@
     "<010001a0b3be4060-03a57854-96bd-4fb5-af3f-5876210c0be8-000000@email.amazonses.com>",
     "<1789736763408.857eaba7-d1b5-43bb-86c4-83534b48891a@bf58x.hubspotemail.net>",
     "<1789989243777.020d23a7-244c-4e8b-bd43-329cb63185e5@bf58x.hubspotemail.net>",
-    "<1790075645582.3bd5f285-cc76-4acb-b04b-f4f9a8b2eddf@bf58x.hubspotemail.net>"
+    "<1790075645582.3bd5f285-cc76-4acb-b04b-f4f9a8b2eddf@bf58x.hubspotemail.net>",
+    "<5b2156328b9f78fe63bebc020477e4a9b0ebfcd3-20155512-110937460@google.com>"
   ],
   "errors": []
 }

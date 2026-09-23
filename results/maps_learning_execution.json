@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 73,
-  "focus": "industry_exploitation",
+  "learning_run_count": 74,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Bremen",
-    "Frankfurt am Main",
-    "Freiburg"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Massagepraxis",
+    "Osteopathie",
+    "Personal Training"
   ],
   "selected_pairs": [
     {
-      "city": "Bremen",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Bremen"
+      "city": "Muenchen",
+      "industry": "Massagepraxis",
+      "query": "Massagepraxis Muenchen"
     },
     {
-      "city": "Frankfurt am Main",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Frankfurt am Main"
+      "city": "Muenchen",
+      "industry": "Osteopathie",
+      "query": "Osteopathie Muenchen"
     },
     {
-      "city": "Freiburg",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Freiburg"
+      "city": "Muenchen",
+      "industry": "Personal Training",
+      "query": "Personal Training Muenchen"
     }
   ],
   "queries_per_run": 3

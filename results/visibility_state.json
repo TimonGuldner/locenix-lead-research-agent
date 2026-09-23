@@ -1,5 +1,5 @@
 {
-  "runs": 39,
+  "runs": 40,
   "processed_ids": [
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -98,6 +98,7 @@
     "tierarztpraxis hamburg berne - tierärztin linda brüggemann|hamburg|https://www.tierarzt-hamburg-berne.de/",
     "tierarztpraxis hernández|sankt augustin|https://tierarztpraxishernandez.com/",
     "tierarztpraxis holt dr. kathagen, dr. riecken, dr. sixt|moenchengladbach|http://www.fachtierarztpraxis-holt.de/",
+    "tierarztpraxis im steintor|bremen|https://www.tierarztpraxis-steintor.de/",
     "tierarztpraxis köln-langel gmbh|koeln|http://www.tierarztpraxis-koeln-langel.de/",
     "tierarztpraxis lisa plagge|krefeld|https://tierarzt-plagge.de/",
     "tierarztpraxis steffen|duesseldorf|http://www.pet1.de/",
@@ -125,12 +126,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 123,
-  "last_batch_count": 5,
+  "processed_count": 124,
+  "last_batch_count": 1,
   "remaining_eligible": 0,
-  "weak_visibility_total": 86,
+  "weak_visibility_total": 87,
   "email_gate_rejected_count": 36,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

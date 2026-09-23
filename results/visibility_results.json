@@ -3529,6 +3529,56 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "tierarztpraxis im steintor|bremen|https://www.tierarztpraxis-steintor.de/",
+    "company_name": "Tierarztpraxis im Steintor",
+    "industry": "Tierarzt",
+    "city": "Bremen",
+    "email": "post@tierarztpraxis-steintor.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 85,
+    "visibility_tests": [
+      {
+        "query": "Tierarzt Bremen",
+        "status": "OBSERVED",
+        "observed_position": 8,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Bremen",
+          "AniCura Kleintierpraxis Bremen",
+          "Tierarzt Pabst, Marcus",
+          "Kleintierklinik Bremen",
+          "Kleintierpraxis Dr. Gaby Brünnlein"
+        ],
+        "evidence": "Business observed at position 8 among the first 11 Maps results returned in this run."
+      },
+      {
+        "query": "Tierarzt in Bremen",
+        "status": "OBSERVED",
+        "observed_position": 10,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "felmo Mobiler Tierarzt Bremen",
+          "Tierarzt Pabst, Marcus",
+          "Tierarztpraxis Vegesack - Dr. med. vet. Katrin Klusacsek",
+          "AniCura Kleintierpraxis Bremen",
+          "Cadomo Tierarztpraxis Hermannsburg | Bremen"
+        ],
+        "evidence": "Business observed at position 10 among the first 11 Maps results returned in this run."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "visibility_evidence": [
+      "Business observed at position 8 among the first 11 Maps results returned in this run.",
+      "Business observed at position 10 among the first 11 Maps results returned in this run."
+    ],
+    "visibility_date": "2026-09-23",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
     "company_name": "Praxis für Krankengymnastik Krämer",
     "industry": "Physiotherapie",

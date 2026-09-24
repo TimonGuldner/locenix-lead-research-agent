@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 74,
-  "focus": "city_exploitation",
+  "learning_run_count": 75,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen"
+    "Bonn",
+    "Gelsenkirchen",
+    "Hannover"
   ],
   "selected_industries": [
-    "Massagepraxis",
-    "Osteopathie",
-    "Personal Training"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
-      "industry": "Massagepraxis",
-      "query": "Massagepraxis Muenchen"
+      "city": "Bonn",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Bonn"
     },
     {
-      "city": "Muenchen",
-      "industry": "Osteopathie",
-      "query": "Osteopathie Muenchen"
+      "city": "Gelsenkirchen",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Gelsenkirchen"
     },
     {
-      "city": "Muenchen",
-      "industry": "Personal Training",
-      "query": "Personal Training Muenchen"
+      "city": "Hannover",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Hannover"
     }
   ],
   "queries_per_run": 3

@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-23T22:57:32.074386+00:00",
+  "last_run_at": "2026-09-24T04:48:58.817465+00:00",
   "department_status": "ATTENTION",
   "next_agent": "browser_fallback",
   "reason": "browser_fallback reports unresolved errors and should be inspected before scaling.",
@@ -16,7 +16,7 @@
   "browser_fallback_added": 0,
   "browser_stale_removed": 0,
   "transport_errors_recovered": 0,
-  "learning_runs": 45,
+  "learning_runs": 46,
   "learning_queries": 4,
   "learning_sources": 14,
   "learning_boosted_queries": 4,

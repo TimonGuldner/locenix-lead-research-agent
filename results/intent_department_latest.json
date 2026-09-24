@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
   "parent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-24T11:45:09.937557+00:00",
+  "generated_at": "2026-09-24T17:10:39.658056+00:00",
   "department_status": "HEALTHY",
   "next_agent": "intent_scout",
   "reason": "No downstream backlog observed; find fresh high-intent DACH opportunities using the learned source/query priorities.",
@@ -19,19 +19,19 @@
     "browser_fallback_added": 0,
     "browser_stale_removed": 0,
     "transport_errors_recovered": 0,
-    "learning_runs": 47,
+    "learning_runs": 48,
     "learning_queries": 4,
     "learning_sources": 14,
     "learning_boosted_queries": 4,
     "learning_paused_queries": 0,
-    "learning_provider_cooldowns": 2,
+    "learning_provider_cooldowns": 0,
     "human_action_required": 0,
     "errors": 0
   },
   "children": {
     "intent_scout": {
       "agent": "AGENT_15A_INTENT_SCOUT",
-      "last_run_at": "2026-09-24T11:44:34.684446+00:00",
+      "last_run_at": "2026-09-24T17:10:05.597431+00:00",
       "signals_found": 23,
       "new_signals": 0,
       "unreviewed": 23,
@@ -68,7 +68,7 @@
     },
     "browser_fallback": {
       "agent": "AGENT_15A_BROWSER_FALLBACK",
-      "last_run_at": "2026-09-24T11:44:36.487301+00:00",
+      "last_run_at": "2026-09-24T17:10:06.908510+00:00",
       "status": "OK",
       "signals_added": 0,
       "stale_signals_removed": 0,
@@ -82,7 +82,7 @@
     },
     "intent_qa": {
       "agent": "AGENT_15B_INTENT_QA",
-      "last_run_at": "2026-09-24T11:44:42.783430+00:00",
+      "last_run_at": "2026-09-24T17:10:21.373886+00:00",
       "pending": 0,
       "hot": 19,
       "warm": 4,
@@ -96,7 +96,7 @@
     "platform_access": {},
     "intent_response": {
       "agent": "AGENT_15D_INTENT_RESPONSE",
-      "last_run_at": "2026-09-24T11:45:02.450870+00:00",
+      "last_run_at": "2026-09-24T17:10:35.664743+00:00",
       "prepared": 23,
       "new_prepared": 0,
       "pending": 0,
@@ -107,16 +107,16 @@
     "intent_conversation": {},
     "intent_learning": {
       "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-      "last_run_at": "2026-09-24T11:45:02.539855+00:00",
+      "last_run_at": "2026-09-24T17:10:35.763658+00:00",
       "status": "OK",
-      "learning_run_count": 47,
+      "learning_run_count": 48,
       "evaluated_opportunities": 23,
       "queries_learned": 4,
       "sources_learned": 14,
       "boosted_queries": 4,
       "paused_queries": 0,
       "blocked_domains": 0,
-      "provider_cooldowns": 2,
+      "provider_cooldowns": 0,
       "errors": 0
     }
   },

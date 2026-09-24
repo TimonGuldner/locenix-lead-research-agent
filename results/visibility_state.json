@@ -1,5 +1,5 @@
 {
-  "runs": 41,
+  "runs": 42,
   "processed_ids": [
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -128,11 +128,10 @@
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
   "processed_count": 125,
-  "last_batch_count": 1,
+  "last_batch_count": 0,
   "remaining_eligible": 0,
   "weak_visibility_total": 88,
   "email_gate_rejected_count": 37,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

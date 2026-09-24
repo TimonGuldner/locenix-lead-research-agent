@@ -1,57 +1,7 @@
 {
-  "results": [
-    {
-      "lead_id": "osteomuc: osteopathie münchen-schwabing | praxis für ganzheitliche therapie|muenchen|https://osteopathie-muc.de/",
-      "company_name": "OsteoMuc: Osteopathie München-Schwabing | Praxis für ganzheitliche Therapie",
-      "industry": "Osteopathie",
-      "city": "Muenchen",
-      "email": "info@osteopathie-muc.de",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
-      "visibility_tests": [
-        {
-          "query": "Osteopathie Muenchen",
-          "status": "OBSERVED",
-          "observed_position": 5,
-          "results_checked": 11,
-          "competitors_ahead": [
-            "Osteopathie in Sendling",
-            "PHEOS München - Osteopathie in München Schwabing",
-            "Osteopathie Naumann & Kollegen",
-            "OsteopathieWerkstatt"
-          ],
-          "evidence": "Business observed at position 5 among the first 11 Maps results returned in this run."
-        },
-        {
-          "query": "Osteopathie in Muenchen",
-          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
-          "observed_position": null,
-          "results_checked": 10,
-          "competitors_ahead": [
-            "Chiropraktik | Dr. Thiele",
-            "Praxis Gern, Hanisch & Kollegen",
-            "Osteopathie in Sendling",
-            "PHEOS München - Osteopathie in München Schwabing",
-            "Praxis Butt - München Schwabing"
-          ],
-          "evidence": "Business was not observed among the first 10 Maps results returned in this run. This is not a universal ranking claim."
-        }
-      ],
-      "weak_visibility_observed": true,
-      "visibility_opportunity_score": 10,
-      "visibility_evidence": [
-        "Business observed at position 5 among the first 11 Maps results returned in this run.",
-        "Business was not observed among the first 10 Maps results returned in this run. This is not a universal ranking claim."
-      ],
-      "visibility_date": "2026-09-23",
-      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
-      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
-      "outreach_status": "NOT_CONTACTED"
-    }
-  ],
+  "results": [],
   "state": {
-    "runs": 41,
+    "runs": 42,
     "processed_ids": [
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -180,7 +130,7 @@
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
     "processed_count": 125,
-    "last_batch_count": 1,
+    "last_batch_count": 0,
     "remaining_eligible": 0,
     "weak_visibility_total": 88,
     "email_gate_rejected_count": 37,

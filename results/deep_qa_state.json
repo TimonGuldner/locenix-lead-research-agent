@@ -171,5 +171,9 @@
   "final_a_total": 58,
   "final_b_total": 104,
   "email_ready_total": 45,
-  "email_missing_total": 37
+  "email_missing_total": 37,
+  "email_gate_qualified_total": 125,
+  "email_missing_excluded_total": 37,
+  "downstream_eligible_total": 125,
+  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
 }

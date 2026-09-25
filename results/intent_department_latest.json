@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
   "parent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-09-25T13:46:47.819776+00:00",
+  "generated_at": "2026-09-25T18:37:11.258075+00:00",
   "department_status": "ATTENTION",
   "next_agent": "browser_fallback",
   "reason": "browser_fallback reports unresolved errors and should be inspected before scaling.",
@@ -19,7 +19,7 @@
     "browser_fallback_added": 0,
     "browser_stale_removed": 0,
     "transport_errors_recovered": 0,
-    "learning_runs": 52,
+    "learning_runs": 53,
     "learning_queries": 4,
     "learning_sources": 14,
     "learning_boosted_queries": 4,
@@ -31,7 +31,7 @@
   "children": {
     "intent_scout": {
       "agent": "AGENT_15A_INTENT_SCOUT",
-      "last_run_at": "2026-09-25T13:46:21.345468+00:00",
+      "last_run_at": "2026-09-25T18:36:29.067403+00:00",
       "signals_found": 23,
       "new_signals": 0,
       "unreviewed": 23,
@@ -68,7 +68,7 @@
     },
     "browser_fallback": {
       "agent": "AGENT_15A_BROWSER_FALLBACK",
-      "last_run_at": "2026-09-25T13:46:21.931988+00:00",
+      "last_run_at": "2026-09-25T18:36:30.778999+00:00",
       "status": "PARTIAL",
       "signals_added": 0,
       "stale_signals_removed": 0,
@@ -82,7 +82,7 @@
     },
     "intent_qa": {
       "agent": "AGENT_15B_INTENT_QA",
-      "last_run_at": "2026-09-25T13:46:25.351635+00:00",
+      "last_run_at": "2026-09-25T18:36:36.082629+00:00",
       "pending": 0,
       "hot": 19,
       "warm": 4,
@@ -96,7 +96,7 @@
     "platform_access": {},
     "intent_response": {
       "agent": "AGENT_15D_INTENT_RESPONSE",
-      "last_run_at": "2026-09-25T13:46:42.684547+00:00",
+      "last_run_at": "2026-09-25T18:37:01.005313+00:00",
       "prepared": 23,
       "new_prepared": 0,
       "pending": 0,
@@ -107,9 +107,9 @@
     "intent_conversation": {},
     "intent_learning": {
       "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-      "last_run_at": "2026-09-25T13:46:42.745178+00:00",
+      "last_run_at": "2026-09-25T18:37:01.087511+00:00",
       "status": "OK",
-      "learning_run_count": 52,
+      "learning_run_count": 53,
       "evaluated_opportunities": 23,
       "queries_learned": 4,
       "sources_learned": 14,

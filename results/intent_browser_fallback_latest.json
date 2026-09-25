@@ -1,7 +1,7 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-09-25T13:46:21.931988+00:00",
+    "last_run_at": "2026-09-25T18:36:30.778999+00:00",
     "status": "PARTIAL",
     "signals_added": 0,
     "stale_signals_removed": 0,
@@ -27,8 +27,8 @@
   "blockers": [],
   "errors": [
     {
-      "query": "site:reddit.com \"Google Unternehmensprofil\" Deutschland",
-      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Areddit.com%20%22Google%20Unternehmensprofil%22%20Deutschland\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Areddit.com%20%22Google%20Unternehmensprofil%22%20Deutschland\", waiting until \"domcontentloaded\"\n"
+      "query": "site:freelancermap.de \"Local SEO\"",
+      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Afreelancermap.de%20%22Local%20SEO%22\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Afreelancermap.de%20%22Local%20SEO%22\", waiting until \"domcontentloaded\"\n"
     }
   ]
 }

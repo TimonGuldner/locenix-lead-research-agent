@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 75,
-  "focus": "industry_exploitation",
+  "learning_run_count": 76,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Bonn",
-    "Gelsenkirchen",
-    "Hannover"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Personal Training",
+    "Tierarzt",
+    "Friseur"
   ],
   "selected_pairs": [
     {
-      "city": "Bonn",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Bonn"
+      "city": "Muenchen",
+      "industry": "Personal Training",
+      "query": "Personal Training Muenchen"
     },
     {
-      "city": "Gelsenkirchen",
+      "city": "Muenchen",
       "industry": "Tierarzt",
-      "query": "Tierarzt Gelsenkirchen"
+      "query": "Tierarzt Muenchen"
     },
     {
-      "city": "Hannover",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Hannover"
+      "city": "Muenchen",
+      "industry": "Friseur",
+      "query": "Friseur Muenchen"
     }
   ],
   "queries_per_run": 3

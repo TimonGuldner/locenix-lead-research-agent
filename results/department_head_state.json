@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-25T20:31:24.380071+00:00",
+  "last_run_at": "2026-09-25T23:33:21.642003+00:00",
   "department_status": "BACKLOG",
   "next_agent": "outreach_controller",
   "reason": "Airtable-ready email-qualified leads are missing outreach drafts.",
@@ -26,5 +26,5 @@
   "email_trial_interest": 0,
   "email_human_reviews_required": 0,
   "email_errors": 0,
-  "email_last_run_at": "2026-09-25T20:30:54.754778+00:00"
+  "email_last_run_at": "2026-09-25T23:32:45.266666+00:00"
 }

@@ -1,10 +1,11 @@
 {
-  "runs": 46,
+  "runs": 47,
   "processed_ids": [
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
     "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
     "ats umzug münchen|muenchen|http://www.ats-umzug-muenchen.de/",
+    "auto wenzel düsseldorf|duesseldorf|https://www.facebook.com/autowenzel/",
     "barbershop am rudolfplatz - köln|koeln|https://www.friseur-am-rudolfplatz.de/",
     "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
     "be beautiful | ästhetik & kosmetik hamburg|hamburg|https://www.bebeautiful.hamburg/",
@@ -47,6 +48,7 @@
     "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
     "johann achnitz gmbh|koeln|https://achnitz.dms-logistik.de/",
     "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/",
+    "kfz-autowerkstatt meisterbetrieb petros ikonomou düsseldorf|duesseldorf|http://www.auto-ikonomou.de/",
     "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
     "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
     "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
@@ -66,6 +68,7 @@
     "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
     "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
     "mk umzüge – ihr experte für stressfreie umzüge|frankfurt am main|https://mk-umzuegefrankfurt.de/",
+    "mn automobile|stuttgart|https://kfzwerkstatt.io/stuttgart/2038-mn-automobile",
     "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
     "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
     "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
@@ -127,12 +130,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 125,
-  "last_batch_count": 0,
+  "processed_count": 128,
+  "last_batch_count": 3,
   "remaining_eligible": 0,
-  "weak_visibility_total": 88,
+  "weak_visibility_total": 91,
   "email_gate_rejected_count": 37,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

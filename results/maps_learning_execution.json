@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 76,
-  "focus": "city_exploitation",
-  "exploration": false,
+  "learning_run_count": 77,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen"
+    "Frankfurt am Main",
+    "Stuttgart",
+    "Duesseldorf"
   ],
   "selected_industries": [
-    "Personal Training",
-    "Tierarzt",
-    "Friseur"
+    "Autowerkstatt"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
-      "industry": "Personal Training",
-      "query": "Personal Training Muenchen"
+      "city": "Frankfurt am Main",
+      "industry": "Autowerkstatt",
+      "query": "Autowerkstatt Frankfurt am Main"
     },
     {
-      "city": "Muenchen",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Muenchen"
+      "city": "Stuttgart",
+      "industry": "Autowerkstatt",
+      "query": "Autowerkstatt Stuttgart"
     },
     {
-      "city": "Muenchen",
-      "industry": "Friseur",
-      "query": "Friseur Muenchen"
+      "city": "Duesseldorf",
+      "industry": "Autowerkstatt",
+      "query": "Autowerkstatt Duesseldorf"
     }
   ],
   "queries_per_run": 3

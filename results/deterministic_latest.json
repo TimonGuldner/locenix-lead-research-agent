@@ -1,18 +1,233 @@
 {
-  "accepted": [],
-  "accepted_count": 0,
-  "rejected_count": 18,
+  "accepted": [
+    {
+      "company_name": "Mn Automobile",
+      "industry": "Autowerkstatt",
+      "city": "Stuttgart",
+      "address": "Glockenstraße 6, 70376 Stuttgart-Bad Cannstatt, Deutschland",
+      "website": "https://kfzwerkstatt.io/stuttgart/2038-mn-automobile",
+      "google_maps_url": "https://www.google.com/maps/place/Mn+Automobile/data=!4m7!3m6!1s0x4799c53a0e29ff17:0xc448ed329f110009!8m2!3d48.8091152!4d9.2067548!16s%2Fg%2F11gg6760fy!19sChIJF_8pDjrFmUcRCQARnzLtSMQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 172 2610884",
+      "public_business_email": null,
+      "email_source_url": null,
+      "contact_form_url": null,
+      "contact_basis": "UNKNOWN",
+      "google_rating": 4.8,
+      "google_review_count": 56,
+      "main_category": "Autowerkstatt",
+      "website_services": [
+        "inspektion",
+        "reifen",
+        "bremsen",
+        "klima",
+        "diagnose"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, reifen, bremsen, klima, diagnose"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "Hahn Automobile | Volkswagen Zentrum Fellbach",
+      "competitor_1_reviews": 1112,
+      "competitor_2": "A&A Carservice",
+      "competitor_2_reviews": 417,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "56 eigene Bewertungen vs. lokaler Wettbewerbsmedian 163; Gap 107."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, reifen, bremsen, klima, diagnose",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 21,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 9,
+      "saas_fit_score": 5,
+      "total_score": 81,
+      "competitor_review_median": 163,
+      "review_gap": 107,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "56 eigene Bewertungen vs. lokaler Wettbewerbsmedian 163; Gap 107.",
+      "proof": [
+        "56 eigene Bewertungen vs. lokaler Wettbewerbsmedian 163; Gap 107.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, reifen, bremsen, klima, diagnose"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "56 eigene Bewertungen vs. lokaler Wettbewerbsmedian 163; Gap 107.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, reifen, bremsen, klima, diagnose",
+      "research_notes": "Deterministic research v2. Query: Autowerkstatt Stuttgart. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-26",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Auto Wenzel Düsseldorf",
+      "industry": "Autowerkstatt",
+      "city": "Duesseldorf",
+      "address": "Behrenstraße 29, 40233 Düsseldorf-Stadtbezirk 2, Deutschland",
+      "website": "https://www.facebook.com/AutoWenzel/",
+      "google_maps_url": "https://www.google.com/maps/place/Auto+Wenzel+D%C3%BCsseldorf/data=!4m7!3m6!1s0x47b8cbd182785143:0xacaeae319bdfd12c!8m2!3d51.2251249!4d6.8104647!16s%2Fg%2F11bzyn5sr4!19sChIJQ1F4gtHLuEcRLNHfmzGurqw?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 1578 5213344",
+      "public_business_email": null,
+      "email_source_url": null,
+      "contact_form_url": null,
+      "contact_basis": "UNKNOWN",
+      "google_rating": 4.0,
+      "google_review_count": 45,
+      "main_category": "Autowerkstatt",
+      "website_services": [],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [],
+      "service_gap_status": "NOT_DETECTED",
+      "competitor_1": "ATU Düsseldorf - Rath",
+      "competitor_1_reviews": 506,
+      "competitor_2": "KFZ-Werkstatt Bilk OHG",
+      "competitor_2_reviews": 172,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "45 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 96."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 45 Google-Bewertungen."
+        },
+        {
+          "type": "rating_headroom",
+          "proof": "Google-Bewertung 4.0; sichtbares Reputationspotenzial."
+        }
+      ],
+      "soft_optimization_signals": [],
+      "verified_signal_count": 3,
+      "report_potential_score": 25,
+      "visible_value_score": 12,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 9,
+      "saas_fit_score": 5,
+      "total_score": 83,
+      "competitor_review_median": 141,
+      "review_gap": 96,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "45 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 96.",
+      "proof": [
+        "45 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 96.",
+        "Nur 45 Google-Bewertungen.",
+        "Google-Bewertung 4.0; sichtbares Reputationspotenzial."
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "45 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 96.",
+      "second_outreach_angle": "Nur 45 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Autowerkstatt Duesseldorf. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-26",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "KFZ-Autowerkstatt Meisterbetrieb Petros Ikonomou Düsseldorf",
+      "industry": "Autowerkstatt",
+      "city": "Duesseldorf",
+      "address": "Kölner Str. 154, 40227 Düsseldorf, Deutschland",
+      "website": "http://www.auto-ikonomou.de/",
+      "google_maps_url": "https://www.google.com/maps/place/KFZ-Autowerkstatt+Meisterbetrieb+Petros+Ikonomou+D%C3%BCsseldorf/data=!4m7!3m6!1s0x47b8ca331b85e413:0xe9c44bbfe8276f66!8m2!3d51.220188!4d6.799924!16s%2Fg%2F1thr67z6!19sChIJE-SFGzPKuEcRZm8n6L9LxOk?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 211 787010",
+      "public_business_email": "info@auto-ikonomou.de",
+      "email_source_url": "https://auto-ikonomou.de/impressum/",
+      "contact_form_url": "https://auto-ikonomou.de/contact/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.9,
+      "google_review_count": 58,
+      "main_category": "Autowerkstatt",
+      "website_services": [
+        "inspektion",
+        "reifen",
+        "bremsen",
+        "klima",
+        "diagnose"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, bremsen, klima, diagnose"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "ATU Düsseldorf - Rath",
+      "competitor_1_reviews": 506,
+      "competitor_2": "KFZ-Werkstatt Bilk OHG",
+      "competitor_2_reviews": 172,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "58 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 83."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, bremsen, klima, diagnose",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 1,
+      "report_potential_score": 21,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 82,
+      "competitor_review_median": 141,
+      "review_gap": 83,
+      "grade": "B+",
+      "lead_class": "B_LEAD",
+      "qa_gate": "REVIEW",
+      "primary_pitch": "58 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 83.",
+      "proof": [
+        "58 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 83.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, bremsen, klima, diagnose"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "58 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 83.",
+      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, bremsen, klima, diagnose",
+      "research_notes": "Deterministic research v2. Query: Autowerkstatt Duesseldorf. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-26",
+      "research_status": "PARTIAL",
+      "qa_status": "PENDING",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
+  "accepted_count": 3,
+  "rejected_count": 21,
   "inspected": 24,
   "state": {
-    "query_cursor": 324,
-    "runs": 108,
-    "lead_count": 183,
+    "query_cursor": 327,
+    "runs": 109,
+    "lead_count": 186,
     "target_leads": 999999999,
-    "last_accepted": 0,
+    "last_accepted": 3,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 18,
+    "last_rejected": 21,
     "a_leads": 35,
-    "b_leads": 117
+    "b_leads": 120
   }
 }

@@ -1,5 +1,5 @@
 {
-  "runs": 43,
+  "runs": 44,
   "processed_ids": [
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
     "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -7,6 +7,7 @@
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
     "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
     "ats umzug münchen|muenchen|http://www.ats-umzug-muenchen.de/",
+    "auto wenzel düsseldorf|duesseldorf|https://www.facebook.com/autowenzel/",
     "backroom physio berlin|berlin|https://backroomphysio.de/",
     "barbershop am rudolfplatz - köln|koeln|https://www.friseur-am-rudolfplatz.de/",
     "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
@@ -61,6 +62,7 @@
     "johann achnitz gmbh|koeln|https://achnitz.dms-logistik.de/",
     "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
     "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/",
+    "kfz-autowerkstatt meisterbetrieb petros ikonomou düsseldorf|duesseldorf|http://www.auto-ikonomou.de/",
     "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
     "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
     "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
@@ -87,6 +89,7 @@
     "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
     "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
     "mk umzüge – ihr experte für stressfreie umzüge|frankfurt am main|https://mk-umzuegefrankfurt.de/",
+    "mn automobile|stuttgart|https://kfzwerkstatt.io/stuttgart/2038-mn-automobile",
     "mobiler tierarzt alovet – notdienst essen|essen|https://alovet.de/essen",
     "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
     "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
@@ -165,15 +168,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 163,
+  "processed_count": 166,
   "remaining_eligible": 0,
-  "last_batch_count": 0,
-  "final_a_total": 58,
-  "final_b_total": 104,
-  "email_ready_total": 45,
-  "email_missing_total": 37,
-  "email_gate_qualified_total": 125,
-  "email_missing_excluded_total": 37,
-  "downstream_eligible_total": 125,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "last_batch_count": 3,
+  "final_a_total": 59,
+  "final_b_total": 106,
+  "email_ready_total": 46,
+  "email_missing_total": 37
 }

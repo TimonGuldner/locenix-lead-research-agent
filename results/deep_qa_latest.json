@@ -1,7 +1,237 @@
 {
-  "results": [],
+  "results": [
+    {
+      "lead_id": "auto wenzel düsseldorf|duesseldorf|https://www.facebook.com/autowenzel/",
+      "company_name": "Auto Wenzel Düsseldorf",
+      "industry": "Autowerkstatt",
+      "city": "Duesseldorf",
+      "source_total_score": 83,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Auto+Wenzel+D%C3%BCsseldorf/data=!4m7!3m6!1s0x47b8cbd182785143:0xacaeae319bdfd12c!8m2!3d51.2251249!4d6.8104647!16s%2Fg%2F11bzyn5sr4!19sChIJQ1F4gtHLuEcRLNHfmzGurqw?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.facebook.com/AutoWenzel/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.facebook.com/AutoWenzel/",
+        "booking_link": null,
+        "social_links": [
+          "https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=https%3A%2F%2Fwww.facebook.com%2FAutoWenzel%2F",
+          "https://www.facebook.com/recover/initiate?ars=royal_blue_bar",
+          "https://www.facebook.com/photo/?fbid=562375122252781&set=a.562375082252785",
+          "https://www.facebook.com/photo/?fbid=562375118919448&set=a.562375088919451&__tn__=%3C",
+          "https://www.facebook.com/AutoWenzel/followers/",
+          "https://www.facebook.com/AutoWenzel/following/",
+          "https://www.facebook.com/AutoWenzel/about",
+          "https://www.facebook.com/AutoWenzel/reels_tab",
+          "https://www.facebook.com/AutoWenzel/photos",
+          "https://www.facebook.com/AutoWenzel",
+          "https://www.facebook.com/AutoWenzel/reviews",
+          "https://www.facebook.com/AutoWenzel?__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=%3C%3C%2CP-R",
+          "https://www.facebook.com/AutoWenzel?__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=-]C%2CP-R",
+          "https://www.facebook.com/AutoWenzel/posts/pfbid02rGZSPrBMaspbrQfrvUhZLaShjRok8LA6GtyjG3EZbqVNnaJnbHQ8whKMwQzsuUPml?__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=%2CO%2CP-R",
+          "https://www.facebook.com/pages/D%C3%BCsseldorf/111271915564523?__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=%2CP-R",
+          "https://www.facebook.com/hashtag/volvo?__eep__=6&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*NK-R",
+          "https://www.facebook.com/hashtag/motor?__eep__=6&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*NK-R",
+          "https://www.facebook.com/hashtag/d%C3%BCsseldorf?__eep__=6&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*NK-R",
+          "https://www.facebook.com/hashtag/flingern?__eep__=6&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*NK-R",
+          "https://www.facebook.com/photo/?fbid=1181433225639603&set=pcb.1181435602306032&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*b0H-R",
+          "https://www.facebook.com/photo/?fbid=1181433492306243&set=pcb.1181435602306032&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*b1H-R",
+          "https://www.facebook.com/photo/?fbid=1181433848972874&set=pcb.1181435602306032&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*b2H-R"
+        ],
+        "contact_page_observed": false,
+        "website_service_matches": [],
+        "website_evidence": [
+          "Active social-link footprint observed (22 link(s)).",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "auto.wenzel@gmail.com",
+        "email_source_url": "https://www.facebook.com/AutoWenzel/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-26T11:37:51.259709+00:00"
+      },
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 90,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 45 reviews vs. comparison median 141; gap 96."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 45 reviews vs. comparison median 141; gap 96.",
+      "proof": [
+        "Verified source data: 45 reviews vs. comparison median 141; gap 96.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "auto.wenzel@gmail.com",
+      "email_source_url": "https://www.facebook.com/AutoWenzel/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-26T11:37:51.259709+00:00",
+      "airtable_ready": true,
+      "qa_date": "2026-09-26",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "kfz-autowerkstatt meisterbetrieb petros ikonomou düsseldorf|duesseldorf|http://www.auto-ikonomou.de/",
+      "company_name": "KFZ-Autowerkstatt Meisterbetrieb Petros Ikonomou Düsseldorf",
+      "industry": "Autowerkstatt",
+      "city": "Duesseldorf",
+      "source_total_score": 82,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/KFZ-Autowerkstatt+Meisterbetrieb+Petros+Ikonomou+D%C3%BCsseldorf/data=!4m7!3m6!1s0x47b8ca331b85e413:0xe9c44bbfe8276f66!8m2!3d51.220188!4d6.799924!16s%2Fg%2F1thr67z6!19sChIJE-SFGzPKuEcRZm8n6L9LxOk?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "http://www.auto-ikonomou.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://auto-ikonomou.de/",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "inspektion",
+          "reifen",
+          "bremsen",
+          "klima",
+          "diagnose"
+        ],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@auto-ikonomou.de",
+        "email_source_url": "https://auto-ikonomou.de/impressum/",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-26T11:38:07.043632+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 87,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 58 reviews vs. comparison median 141; gap 83."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 58 reviews vs. comparison median 141; gap 83.",
+      "proof": [
+        "Verified source data: 58 reviews vs. comparison median 141; gap 83."
+      ],
+      "email": "info@auto-ikonomou.de",
+      "email_source_url": "https://auto-ikonomou.de/impressum/",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-26T11:38:07.043632+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-26",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "mn automobile|stuttgart|https://kfzwerkstatt.io/stuttgart/2038-mn-automobile",
+      "company_name": "Mn Automobile",
+      "industry": "Autowerkstatt",
+      "city": "Stuttgart",
+      "source_total_score": 81,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Mn+Automobile/data=!4m7!3m6!1s0x4799c53a0e29ff17:0xc448ed329f110009!8m2!3d48.8091152!4d9.2067548!16s%2Fg%2F11gg6760fy!19sChIJF_8pDjrFmUcRCQARnzLtSMQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://kfzwerkstatt.io/stuttgart/2038-mn-automobile",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "NOT_OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://kfzwerkstatt.io/2038-mn-automobile",
+        "booking_link": null,
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "inspektion",
+          "reifen",
+          "bremsen",
+          "klima",
+          "diagnose"
+        ],
+        "website_evidence": [
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@widimedia.com",
+        "email_source_url": "https://kfzwerkstatt.io/impressum",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-26T11:38:13.211470+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 86,
+      "deep_qa_verified_signals": [
+        {
+          "type": "review_gap",
+          "proof": "Verified source data: 56 reviews vs. comparison median 163; gap 107."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [],
+      "primary_sales_angle_verified": "Verified source data: 56 reviews vs. comparison median 163; gap 107.",
+      "proof": [
+        "Verified source data: 56 reviews vs. comparison median 163; gap 107."
+      ],
+      "email": "info@widimedia.com",
+      "email_source_url": "https://kfzwerkstatt.io/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-26T11:38:13.211470+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-26",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
   "state": {
-    "runs": 43,
+    "runs": 44,
     "processed_ids": [
       "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
@@ -9,6 +239,7 @@
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
       "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
       "ats umzug münchen|muenchen|http://www.ats-umzug-muenchen.de/",
+      "auto wenzel düsseldorf|duesseldorf|https://www.facebook.com/autowenzel/",
       "backroom physio berlin|berlin|https://backroomphysio.de/",
       "barbershop am rudolfplatz - köln|koeln|https://www.friseur-am-rudolfplatz.de/",
       "bastgen berlin immobilien - makler in berlin mitte|berlin|https://www.bastgen-berlin.com/",
@@ -63,6 +294,7 @@
       "johann achnitz gmbh|koeln|https://achnitz.dms-logistik.de/",
       "julcy nails - berlin|berlin|https://nail.beauty.ivof.com/julcy-nails/",
       "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/",
+      "kfz-autowerkstatt meisterbetrieb petros ikonomou düsseldorf|duesseldorf|http://www.auto-ikonomou.de/",
       "kleintierklinik münchen riem - dres. med. vet. lutz|muenchen|https://www.kleintierklinik-lutz.vet/",
       "kleintierpraxis am wall|dortmund|http://www.kleintierpraxis-am-wall.de/",
       "kleintierpraxis an der oker - ihr tierarzt in braunschweig|braunschweig|http://www.kleintierpraxis-oker.de/",
@@ -89,6 +321,7 @@
       "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/",
       "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
       "mk umzüge – ihr experte für stressfreie umzüge|frankfurt am main|https://mk-umzuegefrankfurt.de/",
+      "mn automobile|stuttgart|https://kfzwerkstatt.io/stuttgart/2038-mn-automobile",
       "mobiler tierarzt alovet – notdienst essen|essen|https://alovet.de/essen",
       "mobiler tierarzt ryanvet für notdienst|mannheim|https://ryanvet.de/",
       "msd-photography fotostudio köln|koeln|http://msd-photography.de/",
@@ -167,12 +400,12 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 163,
+    "processed_count": 166,
     "remaining_eligible": 0,
-    "last_batch_count": 0,
-    "final_a_total": 58,
-    "final_b_total": 104,
-    "email_ready_total": 45,
+    "last_batch_count": 3,
+    "final_a_total": 59,
+    "final_b_total": 106,
+    "email_ready_total": 46,
     "email_missing_total": 37
   }
 }

@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-09-26T12:19:32.386950+00:00",
+  "generated_at": "2026-09-26T15:05:48.281253+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 186,
@@ -25,13 +25,13 @@
     "qa_email_missing": 37,
     "visibility_remaining": 0,
     "visibility_email_gate_rejected": 37,
-    "weak_visibility": 88,
-    "sales_queue_count": 125,
-    "airtable_ready": 45,
+    "weak_visibility": 91,
+    "sales_queue_count": 128,
+    "airtable_ready": 46,
     "airtable_errors": [],
     "sales_hard_email_gate_rejected": 37,
     "downstream_email_gate_violations": 0,
-    "drafts_eligible": 45,
+    "drafts_eligible": 46,
     "drafts_stored": 20,
     "draft_errors": 0,
     "sent_count": 0,
@@ -385,8 +385,8 @@
       "_kind": "agent"
     }
   ],
-  "next_agent": "sales_queue",
-  "reason": "Email-qualified FINAL_A leads have not all reached Airtable Sales Queue.",
+  "next_agent": "outreach_controller",
+  "reason": "Airtable-ready email-qualified leads are missing outreach drafts.",
   "dispatch_attempted": true,
   "dispatch_success": true,
   "dispatch_detail": "HTTP 204",

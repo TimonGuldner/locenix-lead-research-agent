@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 77,
-  "focus": "exploration",
-  "exploration": true,
+  "learning_run_count": 78,
+  "focus": "city_exploitation",
+  "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Frankfurt am Main",
-    "Stuttgart",
-    "Duesseldorf"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Autowerkstatt"
+    "Friseur",
+    "Physiotherapie",
+    "Zahnarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Frankfurt am Main",
-      "industry": "Autowerkstatt",
-      "query": "Autowerkstatt Frankfurt am Main"
+      "city": "Muenchen",
+      "industry": "Friseur",
+      "query": "Friseur Muenchen"
     },
     {
-      "city": "Stuttgart",
-      "industry": "Autowerkstatt",
-      "query": "Autowerkstatt Stuttgart"
+      "city": "Muenchen",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Muenchen"
     },
     {
-      "city": "Duesseldorf",
-      "industry": "Autowerkstatt",
-      "query": "Autowerkstatt Duesseldorf"
+      "city": "Muenchen",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Muenchen"
     }
   ],
   "queries_per_run": 3

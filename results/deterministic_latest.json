@@ -1,233 +1,469 @@
 {
   "accepted": [
     {
-      "company_name": "Mn Automobile",
-      "industry": "Autowerkstatt",
-      "city": "Stuttgart",
-      "address": "Glockenstraße 6, 70376 Stuttgart-Bad Cannstatt, Deutschland",
-      "website": "https://kfzwerkstatt.io/stuttgart/2038-mn-automobile",
-      "google_maps_url": "https://www.google.com/maps/place/Mn+Automobile/data=!4m7!3m6!1s0x4799c53a0e29ff17:0xc448ed329f110009!8m2!3d48.8091152!4d9.2067548!16s%2Fg%2F11gg6760fy!19sChIJF_8pDjrFmUcRCQARnzLtSMQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 172 2610884",
-      "public_business_email": null,
-      "email_source_url": null,
-      "contact_form_url": null,
-      "contact_basis": "UNKNOWN",
-      "google_rating": 4.8,
-      "google_review_count": 56,
-      "main_category": "Autowerkstatt",
+      "company_name": "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "address": "Theatinerstraße 46, 80333 München-Altstadt-Lehel, Deutschland",
+      "website": "https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
+      "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+M%C3%BCnchen+-+Dr.+Desmytt%C3%A8re+MSc,+MSc+%7C+smileforever/data=!4m7!3m6!1s0x479e75b871896ff7:0x5a4472e49b1d80fa!8m2!3d48.139512!4d11.576!16s%2Fg%2F1tnsqxwy!19sChIJ92-Jcbh1nkcR-oAdm-RyRFo?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 346997",
+      "public_business_email": "dr.desmyttere@smileforever.de",
+      "email_source_url": "https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
+      "contact_form_url": "https://www.zahnarzt-muenchen-zentrum.com/kontakt/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 5.0,
+      "google_review_count": null,
+      "main_category": "Zahnarzt",
       "website_services": [
-        "inspektion",
-        "reifen",
-        "bremsen",
-        "klima",
-        "diagnose"
+        "implantate",
+        "prophylaxe",
+        "bleaching",
+        "invisalign",
+        "parodontologie",
+        "wurzelbehandlung"
       ],
       "google_visible_services": [],
       "service_gap": [],
       "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, reifen, bremsen, klima, diagnose"
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie"
       ],
       "service_gap_status": "UNVERIFIED",
-      "competitor_1": "Hahn Automobile | Volkswagen Zentrum Fellbach",
-      "competitor_1_reviews": 1112,
-      "competitor_2": "A&A Carservice",
-      "competitor_2_reviews": 417,
+      "competitor_1": "AllDent Zahnzentrum München",
+      "competitor_1_reviews": 8381,
+      "competitor_2": null,
+      "competitor_2_reviews": null,
       "verified_optimization_signals": [
         {
           "type": "review_gap",
-          "proof": "56 eigene Bewertungen vs. lokaler Wettbewerbsmedian 163; Gap 107."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, reifen, bremsen, klima, diagnose",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 1,
-      "report_potential_score": 21,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 9,
-      "saas_fit_score": 5,
-      "total_score": 81,
-      "competitor_review_median": 163,
-      "review_gap": 107,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "56 eigene Bewertungen vs. lokaler Wettbewerbsmedian 163; Gap 107.",
-      "proof": [
-        "56 eigene Bewertungen vs. lokaler Wettbewerbsmedian 163; Gap 107.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, reifen, bremsen, klima, diagnose"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "56 eigene Bewertungen vs. lokaler Wettbewerbsmedian 163; Gap 107.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, reifen, bremsen, klima, diagnose",
-      "research_notes": "Deterministic research v2. Query: Autowerkstatt Stuttgart. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-26",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "Auto Wenzel Düsseldorf",
-      "industry": "Autowerkstatt",
-      "city": "Duesseldorf",
-      "address": "Behrenstraße 29, 40233 Düsseldorf-Stadtbezirk 2, Deutschland",
-      "website": "https://www.facebook.com/AutoWenzel/",
-      "google_maps_url": "https://www.google.com/maps/place/Auto+Wenzel+D%C3%BCsseldorf/data=!4m7!3m6!1s0x47b8cbd182785143:0xacaeae319bdfd12c!8m2!3d51.2251249!4d6.8104647!16s%2Fg%2F11bzyn5sr4!19sChIJQ1F4gtHLuEcRLNHfmzGurqw?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 1578 5213344",
-      "public_business_email": null,
-      "email_source_url": null,
-      "contact_form_url": null,
-      "contact_basis": "UNKNOWN",
-      "google_rating": 4.0,
-      "google_review_count": 45,
-      "main_category": "Autowerkstatt",
-      "website_services": [],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [],
-      "service_gap_status": "NOT_DETECTED",
-      "competitor_1": "ATU Düsseldorf - Rath",
-      "competitor_1_reviews": 506,
-      "competitor_2": "KFZ-Werkstatt Bilk OHG",
-      "competitor_2_reviews": 172,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "45 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 96."
+          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381."
         },
         {
           "type": "low_review_volume",
-          "proof": "Nur 45 Google-Bewertungen."
-        },
-        {
-          "type": "rating_headroom",
-          "proof": "Google-Bewertung 4.0; sichtbares Reputationspotenzial."
-        }
-      ],
-      "soft_optimization_signals": [],
-      "verified_signal_count": 3,
-      "report_potential_score": 25,
-      "visible_value_score": 12,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 9,
-      "saas_fit_score": 5,
-      "total_score": 83,
-      "competitor_review_median": 141,
-      "review_gap": 96,
-      "grade": "B+",
-      "lead_class": "B_LEAD",
-      "qa_gate": "REVIEW",
-      "primary_pitch": "45 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 96.",
-      "proof": [
-        "45 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 96.",
-        "Nur 45 Google-Bewertungen.",
-        "Google-Bewertung 4.0; sichtbares Reputationspotenzial."
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "45 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 96.",
-      "second_outreach_angle": "Nur 45 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Autowerkstatt Duesseldorf. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-26",
-      "research_status": "PARTIAL",
-      "qa_status": "PENDING",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "company_name": "KFZ-Autowerkstatt Meisterbetrieb Petros Ikonomou Düsseldorf",
-      "industry": "Autowerkstatt",
-      "city": "Duesseldorf",
-      "address": "Kölner Str. 154, 40227 Düsseldorf, Deutschland",
-      "website": "http://www.auto-ikonomou.de/",
-      "google_maps_url": "https://www.google.com/maps/place/KFZ-Autowerkstatt+Meisterbetrieb+Petros+Ikonomou+D%C3%BCsseldorf/data=!4m7!3m6!1s0x47b8ca331b85e413:0xe9c44bbfe8276f66!8m2!3d51.220188!4d6.799924!16s%2Fg%2F1thr67z6!19sChIJE-SFGzPKuEcRZm8n6L9LxOk?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 211 787010",
-      "public_business_email": "info@auto-ikonomou.de",
-      "email_source_url": "https://auto-ikonomou.de/impressum/",
-      "contact_form_url": "https://auto-ikonomou.de/contact/",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 4.9,
-      "google_review_count": 58,
-      "main_category": "Autowerkstatt",
-      "website_services": [
-        "inspektion",
-        "reifen",
-        "bremsen",
-        "klima",
-        "diagnose"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, bremsen, klima, diagnose"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "ATU Düsseldorf - Rath",
-      "competitor_1_reviews": 506,
-      "competitor_2": "KFZ-Werkstatt Bilk OHG",
-      "competitor_2_reviews": 172,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "58 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 83."
+          "proof": "Nur 0 Google-Bewertungen."
         }
       ],
       "soft_optimization_signals": [
         {
           "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, bremsen, klima, diagnose",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie",
           "verification": "REQUIRES_FINAL_QA"
         }
       ],
-      "verified_signal_count": 1,
-      "report_potential_score": 21,
+      "verified_signal_count": 2,
+      "report_potential_score": 28,
       "visible_value_score": 14,
       "maps_importance_score": 14,
       "customer_value_score": 8,
       "competitive_pressure_score": 10,
       "digital_readiness_score": 10,
       "saas_fit_score": 5,
+      "total_score": 89,
+      "competitor_review_median": 8381,
+      "review_gap": 8381,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+      "proof": [
+        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+        "Nur 0 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Zahnarzt Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-27",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "AllDent Zahnzentrum München Ost",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "address": "Einsteinstraße 130, 81675 München-Au-Haidhausen, Deutschland",
+      "website": "https://www.alldent-zahnzentrum.de/",
+      "google_maps_url": "https://www.google.com/maps/place/AllDent+Zahnzentrum+M%C3%BCnchen+Ost/data=!4m7!3m6!1s0x479e7564ad012b37:0x8f9346162f4f8d02!8m2!3d48.1362738!4d11.6139143!16s%2Fg%2F11b7qbwh2m!19sChIJNysBrWR1nkcRAo1PLxZGk48?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 4523950",
+      "public_business_email": "muenchen1@alldent.de",
+      "email_source_url": "https://www.alldent-zahnzentrum.de/impressum/",
+      "contact_form_url": "https://www.alldent-zahnzentrum.de/kontakt/standort-oeffnungszeiten/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.9,
+      "google_review_count": null,
+      "main_category": "Zahnarzt",
+      "website_services": [
+        "implantate",
+        "prophylaxe",
+        "bleaching",
+        "invisalign",
+        "parodontologie",
+        "wurzelbehandlung"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "AllDent Zahnzentrum München",
+      "competitor_1_reviews": 8381,
+      "competitor_2": null,
+      "competitor_2_reviews": null,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 0 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 28,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 89,
+      "competitor_review_median": 8381,
+      "review_gap": 8381,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+      "proof": [
+        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+        "Nur 0 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Zahnarzt Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-27",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "dent + face Zahnzentrum München",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "address": "Hansastraße 27e, 81373 München-Sendling-Westpark, Deutschland",
+      "website": "https://www.dent-und-face.de/",
+      "google_maps_url": "https://www.google.com/maps/place/dent+%2B+face+Zahnzentrum+M%C3%BCnchen/data=!4m7!3m6!1s0x479dd9784992027d:0x331dd8ade38f531!8m2!3d48.1311309!4d11.5312621!16s%2Fg%2F11fv73cc38!19sChIJfQKSSXjZnUcRMfU43ordMQM?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 55292030",
+      "public_business_email": "info@dent-und-face.de",
+      "email_source_url": "https://dent-und-face.de/",
+      "contact_form_url": "https://dent-und-face.de/termin-vereinbaren/#kontakt",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.9,
+      "google_review_count": null,
+      "main_category": "Zahnarzt",
+      "website_services": [
+        "implantate",
+        "bleaching",
+        "wurzelbehandlung"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, bleaching, wurzelbehandlung"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "AllDent Zahnzentrum München",
+      "competitor_1_reviews": 8381,
+      "competitor_2": null,
+      "competitor_2_reviews": null,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 0 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, bleaching, wurzelbehandlung",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 28,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 89,
+      "competitor_review_median": 8381,
+      "review_gap": 8381,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+      "proof": [
+        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+        "Nur 0 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, bleaching, wurzelbehandlung"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Zahnarzt Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-27",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Zahnärzte am Gärtnerplatz 1",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "address": "Gärtnerpl. 1, 80469 München-Ludwigsvorstadt-Isarvorstadt, Deutschland",
+      "website": "https://www.zahnaerzte-gaertnerplatz-muenchen.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Zahn%C3%A4rzte+am+G%C3%A4rtnerplatz+1/data=!4m7!3m6!1s0x479ddf610733d459:0x41f5671efb8165f9!8m2!3d48.131813!4d11.5766696!16s%2Fg%2F1td57lt6!19sChIJWdQzB2HfnUcR-WWB-x5n9UE?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 2013349",
+      "public_business_email": "kontakt@zahnaerzte-gaertnerplatz.de",
+      "email_source_url": "https://www.zahnaerzte-gaertnerplatz-muenchen.de/",
+      "contact_form_url": null,
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 5.0,
+      "google_review_count": null,
+      "main_category": "Zahnarzt",
+      "website_services": [
+        "implantate",
+        "prophylaxe"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "AllDent Zahnzentrum München",
+      "competitor_1_reviews": 8381,
+      "competitor_2": null,
+      "competitor_2_reviews": null,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 0 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 28,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 89,
+      "competitor_review_median": 8381,
+      "review_gap": 8381,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+      "proof": [
+        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+        "Nur 0 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Zahnarzt Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-27",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Zahngesundheitszentrum Dr. Berand",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "address": "Landsberger Str. 191, 80687 München-Laim, Deutschland",
+      "website": "http://www.zahn-gesundheitszentrum.de/",
+      "google_maps_url": "https://www.google.com/maps/place/Zahngesundheitszentrum+Dr.+Berand/data=!4m7!3m6!1s0x479e7620978c0087:0x80c23a8a1246ec30!8m2!3d48.1410144!4d11.5195641!16s%2Fg%2F11g65fsc_g!19sChIJhwCMlyB2nkcRMOxGEoo6woA?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 57909596",
+      "public_business_email": null,
+      "email_source_url": null,
+      "contact_form_url": null,
+      "contact_basis": "UNKNOWN",
+      "google_rating": 4.8,
+      "google_review_count": null,
+      "main_category": "Zahnarzt",
+      "website_services": [],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [],
+      "service_gap_status": "NOT_DETECTED",
+      "competitor_1": "AllDent Zahnzentrum München",
+      "competitor_1_reviews": 8381,
+      "competitor_2": null,
+      "competitor_2_reviews": null,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 0 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [],
+      "verified_signal_count": 2,
+      "report_potential_score": 28,
+      "visible_value_score": 12,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 7,
+      "saas_fit_score": 3,
       "total_score": 82,
-      "competitor_review_median": 141,
-      "review_gap": 83,
+      "competitor_review_median": 8381,
+      "review_gap": 8381,
       "grade": "B+",
       "lead_class": "B_LEAD",
       "qa_gate": "REVIEW",
-      "primary_pitch": "58 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 83.",
+      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
       "proof": [
-        "58 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 83.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, bremsen, klima, diagnose"
+        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+        "Nur 0 Google-Bewertungen."
       ],
       "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "58 eigene Bewertungen vs. lokaler Wettbewerbsmedian 141; Gap 83.",
-      "second_outreach_angle": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: inspektion, bremsen, klima, diagnose",
-      "research_notes": "Deterministic research v2. Query: Autowerkstatt Duesseldorf. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-09-26",
+      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Zahnarzt Muenchen. Website note: Website fetch failed: ConnectTimeout. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-27",
       "research_status": "PARTIAL",
       "qa_status": "PENDING",
       "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "company_name": "Lieblings-Zahnarzt München",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "address": "Sonnenstraße 21, 80331 München, Deutschland",
+      "website": "https://www.lieblings-zahnarzt.de/muenchen/",
+      "google_maps_url": "https://www.google.com/maps/place/Lieblings-Zahnarzt+M%C3%BCnchen/data=!4m7!3m6!1s0x479e75ad9fa7281d:0x53ca1d7411adac8d!8m2!3d48.1359616!4d11.5655153!16s%2Fg%2F11w8nxmzrq!19sChIJHSinn611nkcRjaytEXQdylM?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "phone": "+49 89 693143760",
+      "public_business_email": "muenchen@lieblings-zahnarzt.de",
+      "email_source_url": "https://www.lieblings-zahnarzt.de/muenchen/",
+      "contact_form_url": "https://www.lieblings-zahnarzt.de/muenchen/kontakt/",
+      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+      "google_rating": 4.8,
+      "google_review_count": null,
+      "main_category": "Zahnarzt",
+      "website_services": [
+        "implantate",
+        "prophylaxe",
+        "bleaching",
+        "parodontologie",
+        "wurzelbehandlung"
+      ],
+      "google_visible_services": [],
+      "service_gap": [],
+      "service_visibility_candidates": [
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, parodontologie, wurzelbehandlung"
+      ],
+      "service_gap_status": "UNVERIFIED",
+      "competitor_1": "AllDent Zahnzentrum München",
+      "competitor_1_reviews": 8381,
+      "competitor_2": null,
+      "competitor_2_reviews": null,
+      "verified_optimization_signals": [
+        {
+          "type": "review_gap",
+          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381."
+        },
+        {
+          "type": "low_review_volume",
+          "proof": "Nur 0 Google-Bewertungen."
+        }
+      ],
+      "soft_optimization_signals": [
+        {
+          "type": "service_visibility_candidate",
+          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, parodontologie, wurzelbehandlung",
+          "verification": "REQUIRES_FINAL_QA"
+        }
+      ],
+      "verified_signal_count": 2,
+      "report_potential_score": 28,
+      "visible_value_score": 14,
+      "maps_importance_score": 14,
+      "customer_value_score": 8,
+      "competitive_pressure_score": 10,
+      "digital_readiness_score": 10,
+      "saas_fit_score": 5,
+      "total_score": 89,
+      "competitor_review_median": 8381,
+      "review_gap": 8381,
+      "grade": "A",
+      "lead_class": "A_LEAD",
+      "qa_gate": "PASS",
+      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+      "proof": [
+        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+        "Nur 0 Google-Bewertungen.",
+        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, parodontologie, wurzelbehandlung"
+      ],
+      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8381; Gap 8381.",
+      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+      "research_notes": "Deterministic research v2. Query: Zahnarzt Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+      "research_date": "2026-09-27",
+      "research_status": "QUALIFIED",
+      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+      "outreach_status": "NOT_CONTACTED"
     }
   ],
-  "accepted_count": 3,
-  "rejected_count": 21,
+  "accepted_count": 6,
+  "rejected_count": 14,
   "inspected": 24,
   "state": {
-    "query_cursor": 327,
-    "runs": 109,
-    "lead_count": 186,
+    "query_cursor": 330,
+    "runs": 110,
+    "lead_count": 192,
     "target_leads": 999999999,
-    "last_accepted": 3,
+    "last_accepted": 6,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 21,
-    "a_leads": 35,
-    "b_leads": 120
+    "last_rejected": 14,
+    "a_leads": 40,
+    "b_leads": 121
   }
 }

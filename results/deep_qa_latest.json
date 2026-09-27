@@ -1,21 +1,21 @@
 {
   "results": [
     {
-      "lead_id": "auto wenzel düsseldorf|duesseldorf|https://www.facebook.com/autowenzel/",
-      "company_name": "Auto Wenzel Düsseldorf",
-      "industry": "Autowerkstatt",
-      "city": "Duesseldorf",
-      "source_total_score": 83,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Auto+Wenzel+D%C3%BCsseldorf/data=!4m7!3m6!1s0x47b8cbd182785143:0xacaeae319bdfd12c!8m2!3d51.2251249!4d6.8104647!16s%2Fg%2F11bzyn5sr4!19sChIJQ1F4gtHLuEcRLNHfmzGurqw?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.facebook.com/AutoWenzel/",
+      "lead_id": "zahnarzt münchen - dr. desmyttère msc, msc | smileforever|muenchen|https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
+      "company_name": "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "source_total_score": 89,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+M%C3%BCnchen+-+Dr.+Desmytt%C3%A8re+MSc,+MSc+%7C+smileforever/data=!4m7!3m6!1s0x479e75b871896ff7:0x5a4472e49b1d80fa!8m2!3d48.139512!4d11.576!16s%2Fg%2F1tnsqxwy!19sChIJ92-Jcbh1nkcR-oAdm-RyRFo?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
         "maps_text_observed": true,
         "posts_signal": "NOT_OBSERVED",
         "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
+        "booking_signal": "OBSERVED",
         "website_link_observed": true,
         "phone_observed": true,
         "address_observed": true,
@@ -26,49 +26,36 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.facebook.com/AutoWenzel/",
-        "booking_link": null,
+        "website_final_url": "https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
+        "booking_link": "https://www.doctolib.de/zahnarztpraxis/muenchen/smileforever-dr-desmyttere-m-sc",
         "social_links": [
-          "https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=https%3A%2F%2Fwww.facebook.com%2FAutoWenzel%2F",
-          "https://www.facebook.com/recover/initiate?ars=royal_blue_bar",
-          "https://www.facebook.com/photo/?fbid=562375122252781&set=a.562375082252785",
-          "https://www.facebook.com/photo/?fbid=562375118919448&set=a.562375088919451&__tn__=%3C",
-          "https://www.facebook.com/AutoWenzel/followers/",
-          "https://www.facebook.com/AutoWenzel/following/",
-          "https://www.facebook.com/AutoWenzel/about",
-          "https://www.facebook.com/AutoWenzel/reels_tab",
-          "https://www.facebook.com/AutoWenzel/photos",
-          "https://www.facebook.com/AutoWenzel",
-          "https://www.facebook.com/AutoWenzel/reviews",
-          "https://www.facebook.com/AutoWenzel?__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=%3C%3C%2CP-R",
-          "https://www.facebook.com/AutoWenzel?__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=-]C%2CP-R",
-          "https://www.facebook.com/AutoWenzel/posts/pfbid02rGZSPrBMaspbrQfrvUhZLaShjRok8LA6GtyjG3EZbqVNnaJnbHQ8whKMwQzsuUPml?__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=%2CO%2CP-R",
-          "https://www.facebook.com/pages/D%C3%BCsseldorf/111271915564523?__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=%2CP-R",
-          "https://www.facebook.com/hashtag/volvo?__eep__=6&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*NK-R",
-          "https://www.facebook.com/hashtag/motor?__eep__=6&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*NK-R",
-          "https://www.facebook.com/hashtag/d%C3%BCsseldorf?__eep__=6&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*NK-R",
-          "https://www.facebook.com/hashtag/flingern?__eep__=6&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*NK-R",
-          "https://www.facebook.com/photo/?fbid=1181433225639603&set=pcb.1181435602306032&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*b0H-R",
-          "https://www.facebook.com/photo/?fbid=1181433492306243&set=pcb.1181435602306032&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*b1H-R",
-          "https://www.facebook.com/photo/?fbid=1181433848972874&set=pcb.1181435602306032&__cft__[0]=AZhwLuve8KlkbBxP5xOLhXWC4TqpUQWiJyN0_r-Xz_-sThXSvVPHWuOg5ue_rdv--nvA3waY9TPAjtewPj_QPibh3zgpvD6YyrpwtF15OnK5bMpYLluozUUU5EkyLwjk3wXM2CTeba6LHDSweiT-TW_d_b7Q3SO8ZtiEqxjUTY8XQKrdS1LdBR14AbU&__tn__=*b2H-R"
+          "https://www.instagram.com/smileforever_muenchen/",
+          "https://www.facebook.com/Zahnarzt.smileforever"
         ],
-        "contact_page_observed": false,
-        "website_service_matches": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "implantate",
+          "prophylaxe",
+          "invisalign",
+          "parodontologie"
+        ],
         "website_evidence": [
-          "Active social-link footprint observed (22 link(s)).",
+          "Online booking/appointment link observed on website.",
+          "Active social-link footprint observed (2 link(s)).",
+          "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "auto.wenzel@gmail.com",
-        "email_source_url": "https://www.facebook.com/AutoWenzel/",
+        "email": "dr.desmyttere@smileforever.de",
+        "email_source_url": "https://www.zahnarzt-muenchen-zentrum.com/impressum/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-26T11:37:51.259709+00:00"
+        "email_found_at": "2026-09-27T12:16:17.934463+00:00"
       },
       "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 90,
+      "deep_qa_score": 96,
       "deep_qa_verified_signals": [
         {
-          "type": "review_gap",
-          "proof": "Verified source data: 45 reviews vs. comparison median 141; gap 96."
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
         },
         {
           "type": "digital_maturity_social",
@@ -76,30 +63,32 @@
         }
       ],
       "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 45 reviews vs. comparison median 141; gap 96.",
+      "deep_qa_cautions": [
+        "Google review count is missing; never interpret this as zero."
+      ],
+      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
       "proof": [
-        "Verified source data: 45 reviews vs. comparison median 141; gap 96.",
+        "Online booking/appointment link observed on website.",
         "Business website links to at least one social profile."
       ],
-      "email": "auto.wenzel@gmail.com",
-      "email_source_url": "https://www.facebook.com/AutoWenzel/",
+      "email": "dr.desmyttere@smileforever.de",
+      "email_source_url": "https://www.zahnarzt-muenchen-zentrum.com/impressum/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-26T11:37:51.259709+00:00",
+      "email_found_at": "2026-09-27T12:16:17.934463+00:00",
       "airtable_ready": true,
-      "qa_date": "2026-09-26",
+      "qa_date": "2026-09-27",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "kfz-autowerkstatt meisterbetrieb petros ikonomou düsseldorf|duesseldorf|http://www.auto-ikonomou.de/",
-      "company_name": "KFZ-Autowerkstatt Meisterbetrieb Petros Ikonomou Düsseldorf",
-      "industry": "Autowerkstatt",
-      "city": "Duesseldorf",
-      "source_total_score": 82,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/KFZ-Autowerkstatt+Meisterbetrieb+Petros+Ikonomou+D%C3%BCsseldorf/data=!4m7!3m6!1s0x47b8ca331b85e413:0xe9c44bbfe8276f66!8m2!3d51.220188!4d6.799924!16s%2Fg%2F1thr67z6!19sChIJE-SFGzPKuEcRZm8n6L9LxOk?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.auto-ikonomou.de/",
+      "lead_id": "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
+      "company_name": "AllDent Zahnzentrum München Ost",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "source_total_score": 89,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/AllDent+Zahnzentrum+M%C3%BCnchen+Ost/data=!4m7!3m6!1s0x479e7564ad012b37:0x8f9346162f4f8d02!8m2!3d48.1362738!4d11.6139143!16s%2Fg%2F11b7qbwh2m!19sChIJNysBrWR1nkcRAo1PLxZGk48?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.alldent-zahnzentrum.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -117,65 +106,77 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://auto-ikonomou.de/",
-        "booking_link": null,
-        "social_links": [],
+        "website_final_url": "https://www.alldent-zahnzentrum.de/",
+        "booking_link": "https://www.alldent-zahnzentrum.de/kontakt/termine-online-muenchen/",
+        "social_links": [
+          "https://www.facebook.com/profile.php?id=100064202402314",
+          "https://www.instagram.com/alldent_zahnzentrum/"
+        ],
         "contact_page_observed": true,
         "website_service_matches": [
-          "inspektion",
-          "reifen",
-          "bremsen",
-          "klima",
-          "diagnose"
+          "implantate",
+          "bleaching",
+          "invisalign",
+          "parodontologie",
+          "wurzelbehandlung"
         ],
         "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Active social-link footprint observed (2 link(s)).",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@auto-ikonomou.de",
-        "email_source_url": "https://auto-ikonomou.de/impressum/",
+        "email": "muenchen2@alldent.de",
+        "email_source_url": "https://www.alldent-zahnzentrum.de/kontakt/standort-oeffnungszeiten/#c48689",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-26T11:38:07.043632+00:00"
+        "email_found_at": "2026-09-27T12:16:28.374864+00:00"
       },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 87,
+      "deep_qa_decision": "FINAL_A",
+      "deep_qa_score": 96,
       "deep_qa_verified_signals": [
         {
-          "type": "review_gap",
-          "proof": "Verified source data: 58 reviews vs. comparison median 141; gap 83."
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
+        },
+        {
+          "type": "digital_maturity_social",
+          "proof": "Business website links to at least one social profile."
         }
       ],
       "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 58 reviews vs. comparison median 141; gap 83.",
-      "proof": [
-        "Verified source data: 58 reviews vs. comparison median 141; gap 83."
+      "deep_qa_cautions": [
+        "Google review count is missing; never interpret this as zero."
       ],
-      "email": "info@auto-ikonomou.de",
-      "email_source_url": "https://auto-ikonomou.de/impressum/",
+      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
+      "proof": [
+        "Online booking/appointment link observed on website.",
+        "Business website links to at least one social profile."
+      ],
+      "email": "muenchen2@alldent.de",
+      "email_source_url": "https://www.alldent-zahnzentrum.de/kontakt/standort-oeffnungszeiten/#c48689",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-26T11:38:07.043632+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-26",
+      "email_found_at": "2026-09-27T12:16:28.374864+00:00",
+      "airtable_ready": true,
+      "qa_date": "2026-09-27",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "mn automobile|stuttgart|https://kfzwerkstatt.io/stuttgart/2038-mn-automobile",
-      "company_name": "Mn Automobile",
-      "industry": "Autowerkstatt",
-      "city": "Stuttgart",
-      "source_total_score": 81,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Mn+Automobile/data=!4m7!3m6!1s0x4799c53a0e29ff17:0xc448ed329f110009!8m2!3d48.8091152!4d9.2067548!16s%2Fg%2F11gg6760fy!19sChIJF_8pDjrFmUcRCQARnzLtSMQ?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://kfzwerkstatt.io/stuttgart/2038-mn-automobile",
+      "lead_id": "dent + face zahnzentrum münchen|muenchen|https://www.dent-und-face.de/",
+      "company_name": "dent + face Zahnzentrum München",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "source_total_score": 89,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/dent+%2B+face+Zahnzentrum+M%C3%BCnchen/data=!4m7!3m6!1s0x479dd9784992027d:0x331dd8ade38f531!8m2!3d48.1311309!4d11.5312621!16s%2Fg%2F11fv73cc38!19sChIJfQKSSXjZnUcRMfU43ordMQM?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.dent-und-face.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
         "maps_text_observed": true,
         "posts_signal": "NOT_OBSERVED",
         "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
+        "booking_signal": "OBSERVED",
         "website_link_observed": true,
         "phone_observed": true,
         "address_observed": true,
@@ -186,54 +187,189 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://kfzwerkstatt.io/2038-mn-automobile",
+        "website_final_url": "https://dent-und-face.de/",
+        "booking_link": "javascript:toggleDrFlexAppointments()",
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "implantate",
+          "bleaching",
+          "wurzelbehandlung"
+        ],
+        "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "info@dent-und-face.de",
+        "email_source_url": "https://dent-und-face.de/termin-vereinbaren/#kontakt",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-27T12:16:40.172982+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 94,
+      "deep_qa_verified_signals": [
+        {
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [
+        "Google review count is missing; never interpret this as zero."
+      ],
+      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
+      "proof": [
+        "Online booking/appointment link observed on website."
+      ],
+      "email": "info@dent-und-face.de",
+      "email_source_url": "https://dent-und-face.de/termin-vereinbaren/#kontakt",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-27T12:16:40.172982+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-27",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "zahnärzte am gärtnerplatz 1|muenchen|https://www.zahnaerzte-gaertnerplatz-muenchen.de/",
+      "company_name": "Zahnärzte am Gärtnerplatz 1",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "source_total_score": 89,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Zahn%C3%A4rzte+am+G%C3%A4rtnerplatz+1/data=!4m7!3m6!1s0x479ddf610733d459:0x41f5671efb8165f9!8m2!3d48.131813!4d11.5766696!16s%2Fg%2F1td57lt6!19sChIJWdQzB2HfnUcR-WWB-x5n9UE?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.zahnaerzte-gaertnerplatz-muenchen.de/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.zahnaerzte-gaertnerplatz-muenchen.de/",
+        "booking_link": "https://www.doctolib.de/zahnarztpraxis/muenchen/zahnarztpraxis-buchholz-am-gaertnerplatz/booking?bookingFunnelSource=external_referral&profile_skipped=true",
+        "social_links": [],
+        "contact_page_observed": true,
+        "website_service_matches": [
+          "implantate",
+          "prophylaxe"
+        ],
+        "website_evidence": [
+          "Online booking/appointment link observed on website.",
+          "Contact/imprint page observed on website.",
+          "Public business email observed on company website/contact/imprint page."
+        ],
+        "email": "zahnaerztegaertnerplatz@yahoo.de",
+        "email_source_url": "https://www.zahnaerzte-gaertnerplatz-muenchen.de/impressum",
+        "email_verification_status": "PUBLICLY_OBSERVED",
+        "email_found_at": "2026-09-27T12:16:45.543020+00:00"
+      },
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 94,
+      "deep_qa_verified_signals": [
+        {
+          "type": "digital_maturity_booking",
+          "proof": "Online booking/appointment link observed on website."
+        }
+      ],
+      "deep_qa_blockers": [],
+      "deep_qa_cautions": [
+        "Google review count is missing; never interpret this as zero."
+      ],
+      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
+      "proof": [
+        "Online booking/appointment link observed on website."
+      ],
+      "email": "zahnaerztegaertnerplatz@yahoo.de",
+      "email_source_url": "https://www.zahnaerzte-gaertnerplatz-muenchen.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-09-27T12:16:45.543020+00:00",
+      "airtable_ready": false,
+      "qa_date": "2026-09-27",
+      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+      "outreach_status": "NOT_CONTACTED"
+    },
+    {
+      "lead_id": "lieblings-zahnarzt münchen|muenchen|https://www.lieblings-zahnarzt.de/muenchen/",
+      "company_name": "Lieblings-Zahnarzt München",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "source_total_score": 89,
+      "source_lead_class": "A_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Lieblings-Zahnarzt+M%C3%BCnchen/data=!4m7!3m6!1s0x479e75ad9fa7281d:0x53ca1d7411adac8d!8m2!3d48.1359616!4d11.5655153!16s%2Fg%2F11w8nxmzrq!19sChIJHSinn611nkcRjaytEXQdylM?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.lieblings-zahnarzt.de/muenchen/",
+      "maps_check": {
+        "maps_accessible": true,
+        "maps_profile_closed": false,
+        "maps_text_observed": true,
+        "posts_signal": "NOT_OBSERVED",
+        "photos_signal": "OBSERVED",
+        "booking_signal": "OBSERVED",
+        "website_link_observed": true,
+        "phone_observed": true,
+        "address_observed": true,
+        "maps_evidence": [
+          "Website link observed on Google Maps profile.",
+          "Phone action observed on Google Maps profile."
+        ]
+      },
+      "website_check": {
+        "website_accessible": true,
+        "website_final_url": "https://www.lieblings-zahnarzt.de/muenchen/",
         "booking_link": null,
         "social_links": [],
         "contact_page_observed": true,
         "website_service_matches": [
-          "inspektion",
-          "reifen",
-          "bremsen",
-          "klima",
-          "diagnose"
+          "implantate",
+          "prophylaxe",
+          "bleaching",
+          "parodontologie",
+          "wurzelbehandlung"
         ],
         "website_evidence": [
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@widimedia.com",
-        "email_source_url": "https://kfzwerkstatt.io/impressum",
+        "email": "muenchen@lieblings-zahnarzt.de",
+        "email_source_url": "https://www.lieblings-zahnarzt.de/muenchen/impressum/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-26T11:38:13.211470+00:00"
+        "email_found_at": "2026-09-27T12:16:54.975062+00:00"
       },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 86,
-      "deep_qa_verified_signals": [
-        {
-          "type": "review_gap",
-          "proof": "Verified source data: 56 reviews vs. comparison median 163; gap 107."
-        }
-      ],
+      "deep_qa_decision": "MANUAL_REVIEW",
+      "deep_qa_score": 92,
+      "deep_qa_verified_signals": [],
       "deep_qa_blockers": [],
-      "deep_qa_cautions": [],
-      "primary_sales_angle_verified": "Verified source data: 56 reviews vs. comparison median 163; gap 107.",
-      "proof": [
-        "Verified source data: 56 reviews vs. comparison median 163; gap 107."
+      "deep_qa_cautions": [
+        "Google review count is missing; never interpret this as zero."
       ],
-      "email": "info@widimedia.com",
-      "email_source_url": "https://kfzwerkstatt.io/impressum",
+      "primary_sales_angle_verified": null,
+      "proof": [],
+      "email": "muenchen@lieblings-zahnarzt.de",
+      "email_source_url": "https://www.lieblings-zahnarzt.de/muenchen/impressum/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-26T11:38:13.211470+00:00",
+      "email_found_at": "2026-09-27T12:16:54.975062+00:00",
       "airtable_ready": false,
-      "qa_date": "2026-09-26",
+      "qa_date": "2026-09-27",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
   "state": {
-    "runs": 44,
+    "runs": 45,
     "processed_ids": [
       "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
+      "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
       "andré lewandowski|berlin|http://www.haustechnik-planer.de/",
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
       "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -251,6 +387,7 @@
       "carolin pokriefke - kleintierpraxis am viewegsgarten|braunschweig|http://www.tierarztpraxis-viewegsgarten.de/",
       "city fahrschule braunschweig|braunschweig|https://www.cityfahrschulebs.info/",
       "city nails - krefeld|krefeld|https://esinafsar.com/city-nails/",
+      "dent + face zahnzentrum münchen|muenchen|https://www.dent-und-face.de/",
       "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
       "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
       "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
@@ -312,6 +449,7 @@
       "kosmetikstudio la perla - lehel münchen|muenchen|https://www.laperla-beauty.de/",
       "ks autoglas zentrum germering|muenchen|https://germering.ksautoglas.com/",
       "ks autoglas zentrum hamburg-farmsen|hamburg|https://hamburg-farmsen.ksautoglas.com/",
+      "lieblings-zahnarzt münchen|muenchen|https://www.lieblings-zahnarzt.de/muenchen/",
       "lunavet - tierarztpraxis in dresden|dresden|https://luna-vet.de/",
       "maison de nails berlin|berlin|https://maisondenails.de/",
       "makler mit herz immobilienmakler hamburg|hamburg|https://www.maklermitherz-hamburg.de/",
@@ -392,20 +530,22 @@
       "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
       "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
       "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+      "zahnarzt münchen - dr. desmyttère msc, msc | smileforever|muenchen|https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
       "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
       "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/",
+      "zahnärzte am gärtnerplatz 1|muenchen|https://www.zahnaerzte-gaertnerplatz-muenchen.de/",
       "zahnärzte im asamhof - dr. ihor prokhorenko - cmd-zentrum münchen-innenstadt|muenchen|http://zahnaerzte-im-asamhof.de/",
       "zahnärzte in der hamburger city - dr. med. dent. daria von riewel (ehem. niemietz)|hamburg|https://zahnarzt.hamburg/",
       "zentrum für kleintiermedizin münchen|muenchen|https://www.zk-muc.de/",
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 166,
-    "remaining_eligible": 0,
-    "last_batch_count": 3,
-    "final_a_total": 59,
-    "final_b_total": 106,
-    "email_ready_total": 46,
+    "processed_count": 171,
+    "remaining_eligible": 1,
+    "last_batch_count": 5,
+    "final_a_total": 61,
+    "final_b_total": 108,
+    "email_ready_total": 48,
     "email_missing_total": 37
   }
 }

@@ -1,9 +1,9 @@
 {
   "mode": "DRAFT_AND_AUTO_APPROVE",
-  "eligible_count": 46,
+  "eligible_count": 48,
   "stored_count": 20,
   "error_count": 0,
   "errors": [],
   "sent_count": 0,
-  "last_run_at": "2026-09-27T11:57:45.024937+00:00"
+  "last_run_at": "2026-09-27T16:54:34.192934+00:00"
 }

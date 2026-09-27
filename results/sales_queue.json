@@ -69,7 +69,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recKz4Mpg4Xx5XcpJ"
+    "airtable_record_id": "recXJKD7sCdoljqwQ"
   },
   {
     "lead_id": "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
@@ -104,7 +104,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recpVH3ZnwaexAx9y"
+    "airtable_record_id": "recdN1EcgeHn4efto"
   },
   {
     "lead_id": "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
@@ -140,7 +140,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recHU9jMoq0qUA1IX"
+    "airtable_record_id": "recHMsV7qbS9tDMVb"
   },
   {
     "lead_id": "lunavet - tierarztpraxis in dresden|dresden|https://luna-vet.de/",
@@ -212,7 +212,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "rec67jNwsFN1EQJer"
+    "airtable_record_id": "recZ642W4KzCMKQrv"
   },
   {
     "lead_id": "tierarztpraxis felmo frankfurt am main|frankfurt am main|https://felmo.de/tierarztpraxis/frankfurt?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
@@ -249,6 +249,77 @@
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
     "airtable_record_id": "recleQVG1ctq0S2Ed"
+  },
+  {
+    "lead_id": "zahnarzt münchen - dr. desmyttère msc, msc | smileforever|muenchen|https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
+    "company_name": "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
+    "industry": "Zahnarzt",
+    "city": "Muenchen",
+    "website": "https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
+    "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+M%C3%BCnchen+-+Dr.+Desmytt%C3%A8re+MSc,+MSc+%7C+smileforever/data=!4m7!3m6!1s0x479e75b871896ff7:0x5a4472e49b1d80fa!8m2!3d48.139512!4d11.576!16s%2Fg%2F1tnsqxwy!19sChIJ92-Jcbh1nkcR-oAdm-RyRFo?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+    "email": "dr.desmyttere@smileforever.de",
+    "email_source_url": "https://www.zahnarzt-muenchen-zentrum.com/impressum/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-27T12:16:17.934463+00:00",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 96,
+    "visibility_checked": true,
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "priority_score": 100,
+    "sales_tier": "A",
+    "primary_pitch": "Online booking/appointment link observed on website.",
+    "why_now": [
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile.",
+      "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "proof_1": "Online booking/appointment link observed on website.",
+    "proof_2": "Business website links to at least one social profile.",
+    "proof_3": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim.",
+    "next_action": "PRIORITY_SALES_REVIEW",
+    "airtable_ready": true,
+    "airtable_sync_status": "SYNCED_CREATED",
+    "outreach_status": "NOT_CONTACTED",
+    "queue_date": "2026-09-27",
+    "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+    "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
+    "airtable_record_id": "recMtDqS3WWZUAH9z"
+  },
+  {
+    "lead_id": "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
+    "company_name": "AllDent Zahnzentrum München Ost",
+    "industry": "Zahnarzt",
+    "city": "Muenchen",
+    "website": "https://www.alldent-zahnzentrum.de/",
+    "google_maps_url": "https://www.google.com/maps/place/AllDent+Zahnzentrum+M%C3%BCnchen+Ost/data=!4m7!3m6!1s0x479e7564ad012b37:0x8f9346162f4f8d02!8m2!3d48.1362738!4d11.6139143!16s%2Fg%2F11b7qbwh2m!19sChIJNysBrWR1nkcRAo1PLxZGk48?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+    "email": "muenchen2@alldent.de",
+    "email_source_url": "https://www.alldent-zahnzentrum.de/kontakt/standort-oeffnungszeiten/#c48689",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-27T12:16:28.374864+00:00",
+    "deep_qa_decision": "FINAL_A",
+    "deep_qa_score": 96,
+    "visibility_checked": true,
+    "weak_visibility_observed": false,
+    "visibility_opportunity_score": 1,
+    "priority_score": 100,
+    "sales_tier": "A",
+    "primary_pitch": "Online booking/appointment link observed on website.",
+    "why_now": [
+      "Online booking/appointment link observed on website.",
+      "Business website links to at least one social profile."
+    ],
+    "proof_1": "Online booking/appointment link observed on website.",
+    "proof_2": "Business website links to at least one social profile.",
+    "proof_3": "Business observed at position 3 among the first 8 Maps results returned in this run.",
+    "next_action": "PRIORITY_SALES_REVIEW",
+    "airtable_ready": true,
+    "airtable_sync_status": "SYNCED_CREATED",
+    "outreach_status": "NOT_CONTACTED",
+    "queue_date": "2026-09-27",
+    "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+    "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
+    "airtable_record_id": "recWBC1RioUodr3un"
   },
   {
     "lead_id": "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
@@ -319,7 +390,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "rec0ZEO07C14Tx0Cs"
+    "airtable_record_id": "recJj8ppfRdC0EIjr"
   },
   {
     "lead_id": "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -634,6 +705,74 @@
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
   },
   {
+    "lead_id": "dent + face zahnzentrum münchen|muenchen|https://www.dent-und-face.de/",
+    "company_name": "dent + face Zahnzentrum München",
+    "industry": "Zahnarzt",
+    "city": "Muenchen",
+    "website": "https://www.dent-und-face.de/",
+    "google_maps_url": "https://www.google.com/maps/place/dent+%2B+face+Zahnzentrum+M%C3%BCnchen/data=!4m7!3m6!1s0x479dd9784992027d:0x331dd8ade38f531!8m2!3d48.1311309!4d11.5312621!16s%2Fg%2F11fv73cc38!19sChIJfQKSSXjZnUcRMfU43ordMQM?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+    "email": "info@dent-und-face.de",
+    "email_source_url": "https://dent-und-face.de/termin-vereinbaren/#kontakt",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-27T12:16:40.172982+00:00",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 94,
+    "visibility_checked": true,
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 3,
+    "priority_score": 100,
+    "sales_tier": "A",
+    "primary_pitch": "Online booking/appointment link observed on website.",
+    "why_now": [
+      "Online booking/appointment link observed on website.",
+      "Business observed at position 5 among the first 8 Maps results returned in this run."
+    ],
+    "proof_1": "Online booking/appointment link observed on website.",
+    "proof_2": "Business observed at position 5 among the first 8 Maps results returned in this run.",
+    "proof_3": "Business observed at position 8 among the first 8 Maps results returned in this run.",
+    "next_action": "SALES_REVIEW",
+    "airtable_ready": false,
+    "airtable_sync_status": "NOT_READY",
+    "outreach_status": "NOT_CONTACTED",
+    "queue_date": "2026-09-27",
+    "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+    "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
+  },
+  {
+    "lead_id": "zahnärzte am gärtnerplatz 1|muenchen|https://www.zahnaerzte-gaertnerplatz-muenchen.de/",
+    "company_name": "Zahnärzte am Gärtnerplatz 1",
+    "industry": "Zahnarzt",
+    "city": "Muenchen",
+    "website": "https://www.zahnaerzte-gaertnerplatz-muenchen.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Zahn%C3%A4rzte+am+G%C3%A4rtnerplatz+1/data=!4m7!3m6!1s0x479ddf610733d459:0x41f5671efb8165f9!8m2!3d48.131813!4d11.5766696!16s%2Fg%2F1td57lt6!19sChIJWdQzB2HfnUcR-WWB-x5n9UE?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+    "email": "zahnaerztegaertnerplatz@yahoo.de",
+    "email_source_url": "https://www.zahnaerzte-gaertnerplatz-muenchen.de/impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-27T12:16:45.543020+00:00",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 94,
+    "visibility_checked": true,
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "priority_score": 100,
+    "sales_tier": "A",
+    "primary_pitch": "Online booking/appointment link observed on website.",
+    "why_now": [
+      "Online booking/appointment link observed on website.",
+      "Business observed at position 7 among the first 8 Maps results returned in this run."
+    ],
+    "proof_1": "Online booking/appointment link observed on website.",
+    "proof_2": "Business observed at position 7 among the first 8 Maps results returned in this run.",
+    "proof_3": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim.",
+    "next_action": "SALES_REVIEW",
+    "airtable_ready": false,
+    "airtable_sync_status": "NOT_READY",
+    "outreach_status": "NOT_CONTACTED",
+    "queue_date": "2026-09-27",
+    "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+    "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
+  },
+  {
     "lead_id": "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
     "company_name": "myPhysio Physiotherapie Köln Am Gürzenich (Privatpatienten&Selbstzahler)",
     "industry": "Physiotherapie",
@@ -667,7 +806,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "reco3smRPhF4R6IXK"
+    "airtable_record_id": "recnBSPLqAcL3BJ3J"
   },
   {
     "lead_id": "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
@@ -703,7 +842,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recx6IXucP4B09Esh"
+    "airtable_record_id": "recf0U6NyhzKS03p0"
   },
   {
     "lead_id": "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
@@ -847,7 +986,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "rec0ii60OJCXLTvPI"
+    "airtable_record_id": "recr14IoIvg1Q72j8"
   },
   {
     "lead_id": "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -882,7 +1021,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recF51e86sZbUTWbm"
+    "airtable_record_id": "recZ6KoUUhoMEKbDs"
   },
   {
     "lead_id": "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/",
@@ -917,7 +1056,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "rec7NvsittKg45LMT"
+    "airtable_record_id": "rec5E59NCdKi3ohlb"
   },
   {
     "lead_id": "tiermedizinzentrum berlin|berlin|http://www.tiermedizinzentrum.de/",
@@ -1169,7 +1308,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recMmtBl6iITQpJUR"
+    "airtable_record_id": "recawIToPYgb1naiq"
   },
   {
     "lead_id": "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/",
@@ -1205,7 +1344,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recKOmktTd4Ve7doP"
+    "airtable_record_id": "recMctty3lN7TDhAs"
   },
   {
     "lead_id": "physiotherapiepraxis monolith|stuttgart|https://www.physiomonolith.de/",
@@ -1275,7 +1414,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recBtAeYW3PP8d23x"
+    "airtable_record_id": "recU7RyvFw1RQYxbP"
   },
   {
     "lead_id": "fahrschule hofmann|chemnitz|http://www.hofmann-fahrschule.de/",
@@ -1346,7 +1485,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recdElcD6JExatK50"
+    "airtable_record_id": "rec5ZMMRwPEn5gQgX"
   },
   {
     "lead_id": "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
@@ -1485,7 +1624,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recu4tSo7Y6zW3ODR"
+    "airtable_record_id": "recbPO3gy8TaU56S3"
   },
   {
     "lead_id": "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/",
@@ -1520,7 +1659,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recC0DfVJvuvDdb0f"
+    "airtable_record_id": "rec52Dl96OWYdSamL"
   },
   {
     "lead_id": "bk hairstyle hamburg|hamburg|https://bk-hairstyle.de/",
@@ -1628,7 +1767,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recWs8wxSHGzVpTJ2"
+    "airtable_record_id": "recKaVB0nacuFTaKM"
   },
   {
     "lead_id": "tierarztpraxis hernández|sankt augustin|https://tierarztpraxishernandez.com/",
@@ -2011,7 +2150,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recR1auecZvPx7SrK"
+    "airtable_record_id": "recHgT0RVW1wpur59"
   },
   {
     "lead_id": "haarholic - friseur münchen & balayage|muenchen|https://www.haarholic.com/",
@@ -2047,7 +2186,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recWz4Es7ciGduaib"
+    "airtable_record_id": "recGwPja4PKWtAQFw"
   },
   {
     "lead_id": "tierarzt piliar|moenchengladbach|https://tierarztportal.com/moenchengladbach/8743-tierarzt-piliar",
@@ -2117,7 +2256,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "reccZlZR4cWZH6HAK"
+    "airtable_record_id": "recv5yy2CQg6FNWE0"
   },
   {
     "lead_id": "auto wenzel düsseldorf|duesseldorf|https://www.facebook.com/autowenzel/",
@@ -2153,7 +2292,7 @@
     "queue_date": "2026-09-27",
     "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
     "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-    "airtable_record_id": "recc34fAn8t1vZ7jI"
+    "airtable_record_id": "recycJpTuAKjM17cO"
   },
   {
     "lead_id": "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
@@ -3420,6 +3559,40 @@
     "proof_1": "Verified source data: 58 reviews vs. comparison median 141; gap 83.",
     "proof_2": "Business observed at position 5 among the first 11 Maps results returned in this run.",
     "proof_3": "Business observed at position 9 among the first 11 Maps results returned in this run.",
+    "next_action": "SALES_REVIEW",
+    "airtable_ready": false,
+    "airtable_sync_status": "NOT_READY",
+    "outreach_status": "NOT_CONTACTED",
+    "queue_date": "2026-09-27",
+    "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
+    "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
+  },
+  {
+    "lead_id": "zahngesundheitszentrum dr. berand|muenchen|http://www.zahn-gesundheitszentrum.de/",
+    "company_name": "Zahngesundheitszentrum Dr. Berand",
+    "industry": "Zahnarzt",
+    "city": "Muenchen",
+    "website": "http://www.zahn-gesundheitszentrum.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Zahngesundheitszentrum+Dr.+Berand/data=!4m7!3m6!1s0x479e7620978c0087:0x80c23a8a1246ec30!8m2!3d48.1410144!4d11.5195641!16s%2Fg%2F11g65fsc_g!19sChIJhwCMlyB2nkcRMOxGEoo6woA?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
+    "email": "kontakt@zahn-gesundheitszentrum.de",
+    "email_source_url": "https://www.zahn-gesundheitszentrum.de/kontakt/kontakt/",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-09-27T15:40:47.255566+00:00",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 84,
+    "visibility_checked": true,
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 6,
+    "priority_score": 97,
+    "sales_tier": "A",
+    "primary_pitch": "Business website links to at least one social profile.",
+    "why_now": [
+      "Business website links to at least one social profile.",
+      "Business observed at position 8 among the first 8 Maps results returned in this run."
+    ],
+    "proof_1": "Business website links to at least one social profile.",
+    "proof_2": "Business observed at position 8 among the first 8 Maps results returned in this run.",
+    "proof_3": "Business observed at position 6 among the first 8 Maps results returned in this run.",
     "next_action": "SALES_REVIEW",
     "airtable_ready": false,
     "airtable_sync_status": "NOT_READY",

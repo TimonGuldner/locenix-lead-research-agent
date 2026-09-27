@@ -1,8 +1,8 @@
 {
-  "last_run_at": "2026-09-27T15:39:46.100651+00:00",
+  "last_run_at": "2026-09-27T16:55:25.903671+00:00",
   "department_status": "BACKLOG",
-  "next_agent": "deep_qa",
-  "reason": "Deep QA has 1 eligible leads waiting.",
+  "next_agent": "outreach_controller",
+  "reason": "Airtable-ready email-qualified leads are missing outreach drafts.",
   "departments_total": 1,
   "departments_proposed": 0,
   "agents_total": 10,

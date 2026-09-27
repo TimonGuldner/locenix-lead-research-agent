@@ -1,6 +1,7 @@
 {
-  "runs": 48,
+  "runs": 49,
   "processed_ids": [
+    "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
     "as auto-service gmbh - kfz.-werkstatt köln - automacher|koeln|https://www.automacher.net/",
@@ -14,6 +15,7 @@
     "bsn fahrschule|braunschweig|http://bsn-fahrschule.de/",
     "carolin pokriefke - kleintierpraxis am viewegsgarten|braunschweig|http://www.tierarztpraxis-viewegsgarten.de/",
     "city fahrschule braunschweig|braunschweig|https://www.cityfahrschulebs.info/",
+    "dent + face zahnzentrum münchen|muenchen|https://www.dent-und-face.de/",
     "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
     "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
@@ -123,19 +125,21 @@
     "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
     "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
     "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "zahnarzt münchen - dr. desmyttère msc, msc | smileforever|muenchen|https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
     "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
     "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/",
+    "zahngesundheitszentrum dr. berand|muenchen|http://www.zahn-gesundheitszentrum.de/",
+    "zahnärzte am gärtnerplatz 1|muenchen|https://www.zahnaerzte-gaertnerplatz-muenchen.de/",
     "zahnärzte im asamhof - dr. ihor prokhorenko - cmd-zentrum münchen-innenstadt|muenchen|http://zahnaerzte-im-asamhof.de/",
     "zentrum für kleintiermedizin münchen|muenchen|https://www.zk-muc.de/",
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 128,
-  "last_batch_count": 0,
+  "processed_count": 133,
+  "last_batch_count": 5,
   "remaining_eligible": 0,
-  "weak_visibility_total": 91,
+  "weak_visibility_total": 95,
   "email_gate_rejected_count": 37,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

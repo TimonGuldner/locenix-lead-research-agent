@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-27T00:36:28.162963+00:00",
+  "last_run_at": "2026-09-27T08:09:22.773086+00:00",
   "department_status": "ATTENTION",
   "next_agent": "browser_fallback",
   "reason": "browser_fallback reports unresolved errors and should be inspected before scaling.",
@@ -16,12 +16,12 @@
   "browser_fallback_added": 0,
   "browser_stale_removed": 0,
   "transport_errors_recovered": 0,
-  "learning_runs": 59,
+  "learning_runs": 60,
   "learning_queries": 4,
   "learning_sources": 14,
   "learning_boosted_queries": 4,
   "learning_paused_queries": 0,
-  "learning_provider_cooldowns": 2,
+  "learning_provider_cooldowns": 0,
   "human_action_required": 0,
   "errors": 3
 }

@@ -7,12 +7,12 @@
   "auto_reply_enabled": true,
   "received_scanned": 14,
   "handled": 0,
-  "unmatched": 1,
-  "duplicates_skipped": 13,
+  "unmatched": 0,
+  "duplicates_skipped": 14,
   "errors": 0,
   "positive_replies": 0,
   "trial_interest": 0,
   "human_reviews_required": 0,
   "processed_message_ids_total": 14,
-  "last_run_at": "2026-09-28T14:28:33.075300+00:00"
+  "last_run_at": "2026-09-28T20:41:01.052662+00:00"
 }

@@ -15,13 +15,13 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-28T13:45:36.406726+00:00",
+    "generated_at": "2026-09-29T12:44:39.910790+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
   {
     "lead_id": "praxis für kleintiermedizin arbergen|bremen|https://www.tierarzt-arbergen.de/",
-    "airtable_record_id": "rec3GC2CZbWrzU1Gs",
+    "airtable_record_id": "recbQyTv7CFVrrjKk",
     "company_name": "Praxis für Kleintiermedizin Arbergen",
     "industry": "Tierarzt",
     "city": "Bremen",
@@ -35,13 +35,13 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-28T13:45:36.406726+00:00",
+    "generated_at": "2026-09-29T12:44:39.910790+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
   {
     "lead_id": "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
-    "airtable_record_id": "rec0lDghoapMBiMuj",
+    "airtable_record_id": "rec5aDkEQmOVNFyLc",
     "company_name": "Tierarztpraxis Tierärztlicher Notfalldienst - in der HAFENCITY- jeden Tag am selben Ort",
     "industry": "Tierarzt",
     "city": "Hamburg",
@@ -55,13 +55,13 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-28T13:45:36.406726+00:00",
+    "generated_at": "2026-09-29T12:44:39.910790+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
   {
     "lead_id": "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
-    "airtable_record_id": "rec7eNS5t6vnYd9GV",
+    "airtable_record_id": "rec8td45cv5MXUom4",
     "company_name": "ISARDENT® | Kieferorthopädie & Kinderzahnarzt München-Freiham",
     "industry": "Zahnarzt",
     "city": "Muenchen",
@@ -75,7 +75,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-28T13:45:36.406726+00:00",
+    "generated_at": "2026-09-29T12:44:39.910790+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -95,13 +95,13 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-28T13:45:36.406726+00:00",
+    "generated_at": "2026-09-29T12:44:39.910790+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
   {
     "lead_id": "tierärztliches labor freiburg - anicura|freiburg|https://www.anicura.de/standorte/tierarztliches-labor-freiburg/",
-    "airtable_record_id": "recIjUB7zirOLLQHS",
+    "airtable_record_id": "recwrQ6YBvnQHelEO",
     "company_name": "Tierärztliches Labor Freiburg - AniCura",
     "industry": "Tierarzt",
     "city": "Freiburg",
@@ -115,7 +115,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-28T13:45:36.406726+00:00",
+    "generated_at": "2026-09-29T12:44:39.910790+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -135,13 +135,13 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-28T13:45:36.406726+00:00",
+    "generated_at": "2026-09-29T12:44:39.910790+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
   {
     "lead_id": "zahnarzt münchen - dr. desmyttère msc, msc | smileforever|muenchen|https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
-    "airtable_record_id": "recA9gxgEZAWUbWrb",
+    "airtable_record_id": "recvBsZ7u1Btl2adN",
     "company_name": "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
     "industry": "Zahnarzt",
     "city": "Muenchen",
@@ -155,13 +155,13 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-28T13:45:36.406726+00:00",
+    "generated_at": "2026-09-29T12:44:39.910790+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
   {
     "lead_id": "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
-    "airtable_record_id": "rect2XUN49vFLVR3j",
+    "airtable_record_id": "recnd3gw5swmx0Azr",
     "company_name": "AllDent Zahnzentrum München Ost",
     "industry": "Zahnarzt",
     "city": "Muenchen",
@@ -175,7 +175,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-28T13:45:36.406726+00:00",
+    "generated_at": "2026-09-29T12:44:39.910790+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -195,7 +195,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-28T13:45:36.406726+00:00",
+    "generated_at": "2026-09-29T12:44:39.910790+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   }

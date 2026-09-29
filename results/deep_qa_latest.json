@@ -1,76 +1,7 @@
 {
-  "results": [
-    {
-      "lead_id": "zahngesundheitszentrum dr. berand|muenchen|http://www.zahn-gesundheitszentrum.de/",
-      "company_name": "Zahngesundheitszentrum Dr. Berand",
-      "industry": "Zahnarzt",
-      "city": "Muenchen",
-      "source_total_score": 82,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Zahngesundheitszentrum+Dr.+Berand/data=!4m7!3m6!1s0x479e7620978c0087:0x80c23a8a1246ec30!8m2!3d48.1410144!4d11.5195641!16s%2Fg%2F11g65fsc_g!19sChIJhwCMlyB2nkcRMOxGEoo6woA?authuser=0&hl=de&g_ep=EgoyMDI2MDkyMy4wIJJjKgBIAVAD&rclk=1",
-      "website": "http://www.zahn-gesundheitszentrum.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.zahn-gesundheitszentrum.de/",
-        "booking_link": null,
-        "social_links": [
-          "https://www.facebook.com/"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [],
-        "website_evidence": [
-          "Active social-link footprint observed (1 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "kontakt@zahn-gesundheitszentrum.de",
-        "email_source_url": "https://www.zahn-gesundheitszentrum.de/kontakt/kontakt/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-09-27T15:40:47.255566+00:00"
-      },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 84,
-      "deep_qa_verified_signals": [
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Google review count is missing; never interpret this as zero."
-      ],
-      "primary_sales_angle_verified": "Business website links to at least one social profile.",
-      "proof": [
-        "Business website links to at least one social profile."
-      ],
-      "email": "kontakt@zahn-gesundheitszentrum.de",
-      "email_source_url": "https://www.zahn-gesundheitszentrum.de/kontakt/kontakt/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-09-27T15:40:47.255566+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-09-27",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    }
-  ],
+  "results": [],
   "state": {
-    "runs": 46,
+    "runs": 47,
     "processed_ids": [
       "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
       "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
@@ -247,7 +178,7 @@
     ],
     "processed_count": 172,
     "remaining_eligible": 0,
-    "last_batch_count": 1,
+    "last_batch_count": 0,
     "final_a_total": 61,
     "final_b_total": 109,
     "email_ready_total": 48,

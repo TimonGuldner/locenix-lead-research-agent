@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-30T12:28:37.837218+00:00",
+  "last_run_at": "2026-09-30T13:40:48.397322+00:00",
   "department_status": "BACKLOG",
   "next_agent": "outreach_controller",
   "reason": "Airtable-ready email-qualified leads are missing outreach drafts.",
@@ -12,7 +12,7 @@
   "research_unqa": 0,
   "maps_learning_available": true,
   "maps_learning_status": "OK",
-  "maps_learning_runs": 79,
+  "maps_learning_runs": 80,
   "maps_learning_recommended_industry": "Tierarzt",
   "maps_learning_recommended_city": "Muenchen",
   "maps_learning_errors": 0,
@@ -26,5 +26,5 @@
   "email_trial_interest": 0,
   "email_human_reviews_required": 0,
   "email_errors": 0,
-  "email_last_run_at": "2026-09-30T07:07:56.282645+00:00"
+  "email_last_run_at": "2026-09-30T13:40:21.181430+00:00"
 }

@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 79,
-  "focus": "industry_exploitation",
+  "learning_run_count": 80,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Kiel",
-    "Leipzig",
-    "Luebeck"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Physiotherapie",
+    "Kosmetikstudio",
+    "Immobilienmakler"
   ],
   "selected_pairs": [
     {
-      "city": "Kiel",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Kiel"
+      "city": "Muenchen",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Muenchen"
     },
     {
-      "city": "Leipzig",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Leipzig"
+      "city": "Muenchen",
+      "industry": "Kosmetikstudio",
+      "query": "Kosmetikstudio Muenchen"
     },
     {
-      "city": "Luebeck",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Luebeck"
+      "city": "Muenchen",
+      "industry": "Immobilienmakler",
+      "query": "Immobilienmakler Muenchen"
     }
   ],
   "queries_per_run": 3

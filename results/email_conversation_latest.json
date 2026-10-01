@@ -8,23 +8,17 @@
     "auto_reply_enabled": true,
     "received_scanned": 15,
     "handled": 0,
-    "unmatched": 1,
-    "duplicates_skipped": 14,
+    "unmatched": 0,
+    "duplicates_skipped": 15,
     "errors": 0,
     "positive_replies": 0,
     "trial_interest": 0,
     "human_reviews_required": 0,
     "processed_message_ids_total": 15,
-    "last_run_at": "2026-10-01T15:00:04.346954+00:00"
+    "last_run_at": "2026-10-01T20:17:01.128300+00:00"
   },
   "handled": [],
-  "unmatched": [
-    {
-      "message_id": "<1790854118998.5a08eb45-42f4-4e8d-a721-01563819e79f@bf58x.hubspotemail.net>",
-      "from": "advertising@redditads.com",
-      "subject": "Did you know you have access to Reddit Pro?"
-    }
-  ],
+  "unmatched": [],
   "duplicates": [
     "<CA+cRC5Y3evN1QwSf_ZjK=rXwNC69iYECCQY8XCs0MSoaopH_Xg@mail.gmail.com>",
     "<CA+cRC5b4bvL9a0L8=OsEhOTUy55RVQ6mpMO1+sGLGXhxSXPJjw@mail.gmail.com>",
@@ -39,7 +33,8 @@
     "<1790075645582.3bd5f285-cc76-4acb-b04b-f4f9a8b2eddf@bf58x.hubspotemail.net>",
     "<5b2156328b9f78fe63bebc020477e4a9b0ebfcd3-20155512-110937460@google.com>",
     "<1790248447819.82d2d55c-6843-4623-9f40-01df442aca80@bf58x.hubspotemail.net>",
-    "<1790594014600.ea0a78bc-5112-4dcc-964b-cbaeb190ac26@bf58x.hubspotemail.net>"
+    "<1790594014600.ea0a78bc-5112-4dcc-964b-cbaeb190ac26@bf58x.hubspotemail.net>",
+    "<1790854118998.5a08eb45-42f4-4e8d-a721-01563819e79f@bf58x.hubspotemail.net>"
   ],
   "errors": []
 }

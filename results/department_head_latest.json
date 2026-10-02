@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-10-02T12:26:48.601422+00:00",
+  "generated_at": "2026-10-02T16:39:07.621326+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 192,
@@ -12,10 +12,10 @@
     "research_unqa": 0,
     "maps_learning_available": true,
     "maps_learning_status": "OK",
-    "maps_learning_runs": 81,
+    "maps_learning_runs": 82,
     "maps_learning_evaluated": 192,
     "maps_learning_downstream_evidence": 172,
-    "maps_learning_recommended_industry": "Tierarzt",
+    "maps_learning_recommended_industry": "Zahnarzt",
     "maps_learning_recommended_city": "Muenchen",
     "maps_learning_errors": 0,
     "qa_remaining": 0,
@@ -51,7 +51,7 @@
     "email_positive_replies": 0,
     "email_trial_interest": 0,
     "email_human_reviews_required": 0,
-    "email_last_run_at": "2026-10-02T11:13:10.654478+00:00",
+    "email_last_run_at": "2026-10-02T16:38:35.520719+00:00",
     "departments_total": 1,
     "departments_proposed": 0,
     "agents_total": 10,
@@ -71,10 +71,10 @@
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
     "available": true,
     "status": "OK",
-    "learning_runs": 81,
+    "learning_runs": 82,
     "research_leads_evaluated": 192,
     "leads_with_downstream_evidence": 172,
-    "recommended_industry": "Tierarzt",
+    "recommended_industry": "Zahnarzt",
     "recommended_city": "Muenchen",
     "errors": 0
   },
@@ -92,7 +92,7 @@
       "trial_interest": 0,
       "human_reviews_required": 0,
       "errors": 0,
-      "last_run_at": "2026-10-02T11:13:10.654478+00:00"
+      "last_run_at": "2026-10-02T16:38:35.520719+00:00"
     }
   },
   "departments": [

@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 82,
-  "focus": "city_exploitation",
+  "learning_run_count": 83,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen"
+    "Oberhausen",
+    "Rostock",
+    "Siegburg"
   ],
   "selected_industries": [
-    "Autowerkstatt",
-    "Immobilienmakler",
-    "Beauty Aesthetik"
+    "Zahnarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
-      "industry": "Autowerkstatt",
-      "query": "Autowerkstatt Muenchen"
+      "city": "Oberhausen",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Oberhausen"
     },
     {
-      "city": "Muenchen",
-      "industry": "Immobilienmakler",
-      "query": "Immobilienmakler Muenchen"
+      "city": "Rostock",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Rostock"
     },
     {
-      "city": "Muenchen",
-      "industry": "Beauty Aesthetik",
-      "query": "Beauty Aesthetik Muenchen"
+      "city": "Siegburg",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Siegburg"
     }
   ],
   "queries_per_run": 3

@@ -1,14 +1,14 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-10-02T23:46:32.335425+00:00",
-    "status": "PARTIAL",
+    "last_run_at": "2026-10-03T05:17:30.828113+00:00",
+    "status": "OK",
     "signals_added": 0,
     "stale_signals_removed": 0,
-    "pages_checked": 6,
+    "pages_checked": 8,
     "blocked_pages": 0,
     "human_action_required": 0,
-    "errors": 2,
+    "errors": 0,
     "learning_config_used": true,
     "queries_planned": 8,
     "blocked_domains_learned": 0
@@ -25,14 +25,5 @@
   ],
   "added": [],
   "blockers": [],
-  "errors": [
-    {
-      "query": "\"Local SEO\" Projekt Deutschland Freelancer",
-      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=%22Local%20SEO%22%20Projekt%20Deutschland%20Freelancer\nCall log:\n  - navigating to \"https://www.bing.com/search?q=%22Local%20SEO%22%20Projekt%20Deutschland%20Freelancer\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "query": "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
-      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=%22Google%20Maps%22%20Ranking%20Hilfe%20Unternehmen%20Deutschland\nCall log:\n  - navigating to \"https://www.bing.com/search?q=%22Google%20Maps%22%20Ranking%20Hilfe%20Unternehmen%20Deutschland\", waiting until \"domcontentloaded\"\n"
-    }
-  ]
+  "errors": []
 }

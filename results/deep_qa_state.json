@@ -1,5 +1,5 @@
 {
-  "runs": 51,
+  "runs": 52,
   "processed_ids": [
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
     "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
@@ -180,9 +180,5 @@
   "final_a_total": 61,
   "final_b_total": 109,
   "email_ready_total": 48,
-  "email_missing_total": 37,
-  "email_gate_qualified_total": 133,
-  "email_missing_excluded_total": 37,
-  "downstream_eligible_total": 133,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "email_missing_total": 37
 }

@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-10-04T12:16:22.971408+00:00",
+  "last_run_at": "2026-10-04T15:59:20.809899+00:00",
   "department_status": "BACKLOG",
   "next_agent": "outreach_controller",
   "reason": "Airtable-ready email-qualified leads are missing outreach drafts.",
@@ -12,7 +12,7 @@
   "research_unqa": 0,
   "maps_learning_available": true,
   "maps_learning_status": "OK",
-  "maps_learning_runs": 83,
+  "maps_learning_runs": 84,
   "maps_learning_recommended_industry": "Zahnarzt",
   "maps_learning_recommended_city": "Muenchen",
   "maps_learning_errors": 0,
@@ -26,5 +26,5 @@
   "email_trial_interest": 0,
   "email_human_reviews_required": 0,
   "email_errors": 0,
-  "email_last_run_at": "2026-10-04T11:39:18.072079+00:00"
+  "email_last_run_at": "2026-10-04T15:58:57.339983+00:00"
 }

@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 83,
-  "focus": "industry_exploitation",
-  "exploration": false,
+  "learning_run_count": 84,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Oberhausen",
-    "Rostock",
-    "Siegburg"
+    "Heidelberg",
+    "Kiel",
+    "Luebeck"
   ],
   "selected_industries": [
-    "Zahnarzt"
+    "Kosmetikstudio"
   ],
   "selected_pairs": [
     {
-      "city": "Oberhausen",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Oberhausen"
+      "city": "Heidelberg",
+      "industry": "Kosmetikstudio",
+      "query": "Kosmetikstudio Heidelberg"
     },
     {
-      "city": "Rostock",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Rostock"
+      "city": "Kiel",
+      "industry": "Kosmetikstudio",
+      "query": "Kosmetikstudio Kiel"
     },
     {
-      "city": "Siegburg",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Siegburg"
+      "city": "Luebeck",
+      "industry": "Kosmetikstudio",
+      "query": "Kosmetikstudio Luebeck"
     }
   ],
   "queries_per_run": 3

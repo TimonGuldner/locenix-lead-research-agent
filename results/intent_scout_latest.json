@@ -1,62 +1,22 @@
 {
   "state": {
     "agent": "AGENT_15A_INTENT_SCOUT",
-    "last_run_at": "2026-10-04T21:23:18.878562+00:00",
+    "last_run_at": "2026-10-05T00:55:28.559213+00:00",
     "signals_found": 23,
     "new_signals": 0,
     "unreviewed": 23,
-    "queries_run": 11,
-    "errors": 11,
+    "queries_run": 8,
+    "errors": 2,
     "query_errors": [
       {
-        "provider": "reddit_api",
-        "query": "Google Unternehmensprofil",
-        "error": "HTTP Error 403: Blocked"
-      },
-      {
-        "provider": "reddit_api",
-        "query": "Google Maps Local SEO",
-        "error": "HTTP Error 403: Blocked"
-      },
-      {
-        "provider": "reddit_api",
-        "query": "Google Business Profile",
-        "error": "HTTP Error 403: Blocked"
-      },
-      {
-        "provider": "jina_search",
+        "provider": "duckduckgo",
         "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
-        "error": "HTTP Error 401: Unauthorized"
+        "error": "<urlopen error [Errno 104] Connection reset by peer>"
       },
       {
-        "provider": "jina_search",
+        "provider": "duckduckgo",
         "query": "\"Local SEO\" Projekt Deutschland Freelancer",
-        "error": "HTTP Error 401: Unauthorized"
-      },
-      {
-        "provider": "jina_search",
-        "query": "\"Google Business Profile\" German Local SEO freelancer job",
-        "error": "HTTP Error 401: Unauthorized"
-      },
-      {
-        "provider": "jina_search",
-        "query": "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
-        "error": "HTTP Error 401: Unauthorized"
-      },
-      {
-        "provider": "jina_search",
-        "query": "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
-        "error": "HTTP Error 401: Unauthorized"
-      },
-      {
-        "provider": "jina_search",
-        "query": "site:upwork.com/freelance-jobs \"Local SEO\" Germany",
-        "error": "HTTP Error 401: Unauthorized"
-      },
-      {
-        "provider": "jina_search",
-        "query": "site:freelancermap.de \"Local SEO\"",
-        "error": "HTTP Error 401: Unauthorized"
+        "error": "<urlopen error [Errno 104] Connection reset by peer>"
       }
     ],
     "provider_hits": {
@@ -65,7 +25,10 @@
       "jina_search": 0,
       "duckduckgo": 0
     },
-    "providers_skipped_by_learning": [],
+    "providers_skipped_by_learning": [
+      "jina_search",
+      "reddit_api"
+    ],
     "learning_config_used": true,
     "sources": [
       "aloma.de",

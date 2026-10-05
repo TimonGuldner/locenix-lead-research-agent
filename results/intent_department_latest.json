@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
   "parent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-10-04T21:24:03.475036+00:00",
+  "generated_at": "2026-10-05T00:55:50.827292+00:00",
   "department_status": "ATTENTION",
   "next_agent": "intent_scout",
   "reason": "intent_scout reports unresolved errors and should be inspected before scaling.",
@@ -19,74 +19,34 @@
     "browser_fallback_added": 0,
     "browser_stale_removed": 0,
     "transport_errors_recovered": 0,
-    "learning_runs": 91,
+    "learning_runs": 92,
     "learning_queries": 4,
     "learning_sources": 14,
     "learning_boosted_queries": 4,
     "learning_paused_queries": 0,
     "learning_provider_cooldowns": 2,
     "human_action_required": 0,
-    "errors": 14
+    "errors": 3
   },
   "children": {
     "intent_scout": {
       "agent": "AGENT_15A_INTENT_SCOUT",
-      "last_run_at": "2026-10-04T21:23:18.878562+00:00",
+      "last_run_at": "2026-10-05T00:55:28.559213+00:00",
       "signals_found": 23,
       "new_signals": 0,
       "unreviewed": 23,
-      "queries_run": 11,
-      "errors": 11,
+      "queries_run": 8,
+      "errors": 2,
       "query_errors": [
         {
-          "provider": "reddit_api",
-          "query": "Google Unternehmensprofil",
-          "error": "HTTP Error 403: Blocked"
-        },
-        {
-          "provider": "reddit_api",
-          "query": "Google Maps Local SEO",
-          "error": "HTTP Error 403: Blocked"
-        },
-        {
-          "provider": "reddit_api",
-          "query": "Google Business Profile",
-          "error": "HTTP Error 403: Blocked"
-        },
-        {
-          "provider": "jina_search",
+          "provider": "duckduckgo",
           "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
-          "error": "HTTP Error 401: Unauthorized"
+          "error": "<urlopen error [Errno 104] Connection reset by peer>"
         },
         {
-          "provider": "jina_search",
+          "provider": "duckduckgo",
           "query": "\"Local SEO\" Projekt Deutschland Freelancer",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "\"Google Business Profile\" German Local SEO freelancer job",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "site:upwork.com/freelance-jobs \"Local SEO\" Germany",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "site:freelancermap.de \"Local SEO\"",
-          "error": "HTTP Error 401: Unauthorized"
+          "error": "<urlopen error [Errno 104] Connection reset by peer>"
         }
       ],
       "provider_hits": {
@@ -95,7 +55,10 @@
         "jina_search": 0,
         "duckduckgo": 0
       },
-      "providers_skipped_by_learning": [],
+      "providers_skipped_by_learning": [
+        "jina_search",
+        "reddit_api"
+      ],
       "learning_config_used": true,
       "sources": [
         "aloma.de",
@@ -116,21 +79,21 @@
     },
     "browser_fallback": {
       "agent": "AGENT_15A_BROWSER_FALLBACK",
-      "last_run_at": "2026-10-04T21:23:22.364022+00:00",
+      "last_run_at": "2026-10-05T00:55:29.581187+00:00",
       "status": "PARTIAL",
       "signals_added": 0,
       "stale_signals_removed": 0,
-      "pages_checked": 5,
+      "pages_checked": 7,
       "blocked_pages": 0,
       "human_action_required": 0,
-      "errors": 3,
+      "errors": 1,
       "learning_config_used": true,
       "queries_planned": 8,
       "blocked_domains_learned": 0
     },
     "intent_qa": {
       "agent": "AGENT_15B_INTENT_QA",
-      "last_run_at": "2026-10-04T21:23:27.416308+00:00",
+      "last_run_at": "2026-10-05T00:55:33.513146+00:00",
       "pending": 0,
       "hot": 19,
       "warm": 4,
@@ -144,7 +107,7 @@
     "platform_access": {},
     "intent_response": {
       "agent": "AGENT_15D_INTENT_RESPONSE",
-      "last_run_at": "2026-10-04T21:23:50.170387+00:00",
+      "last_run_at": "2026-10-05T00:55:46.755344+00:00",
       "prepared": 23,
       "new_prepared": 0,
       "pending": 0,
@@ -155,9 +118,9 @@
     "intent_conversation": {},
     "intent_learning": {
       "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-      "last_run_at": "2026-10-04T21:23:50.238476+00:00",
+      "last_run_at": "2026-10-05T00:55:46.837143+00:00",
       "status": "OK",
-      "learning_run_count": 91,
+      "learning_run_count": 92,
       "evaluated_opportunities": 23,
       "queries_learned": 4,
       "sources_learned": 14,

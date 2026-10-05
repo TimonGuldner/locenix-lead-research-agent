@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-10-04T21:24:03.475036+00:00",
+  "last_run_at": "2026-10-05T00:55:50.827292+00:00",
   "department_status": "ATTENTION",
   "next_agent": "intent_scout",
   "reason": "intent_scout reports unresolved errors and should be inspected before scaling.",
@@ -16,12 +16,12 @@
   "browser_fallback_added": 0,
   "browser_stale_removed": 0,
   "transport_errors_recovered": 0,
-  "learning_runs": 91,
+  "learning_runs": 92,
   "learning_queries": 4,
   "learning_sources": 14,
   "learning_boosted_queries": 4,
   "learning_paused_queries": 0,
   "learning_provider_cooldowns": 2,
   "human_action_required": 0,
-  "errors": 14
+  "errors": 3
 }

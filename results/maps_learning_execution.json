@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 84,
-  "focus": "exploration",
-  "exploration": true,
+  "learning_run_count": 85,
+  "focus": "industry_exploitation",
+  "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Heidelberg",
-    "Kiel",
-    "Luebeck"
+    "Siegburg",
+    "Troisdorf",
+    "Wiesbaden"
   ],
   "selected_industries": [
-    "Kosmetikstudio"
+    "Zahnarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Heidelberg",
-      "industry": "Kosmetikstudio",
-      "query": "Kosmetikstudio Heidelberg"
+      "city": "Siegburg",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Siegburg"
     },
     {
-      "city": "Kiel",
-      "industry": "Kosmetikstudio",
-      "query": "Kosmetikstudio Kiel"
+      "city": "Troisdorf",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Troisdorf"
     },
     {
-      "city": "Luebeck",
-      "industry": "Kosmetikstudio",
-      "query": "Kosmetikstudio Luebeck"
+      "city": "Wiesbaden",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Wiesbaden"
     }
   ],
   "queries_per_run": 3

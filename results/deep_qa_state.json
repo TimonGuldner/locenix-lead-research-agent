@@ -1,5 +1,5 @@
 {
-  "runs": 54,
+  "runs": 55,
   "processed_ids": [
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
     "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
@@ -163,6 +163,7 @@
     "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
     "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
     "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "zahnarzt münchen - dental21|muenchen|https://www.dental21-olympiapark.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
     "zahnarzt münchen - dr. desmyttère msc, msc | smileforever|muenchen|https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
     "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
     "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/",
@@ -174,15 +175,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 172,
+  "processed_count": 173,
   "remaining_eligible": 0,
-  "last_batch_count": 0,
+  "last_batch_count": 1,
   "final_a_total": 61,
-  "final_b_total": 109,
+  "final_b_total": 110,
   "email_ready_total": 48,
-  "email_missing_total": 37,
-  "email_gate_qualified_total": 133,
-  "email_missing_excluded_total": 37,
-  "downstream_eligible_total": 133,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "email_missing_total": 37
 }

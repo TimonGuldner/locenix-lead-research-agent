@@ -2149,6 +2149,81 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "zahnarzt münchen - dental21|muenchen|https://www.dental21-olympiapark.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "company_name": "Zahnarzt München - Dental21",
+    "industry": "Zahnarzt",
+    "city": "Muenchen",
+    "source_total_score": 89,
+    "source_lead_class": "A_LEAD",
+    "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+M%C3%BCnchen+-+Dental21/data=!4m7!3m6!1s0x479e76888e294ac3:0xf4eb27f00795f2ab!8m2!3d48.180462!4d11.552141!16s%2Fg%2F1v_sm74f!19sChIJw0opjoh2nkcRq_KVB_An6_Q?authuser=0&hl=de&g_ep=EgoyMDI2MTAwNS4wIJJjKgBIAVAD&rclk=1",
+    "website": "https://www.dental21-olympiapark.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "maps_check": {
+      "maps_accessible": true,
+      "maps_profile_closed": false,
+      "maps_text_observed": true,
+      "posts_signal": "NOT_OBSERVED",
+      "photos_signal": "OBSERVED",
+      "booking_signal": "OBSERVED",
+      "website_link_observed": true,
+      "phone_observed": true,
+      "address_observed": true,
+      "maps_evidence": [
+        "Website link observed on Google Maps profile.",
+        "Phone action observed on Google Maps profile."
+      ]
+    },
+    "website_check": {
+      "website_accessible": true,
+      "website_final_url": "https://www.dental21-olympiapark.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+      "booking_link": null,
+      "social_links": [
+        "https://www.facebook.com/dental21.de",
+        "https://www.instagram.com/dental21_de/",
+        "https://de.linkedin.com/company/dental21"
+      ],
+      "contact_page_observed": true,
+      "website_service_matches": [
+        "implantate",
+        "prophylaxe",
+        "bleaching",
+        "parodontologie"
+      ],
+      "website_evidence": [
+        "Active social-link footprint observed (3 link(s)).",
+        "Contact/imprint page observed on website.",
+        "Public business email observed on company website/contact/imprint page."
+      ],
+      "email": "info@dental21-olympiapark.de",
+      "email_source_url": "https://www.dental21-olympiapark.de/impressum",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "email_found_at": "2026-10-08T13:48:31.285584+00:00"
+    },
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 94,
+    "deep_qa_verified_signals": [
+      {
+        "type": "digital_maturity_social",
+        "proof": "Business website links to at least one social profile."
+      }
+    ],
+    "deep_qa_blockers": [],
+    "deep_qa_cautions": [
+      "Google review count is missing; never interpret this as zero."
+    ],
+    "primary_sales_angle_verified": "Business website links to at least one social profile.",
+    "proof": [
+      "Business website links to at least one social profile."
+    ],
+    "email": "info@dental21-olympiapark.de",
+    "email_source_url": "https://www.dental21-olympiapark.de/impressum",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "email_found_at": "2026-10-08T13:48:31.285584+00:00",
+    "airtable_ready": false,
+    "qa_date": "2026-10-08",
+    "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "turna kfz werkstatt berlin|berlin|https://www.kfzwerkstattinberlin.de/",
     "company_name": "Turna KFZ Werkstatt Berlin",
     "industry": "Autowerkstatt",

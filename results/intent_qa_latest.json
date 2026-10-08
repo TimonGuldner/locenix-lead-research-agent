@@ -1,7 +1,7 @@
 {
   "state": {
     "agent": "AGENT_15B_INTENT_QA",
-    "last_run_at": "2026-10-08T00:12:24.773624+00:00",
+    "last_run_at": "2026-10-08T06:01:50.605170+00:00",
     "pending": 0,
     "hot": 19,
     "warm": 4,
@@ -88,8 +88,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "recFoTex2rheVb1Zp"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recwb72IcIcv0riE5"
     },
     {
       "signal_id": "intent-1a64f0f7eecea5df",
@@ -112,8 +112,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "rec8ubwYbNGYLzxxj"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recyGOD4smxNWLylM"
     },
     {
       "signal_id": "intent-2011b4a6ecb7adae",
@@ -136,8 +136,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "receJ8DhUglZaFnfA"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recoU3sw5RAZwMePx"
     },
     {
       "signal_id": "intent-2d262a0f2b2d9bd4",
@@ -160,8 +160,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "recM2O29495554ZbI"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "reci6JuNwkUfYgHYW"
     },
     {
       "signal_id": "intent-bcbc1f7a5e477b76",
@@ -184,8 +184,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "recMY45QlULmJM16a"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recMmvCl3FsTjm0Os"
     },
     {
       "signal_id": "intent-72356faa6df8e726",
@@ -208,8 +208,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "recZZJrl0qXIT3K69"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recMPbvAK6S14AUML"
     },
     {
       "signal_id": "intent-597644a0bdf58703",
@@ -232,8 +232,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "recXFYmvz3603LM6z"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recDycqehf8HzE3w0"
     },
     {
       "signal_id": "intent-014890ef2627ed38",
@@ -256,8 +256,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "recJbYbbwf9FAuqnQ"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "reciLriAseD5zNgy6"
     },
     {
       "signal_id": "intent-831983a748b2ab68",
@@ -280,8 +280,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "recTPsucZIPkoiCsq"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "reclQyQTREseqrqVy"
     },
     {
       "signal_id": "intent-e4535c08a79d6e21",
@@ -304,8 +304,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "rec9mycatxnJt5U6t"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recT13XWrvbZSiLjN"
     },
     {
       "signal_id": "intent-75380c82bceafb1e",
@@ -328,8 +328,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "reclY6X3Ly3sz6gWT"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recyG7v83vl6DHmGG"
     },
     {
       "signal_id": "intent-d665286f0debdc3e",
@@ -352,8 +352,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "recWO2doIgkJzj9qP"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "rec7QtCOcg03GdhHf"
     },
     {
       "signal_id": "intent-59c327811eaffb64",
@@ -376,8 +376,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "rec5mIAJvixdDxVrd"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recCpFddG1VFWbqkq"
     },
     {
       "signal_id": "intent-8dad94b0095cbb47",
@@ -400,8 +400,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "recDtfZYxmaUUaseQ"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "reczM3yH7qrKmzdJO"
     },
     {
       "signal_id": "intent-c47f0ef59137f521",
@@ -424,8 +424,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "rec6SS50X88BBOr3j"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recRXuDVUDsz7OXWP"
     },
     {
       "signal_id": "intent-57a7954d9623960a",
@@ -448,8 +448,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "recS9lhocq1aqDxp7"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "rec8osBUNElRetqWM"
     },
     {
       "signal_id": "intent-72c86ea922186325",
@@ -472,8 +472,8 @@
       "tier": "WARM",
       "intent_score": 95,
       "qa_reason": "Relevant marketplace/project listing; explicit demand language is weak in extracted text.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "recE1ChwtK5Aph4JT"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recn9JNmvya7gDqZ9"
     },
     {
       "signal_id": "intent-5c6c585d4e8a1789",
@@ -496,8 +496,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "recRA3VVajvzmVugz"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recyRB894Z0RZbeqh"
     },
     {
       "signal_id": "intent-f198ac762f25f40f",
@@ -520,8 +520,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "recJHfwakgG8n3qfD"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recGhKluBs6sgeWxB"
     },
     {
       "signal_id": "intent-abc58def3a39240a",
@@ -544,8 +544,8 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-08T00:12:24.773624+00:00",
-      "airtable_record_id": "rec9Cu4t7rBn3uSTx"
+      "qa_at": "2026-10-08T06:01:50.605170+00:00",
+      "airtable_record_id": "recLeAMmd8io8atiX"
     }
   ]
 }

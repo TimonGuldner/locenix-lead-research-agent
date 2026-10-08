@@ -70,7 +70,7 @@
       "queue_date": "2026-10-08",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "reciwKnbNmrYAtrOp"
+      "airtable_record_id": "recM8FBW1aMQ7wcV8"
     },
     {
       "lead_id": "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
@@ -105,7 +105,7 @@
       "queue_date": "2026-10-08",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recowSAAlsxZ4eb9e"
+      "airtable_record_id": "recqVtvhkqkNxrR1f"
     },
     {
       "lead_id": "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
@@ -141,7 +141,7 @@
       "queue_date": "2026-10-08",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recvX0XIr8xld0qKs"
+      "airtable_record_id": "recIGoZJnxqXkPfZ1"
     },
     {
       "lead_id": "lunavet - tierarztpraxis in dresden|dresden|https://luna-vet.de/",
@@ -213,7 +213,7 @@
       "queue_date": "2026-10-08",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "rec5aUD4QhLiB6Oga"
+      "airtable_record_id": "recBHovqC4S2jhBAj"
     },
     {
       "lead_id": "tierarztpraxis felmo frankfurt am main|frankfurt am main|https://felmo.de/tierarztpraxis/frankfurt?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
@@ -285,7 +285,7 @@
       "queue_date": "2026-10-08",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recgZupkwmhrebBkw"
+      "airtable_record_id": "rec5BZSoqQTybx2mM"
     },
     {
       "lead_id": "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
@@ -320,7 +320,7 @@
       "queue_date": "2026-10-08",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "rec2PeRiU7B5C1I10"
+      "airtable_record_id": "recKtZ3JW0PiAveGt"
     },
     {
       "lead_id": "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
@@ -391,7 +391,7 @@
       "queue_date": "2026-10-08",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recQv8HvjB4am3BGy"
+      "airtable_record_id": "reccaQPQRY77JtUUM"
     },
     {
       "lead_id": "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -807,7 +807,7 @@
       "queue_date": "2026-10-08",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recoif0oKrrHCO63a"
+      "airtable_record_id": "rec3qLprDLhWM3Dhi"
     },
     {
       "lead_id": "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
@@ -843,7 +843,7 @@
       "queue_date": "2026-10-08",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recrYXFF49sgXVABB"
+      "airtable_record_id": "recpvWTkTgZpKJQgh"
     },
     {
       "lead_id": "hundesalon paws and tails kreuzberg|berlin|https://www.paws-tails.eu/",
@@ -883,19 +883,19 @@
     }
   ],
   "state": {
-    "queue_count": 133,
+    "queue_count": 134,
     "airtable_ready_count": 48,
-    "email_ready_count": 133,
+    "email_ready_count": 134,
     "email_missing_count": 0,
     "hard_email_gate_rejected_count": 37,
     "downstream_email_gate_violations": 0,
     "airtable_created": 23,
     "airtable_updated": 25,
-    "airtable_skipped": 85,
+    "airtable_skipped": 86,
     "airtable_errors": [],
-    "priority_a_count": 133,
+    "priority_a_count": 134,
     "priority_b_count": 0,
-    "visibility_pending_count": 0,
+    "visibility_pending_count": 1,
     "last_run_date": "2026-10-08",
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_DOWNSTREAM_HANDOFF"
   }

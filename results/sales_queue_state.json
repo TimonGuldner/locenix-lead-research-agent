@@ -1,17 +1,17 @@
 {
-  "queue_count": 133,
+  "queue_count": 134,
   "airtable_ready_count": 48,
-  "email_ready_count": 133,
+  "email_ready_count": 134,
   "email_missing_count": 0,
   "hard_email_gate_rejected_count": 37,
   "downstream_email_gate_violations": 0,
   "airtable_created": 23,
   "airtable_updated": 25,
-  "airtable_skipped": 85,
+  "airtable_skipped": 86,
   "airtable_errors": [],
-  "priority_a_count": 133,
+  "priority_a_count": 134,
   "priority_b_count": 0,
-  "visibility_pending_count": 0,
+  "visibility_pending_count": 1,
   "last_run_date": "2026-10-08",
   "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_DOWNSTREAM_HANDOFF"
 }

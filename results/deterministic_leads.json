@@ -1716,6 +1716,103 @@
     "final_qa_required": true
   },
   {
+    "company_name": "Zahnarzt München - Dental21",
+    "industry": "Zahnarzt",
+    "city": "Muenchen",
+    "address": "Connollystraße 4, 80809 München, Deutschland",
+    "website": "https://www.dental21-olympiapark.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+M%C3%BCnchen+-+Dental21/data=!4m7!3m6!1s0x479e76888e294ac3:0xf4eb27f00795f2ab!8m2!3d48.180462!4d11.552141!16s%2Fg%2F1v_sm74f!19sChIJw0opjoh2nkcRq_KVB_An6_Q?authuser=0&hl=de&g_ep=EgoyMDI2MTAwNS4wIJJjKgBIAVAD&rclk=1",
+    "phone": "+49 89 3547740",
+    "public_business_email": "info@dental21-olympiapark.de",
+    "email_source_url": "https://www.dental21-olympiapark.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "contact_form_url": null,
+    "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
+    "google_rating": 5.0,
+    "google_review_count": null,
+    "main_category": "Zahnarzt",
+    "website_services": [
+      "implantate",
+      "prophylaxe",
+      "bleaching",
+      "invisalign",
+      "parodontologie",
+      "wurzelbehandlung"
+    ],
+    "google_visible_services": [],
+    "service_gap": [],
+    "service_visibility_candidates": [
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie"
+    ],
+    "service_gap_status": "UNVERIFIED",
+    "competitor_1": "AllDent Zahnzentrum München",
+    "competitor_1_reviews": 8397,
+    "competitor_2": null,
+    "competitor_2_reviews": null,
+    "verified_optimization_signals": [
+      {
+        "type": "review_gap",
+        "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8397; Gap 8397."
+      },
+      {
+        "type": "low_review_volume",
+        "proof": "Nur 0 Google-Bewertungen."
+      }
+    ],
+    "soft_optimization_signals": [
+      {
+        "type": "service_visibility_candidate",
+        "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie",
+        "verification": "REQUIRES_FINAL_QA"
+      }
+    ],
+    "verified_signal_count": 2,
+    "report_potential_score": 28,
+    "visible_value_score": 14,
+    "maps_importance_score": 14,
+    "customer_value_score": 8,
+    "competitive_pressure_score": 10,
+    "digital_readiness_score": 10,
+    "saas_fit_score": 5,
+    "total_score": 89,
+    "competitor_review_median": 8397,
+    "review_gap": 8397,
+    "grade": "A",
+    "lead_class": "A_LEAD",
+    "qa_gate": "PASS_PRE_AIRTABLE_QA",
+    "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8397; Gap 8397.",
+    "proof": [
+      "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8397; Gap 8397.",
+      "Nur 0 Google-Bewertungen.",
+      "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, prophylaxe, bleaching, invisalign, parodontologie"
+    ],
+    "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
+    "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8397; Gap 8397.",
+    "second_outreach_angle": "Nur 0 Google-Bewertungen.",
+    "research_notes": "Deterministic research v2. Query: Zahnarzt Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
+    "research_date": "2026-10-08",
+    "research_status": "QUALIFIED",
+    "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
+    "outreach_status": "NOT_CONTACTED",
+    "purchase_likelihood_score": 9,
+    "purchase_likelihood_reasons": [
+      "eigene Website",
+      "öffentlicher Geschäftskontakt",
+      "hohe digitale Reife",
+      "klarer Wettbewerbsdruck"
+    ],
+    "contact_quality_score": 9,
+    "contact_quality_reasons": [
+      "public business email",
+      "phone",
+      "working website candidate"
+    ],
+    "signal_confidence": "MEDIUM",
+    "obvious_chain_candidate": false,
+    "why_now": "Lokaler Wettbewerbsdruck: Review-Gap 8397; Kaufwahrscheinlichkeit 9/10; Kontaktqualität 9/10.",
+    "airtable_ready": false,
+    "final_qa_required": true
+  },
+  {
     "company_name": "Immobilienmakler Köln",
     "industry": "Immobilienmakler",
     "city": "Koeln",

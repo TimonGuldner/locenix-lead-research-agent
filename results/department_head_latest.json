@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-10-09T13:10:19.682440+00:00",
+  "generated_at": "2026-10-09T16:35:26.218164+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 193,
@@ -12,9 +12,9 @@
     "research_unqa": 0,
     "maps_learning_available": true,
     "maps_learning_status": "OK",
-    "maps_learning_runs": 87,
-    "maps_learning_evaluated": 192,
-    "maps_learning_downstream_evidence": 172,
+    "maps_learning_runs": 88,
+    "maps_learning_evaluated": 193,
+    "maps_learning_downstream_evidence": 173,
     "maps_learning_recommended_industry": "Zahnarzt",
     "maps_learning_recommended_city": "Muenchen",
     "maps_learning_errors": 0,
@@ -44,14 +44,14 @@
     "email_daily_gap": 5,
     "email_agent_available": true,
     "email_auto_reply_enabled": true,
-    "email_received_scanned": 17,
+    "email_received_scanned": 18,
     "email_handled": 0,
-    "email_unmatched": 0,
+    "email_unmatched": 1,
     "email_errors": 0,
     "email_positive_replies": 0,
     "email_trial_interest": 0,
     "email_human_reviews_required": 0,
-    "email_last_run_at": "2026-10-09T09:38:30.347368+00:00",
+    "email_last_run_at": "2026-10-09T16:34:54.408026+00:00",
     "departments_total": 1,
     "departments_proposed": 0,
     "agents_total": 10,
@@ -71,9 +71,9 @@
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
     "available": true,
     "status": "OK",
-    "learning_runs": 87,
-    "research_leads_evaluated": 192,
-    "leads_with_downstream_evidence": 172,
+    "learning_runs": 88,
+    "research_leads_evaluated": 193,
+    "leads_with_downstream_evidence": 173,
     "recommended_industry": "Zahnarzt",
     "recommended_city": "Muenchen",
     "errors": 0
@@ -92,7 +92,7 @@
       "trial_interest": 0,
       "human_reviews_required": 0,
       "errors": 0,
-      "last_run_at": "2026-10-09T09:38:30.347368+00:00"
+      "last_run_at": "2026-10-09T16:34:54.408026+00:00"
     }
   },
   "departments": [

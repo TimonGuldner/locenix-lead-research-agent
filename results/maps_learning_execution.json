@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 87,
-  "focus": "industry_exploitation",
+  "learning_run_count": 88,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Wiesbaden",
-    "Wuppertal",
     "Muenchen"
   ],
   "selected_industries": [
-    "Zahnarzt"
+    "Fahrschule",
+    "Podologie",
+    "Hundefriseur"
   ],
   "selected_pairs": [
     {
-      "city": "Wiesbaden",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Wiesbaden"
-    },
-    {
-      "city": "Wuppertal",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Wuppertal"
+      "city": "Muenchen",
+      "industry": "Fahrschule",
+      "query": "Fahrschule Muenchen"
     },
     {
       "city": "Muenchen",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Muenchen"
+      "industry": "Podologie",
+      "query": "Podologie Muenchen"
+    },
+    {
+      "city": "Muenchen",
+      "industry": "Hundefriseur",
+      "query": "Hundefriseur Muenchen"
     }
   ],
   "queries_per_run": 3

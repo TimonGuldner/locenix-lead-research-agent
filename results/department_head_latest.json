@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-10-10T13:38:42.538507+00:00",
+  "generated_at": "2026-10-10T17:27:47.405571+00:00",
   "department_status": "BACKLOG",
   "metrics": {
     "lead_count": 194,
@@ -25,8 +25,8 @@
     "qa_email_missing": 37,
     "visibility_remaining": 0,
     "visibility_email_gate_rejected": 37,
-    "weak_visibility": 96,
-    "sales_queue_count": 134,
+    "weak_visibility": 97,
+    "sales_queue_count": 135,
     "airtable_ready": 48,
     "airtable_errors": [],
     "sales_hard_email_gate_rejected": 37,

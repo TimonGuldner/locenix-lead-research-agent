@@ -1,5 +1,5 @@
 {
-  "runs": 73,
+  "runs": 74,
   "processed_ids": [
     "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
@@ -130,18 +130,18 @@
     "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
     "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/",
     "zahngesundheitszentrum dr. berand|muenchen|http://www.zahn-gesundheitszentrum.de/",
+    "zahnkonzept münchen|muenchen|https://www.zahnkonzept-muenchen.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
     "zahnärzte am gärtnerplatz 1|muenchen|https://www.zahnaerzte-gaertnerplatz-muenchen.de/",
     "zahnärzte im asamhof - dr. ihor prokhorenko - cmd-zentrum münchen-innenstadt|muenchen|http://zahnaerzte-im-asamhof.de/",
     "zentrum für kleintiermedizin münchen|muenchen|https://www.zk-muc.de/",
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 134,
-  "last_batch_count": 0,
+  "processed_count": 135,
+  "last_batch_count": 1,
   "remaining_eligible": 0,
-  "weak_visibility_total": 96,
+  "weak_visibility_total": 97,
   "email_gate_rejected_count": 37,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

@@ -637,6 +637,56 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "zahnkonzept münchen|muenchen|https://www.zahnkonzept-muenchen.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "company_name": "Zahnkonzept München",
+    "industry": "Zahnarzt",
+    "city": "Muenchen",
+    "email": "info@zahnkonzept-muenchen.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 94,
+    "visibility_tests": [
+      {
+        "query": "Zahnarzt Muenchen",
+        "status": "OBSERVED",
+        "observed_position": 6,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "AllDent Zahnzentrum München",
+          "dent + face Zahnzentrum München",
+          "Zahnarzt München am Marienplatz - Dr. Tomas Hoischen & Dr. Matthias Kelch",
+          "Zahnärzte am Gärtnerplatz 1",
+          "Zahngesundheitszentrum Dr. Berand"
+        ],
+        "evidence": "Business observed at position 6 among the first 8 Maps results returned in this run."
+      },
+      {
+        "query": "Zahnarzt in Muenchen",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "ISARDENT® | Kieferorthopädie & Kinderzahnarzt München-Freiham",
+          "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
+          "AllDent Zahnzentrum München",
+          "Zahnarzt Stachus München Innenstadt - Munich Dental Works",
+          "AllDent Zahnzentrum München Ost"
+        ],
+        "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business observed at position 6 among the first 8 Maps results returned in this run.",
+      "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-10-10",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
     "company_name": "myPhysio Physiotherapie Köln Am Gürzenich (Privatpatienten&Selbstzahler)",
     "industry": "Physiotherapie",

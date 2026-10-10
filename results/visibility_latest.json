@@ -1,7 +1,58 @@
 {
-  "results": [],
+  "results": [
+    {
+      "lead_id": "zahnkonzept münchen|muenchen|https://www.zahnkonzept-muenchen.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+      "company_name": "Zahnkonzept München",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "email": "info@zahnkonzept-muenchen.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 94,
+      "visibility_tests": [
+        {
+          "query": "Zahnarzt Muenchen",
+          "status": "OBSERVED",
+          "observed_position": 6,
+          "results_checked": 8,
+          "competitors_ahead": [
+            "AllDent Zahnzentrum München",
+            "dent + face Zahnzentrum München",
+            "Zahnarzt München am Marienplatz - Dr. Tomas Hoischen & Dr. Matthias Kelch",
+            "Zahnärzte am Gärtnerplatz 1",
+            "Zahngesundheitszentrum Dr. Berand"
+          ],
+          "evidence": "Business observed at position 6 among the first 8 Maps results returned in this run."
+        },
+        {
+          "query": "Zahnarzt in Muenchen",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 8,
+          "competitors_ahead": [
+            "ISARDENT® | Kieferorthopädie & Kinderzahnarzt München-Freiham",
+            "Zahnarzt München - Dr. Desmyttère MSc, MSc | smileforever",
+            "AllDent Zahnzentrum München",
+            "Zahnarzt Stachus München Innenstadt - Munich Dental Works",
+            "AllDent Zahnzentrum München Ost"
+          ],
+          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
+      "visibility_evidence": [
+        "Business observed at position 6 among the first 8 Maps results returned in this run.",
+        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+      ],
+      "visibility_date": "2026-10-10",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
   "state": {
-    "runs": 73,
+    "runs": 74,
     "processed_ids": [
       "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
       "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
@@ -132,16 +183,17 @@
       "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
       "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/",
       "zahngesundheitszentrum dr. berand|muenchen|http://www.zahn-gesundheitszentrum.de/",
+      "zahnkonzept münchen|muenchen|https://www.zahnkonzept-muenchen.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
       "zahnärzte am gärtnerplatz 1|muenchen|https://www.zahnaerzte-gaertnerplatz-muenchen.de/",
       "zahnärzte im asamhof - dr. ihor prokhorenko - cmd-zentrum münchen-innenstadt|muenchen|http://zahnaerzte-im-asamhof.de/",
       "zentrum für kleintiermedizin münchen|muenchen|https://www.zk-muc.de/",
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 134,
-    "last_batch_count": 0,
+    "processed_count": 135,
+    "last_batch_count": 1,
     "remaining_eligible": 0,
-    "weak_visibility_total": 96,
+    "weak_visibility_total": 97,
     "email_gate_rejected_count": 37,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

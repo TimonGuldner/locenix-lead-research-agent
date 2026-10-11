@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 89,
-  "focus": "industry_exploitation",
+  "learning_run_count": 90,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen",
-    "Hamburg",
-    "Koeln"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Zahnarzt"
+    "Hundefriseur",
+    "Reifenservice",
+    "Osteopathie"
   ],
   "selected_pairs": [
     {
       "city": "Muenchen",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Muenchen"
+      "industry": "Hundefriseur",
+      "query": "Hundefriseur Muenchen"
     },
     {
-      "city": "Hamburg",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Hamburg"
+      "city": "Muenchen",
+      "industry": "Reifenservice",
+      "query": "Reifenservice Muenchen"
     },
     {
-      "city": "Koeln",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Koeln"
+      "city": "Muenchen",
+      "industry": "Osteopathie",
+      "query": "Osteopathie Muenchen"
     }
   ],
   "queries_per_run": 3

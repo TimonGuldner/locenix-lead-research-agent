@@ -6,28 +6,20 @@
     "sender": "Timon Guldner <hello@locenix.com>",
     "reply_to": "hello@locenix.com",
     "auto_reply_enabled": true,
-    "received_scanned": 17,
+    "received_scanned": 15,
     "handled": 0,
-    "unmatched": 1,
-    "duplicates_skipped": 16,
+    "unmatched": 0,
+    "duplicates_skipped": 15,
     "errors": 0,
     "positive_replies": 0,
     "trial_interest": 0,
     "human_reviews_required": 0,
     "processed_message_ids_total": 19,
-    "last_run_at": "2026-10-12T16:23:41.919834+00:00"
+    "last_run_at": "2026-10-12T23:06:56.144568+00:00"
   },
   "handled": [],
-  "unmatched": [
-    {
-      "message_id": "<1791803455858.24cfa7c3-7c9d-4274-9cad-2821c20fdbc6@bf58x.hubspotemail.net>",
-      "from": "advertising@redditads.com",
-      "subject": "Ready to post? Focus on value, not promotion"
-    }
-  ],
+  "unmatched": [],
   "duplicates": [
-    "<970734512.24121.1789321479801@mssem05p.vkbads.de>",
-    "<595c028cd3de4799ba2f38206e2f1a52@VeTEX01.vetos.local>",
     "<5vK4TaWJ5o00NqLUX838aA@notifications.google.com>",
     "<010001a0ad8ede6f-36e9f73b-075f-400e-974d-0e74d9d7c641-000000@email.amazonses.com>",
     "<010001a0b3bc417b-f1624344-1460-4791-a5ca-bceda8fc8980-000000@email.amazonses.com>",
@@ -41,7 +33,8 @@
     "<1790854118998.5a08eb45-42f4-4e8d-a721-01563819e79f@bf58x.hubspotemail.net>",
     "<1791198645430.94a174f4-0bec-4862-b6af-40b94dc9f581@bf58x.hubspotemail.net>",
     "<51ca9a38f39ab8dee50b96402308057eac66893b-20155512-110937460@google.com>",
-    "<1791544247067.7a8e90f6-ba4f-451a-abe8-ff1f75bc7bcd@bf58x.hubspotemail.net>"
+    "<1791544247067.7a8e90f6-ba4f-451a-abe8-ff1f75bc7bcd@bf58x.hubspotemail.net>",
+    "<1791803455858.24cfa7c3-7c9d-4274-9cad-2821c20fdbc6@bf58x.hubspotemail.net>"
   ],
   "errors": []
 }

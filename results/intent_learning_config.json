@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-  "generated_at": "2026-10-11T23:39:50.965312+00:00",
-  "learning_run_count": 117,
+  "generated_at": "2026-10-12T05:55:50.251134+00:00",
+  "learning_run_count": 118,
   "mode": "SAFE_OUTCOME_LEARNING",
   "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
   "query_weights": {

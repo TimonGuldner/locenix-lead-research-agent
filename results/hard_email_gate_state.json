@@ -1,6 +1,6 @@
 {
   "agent": "LOCENIX_HARD_EMAIL_GATE_ENFORCER",
-  "last_run_at": "2026-10-12T00:54:11.435171+00:00",
+  "last_run_at": "2026-10-12T06:51:35.786630+00:00",
   "qualified_qa_total": 172,
   "downstream_email_qualified_total": 135,
   "email_missing_excluded_total": 37,

@@ -6,19 +6,25 @@
     "sender": "Timon Guldner <hello@locenix.com>",
     "reply_to": "hello@locenix.com",
     "auto_reply_enabled": true,
-    "received_scanned": 16,
+    "received_scanned": 17,
     "handled": 0,
-    "unmatched": 0,
+    "unmatched": 1,
     "duplicates_skipped": 16,
     "errors": 0,
     "positive_replies": 0,
     "trial_interest": 0,
     "human_reviews_required": 0,
-    "processed_message_ids_total": 18,
-    "last_run_at": "2026-10-12T06:51:18.930276+00:00"
+    "processed_message_ids_total": 19,
+    "last_run_at": "2026-10-12T16:23:41.919834+00:00"
   },
   "handled": [],
-  "unmatched": [],
+  "unmatched": [
+    {
+      "message_id": "<1791803455858.24cfa7c3-7c9d-4274-9cad-2821c20fdbc6@bf58x.hubspotemail.net>",
+      "from": "advertising@redditads.com",
+      "subject": "Ready to post? Focus on value, not promotion"
+    }
+  ],
   "duplicates": [
     "<970734512.24121.1789321479801@mssem05p.vkbads.de>",
     "<595c028cd3de4799ba2f38206e2f1a52@VeTEX01.vetos.local>",

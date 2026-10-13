@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-  "generated_at": "2026-10-13T06:47:17.629226+00:00",
-  "learning_run_count": 121,
+  "generated_at": "2026-10-13T15:58:20.645053+00:00",
+  "learning_run_count": 122,
   "mode": "SAFE_OUTCOME_LEARNING",
   "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
   "query_weights": {
@@ -53,14 +53,14 @@
       "fail_streak": 23,
       "cooldown": true,
       "probe_due": false,
-      "last_errors": 3,
+      "last_errors": 0,
       "last_hits": 0
     },
     "jina_search": {
       "fail_streak": 23,
       "cooldown": true,
       "probe_due": false,
-      "last_errors": 7,
+      "last_errors": 0,
       "last_hits": 0
     }
   },

@@ -5,14 +5,14 @@
   "sender": "Timon Guldner <hello@locenix.com>",
   "reply_to": "hello@locenix.com",
   "auto_reply_enabled": true,
-  "received_scanned": 15,
+  "received_scanned": 14,
   "handled": 0,
   "unmatched": 0,
-  "duplicates_skipped": 15,
+  "duplicates_skipped": 14,
   "errors": 0,
   "positive_replies": 0,
   "trial_interest": 0,
   "human_reviews_required": 0,
   "processed_message_ids_total": 19,
-  "last_run_at": "2026-10-13T11:06:08.079880+00:00"
+  "last_run_at": "2026-10-13T18:16:21.829366+00:00"
 }

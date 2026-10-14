@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-  "generated_at": "2026-10-11T13:01:28.387613+00:00",
-  "learning_run_count": 90,
+  "generated_at": "2026-10-14T12:02:33.845224+00:00",
+  "learning_run_count": 91,
   "mode": "SAFE_OUTCOME_LEARNING",
   "principle": "Optimize Google Maps research toward downstream sales quality, not raw lead count; never rewrite code or relax safety/legal guardrails.",
   "exploration_share": 0.15,
@@ -55,7 +55,7 @@
     "Gelsenkirchen": 1.0,
     "Dortmund": 1.068,
     "Nuernberg": 1.094,
-    "Duesseldorf": 1.091,
+    "Duesseldorf": 1.092,
     "Muenster": 1.044,
     "Aachen": 1.0,
     "Bochum": 1.0,

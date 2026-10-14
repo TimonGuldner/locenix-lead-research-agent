@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 90,
-  "focus": "city_exploitation",
-  "exploration": false,
+  "learning_run_count": 91,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen"
+    "Duesseldorf",
+    "Leipzig",
+    "Dortmund"
   ],
   "selected_industries": [
-    "Hundefriseur",
-    "Reifenservice",
-    "Osteopathie"
+    "Personal Training"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
-      "industry": "Hundefriseur",
-      "query": "Hundefriseur Muenchen"
+      "city": "Duesseldorf",
+      "industry": "Personal Training",
+      "query": "Personal Training Duesseldorf"
     },
     {
-      "city": "Muenchen",
-      "industry": "Reifenservice",
-      "query": "Reifenservice Muenchen"
+      "city": "Leipzig",
+      "industry": "Personal Training",
+      "query": "Personal Training Leipzig"
     },
     {
-      "city": "Muenchen",
-      "industry": "Osteopathie",
-      "query": "Osteopathie Muenchen"
+      "city": "Dortmund",
+      "industry": "Personal Training",
+      "query": "Personal Training Dortmund"
     }
   ],
   "queries_per_run": 3

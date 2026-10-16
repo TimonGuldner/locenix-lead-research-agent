@@ -1,9 +1,9 @@
 {
   "state": {
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-    "last_run_at": "2026-10-15T11:40:14.205087+00:00",
+    "last_run_at": "2026-10-16T11:33:31.577104+00:00",
     "status": "OK",
-    "learning_run_count": 92,
+    "learning_run_count": 93,
     "research_leads_evaluated": 194,
     "leads_with_downstream_evidence": 174,
     "airtable_leads_deduped": 59,
@@ -18,8 +18,8 @@
   },
   "learning": {
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-    "generated_at": "2026-10-15T11:40:14.205087+00:00",
-    "learning_run_count": 92,
+    "generated_at": "2026-10-16T11:33:31.577104+00:00",
+    "learning_run_count": 93,
     "mode": "SAFE_OUTCOME_LEARNING",
     "principle": "Optimize Google Maps research toward downstream sales quality, not raw lead count; never rewrite code or relax safety/legal guardrails.",
     "exploration_share": 0.15,

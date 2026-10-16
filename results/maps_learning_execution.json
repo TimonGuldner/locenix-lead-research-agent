@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 92,
-  "focus": "city_exploitation",
+  "learning_run_count": 93,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen"
+    "Braunschweig",
+    "Sankt Augustin",
+    "Nuernberg"
   ],
   "selected_industries": [
-    "Osteopathie",
-    "Massagepraxis",
-    "Gebaeudereinigung"
+    "Zahnarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
-      "industry": "Osteopathie",
-      "query": "Osteopathie Muenchen"
+      "city": "Braunschweig",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Braunschweig"
     },
     {
-      "city": "Muenchen",
-      "industry": "Massagepraxis",
-      "query": "Massagepraxis Muenchen"
+      "city": "Sankt Augustin",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Sankt Augustin"
     },
     {
-      "city": "Muenchen",
-      "industry": "Gebaeudereinigung",
-      "query": "Gebaeudereinigung Muenchen"
+      "city": "Nuernberg",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Nuernberg"
     }
   ],
   "queries_per_run": 3

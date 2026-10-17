@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 93,
-  "focus": "industry_exploitation",
+  "learning_run_count": 94,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Braunschweig",
-    "Sankt Augustin",
-    "Nuernberg"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Zahnarzt"
+    "Gebaeudereinigung",
+    "Barbershop",
+    "Dachdecker"
   ],
   "selected_pairs": [
     {
-      "city": "Braunschweig",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Braunschweig"
+      "city": "Muenchen",
+      "industry": "Gebaeudereinigung",
+      "query": "Gebaeudereinigung Muenchen"
     },
     {
-      "city": "Sankt Augustin",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Sankt Augustin"
+      "city": "Muenchen",
+      "industry": "Barbershop",
+      "query": "Barbershop Muenchen"
     },
     {
-      "city": "Nuernberg",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Nuernberg"
+      "city": "Muenchen",
+      "industry": "Dachdecker",
+      "query": "Dachdecker Muenchen"
     }
   ],
   "queries_per_run": 3

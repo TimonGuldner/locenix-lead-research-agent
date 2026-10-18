@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 94,
-  "focus": "city_exploitation",
+  "learning_run_count": 95,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen"
+    "Nuernberg",
+    "Krefeld",
+    "Duesseldorf"
   ],
   "selected_industries": [
-    "Gebaeudereinigung",
-    "Barbershop",
-    "Dachdecker"
+    "Zahnarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
-      "industry": "Gebaeudereinigung",
-      "query": "Gebaeudereinigung Muenchen"
+      "city": "Nuernberg",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Nuernberg"
     },
     {
-      "city": "Muenchen",
-      "industry": "Barbershop",
-      "query": "Barbershop Muenchen"
+      "city": "Krefeld",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Krefeld"
     },
     {
-      "city": "Muenchen",
-      "industry": "Dachdecker",
-      "query": "Dachdecker Muenchen"
+      "city": "Duesseldorf",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Duesseldorf"
     }
   ],
   "queries_per_run": 3

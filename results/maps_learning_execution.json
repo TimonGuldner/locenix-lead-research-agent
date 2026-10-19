@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 95,
-  "focus": "industry_exploitation",
+  "learning_run_count": 96,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Nuernberg",
-    "Krefeld",
-    "Duesseldorf"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Zahnarzt"
+    "Dachdecker",
+    "Elektriker",
+    "Ergotherapie"
   ],
   "selected_pairs": [
     {
-      "city": "Nuernberg",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Nuernberg"
+      "city": "Muenchen",
+      "industry": "Dachdecker",
+      "query": "Dachdecker Muenchen"
     },
     {
-      "city": "Krefeld",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Krefeld"
+      "city": "Muenchen",
+      "industry": "Elektriker",
+      "query": "Elektriker Muenchen"
     },
     {
-      "city": "Duesseldorf",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Duesseldorf"
+      "city": "Muenchen",
+      "industry": "Ergotherapie",
+      "query": "Ergotherapie Muenchen"
     }
   ],
   "queries_per_run": 3

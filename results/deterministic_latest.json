@@ -4,8 +4,8 @@
   "rejected_count": 24,
   "inspected": 24,
   "state": {
-    "query_cursor": 381,
-    "runs": 127,
+    "query_cursor": 384,
+    "runs": 128,
     "lead_count": 194,
     "target_leads": 999999999,
     "last_accepted": 0,

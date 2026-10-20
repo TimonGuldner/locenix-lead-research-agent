@@ -70,7 +70,7 @@
       "queue_date": "2026-10-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recsDIaxTfJNLo36m"
+      "airtable_record_id": "recHTkp9XwbZvLK3x"
     },
     {
       "lead_id": "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
@@ -105,7 +105,7 @@
       "queue_date": "2026-10-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recWDf3JlQFGCI2D2"
+      "airtable_record_id": "recq1394LKx38VSOB"
     },
     {
       "lead_id": "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
@@ -141,7 +141,7 @@
       "queue_date": "2026-10-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recKnIXJhe6k3E5dP"
+      "airtable_record_id": "reckqr55eNHRb4YNv"
     },
     {
       "lead_id": "lunavet - tierarztpraxis in dresden|dresden|https://luna-vet.de/",
@@ -213,7 +213,7 @@
       "queue_date": "2026-10-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "rec6quB0pOx2KiWBL"
+      "airtable_record_id": "recQ0OQiV1dmpZDWQ"
     },
     {
       "lead_id": "tierarztpraxis felmo frankfurt am main|frankfurt am main|https://felmo.de/tierarztpraxis/frankfurt?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
@@ -285,7 +285,7 @@
       "queue_date": "2026-10-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recTKdRFU23AF7np5"
+      "airtable_record_id": "recxWjuTUr6dyq74l"
     },
     {
       "lead_id": "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
@@ -320,7 +320,7 @@
       "queue_date": "2026-10-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "reca1C6RJivQM9ztE"
+      "airtable_record_id": "recVkbHnaP7yiiVCC"
     },
     {
       "lead_id": "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
@@ -391,7 +391,7 @@
       "queue_date": "2026-10-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "reciMbxgwfR84CNa7"
+      "airtable_record_id": "recHs3lI6wgUNCEvT"
     },
     {
       "lead_id": "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -875,23 +875,23 @@
       "queue_date": "2026-10-20",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recyfJVjg9IXNubOx"
+      "airtable_record_id": "recibglVzZ9Vs4sbD"
     }
   ],
   "state": {
-    "queue_count": 135,
-    "airtable_ready_count": 48,
-    "email_ready_count": 135,
+    "queue_count": 140,
+    "airtable_ready_count": 51,
+    "email_ready_count": 140,
     "email_missing_count": 0,
     "hard_email_gate_rejected_count": 37,
     "downstream_email_gate_violations": 0,
-    "airtable_created": 23,
+    "airtable_created": 26,
     "airtable_updated": 25,
-    "airtable_skipped": 87,
+    "airtable_skipped": 89,
     "airtable_errors": [],
-    "priority_a_count": 135,
+    "priority_a_count": 140,
     "priority_b_count": 0,
-    "visibility_pending_count": 0,
+    "visibility_pending_count": 5,
     "last_run_date": "2026-10-20",
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_DOWNSTREAM_HANDOFF"
   }

@@ -1,6 +1,7 @@
 {
-  "runs": 91,
+  "runs": 92,
   "processed_ids": [
+    "360°zahn - zahnarzt düsseldorf|duesseldorf|https://www.360gradzahn.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
     "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
     "anicura kleintierspezialisten karlsruhe gmbh|karlsruhe|http://www.anicura.de/karlsruhe",
     "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/",
@@ -16,10 +17,12 @@
     "carolin pokriefke - kleintierpraxis am viewegsgarten|braunschweig|http://www.tierarztpraxis-viewegsgarten.de/",
     "city fahrschule braunschweig|braunschweig|https://www.cityfahrschulebs.info/",
     "dent + face zahnzentrum münchen|muenchen|https://www.dent-und-face.de/",
+    "dental centrum düsseldorf - zahnarzt düsseldorf|duesseldorf|https://dcd-duesseldorf.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
     "die tierärztin|chemnitz|https://www.dietieraerztin.vet/",
     "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/",
     "dr. med. vet. stefan kozak - mönchengladbach|moenchengladbach|https://vet.maps.ivof.com/dr-med-vet-stefan-kozak/",
     "dr. p. mayerhauser, kleintierpraxis im gewerbehof unterfeldweg|augsburg|https://www.tierarztpraxis-mayerhauser.de/",
+    "dr. pantas und kollegen - zahnarzt in düsseldorf|duesseldorf|https://dr-pantas.de/",
     "dr.brigitte weber|freiburg|https://tierarztportal.com/freiburg-im-breisgau/2013-drbrigitte-weber",
     "dr.med.vet tina brahm|dortmund|http://kleintierpraxis-am-wall.de/",
     "dr.med.vet. dirk krüger|rostock|https://tierarztportal.com/rostock/6799-drmedvet-dirk-krueger-tierarzt",
@@ -124,7 +127,9 @@
     "wassa & plieske sanitär heizung|muenchen|https://www.wp-sanitaer.de/",
     "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
     "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
+    "zahnarzt düsseldorf - dr. dirk stolley|duesseldorf|https://www.zahnarzt-duesseldorf.dental/?utm_source=google&utm_medium=maps&utm_campaign=local",
     "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "zahnarzt mondent|duesseldorf|https://www.mondent.de/",
     "zahnarzt münchen - dental21|muenchen|https://www.dental21-olympiapark.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
     "zahnarzt münchen - dr. desmyttère msc, msc | smileforever|muenchen|https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
     "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/",
@@ -137,12 +142,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 135,
-  "last_batch_count": 0,
+  "processed_count": 140,
+  "last_batch_count": 5,
   "remaining_eligible": 0,
-  "weak_visibility_total": 97,
+  "weak_visibility_total": 98,
   "email_gate_rejected_count": 37,
   "downstream_email_gate_violations": 0,
-  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS",
-  "legacy_visibility_rows_purged": 0
+  "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"
 }

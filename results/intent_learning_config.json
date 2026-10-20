@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-  "generated_at": "2026-10-20T11:34:32.490556+00:00",
-  "learning_run_count": 155,
+  "generated_at": "2026-10-20T17:02:45.872491+00:00",
+  "learning_run_count": 156,
   "mode": "SAFE_OUTCOME_LEARNING",
   "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
   "query_weights": {
@@ -42,17 +42,10 @@
       "last_errors": 0,
       "last_hits": 0
     },
-    "reddit_api": {
-      "fail_streak": 28,
-      "cooldown": true,
-      "probe_due": false,
-      "last_errors": 0,
-      "last_hits": 0
-    },
     "jina_search": {
       "fail_streak": 28,
-      "cooldown": true,
-      "probe_due": false,
+      "cooldown": false,
+      "probe_due": true,
       "last_errors": 0,
       "last_hits": 0
     },
@@ -62,6 +55,13 @@
       "probe_due": false,
       "last_errors": 0,
       "last_hits": 3
+    },
+    "reddit_api": {
+      "fail_streak": 28,
+      "cooldown": false,
+      "probe_due": true,
+      "last_errors": 0,
+      "last_hits": 0
     }
   },
   "minimum_samples_before_pause": 5,

@@ -1,14 +1,14 @@
 {
   "results": [
     {
-      "lead_id": "360°zahn - zahnarzt düsseldorf|duesseldorf|https://www.360gradzahn.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
-      "company_name": "360°zahn - Zahnarzt Düsseldorf",
+      "lead_id": "lieblings-zahnarzt düsseldorf|duesseldorf|https://www.lieblings-zahnarzt.de/duesseldorf/",
+      "company_name": "Lieblings-Zahnarzt Düsseldorf",
       "industry": "Zahnarzt",
       "city": "Duesseldorf",
       "source_total_score": 86,
       "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/360%C2%B0zahn+-+Zahnarzt+D%C3%BCsseldorf/data=!4m7!3m6!1s0x47b8cbcb80003daf:0x4112996aa465ae02!8m2!3d51.2175103!4d6.8048274!16s%2Fg%2F1xfsmv4f!19sChIJrz0AgMvLuEcRAq5lpGqZEkE?authuser=0&hl=de&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.360gradzahn.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "google_maps_url": "https://www.google.com/maps/place/Lieblings-Zahnarzt+D%C3%BCsseldorf/data=!4m7!3m6!1s0x47b8cb9ce1d73455:0x7ef13e8d29779afc!8m2!3d51.2312003!4d6.8073897!16s%2Fg%2F11ssdqmvhy!19sChIJVTTX4ZzLuEcR_Jp3KY0-8X4?authuser=0&hl=de&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.lieblings-zahnarzt.de/duesseldorf/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -26,90 +26,9 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://www.360gradzahn.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
-        "booking_link": "https://www.doctolib.de/medizinisches-versorgungszentrum-mvz/duesseldorf/360-zahn-mvz-fuer-zahnheilkunde-kinder-jugendzahnheilkunde-und-kieferorthopaedie/booking/specialities?profile_skipped=true",
-        "social_links": [
-          "https://www.instagram.com/360.grad.zahn/",
-          "https://www.facebook.com/360zahn"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "implantate"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (2 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "medizinproduktesicherheit@360gradzahn.de",
-        "email_source_url": "https://www.360gradzahn.de/impressum/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-10-20T11:55:09.776316+00:00"
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 93,
-      "deep_qa_verified_signals": [
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Google review count is missing; never interpret this as zero."
-      ],
-      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
-      "proof": [
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "medizinproduktesicherheit@360gradzahn.de",
-      "email_source_url": "https://www.360gradzahn.de/impressum/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-10-20T11:55:09.776316+00:00",
-      "airtable_ready": true,
-      "qa_date": "2026-10-20",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "dental centrum düsseldorf - zahnarzt düsseldorf|duesseldorf|https://dcd-duesseldorf.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
-      "company_name": "Dental Centrum Düsseldorf - Zahnarzt Düsseldorf",
-      "industry": "Zahnarzt",
-      "city": "Duesseldorf",
-      "source_total_score": 86,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Dental+Centrum+D%C3%BCsseldorf+-+Zahnarzt+D%C3%BCsseldorf/data=!4m7!3m6!1s0x47b8cbd51a351ef1:0x426c0b1aa5be3343!8m2!3d51.2331434!4d6.8238365!16s%2Fg%2F1tdzf261!19sChIJ8R41GtXLuEcRQzO-pRoLbEI?authuser=0&hl=de&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://dcd-duesseldorf.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.dcd-duesseldorf.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+        "website_final_url": "https://www.lieblings-zahnarzt.de/duesseldorf/",
         "booking_link": null,
-        "social_links": [
-          "https://www.facebook.com/dental21.de",
-          "https://www.instagram.com/dental21_de/",
-          "https://de.linkedin.com/company/dental21"
-        ],
+        "social_links": [],
         "contact_page_observed": true,
         "website_service_matches": [
           "implantate",
@@ -120,49 +39,41 @@
           "wurzelbehandlung"
         ],
         "website_evidence": [
-          "Active social-link footprint observed (3 link(s)).",
           "Contact/imprint page observed on website.",
           "Public business email observed on company website/contact/imprint page."
         ],
-        "email": "info@dcd-duesseldorf.de",
-        "email_source_url": "https://www.dcd-duesseldorf.de/impressum",
+        "email": "duesseldorf@lieblings-zahnarzt.de",
+        "email_source_url": "https://www.lieblings-zahnarzt.de/duesseldorf/impressum/",
         "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-10-20T11:55:16.066931+00:00"
+        "email_found_at": "2026-10-20T12:40:41.641366+00:00"
       },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 91,
-      "deep_qa_verified_signals": [
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
+      "deep_qa_decision": "MANUAL_REVIEW",
+      "deep_qa_score": 89,
+      "deep_qa_verified_signals": [],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [
         "Google review count is missing; never interpret this as zero."
       ],
-      "primary_sales_angle_verified": "Business website links to at least one social profile.",
-      "proof": [
-        "Business website links to at least one social profile."
-      ],
-      "email": "info@dcd-duesseldorf.de",
-      "email_source_url": "https://www.dcd-duesseldorf.de/impressum",
+      "primary_sales_angle_verified": null,
+      "proof": [],
+      "email": "duesseldorf@lieblings-zahnarzt.de",
+      "email_source_url": "https://www.lieblings-zahnarzt.de/duesseldorf/impressum/",
       "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-10-20T11:55:16.066931+00:00",
+      "email_found_at": "2026-10-20T12:40:41.641366+00:00",
       "airtable_ready": false,
       "qa_date": "2026-10-20",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     },
     {
-      "lead_id": "zahnarzt mondent|duesseldorf|https://www.mondent.de/",
-      "company_name": "Zahnarzt MonDent",
+      "lead_id": "zahnarzt düsseldorf dentapark's|duesseldorf|https://www.duesseldorf-zahnarzt-dentaparks.de/",
+      "company_name": "Zahnarzt Düsseldorf Dentapark's",
       "industry": "Zahnarzt",
       "city": "Duesseldorf",
-      "source_total_score": 86,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+MonDent/data=!4m7!3m6!1s0x47b8cb1c58c0e8d5:0xaf70db9c041b605a!8m2!3d51.2015095!4d6.7837936!16s%2Fg%2F11r44hccqc!19sChIJ1ejAWBzLuEcRWmAbBJzbcK8?authuser=0&hl=de&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.mondent.de/",
+      "source_total_score": 84,
+      "source_lead_class": "B_LEAD",
+      "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+D%C3%BCsseldorf+Dentapark%27s/data=!4m7!3m6!1s0x47b8ca19d6d5ccf5:0x7af5d1174d7fa4e6!8m2!3d51.2262157!4d6.7866635!16s%2Fg%2F1pzs7v407!19sChIJ9czV1hnKuEcR5qR_TRfR9Xo?authuser=0&hl=de&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
+      "website": "https://www.duesseldorf-zahnarzt-dentaparks.de/",
       "maps_check": {
         "maps_accessible": true,
         "maps_profile_closed": false,
@@ -180,221 +91,41 @@
       },
       "website_check": {
         "website_accessible": true,
-        "website_final_url": "https://mondent.de/",
-        "booking_link": "https://www.doctolib.de/zahnarztpraxis/duesseldorf/mondent",
-        "social_links": [
-          "https://www.instagram.com/mondent.de/",
-          "https://www.facebook.com/mondent.de"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "implantate",
-          "prophylaxe",
-          "bleaching",
-          "invisalign",
-          "wurzelbehandlung"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (2 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@mondent.de",
-        "email_source_url": "https://mondent.de/impressum/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-10-20T11:55:29.152639+00:00"
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 93,
-      "deep_qa_verified_signals": [
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Google review count is missing; never interpret this as zero."
-      ],
-      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
-      "proof": [
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "info@mondent.de",
-      "email_source_url": "https://mondent.de/impressum/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-10-20T11:55:29.152639+00:00",
-      "airtable_ready": true,
-      "qa_date": "2026-10-20",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "zahnarzt düsseldorf - dr. dirk stolley|duesseldorf|https://www.zahnarzt-duesseldorf.dental/?utm_source=google&utm_medium=maps&utm_campaign=local",
-      "company_name": "Zahnarzt Düsseldorf - Dr. Dirk Stolley",
-      "industry": "Zahnarzt",
-      "city": "Duesseldorf",
-      "source_total_score": 86,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+D%C3%BCsseldorf+-+Dr.+Dirk+Stolley/data=!4m7!3m6!1s0x47b8ca394f91f2af:0x9326dbf62d352dff!8m2!3d51.2182465!4d6.7824008!16s%2Fg%2F1tcwvtdw!19sChIJr_KRTznKuEcR_y01LfbbJpM?authuser=0&hl=de&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.zahnarzt-duesseldorf.dental/?utm_source=google&utm_medium=maps&utm_campaign=local",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "NOT_OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.zahnarzt-duesseldorf.dental/?utm_source=google&utm_medium=maps&utm_campaign=local",
+        "website_final_url": "https://www.dentaparks.de/",
         "booking_link": null,
-        "social_links": [
-          "https://www.instagram.com/zahnarztpraxis_stolley/",
-          "https://www.facebook.com/BeratungsPLUS/"
-        ],
+        "social_links": [],
         "contact_page_observed": true,
-        "website_service_matches": [
-          "prophylaxe",
-          "bleaching"
-        ],
+        "website_service_matches": [],
         "website_evidence": [
-          "Active social-link footprint observed (2 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
+          "Contact/imprint page observed on website."
         ],
-        "email": "praxis@dr-stolley.de",
-        "email_source_url": "https://www.zahnarzt-duesseldorf.dental/impressum",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-10-20T11:55:39.546992+00:00"
+        "email": null,
+        "email_source_url": null,
+        "email_verification_status": "EMAIL_MISSING",
+        "email_found_at": null
       },
-      "deep_qa_decision": "FINAL_B",
-      "deep_qa_score": 91,
-      "deep_qa_verified_signals": [
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
+      "deep_qa_decision": "MANUAL_REVIEW",
+      "deep_qa_score": 87,
+      "deep_qa_verified_signals": [],
       "deep_qa_blockers": [],
       "deep_qa_cautions": [
-        "Google review count is missing; never interpret this as zero."
+        "Google review count is missing; never interpret this as zero.",
+        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
       ],
-      "primary_sales_angle_verified": "Business website links to at least one social profile.",
-      "proof": [
-        "Business website links to at least one social profile."
-      ],
-      "email": "praxis@dr-stolley.de",
-      "email_source_url": "https://www.zahnarzt-duesseldorf.dental/impressum",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-10-20T11:55:39.546992+00:00",
+      "primary_sales_angle_verified": null,
+      "proof": [],
+      "email": null,
+      "email_source_url": null,
+      "email_verification_status": "EMAIL_MISSING",
+      "email_found_at": null,
       "airtable_ready": false,
-      "qa_date": "2026-10-20",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "dr. pantas und kollegen - zahnarzt in düsseldorf|duesseldorf|https://dr-pantas.de/",
-      "company_name": "Dr. Pantas und Kollegen - Zahnarzt in Düsseldorf",
-      "industry": "Zahnarzt",
-      "city": "Duesseldorf",
-      "source_total_score": 86,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Dr.+Pantas+und+Kollegen+-+Zahnarzt+in+D%C3%BCsseldorf/data=!4m7!3m6!1s0x47b8ca18735db3d1:0x9ce6671b324e5783!8m2!3d51.2259346!4d6.7765127!16s%2Fg%2F1tj56w51!19sChIJ0bNdcxjKuEcRg1dOMhtn5pw?authuser=0&hl=de&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://dr-pantas.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://dr-pantas.de/",
-        "booking_link": "https://dr-flex.de/embed?medicalPracticeId=18649",
-        "social_links": [
-          "https://www.instagram.com/p/DXjdoiHiLda/",
-          "https://www.instagram.com/p/DUn1RT8DTIA/",
-          "https://www.instagram.com/p/DYMR7UIg5IH/",
-          "https://www.facebook.com/dr.pantas",
-          "https://www.instagram.com/dr.pantas"
-        ],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "implantate",
-          "prophylaxe",
-          "bleaching",
-          "invisalign",
-          "parodontologie",
-          "wurzelbehandlung"
-        ],
-        "website_evidence": [
-          "Online booking/appointment link observed on website.",
-          "Active social-link footprint observed (5 link(s)).",
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "info@dr-pantas.de",
-        "email_source_url": "https://dr-pantas.de/impressum/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-10-20T11:55:46.272648+00:00"
-      },
-      "deep_qa_decision": "FINAL_A",
-      "deep_qa_score": 93,
-      "deep_qa_verified_signals": [
-        {
-          "type": "digital_maturity_booking",
-          "proof": "Online booking/appointment link observed on website."
-        },
-        {
-          "type": "digital_maturity_social",
-          "proof": "Business website links to at least one social profile."
-        }
-      ],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Google review count is missing; never interpret this as zero."
-      ],
-      "primary_sales_angle_verified": "Online booking/appointment link observed on website.",
-      "proof": [
-        "Online booking/appointment link observed on website.",
-        "Business website links to at least one social profile."
-      ],
-      "email": "info@dr-pantas.de",
-      "email_source_url": "https://dr-pantas.de/impressum/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-10-20T11:55:46.272648+00:00",
-      "airtable_ready": true,
       "qa_date": "2026-10-20",
       "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
       "outreach_status": "NOT_CONTACTED"
     }
   ],
   "state": {
-    "runs": 65,
+    "runs": 66,
     "processed_ids": [
       "360°zahn - zahnarzt düsseldorf|duesseldorf|https://www.360gradzahn.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
       "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
@@ -480,6 +211,7 @@
       "kosmetikstudio la perla - lehel münchen|muenchen|https://www.laperla-beauty.de/",
       "ks autoglas zentrum germering|muenchen|https://germering.ksautoglas.com/",
       "ks autoglas zentrum hamburg-farmsen|hamburg|https://hamburg-farmsen.ksautoglas.com/",
+      "lieblings-zahnarzt düsseldorf|duesseldorf|https://www.lieblings-zahnarzt.de/duesseldorf/",
       "lieblings-zahnarzt münchen|muenchen|https://www.lieblings-zahnarzt.de/muenchen/",
       "lunavet - tierarztpraxis in dresden|dresden|https://luna-vet.de/",
       "maison de nails berlin|berlin|https://maisondenails.de/",
@@ -561,6 +293,7 @@
       "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
       "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
       "zahnarzt düsseldorf - dr. dirk stolley|duesseldorf|https://www.zahnarzt-duesseldorf.dental/?utm_source=google&utm_medium=maps&utm_campaign=local",
+      "zahnarzt düsseldorf dentapark's|duesseldorf|https://www.duesseldorf-zahnarzt-dentaparks.de/",
       "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
       "zahnarzt mondent|duesseldorf|https://www.mondent.de/",
       "zahnarzt münchen - dental21|muenchen|https://www.dental21-olympiapark.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
@@ -576,9 +309,9 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 179,
-    "remaining_eligible": 2,
-    "last_batch_count": 5,
+    "processed_count": 181,
+    "remaining_eligible": 0,
+    "last_batch_count": 2,
     "final_a_total": 64,
     "final_b_total": 113,
     "email_ready_total": 51,

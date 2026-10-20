@@ -1,8 +1,8 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-  "last_run_at": "2026-10-19T13:31:15.233370+00:00",
+  "last_run_at": "2026-10-20T11:47:46.981462+00:00",
   "status": "OK",
-  "learning_run_count": 96,
+  "learning_run_count": 97,
   "research_leads_evaluated": 194,
   "leads_with_downstream_evidence": 174,
   "airtable_leads_deduped": 59,

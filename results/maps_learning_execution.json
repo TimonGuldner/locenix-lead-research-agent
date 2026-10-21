@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 97,
-  "focus": "industry_exploitation",
-  "exploration": false,
+  "learning_run_count": 98,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Duesseldorf",
-    "Bremen",
-    "Freiburg"
+    "Luebeck",
+    "Rostock",
+    "Potsdam"
   ],
   "selected_industries": [
-    "Zahnarzt"
+    "Fahrschule"
   ],
   "selected_pairs": [
     {
-      "city": "Duesseldorf",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Duesseldorf"
+      "city": "Luebeck",
+      "industry": "Fahrschule",
+      "query": "Fahrschule Luebeck"
     },
     {
-      "city": "Bremen",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Bremen"
+      "city": "Rostock",
+      "industry": "Fahrschule",
+      "query": "Fahrschule Rostock"
     },
     {
-      "city": "Freiburg",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Freiburg"
+      "city": "Potsdam",
+      "industry": "Fahrschule",
+      "query": "Fahrschule Potsdam"
     }
   ],
   "queries_per_run": 3

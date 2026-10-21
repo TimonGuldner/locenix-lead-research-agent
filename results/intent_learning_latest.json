@@ -1,9 +1,9 @@
 {
   "state": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "last_run_at": "2026-10-20T21:37:14.802116+00:00",
+    "last_run_at": "2026-10-21T00:38:01.247232+00:00",
     "status": "OK",
-    "learning_run_count": 157,
+    "learning_run_count": 158,
     "evaluated_opportunities": 23,
     "queries_learned": 4,
     "sources_learned": 14,
@@ -15,8 +15,8 @@
   },
   "config": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "generated_at": "2026-10-20T21:37:14.802116+00:00",
-    "learning_run_count": 157,
+    "generated_at": "2026-10-21T00:38:01.247232+00:00",
+    "learning_run_count": 158,
     "mode": "SAFE_OUTCOME_LEARNING",
     "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
     "query_weights": {
@@ -54,8 +54,15 @@
         "fail_streak": 29,
         "cooldown": true,
         "probe_due": false,
-        "last_errors": 7,
+        "last_errors": 0,
         "last_hits": 0
+      },
+      "verified_seed": {
+        "fail_streak": 0,
+        "cooldown": false,
+        "probe_due": false,
+        "last_errors": 0,
+        "last_hits": 3
       },
       "duckduckgo": {
         "fail_streak": 1,
@@ -68,15 +75,8 @@
         "fail_streak": 29,
         "cooldown": true,
         "probe_due": false,
-        "last_errors": 3,
-        "last_hits": 0
-      },
-      "verified_seed": {
-        "fail_streak": 0,
-        "cooldown": false,
-        "probe_due": false,
         "last_errors": 0,
-        "last_hits": 3
+        "last_hits": 0
       }
     },
     "minimum_samples_before_pause": 5,

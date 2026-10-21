@@ -1,131 +1,7 @@
 {
-  "results": [
-    {
-      "lead_id": "lieblings-zahnarzt düsseldorf|duesseldorf|https://www.lieblings-zahnarzt.de/duesseldorf/",
-      "company_name": "Lieblings-Zahnarzt Düsseldorf",
-      "industry": "Zahnarzt",
-      "city": "Duesseldorf",
-      "source_total_score": 86,
-      "source_lead_class": "A_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Lieblings-Zahnarzt+D%C3%BCsseldorf/data=!4m7!3m6!1s0x47b8cb9ce1d73455:0x7ef13e8d29779afc!8m2!3d51.2312003!4d6.8073897!16s%2Fg%2F11ssdqmvhy!19sChIJVTTX4ZzLuEcR_Jp3KY0-8X4?authuser=0&hl=de&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.lieblings-zahnarzt.de/duesseldorf/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.lieblings-zahnarzt.de/duesseldorf/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [
-          "implantate",
-          "prophylaxe",
-          "bleaching",
-          "invisalign",
-          "parodontologie",
-          "wurzelbehandlung"
-        ],
-        "website_evidence": [
-          "Contact/imprint page observed on website.",
-          "Public business email observed on company website/contact/imprint page."
-        ],
-        "email": "duesseldorf@lieblings-zahnarzt.de",
-        "email_source_url": "https://www.lieblings-zahnarzt.de/duesseldorf/impressum/",
-        "email_verification_status": "PUBLICLY_OBSERVED",
-        "email_found_at": "2026-10-20T12:40:41.641366+00:00"
-      },
-      "deep_qa_decision": "MANUAL_REVIEW",
-      "deep_qa_score": 89,
-      "deep_qa_verified_signals": [],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Google review count is missing; never interpret this as zero."
-      ],
-      "primary_sales_angle_verified": null,
-      "proof": [],
-      "email": "duesseldorf@lieblings-zahnarzt.de",
-      "email_source_url": "https://www.lieblings-zahnarzt.de/duesseldorf/impressum/",
-      "email_verification_status": "PUBLICLY_OBSERVED",
-      "email_found_at": "2026-10-20T12:40:41.641366+00:00",
-      "airtable_ready": false,
-      "qa_date": "2026-10-20",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    },
-    {
-      "lead_id": "zahnarzt düsseldorf dentapark's|duesseldorf|https://www.duesseldorf-zahnarzt-dentaparks.de/",
-      "company_name": "Zahnarzt Düsseldorf Dentapark's",
-      "industry": "Zahnarzt",
-      "city": "Duesseldorf",
-      "source_total_score": 84,
-      "source_lead_class": "B_LEAD",
-      "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+D%C3%BCsseldorf+Dentapark%27s/data=!4m7!3m6!1s0x47b8ca19d6d5ccf5:0x7af5d1174d7fa4e6!8m2!3d51.2262157!4d6.7866635!16s%2Fg%2F1pzs7v407!19sChIJ9czV1hnKuEcR5qR_TRfR9Xo?authuser=0&hl=de&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
-      "website": "https://www.duesseldorf-zahnarzt-dentaparks.de/",
-      "maps_check": {
-        "maps_accessible": true,
-        "maps_profile_closed": false,
-        "maps_text_observed": true,
-        "posts_signal": "NOT_OBSERVED",
-        "photos_signal": "OBSERVED",
-        "booking_signal": "OBSERVED",
-        "website_link_observed": true,
-        "phone_observed": true,
-        "address_observed": true,
-        "maps_evidence": [
-          "Website link observed on Google Maps profile.",
-          "Phone action observed on Google Maps profile."
-        ]
-      },
-      "website_check": {
-        "website_accessible": true,
-        "website_final_url": "https://www.dentaparks.de/",
-        "booking_link": null,
-        "social_links": [],
-        "contact_page_observed": true,
-        "website_service_matches": [],
-        "website_evidence": [
-          "Contact/imprint page observed on website."
-        ],
-        "email": null,
-        "email_source_url": null,
-        "email_verification_status": "EMAIL_MISSING",
-        "email_found_at": null
-      },
-      "deep_qa_decision": "MANUAL_REVIEW",
-      "deep_qa_score": 87,
-      "deep_qa_verified_signals": [],
-      "deep_qa_blockers": [],
-      "deep_qa_cautions": [
-        "Google review count is missing; never interpret this as zero.",
-        "EMAIL_MISSING: no public business email observed; do not hand off to email sales pipeline."
-      ],
-      "primary_sales_angle_verified": null,
-      "proof": [],
-      "email": null,
-      "email_source_url": null,
-      "email_verification_status": "EMAIL_MISSING",
-      "email_found_at": null,
-      "airtable_ready": false,
-      "qa_date": "2026-10-20",
-      "qa_agent": "LOCENIX_DEEP_QA_AGENT_V2_EMAIL_REQUIRED",
-      "outreach_status": "NOT_CONTACTED"
-    }
-  ],
+  "results": [],
   "state": {
-    "runs": 66,
+    "runs": 67,
     "processed_ids": [
       "360°zahn - zahnarzt düsseldorf|duesseldorf|https://www.360gradzahn.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
       "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
@@ -311,7 +187,7 @@
     ],
     "processed_count": 181,
     "remaining_eligible": 0,
-    "last_batch_count": 2,
+    "last_batch_count": 0,
     "final_a_total": 64,
     "final_b_total": 113,
     "email_ready_total": 51,

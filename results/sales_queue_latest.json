@@ -31,7 +31,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "rec2ShbTYTJfOGGM6"
@@ -65,12 +65,11 @@
       "proof_3": "Business website links to at least one social profile.",
       "next_action": "PRIORITY_SALES_REVIEW",
       "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_CREATED",
+      "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recsX8qCbF0WJIvVv"
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
     {
       "lead_id": "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/",
@@ -100,12 +99,11 @@
       "proof_3": "Business observed at position 5 among the first 11 Maps results returned in this run.",
       "next_action": "PRIORITY_SALES_REVIEW",
       "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_CREATED",
+      "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recMsqLdL5bra557p"
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
     {
       "lead_id": "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/",
@@ -136,12 +134,11 @@
       "proof_3": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim.",
       "next_action": "PRIORITY_SALES_REVIEW",
       "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_CREATED",
+      "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recLfvAMATVX9sx7C"
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
     {
       "lead_id": "lunavet - tierarztpraxis in dresden|dresden|https://luna-vet.de/",
@@ -174,7 +171,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recAkUFBwzqe4BWfL"
@@ -208,12 +205,11 @@
       "proof_3": "Business observed at position 7 among the first 11 Maps results returned in this run.",
       "next_action": "PRIORITY_SALES_REVIEW",
       "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_CREATED",
+      "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recdVj274eZCPJ7RR"
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
     {
       "lead_id": "tierarztpraxis felmo frankfurt am main|frankfurt am main|https://felmo.de/tierarztpraxis/frankfurt?utm_medium=referral&utm_source=google_my_business&utm_term=google_my_business_stationary",
@@ -246,7 +242,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recleQVG1ctq0S2Ed"
@@ -280,12 +276,11 @@
       "proof_3": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim.",
       "next_action": "PRIORITY_SALES_REVIEW",
       "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_CREATED",
+      "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recakcHVluLdWlM1e"
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
     {
       "lead_id": "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
@@ -315,12 +310,11 @@
       "proof_3": "Business observed at position 3 among the first 8 Maps results returned in this run.",
       "next_action": "PRIORITY_SALES_REVIEW",
       "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_CREATED",
+      "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recG8pxF1IUpeO12Z"
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
     {
       "lead_id": "h-a nails krefeld|krefeld|https://hanailskrefeld.setmore.com/",
@@ -352,7 +346,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recr82XgaaJE7D9kK"
@@ -386,12 +380,11 @@
       "proof_3": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim.",
       "next_action": "PRIORITY_SALES_REVIEW",
       "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_CREATED",
+      "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "rec7bC0i60b8OI55o"
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
     {
       "lead_id": "tier tour berlin - mobiler tierarzt|berlin|https://www.tiertour-berlin.de/",
@@ -424,7 +417,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recGSEAnMkODu68GI"
@@ -459,7 +452,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -494,7 +487,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recyD7Dg0EetA3yRC"
@@ -530,7 +523,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recC9YBMTGlMCdTJW"
@@ -565,7 +558,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -599,7 +592,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -633,7 +626,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -667,7 +660,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -701,7 +694,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -735,7 +728,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -769,7 +762,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -803,7 +796,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -837,7 +830,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -870,12 +863,11 @@
       "proof_3": "Business observed at position 11 among the first 11 Maps results returned in this run.",
       "next_action": "PRIORITY_SALES_REVIEW",
       "airtable_ready": true,
-      "airtable_sync_status": "SYNCED_CREATED",
+      "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-21",
+      "queue_date": "2026-10-22",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
-      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
-      "airtable_record_id": "recWo1eiYCSfcHR8F"
+      "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     }
   ],
   "state": {
@@ -885,14 +877,40 @@
     "email_missing_count": 0,
     "hard_email_gate_rejected_count": 37,
     "downstream_email_gate_violations": 0,
-    "airtable_created": 25,
+    "airtable_created": 0,
     "airtable_updated": 26,
     "airtable_skipped": 89,
-    "airtable_errors": [],
+    "airtable_errors": [
+      "praxis für kleintiermedizin arbergen|bremen|https://www.tierarzt-arbergen.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "isardent® | kieferorthopädie & kinderzahnarzt münchen-freiham|muenchen|http://www.isardent-freiham.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "tierärztliches labor freiburg - anicura|freiburg|https://www.anicura.de/standorte/tierarztliches-labor-freiburg/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "zahnarzt münchen - dr. desmyttère msc, msc | smileforever|muenchen|https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "zahnarzt münchen zentrum dr. rüdiger hansen|muenchen|https://www.zahnarzt-muenchen-zentrum.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "dom haustechnik e.k. sanitär | heizung | badsanierung | wärmepumpe|koeln|https://www.dom-haustechnik.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "360°zahn - zahnarzt düsseldorf|duesseldorf|https://www.360gradzahn.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "dr. pantas und kollegen - zahnarzt in düsseldorf|duesseldorf|https://dr-pantas.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "zahnarzt münchen am marienplatz - dr. tomas hoischen & dr. matthias kelch|muenchen|https://www.zahnaerzte-marienplatz.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "an‘s lashes & nails - münchen|muenchen|https://ans-nails.com/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "tierarztpraxis bärenwiese, tierarzt berlin-wilmersdorf|berlin|https://www.tierarzt-baerenwiese.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "medivet tierarztpraxis nürnberg|nuernberg|https://www.medivetgroup.com/de-de/tierarzt/nuernberg/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "kosmetikstudio köln leyla ertural skin training & more kosmetik schulungen since 2008|koeln|http://www.leyla-kosmetikstudio.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "medivet tierarztpraxis münster|muenster|https://www.medivetgroup.com/de-de/tierarzt/muenster/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "zentrum für kleintiermedizin münchen|muenchen|https://www.zk-muc.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "zahnärzte im asamhof - dr. ihor prokhorenko - cmd-zentrum münchen-innenstadt|muenchen|http://zahnaerzte-im-asamhof.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "ken nyn - art of hair / friseur münchen balayage & blond|muenchen|https://ken-nyn.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "haarholic - friseur münchen & balayage|muenchen|https://www.haarholic.com/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "osteomuc: osteopathie münchen-schwabing | praxis für ganzheitliche therapie|muenchen|https://osteopathie-muc.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
+      "auto wenzel düsseldorf|duesseldorf|https://www.facebook.com/autowenzel/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}"
+    ],
     "priority_a_count": 140,
     "priority_b_count": 0,
     "visibility_pending_count": 0,
-    "last_run_date": "2026-10-21",
+    "last_run_date": "2026-10-22",
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_DOWNSTREAM_HANDOFF"
   }
 }

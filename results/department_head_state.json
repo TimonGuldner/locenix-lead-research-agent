@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-10-22T11:44:39.681092+00:00",
+  "last_run_at": "2026-10-22T14:49:23.001010+00:00",
   "department_status": "BLOCKED",
   "next_agent": null,
   "reason": "Airtable sync has errors; downstream work is paused.",
@@ -12,7 +12,7 @@
   "research_unqa": 0,
   "maps_learning_available": true,
   "maps_learning_status": "OK",
-  "maps_learning_runs": 98,
+  "maps_learning_runs": 99,
   "maps_learning_recommended_industry": "Zahnarzt",
   "maps_learning_recommended_city": "Muenchen",
   "maps_learning_errors": 0,
@@ -26,5 +26,5 @@
   "email_trial_interest": 0,
   "email_human_reviews_required": 0,
   "email_errors": 0,
-  "email_last_run_at": "2026-10-22T09:47:05.873324+00:00"
+  "email_last_run_at": "2026-10-22T14:48:52.941710+00:00"
 }

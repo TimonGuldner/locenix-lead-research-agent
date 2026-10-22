@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 98,
-  "focus": "exploration",
-  "exploration": true,
+  "learning_run_count": 99,
+  "focus": "industry_exploitation",
+  "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Luebeck",
-    "Rostock",
-    "Potsdam"
+    "Freiburg",
+    "Chemnitz",
+    "Stuttgart"
   ],
   "selected_industries": [
-    "Fahrschule"
+    "Zahnarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Luebeck",
-      "industry": "Fahrschule",
-      "query": "Fahrschule Luebeck"
+      "city": "Freiburg",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Freiburg"
     },
     {
-      "city": "Rostock",
-      "industry": "Fahrschule",
-      "query": "Fahrschule Rostock"
+      "city": "Chemnitz",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Chemnitz"
     },
     {
-      "city": "Potsdam",
-      "industry": "Fahrschule",
-      "query": "Fahrschule Potsdam"
+      "city": "Stuttgart",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Stuttgart"
     }
   ],
   "queries_per_run": 3

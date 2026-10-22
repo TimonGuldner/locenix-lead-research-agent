@@ -255,7 +255,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-27T11:56:39.557370+00:00",
+    "generated_at": "2026-10-22T11:43:12.184362+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -315,7 +315,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-15T15:40:46.810835+00:00",
+    "generated_at": "2026-10-22T11:43:12.184362+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -415,7 +415,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-10-21T16:06:39.327677+00:00",
+    "generated_at": "2026-10-22T11:43:12.184362+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -435,7 +435,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-10-21T16:06:39.327677+00:00",
+    "generated_at": "2026-10-22T11:43:12.184362+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -455,7 +455,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-22T11:29:49.658211+00:00",
+    "generated_at": "2026-10-22T11:43:12.184362+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -475,7 +475,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-09-22T11:29:49.658211+00:00",
+    "generated_at": "2026-10-22T11:43:12.184362+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -515,7 +515,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-10-21T16:06:39.327677+00:00",
+    "generated_at": "2026-10-22T11:43:12.184362+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -575,7 +575,7 @@
     "draft_status": "READY_FOR_HUMAN_REVIEW",
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
-    "generated_at": "2026-10-21T16:06:39.327677+00:00",
+    "generated_at": "2026-10-22T11:43:12.184362+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   },
@@ -616,6 +616,46 @@
     "send_status": "NOT_SENT",
     "automatic_send_allowed": false,
     "generated_at": "2026-10-21T16:06:39.327677+00:00",
+    "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
+    "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
+  },
+  {
+    "lead_id": "welbemi - wellness beauty mind - kosmetikstudio hamburg|hamburg|http://www.welbemi.de/",
+    "airtable_record_id": "recsNhOfUUotSmS9g",
+    "company_name": "welbemi - wellness beauty mind - Kosmetikstudio Hamburg",
+    "industry": "Kosmetikstudio",
+    "city": "Hamburg",
+    "website": "http://www.welbemi.de/",
+    "google_maps_url": "https://www.google.com/maps/place/welbemi+-+wellness+beauty+mind+-+Kosmetikstudio+Hamburg/data=!4m7!3m6!1s0x47b188e44b258edf:0x86e42afd1e855511!8m2!3d53.6077163!4d10.0095746!16s%2Fg%2F1v8x177b!19sChIJ344lS-SIsUcREVWFHv0q5IY?authuser=0&hl=de&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "priority_score": 100,
+    "deep_qa_decision": "FINAL_A",
+    "verified_basis": "Verified source data: 43 reviews vs. comparison median 175; gap 132.",
+    "draft_channel": "LINKEDIN_OR_MANUAL_LEGAL_CHANNEL",
+    "draft_message": "Hi, ich habe mir euer Google-Maps-Profil kurz angesehen. Dabei ist mir aufgefallen, dass euer Profil hat aktuell 43 Bewertungen; der Vergleichswert der geprüften Wettbewerber liegt bei 175 Bewertungen. Da könnte noch Potenzial für mehr lokale Sichtbarkeit in Hamburg liegen. Wenn du möchtest, erstelle ich dir kostenlos einen kurzen Local Visibility Check und schicke dir die wichtigsten Hebel.",
+    "draft_status": "READY_FOR_HUMAN_REVIEW",
+    "send_status": "NOT_SENT",
+    "automatic_send_allowed": false,
+    "generated_at": "2026-10-22T11:43:12.184362+00:00",
+    "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
+    "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
+  },
+  {
+    "lead_id": "zahnarzt mondent|duesseldorf|https://www.mondent.de/",
+    "airtable_record_id": "recvcgc8tk3vLVMoQ",
+    "company_name": "Zahnarzt MonDent",
+    "industry": "Zahnarzt",
+    "city": "Duesseldorf",
+    "website": "https://www.mondent.de/",
+    "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+MonDent/data=!4m7!3m6!1s0x47b8cb1c58c0e8d5:0xaf70db9c041b605a!8m2!3d51.2015095!4d6.7837936!16s%2Fg%2F11r44hccqc!19sChIJ1ejAWBzLuEcRWmAbBJzbcK8?authuser=0&hl=de&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
+    "priority_score": 100,
+    "deep_qa_decision": "FINAL_A",
+    "verified_basis": "Online booking/appointment link observed on website.",
+    "draft_channel": "LINKEDIN_OR_MANUAL_LEGAL_CHANNEL",
+    "draft_message": "Hi, ich habe mir euer Google-Maps-Profil kurz angesehen. Dabei ist mir aufgefallen, dass Online booking/appointment link observed on website. Da könnte noch Potenzial für mehr lokale Sichtbarkeit in Duesseldorf liegen. Wenn du möchtest, erstelle ich dir kostenlos einen kurzen Local Visibility Check und schicke dir die wichtigsten Hebel.",
+    "draft_status": "READY_FOR_HUMAN_REVIEW",
+    "send_status": "NOT_SENT",
+    "automatic_send_allowed": false,
+    "generated_at": "2026-10-22T11:43:12.184362+00:00",
     "agent": "LOCENIX_OUTREACH_DRAFT_AGENT_V1",
     "compliance_note": "Draft only. No message sent, no contact form submitted, no login performed."
   }

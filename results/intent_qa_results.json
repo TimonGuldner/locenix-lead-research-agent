@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:18:16.508444+00:00",
+  "generated_at": "2026-10-22T04:42:36.981537+00:00",
   "items": [
     {
       "signal_id": "intent-7e56262cde92330b",
@@ -71,7 +71,7 @@
       "tier": "REJECT",
       "intent_score": 0,
       "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
       "airtable_record_id": "recKCoJ0M9biMYFgV",
       "quarantined": true
     },
@@ -91,7 +91,7 @@
       "tier": "REJECT",
       "intent_score": 0,
       "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
       "airtable_record_id": "recdMOIiK8tKSTBCL",
       "quarantined": true
     },
@@ -111,7 +111,7 @@
       "tier": "REJECT",
       "intent_score": 0,
       "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
       "airtable_record_id": "recf8hKuR6ZUMW7q7",
       "quarantined": true
     },
@@ -131,7 +131,7 @@
       "tier": "REJECT",
       "intent_score": 0,
       "qa_reason": "Quarantined after hardened browser-fallback validation; prior search result was not a verified opportunity.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
       "airtable_record_id": "reck6F7I6pAlvyRZD",
       "quarantined": true
     },
@@ -156,8 +156,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "recw32KEKvnCOivqK"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "recw32KEKvnCOivqK",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-1a64f0f7eecea5df",
@@ -180,8 +181,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "recg4YQUZH2YBxO6G"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "recg4YQUZH2YBxO6G",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-2011b4a6ecb7adae",
@@ -204,8 +206,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "recUMZV7RBm03WDny"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "recUMZV7RBm03WDny",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-2d262a0f2b2d9bd4",
@@ -228,8 +231,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "recV7bt1WiLWOjESL"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "recV7bt1WiLWOjESL",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-bcbc1f7a5e477b76",
@@ -252,8 +256,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "recFzvQpJYoQtP4ir"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "recFzvQpJYoQtP4ir",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-72356faa6df8e726",
@@ -276,8 +281,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "recXcaIl1tijNXhOQ"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "recXcaIl1tijNXhOQ",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-597644a0bdf58703",
@@ -300,8 +306,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "recNir2DokJY579ua"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "recNir2DokJY579ua",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-014890ef2627ed38",
@@ -324,8 +331,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "recEIGbo1kYt2F99M"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "recEIGbo1kYt2F99M",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-831983a748b2ab68",
@@ -348,8 +356,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "recJCTqyHF88uttGs"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "recJCTqyHF88uttGs",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-e4535c08a79d6e21",
@@ -372,8 +381,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "recfihKJ5MHAstGaf"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "recfihKJ5MHAstGaf",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-75380c82bceafb1e",
@@ -396,8 +406,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "rec2WER2V7LiyfpuM"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "rec2WER2V7LiyfpuM",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-d665286f0debdc3e",
@@ -420,8 +431,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "rec0wucYBiMbf921n"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "rec0wucYBiMbf921n",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-59c327811eaffb64",
@@ -444,8 +456,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "rec0J0O5zaEWcUiZE"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "rec0J0O5zaEWcUiZE",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-8dad94b0095cbb47",
@@ -468,8 +481,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "rect1kTCLgXadaaxU"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "rect1kTCLgXadaaxU",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-c47f0ef59137f521",
@@ -492,8 +506,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "rechrRC7pqsRJ0GIC"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "rechrRC7pqsRJ0GIC",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-57a7954d9623960a",
@@ -516,8 +531,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "recHmHO96jnXrttDs"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "recHmHO96jnXrttDs",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-72c86ea922186325",
@@ -540,8 +556,9 @@
       "tier": "WARM",
       "intent_score": 95,
       "qa_reason": "Relevant marketplace/project listing; explicit demand language is weak in extracted text.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "recFjnmMUoDfUDdq3"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "recFjnmMUoDfUDdq3",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-5c6c585d4e8a1789",
@@ -564,8 +581,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "rec5NghAj26DVJSxj"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "rec5NghAj26DVJSxj",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-f198ac762f25f40f",
@@ -588,8 +606,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "recF8AmsNoZQRrPxe"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "recF8AmsNoZQRrPxe",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     },
     {
       "signal_id": "intent-abc58def3a39240a",
@@ -612,8 +631,9 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-10-21T23:18:16.508444+00:00",
-      "airtable_record_id": "rec09tyaxyfRiFhpt"
+      "qa_at": "2026-10-22T04:42:36.981537+00:00",
+      "airtable_record_id": "rec09tyaxyfRiFhpt",
+      "airtable_error": "HTTP Error 422: Unprocessable Entity"
     }
   ]
 }

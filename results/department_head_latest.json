@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-10-23T11:32:05.919313+00:00",
+  "generated_at": "2026-10-23T15:28:44.354610+00:00",
   "department_status": "BLOCKED",
   "metrics": {
     "lead_count": 201,
@@ -12,7 +12,7 @@
     "research_unqa": 0,
     "maps_learning_available": true,
     "maps_learning_status": "OK",
-    "maps_learning_runs": 99,
+    "maps_learning_runs": 100,
     "maps_learning_evaluated": 201,
     "maps_learning_downstream_evidence": 181,
     "maps_learning_recommended_industry": "Zahnarzt",
@@ -70,14 +70,14 @@
     "email_daily_gap": 5,
     "email_agent_available": true,
     "email_auto_reply_enabled": true,
-    "email_received_scanned": 7,
+    "email_received_scanned": 6,
     "email_handled": 0,
     "email_unmatched": 0,
     "email_errors": 0,
     "email_positive_replies": 0,
     "email_trial_interest": 0,
     "email_human_reviews_required": 0,
-    "email_last_run_at": "2026-10-23T10:30:33.968952+00:00",
+    "email_last_run_at": "2026-10-23T15:28:05.550904+00:00",
     "departments_total": 1,
     "departments_proposed": 0,
     "agents_total": 10,
@@ -97,7 +97,7 @@
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
     "available": true,
     "status": "OK",
-    "learning_runs": 99,
+    "learning_runs": 100,
     "research_leads_evaluated": 201,
     "leads_with_downstream_evidence": 181,
     "recommended_industry": "Zahnarzt",
@@ -118,7 +118,7 @@
       "trial_interest": 0,
       "human_reviews_required": 0,
       "errors": 0,
-      "last_run_at": "2026-10-23T10:30:33.968952+00:00"
+      "last_run_at": "2026-10-23T15:28:05.550904+00:00"
     }
   },
   "departments": [

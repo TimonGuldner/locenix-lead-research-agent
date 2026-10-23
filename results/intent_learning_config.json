@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-  "generated_at": "2026-10-23T13:25:37.545169+00:00",
-  "learning_run_count": 169,
+  "generated_at": "2026-10-23T18:21:03.960443+00:00",
+  "learning_run_count": 170,
   "mode": "SAFE_OUTCOME_LEARNING",
   "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
   "query_weights": {
@@ -39,7 +39,7 @@
       "fail_streak": 31,
       "cooldown": true,
       "probe_due": false,
-      "last_errors": 7,
+      "last_errors": 0,
       "last_hits": 0
     },
     "verified_seed": {
@@ -53,7 +53,7 @@
       "fail_streak": 31,
       "cooldown": true,
       "probe_due": false,
-      "last_errors": 3,
+      "last_errors": 0,
       "last_hits": 0
     },
     "duckduckgo": {

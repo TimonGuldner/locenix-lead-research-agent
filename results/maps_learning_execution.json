@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 100,
-  "focus": "city_exploitation",
+  "learning_run_count": 101,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen"
+    "Stuttgart",
+    "Dortmund",
+    "Moenchengladbach"
   ],
   "selected_industries": [
-    "Heilpraktiker",
-    "Logopaedie",
-    "Maler"
+    "Zahnarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
-      "industry": "Heilpraktiker",
-      "query": "Heilpraktiker Muenchen"
+      "city": "Stuttgart",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Stuttgart"
     },
     {
-      "city": "Muenchen",
-      "industry": "Logopaedie",
-      "query": "Logopaedie Muenchen"
+      "city": "Dortmund",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Dortmund"
     },
     {
-      "city": "Muenchen",
-      "industry": "Maler",
-      "query": "Maler Muenchen"
+      "city": "Moenchengladbach",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Moenchengladbach"
     }
   ],
   "queries_per_run": 3

@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-10-24T04:35:04.318540+00:00",
+  "last_run_at": "2026-10-24T10:58:29.968163+00:00",
   "department_status": "ATTENTION",
   "next_agent": "intent_qa",
   "reason": "intent_qa reports unresolved errors and should be inspected before scaling.",
@@ -16,7 +16,7 @@
   "browser_fallback_added": 0,
   "browser_stale_removed": 0,
   "transport_errors_recovered": 0,
-  "learning_runs": 172,
+  "learning_runs": 173,
   "learning_queries": 4,
   "learning_sources": 14,
   "learning_boosted_queries": 4,

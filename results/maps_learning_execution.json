@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 101,
-  "focus": "industry_exploitation",
+  "learning_run_count": 102,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Stuttgart",
-    "Dortmund",
-    "Moenchengladbach"
+    "Muenchen"
   ],
   "selected_industries": [
+    "Maler",
+    "Personal Training",
     "Zahnarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Stuttgart",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Stuttgart"
+      "city": "Muenchen",
+      "industry": "Maler",
+      "query": "Maler Muenchen"
     },
     {
-      "city": "Dortmund",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Dortmund"
+      "city": "Muenchen",
+      "industry": "Personal Training",
+      "query": "Personal Training Muenchen"
     },
     {
-      "city": "Moenchengladbach",
+      "city": "Muenchen",
       "industry": "Zahnarzt",
-      "query": "Zahnarzt Moenchengladbach"
+      "query": "Zahnarzt Muenchen"
     }
   ],
   "queries_per_run": 3

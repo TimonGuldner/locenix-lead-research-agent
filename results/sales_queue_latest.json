@@ -875,7 +875,7 @@
     "airtable_ready_count": 51,
     "email_ready_count": 140,
     "email_missing_count": 0,
-    "hard_email_gate_rejected_count": 37,
+    "hard_email_gate_rejected_count": 38,
     "downstream_email_gate_violations": 0,
     "airtable_created": 0,
     "airtable_updated": 26,

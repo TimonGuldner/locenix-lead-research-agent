@@ -1,10 +1,10 @@
 {
   "state": {
     "agent": "LOCENIX_HARD_EMAIL_GATE_ENFORCER",
-    "last_run_at": "2026-10-25T11:18:18.672766+00:00",
-    "qualified_qa_total": 177,
+    "last_run_at": "2026-10-25T13:10:34.274813+00:00",
+    "qualified_qa_total": 178,
     "downstream_email_qualified_total": 140,
-    "email_missing_excluded_total": 37,
+    "email_missing_excluded_total": 38,
     "visibility_rows_before": 140,
     "visibility_rows_after": 140,
     "visibility_rows_purged_this_run": 0,
@@ -23,6 +23,7 @@
     "sugar time kosmetik berlin|berlin|http://www.sugar-time.berlin/",
     "backroom physio berlin|berlin|https://backroomphysio.de/",
     "beauty lounge by viola – berlin-mitte|berlin|http://beauty-mitte.de/",
+    "prof. harder & kollegen - zahnarzt spezialisten|muenchen|https://www.xn--zahnrzte-mnchen-3kb82b.de/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "podologie edelmann|berlin|https://podologie-edelmann.com/",
     "thead - blond friseur münchen | aveda salon|muenchen|https://thehead-salon.de/",
     "mobiler tierarzt alovet – notdienst essen|essen|https://alovet.de/essen",

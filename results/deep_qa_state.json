@@ -1,5 +1,5 @@
 {
-  "runs": 70,
+  "runs": 71,
   "processed_ids": [
     "360°zahn - zahnarzt düsseldorf|duesseldorf|https://www.360gradzahn.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
@@ -114,6 +114,7 @@
     "praxis für kleintiermedizin dr. götte|krefeld|http://www.tierzentrum-krefeld.de/",
     "praxis für krankengymnastik krämer|sankt augustin|http://www.krankengymnastik-kraemer.de/",
     "praxis für tierheilkunde und verhaltenstherapie|sankt augustin|http://www.tierheilkunde-verhaltenstherapie.de/",
+    "prof. harder & kollegen - zahnarzt spezialisten|muenchen|https://www.xn--zahnrzte-mnchen-3kb82b.de/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "profi firmenumzug hamburg - büroumzüge|hamburg|http://www.umzugsunternehmen-umzug.hamburg/",
     "r&rrr reifennotdienst 24h|hamburg|http://www.rundrrr.de/",
     "rainer fischer immobilien|muenchen|https://www.fischer-immobilien-muenchen.de/?utm_source=google&utm_medium=gmb&utm_campaign=web",
@@ -183,15 +184,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 181,
+  "processed_count": 182,
   "remaining_eligible": 0,
-  "last_batch_count": 0,
+  "last_batch_count": 1,
   "final_a_total": 64,
-  "final_b_total": 113,
+  "final_b_total": 114,
   "email_ready_total": 51,
-  "email_missing_total": 37,
-  "email_gate_qualified_total": 140,
-  "email_missing_excluded_total": 37,
-  "downstream_eligible_total": 140,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "email_missing_total": 38
 }

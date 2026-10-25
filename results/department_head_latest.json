@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-10-25T13:10:37.614315+00:00",
+  "generated_at": "2026-10-25T16:15:21.052657+00:00",
   "department_status": "BLOCKED",
   "metrics": {
     "lead_count": 202,
@@ -55,7 +55,7 @@
       "osteomuc: osteopathie münchen-schwabing | praxis für ganzheitliche therapie|muenchen|https://osteopathie-muc.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
       "auto wenzel düsseldorf|duesseldorf|https://www.facebook.com/autowenzel/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}"
     ],
-    "sales_hard_email_gate_rejected": 37,
+    "sales_hard_email_gate_rejected": 38,
     "downstream_email_gate_violations": 0,
     "drafts_eligible": 26,
     "drafts_stored": 20,
@@ -90,7 +90,7 @@
     "approved_email_gap": 5,
     "maps_downstream_email_gate_target": 0,
     "maps_downstream_email_gate_actual": 0,
-    "research_missing_email_rejected_from_sales": 37,
+    "research_missing_email_rejected_from_sales": 38,
     "rule": "TARGET -> ACTUAL -> GAP -> ACTION -> RE-MEASURE. Missing-email Maps leads never enter downstream sales/outreach."
   },
   "learning": {

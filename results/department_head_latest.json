@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-10-25T02:55:39.660480+00:00",
+  "generated_at": "2026-10-25T08:02:07.703506+00:00",
   "department_status": "BLOCKED",
   "metrics": {
     "lead_count": 201,
@@ -77,7 +77,7 @@
     "email_positive_replies": 0,
     "email_trial_interest": 0,
     "email_human_reviews_required": 0,
-    "email_last_run_at": "2026-10-25T02:55:18.015447+00:00",
+    "email_last_run_at": "2026-10-25T08:01:45.153512+00:00",
     "departments_total": 1,
     "departments_proposed": 0,
     "agents_total": 10,
@@ -118,7 +118,7 @@
       "trial_interest": 0,
       "human_reviews_required": 0,
       "errors": 0,
-      "last_run_at": "2026-10-25T02:55:18.015447+00:00"
+      "last_run_at": "2026-10-25T08:01:45.153512+00:00"
     }
   },
   "departments": [

@@ -31,7 +31,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "rec2ShbTYTJfOGGM6"
@@ -67,7 +67,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -101,7 +101,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -136,7 +136,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -171,7 +171,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recAkUFBwzqe4BWfL"
@@ -207,7 +207,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -242,7 +242,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recleQVG1ctq0S2Ed"
@@ -278,7 +278,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -312,7 +312,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -346,7 +346,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recr82XgaaJE7D9kK"
@@ -382,7 +382,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -417,7 +417,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recGSEAnMkODu68GI"
@@ -452,7 +452,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -487,7 +487,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recyD7Dg0EetA3yRC"
@@ -523,7 +523,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNCED_UPDATED",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry.",
       "airtable_record_id": "recC9YBMTGlMCdTJW"
@@ -558,7 +558,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -592,7 +592,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -626,7 +626,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -660,7 +660,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -694,7 +694,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -728,7 +728,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -762,7 +762,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -796,7 +796,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -830,7 +830,7 @@
       "airtable_ready": false,
       "airtable_sync_status": "NOT_READY",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     },
@@ -865,7 +865,7 @@
       "airtable_ready": true,
       "airtable_sync_status": "SYNC_ERROR",
       "outreach_status": "NOT_CONTACTED",
-      "queue_date": "2026-10-24",
+      "queue_date": "2026-10-25",
       "queue_agent": "LOCENIX_SALES_QUEUE_AGENT_V6_HARD_EMAIL_GATE",
       "compliance_note": "Hard gate: a researched public business email with PUBLICLY_OBSERVED/VERIFIED status is required before Sales Queue entry."
     }
@@ -910,7 +910,7 @@
     "priority_a_count": 140,
     "priority_b_count": 0,
     "visibility_pending_count": 0,
-    "last_run_date": "2026-10-24",
+    "last_run_date": "2026-10-25",
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_DOWNSTREAM_HANDOFF"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-10-26T17:21:13.483331+00:00",
+  "last_run_at": "2026-10-26T21:44:21.811345+00:00",
   "department_status": "BLOCKED",
   "next_agent": null,
   "reason": "Airtable sync has errors; downstream work is paused.",
@@ -26,5 +26,5 @@
   "email_trial_interest": 0,
   "email_human_reviews_required": 0,
   "email_errors": 0,
-  "email_last_run_at": "2026-10-26T17:20:43.752107+00:00"
+  "email_last_run_at": "2026-10-26T21:44:03.445812+00:00"
 }

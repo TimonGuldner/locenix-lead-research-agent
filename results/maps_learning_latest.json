@@ -1,11 +1,11 @@
 {
   "state": {
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-    "last_run_at": "2026-10-25T11:42:32.397202+00:00",
+    "last_run_at": "2026-10-26T13:14:40.862817+00:00",
     "status": "OK",
-    "learning_run_count": 102,
-    "research_leads_evaluated": 201,
-    "leads_with_downstream_evidence": 181,
+    "learning_run_count": 103,
+    "research_leads_evaluated": 202,
+    "leads_with_downstream_evidence": 182,
     "airtable_leads_deduped": 62,
     "industries_learned": 21,
     "cities_learned": 31,
@@ -18,18 +18,18 @@
   },
   "learning": {
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-    "generated_at": "2026-10-25T11:42:32.397202+00:00",
-    "learning_run_count": 102,
+    "generated_at": "2026-10-26T13:14:40.862817+00:00",
+    "learning_run_count": 103,
     "mode": "SAFE_OUTCOME_LEARNING",
     "principle": "Optimize Google Maps research toward downstream sales quality, not raw lead count; never rewrite code or relax safety/legal guardrails.",
     "exploration_share": 0.15,
     "minimum_samples_before_downweight": 5,
     "minimum_samples_before_boost": 2,
     "industry_weights": {
+      "Zahnarzt": 1.285,
       "Autowerkstatt": 1.163,
       "Tierarzt": 1.283,
       "Immobilienmakler": 1.142,
-      "Zahnarzt": 1.287,
       "Sanitaer Heizung": 1.12,
       "Elektriker": 1.0,
       "Physiotherapie": 1.212,
@@ -49,11 +49,11 @@
       "Barbershop": 1.0
     },
     "city_weights": {
+      "Muenchen": 1.296,
       "Berlin": 1.175,
       "Hamburg": 1.278,
       "Bonn": 1.0,
       "Potsdam": 1.04,
-      "Muenchen": 1.297,
       "Augsburg": 1.048,
       "Essen": 1.062,
       "Bremen": 1.079,
@@ -65,7 +65,7 @@
       "Frankfurt am Main": 1.06,
       "Stuttgart": 1.074,
       "Krefeld": 1.093,
-      "Duesseldorf": 1.222,
+      "Duesseldorf": 1.226,
       "Heidelberg": 1.0,
       "Braunschweig": 1.128,
       "Bielefeld": 1.062,
@@ -121,6 +121,13 @@
       "Augsburg"
     ],
     "industry_stats": {
+      "Zahnarzt": {
+        "samples": 23,
+        "reward": 100.6,
+        "avg_reward": 4.374,
+        "positive_rate": 0.739,
+        "negative_rate": 0.043
+      },
       "Autowerkstatt": {
         "samples": 7,
         "reward": 30.7,
@@ -141,13 +148,6 @@
         "avg_reward": 3.564,
         "positive_rate": 0.571,
         "negative_rate": 0.0
-      },
-      "Zahnarzt": {
-        "samples": 22,
-        "reward": 98.75,
-        "avg_reward": 4.489,
-        "positive_rate": 0.773,
-        "negative_rate": 0.045
       },
       "Sanitaer Heizung": {
         "samples": 5,
@@ -270,6 +270,13 @@
       }
     },
     "city_stats": {
+      "Muenchen": {
+        "samples": 32,
+        "reward": 150.15,
+        "avg_reward": 4.692,
+        "positive_rate": 0.75,
+        "negative_rate": 0.0
+      },
       "Berlin": {
         "samples": 47,
         "reward": 110.55,
@@ -296,13 +303,6 @@
         "reward": 7.5,
         "avg_reward": 3.75,
         "positive_rate": 0.5,
-        "negative_rate": 0.0
-      },
-      "Muenchen": {
-        "samples": 31,
-        "reward": 148.3,
-        "avg_reward": 4.784,
-        "positive_rate": 0.774,
         "negative_rate": 0.0
       },
       "Augsburg": {
@@ -489,6 +489,13 @@
       }
     },
     "pair_stats": {
+      "Zahnarzt|Muenchen": {
+        "samples": 14,
+        "reward": 72.25,
+        "avg_reward": 5.161,
+        "positive_rate": 0.857,
+        "negative_rate": 0.0
+      },
       "Autowerkstatt|Berlin": {
         "samples": 1,
         "reward": 5.15,
@@ -522,13 +529,6 @@
         "reward": 7.5,
         "avg_reward": 3.75,
         "positive_rate": 0.5,
-        "negative_rate": 0.0
-      },
-      "Zahnarzt|Muenchen": {
-        "samples": 13,
-        "reward": 70.4,
-        "avg_reward": 5.415,
-        "positive_rate": 0.923,
         "negative_rate": 0.0
       },
       "Autowerkstatt|Muenchen": {
@@ -1065,10 +1065,45 @@
       }
     },
     "feature_stats": {
+      "rating_4.5_4.79": {
+        "samples": 48,
+        "reward": 174.15,
+        "avg_reward": 3.628,
+        "positive_rate": 0.583,
+        "negative_rate": 0.0
+      },
+      "reviews_unknown": {
+        "samples": 23,
+        "reward": 83.75,
+        "avg_reward": 3.641,
+        "positive_rate": 0.652,
+        "negative_rate": 0.043
+      },
+      "gap_150_plus": {
+        "samples": 104,
+        "reward": 478.1,
+        "avg_reward": 4.597,
+        "positive_rate": 0.74,
+        "negative_rate": 0.0
+      },
+      "website_ready": {
+        "samples": 202,
+        "reward": 767.75,
+        "avg_reward": 3.801,
+        "positive_rate": 0.644,
+        "negative_rate": 0.005
+      },
+      "email_missing": {
+        "samples": 59,
+        "reward": 93.0,
+        "avg_reward": 1.576,
+        "positive_rate": 0.186,
+        "negative_rate": 0.017
+      },
       "rating_4.8_plus": {
         "samples": 132,
-        "reward": 502.55,
-        "avg_reward": 3.807,
+        "reward": 502.15,
+        "avg_reward": 3.804,
         "positive_rate": 0.652,
         "negative_rate": 0.008
       },
@@ -1078,27 +1113,6 @@
         "avg_reward": 3.939,
         "positive_rate": 0.694,
         "negative_rate": 0.0
-      },
-      "gap_150_plus": {
-        "samples": 103,
-        "reward": 476.25,
-        "avg_reward": 4.624,
-        "positive_rate": 0.748,
-        "negative_rate": 0.0
-      },
-      "website_ready": {
-        "samples": 201,
-        "reward": 765.9,
-        "avg_reward": 3.81,
-        "positive_rate": 0.647,
-        "negative_rate": 0.005
-      },
-      "email_missing": {
-        "samples": 58,
-        "reward": 90.75,
-        "avg_reward": 1.565,
-        "positive_rate": 0.19,
-        "negative_rate": 0.017
       },
       "rating_4.0_4.49": {
         "samples": 18,
@@ -1116,8 +1130,8 @@
       },
       "email_observed": {
         "samples": 143,
-        "reward": 675.15,
-        "avg_reward": 4.721,
+        "reward": 674.75,
+        "avg_reward": 4.719,
         "positive_rate": 0.832,
         "negative_rate": 0.0
       },
@@ -1127,20 +1141,6 @@
         "avg_reward": 6.125,
         "positive_rate": 1.0,
         "negative_rate": 0.0
-      },
-      "rating_4.5_4.79": {
-        "samples": 47,
-        "reward": 171.9,
-        "avg_reward": 3.657,
-        "positive_rate": 0.596,
-        "negative_rate": 0.0
-      },
-      "reviews_unknown": {
-        "samples": 22,
-        "reward": 81.9,
-        "avg_reward": 3.723,
-        "positive_rate": 0.682,
-        "negative_rate": 0.045
       },
       "gap_75_149": {
         "samples": 63,

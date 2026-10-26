@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 102,
-  "focus": "city_exploitation",
+  "learning_run_count": 103,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen"
+    "Moenchengladbach",
+    "Essen",
+    "Bielefeld"
   ],
   "selected_industries": [
-    "Maler",
-    "Personal Training",
     "Zahnarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
-      "industry": "Maler",
-      "query": "Maler Muenchen"
-    },
-    {
-      "city": "Muenchen",
-      "industry": "Personal Training",
-      "query": "Personal Training Muenchen"
-    },
-    {
-      "city": "Muenchen",
+      "city": "Moenchengladbach",
       "industry": "Zahnarzt",
-      "query": "Zahnarzt Muenchen"
+      "query": "Zahnarzt Moenchengladbach"
+    },
+    {
+      "city": "Essen",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Essen"
+    },
+    {
+      "city": "Bielefeld",
+      "industry": "Zahnarzt",
+      "query": "Zahnarzt Bielefeld"
     }
   ],
   "queries_per_run": 3

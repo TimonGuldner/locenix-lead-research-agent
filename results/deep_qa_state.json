@@ -1,5 +1,5 @@
 {
-  "runs": 72,
+  "runs": 73,
   "processed_ids": [
     "360°zahn - zahnarzt düsseldorf|duesseldorf|https://www.360gradzahn.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
@@ -170,6 +170,7 @@
     "zahnarzt düsseldorf - dr. dirk stolley|duesseldorf|https://www.zahnarzt-duesseldorf.dental/?utm_source=google&utm_medium=maps&utm_campaign=local",
     "zahnarzt düsseldorf dentapark's|duesseldorf|https://www.duesseldorf-zahnarzt-dentaparks.de/",
     "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "zahnarzt lentrodt münchen (privatpraxis)|muenchen|https://zahnarztlentrodt.de/",
     "zahnarzt mondent|duesseldorf|https://www.mondent.de/",
     "zahnarzt münchen - dental21|muenchen|https://www.dental21-olympiapark.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
     "zahnarzt münchen - dr. desmyttère msc, msc | smileforever|muenchen|https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
@@ -184,15 +185,11 @@
     "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
     "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
   ],
-  "processed_count": 182,
+  "processed_count": 183,
   "remaining_eligible": 0,
-  "last_batch_count": 0,
+  "last_batch_count": 1,
   "final_a_total": 64,
-  "final_b_total": 114,
+  "final_b_total": 115,
   "email_ready_total": 51,
-  "email_missing_total": 38,
-  "email_gate_qualified_total": 140,
-  "email_missing_excluded_total": 38,
-  "downstream_eligible_total": 140,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "email_missing_total": 38
 }

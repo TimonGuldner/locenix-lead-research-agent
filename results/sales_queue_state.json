@@ -1,13 +1,13 @@
 {
-  "queue_count": 140,
+  "queue_count": 141,
   "airtable_ready_count": 51,
-  "email_ready_count": 140,
+  "email_ready_count": 141,
   "email_missing_count": 0,
   "hard_email_gate_rejected_count": 38,
   "downstream_email_gate_violations": 0,
   "airtable_created": 0,
   "airtable_updated": 26,
-  "airtable_skipped": 89,
+  "airtable_skipped": 90,
   "airtable_errors": [
     "praxis für kleintiermedizin arbergen|bremen|https://www.tierarzt-arbergen.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
     "tierarztpraxis tierärztlicher notfalldienst - in der hafencity- jeden tag am selben ort|hamburg|https://tierarzt-notdienst-hamburg.com/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
@@ -35,7 +35,7 @@
     "osteomuc: osteopathie münchen-schwabing | praxis für ganzheitliche therapie|muenchen|https://osteopathie-muc.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",
     "auto wenzel düsseldorf|duesseldorf|https://www.facebook.com/autowenzel/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}"
   ],
-  "priority_a_count": 140,
+  "priority_a_count": 141,
   "priority_b_count": 0,
   "visibility_pending_count": 0,
   "last_run_date": "2026-10-27",

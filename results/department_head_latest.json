@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-10-27T16:46:33.736986+00:00",
+  "generated_at": "2026-10-27T17:57:13.255992+00:00",
   "department_status": "BLOCKED",
   "metrics": {
     "lead_count": 203,
@@ -25,8 +25,8 @@
     "qa_email_missing": 38,
     "visibility_remaining": 0,
     "visibility_email_gate_rejected": 38,
-    "weak_visibility": 98,
-    "sales_queue_count": 140,
+    "weak_visibility": 99,
+    "sales_queue_count": 141,
     "airtable_ready": 51,
     "airtable_errors": [
       "praxis für kleintiermedizin arbergen|bremen|https://www.tierarzt-arbergen.de/: Airtable API error 422: {\"error\":{\"type\":\"TOO_MANY_RECORDS_IN_BASE\",\"message\":\"This base is or will be over its record limits with new records added. Upgrade the workspace for this base to increase its record and storage limits at https://airtable.com/wspnetM2H0PxhN5od/workspace/plans?ref=bp.olpa\"}}",

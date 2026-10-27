@@ -1,14 +1,14 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-  "generated_at": "2026-10-26T13:14:40.862817+00:00",
-  "learning_run_count": 103,
+  "generated_at": "2026-10-27T12:22:51.643547+00:00",
+  "learning_run_count": 104,
   "mode": "SAFE_OUTCOME_LEARNING",
   "principle": "Optimize Google Maps research toward downstream sales quality, not raw lead count; never rewrite code or relax safety/legal guardrails.",
   "exploration_share": 0.15,
   "minimum_samples_before_downweight": 5,
   "minimum_samples_before_boost": 2,
   "industry_weights": {
-    "Zahnarzt": 1.285,
+    "Zahnarzt": 1.284,
     "Autowerkstatt": 1.163,
     "Tierarzt": 1.283,
     "Immobilienmakler": 1.142,
@@ -31,7 +31,7 @@
     "Barbershop": 1.0
   },
   "city_weights": {
-    "Muenchen": 1.296,
+    "Muenchen": 1.295,
     "Berlin": 1.175,
     "Hamburg": 1.278,
     "Bonn": 1.0,
@@ -47,7 +47,7 @@
     "Frankfurt am Main": 1.06,
     "Stuttgart": 1.074,
     "Krefeld": 1.093,
-    "Duesseldorf": 1.226,
+    "Duesseldorf": 1.229,
     "Heidelberg": 1.0,
     "Braunschweig": 1.128,
     "Bielefeld": 1.062,

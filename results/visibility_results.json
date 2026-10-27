@@ -687,6 +687,56 @@
     "outreach_status": "NOT_CONTACTED"
   },
   {
+    "lead_id": "zahnarzt lentrodt münchen (privatpraxis)|muenchen|https://zahnarztlentrodt.de/",
+    "company_name": "Zahnarzt Lentrodt München (Privatpraxis)",
+    "industry": "Zahnarzt",
+    "city": "Muenchen",
+    "email": "info@zahnarztlentrodt.de",
+    "email_verification_status": "PUBLICLY_OBSERVED",
+    "deep_qa_decision": "FINAL_B",
+    "deep_qa_score": 94,
+    "visibility_tests": [
+      {
+        "query": "Zahnarzt Muenchen",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 11,
+        "competitors_ahead": [
+          "AllDent Zahnzentrum München",
+          "dent + face Zahnzentrum München",
+          "AllDent Zahnzentrum München Ost",
+          "Zahngesundheitszentrum Dr. Berand",
+          "Zahnkonzept München"
+        ],
+        "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+      },
+      {
+        "query": "Zahnarzt in Muenchen",
+        "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+        "observed_position": null,
+        "results_checked": 8,
+        "competitors_ahead": [
+          "AllDent Zahnzentrum München",
+          "Zahngesundheitszentrum Dr. Berand",
+          "dent + face Zahnzentrum München",
+          "Zahnarzt München - Dental21",
+          "AllDent Zahnzentrum München Ost"
+        ],
+        "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+      }
+    ],
+    "weak_visibility_observed": true,
+    "visibility_opportunity_score": 10,
+    "visibility_evidence": [
+      "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+      "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+    ],
+    "visibility_date": "2026-10-27",
+    "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+    "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+    "outreach_status": "NOT_CONTACTED"
+  },
+  {
     "lead_id": "myphysio physiotherapie köln am gürzenich (privatpatienten&selbstzahler)|koeln|https://myphysio-deutschland.de/",
     "company_name": "myPhysio Physiotherapie Köln Am Gürzenich (Privatpatienten&Selbstzahler)",
     "industry": "Physiotherapie",

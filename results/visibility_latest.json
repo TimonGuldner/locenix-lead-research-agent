@@ -1,7 +1,58 @@
 {
-  "results": [],
+  "results": [
+    {
+      "lead_id": "zahnarzt lentrodt münchen (privatpraxis)|muenchen|https://zahnarztlentrodt.de/",
+      "company_name": "Zahnarzt Lentrodt München (Privatpraxis)",
+      "industry": "Zahnarzt",
+      "city": "Muenchen",
+      "email": "info@zahnarztlentrodt.de",
+      "email_verification_status": "PUBLICLY_OBSERVED",
+      "deep_qa_decision": "FINAL_B",
+      "deep_qa_score": 94,
+      "visibility_tests": [
+        {
+          "query": "Zahnarzt Muenchen",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 11,
+          "competitors_ahead": [
+            "AllDent Zahnzentrum München",
+            "dent + face Zahnzentrum München",
+            "AllDent Zahnzentrum München Ost",
+            "Zahngesundheitszentrum Dr. Berand",
+            "Zahnkonzept München"
+          ],
+          "evidence": "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim."
+        },
+        {
+          "query": "Zahnarzt in Muenchen",
+          "status": "NOT_OBSERVED_IN_CHECKED_RESULTS",
+          "observed_position": null,
+          "results_checked": 8,
+          "competitors_ahead": [
+            "AllDent Zahnzentrum München",
+            "Zahngesundheitszentrum Dr. Berand",
+            "dent + face Zahnzentrum München",
+            "Zahnarzt München - Dental21",
+            "AllDent Zahnzentrum München Ost"
+          ],
+          "evidence": "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+        }
+      ],
+      "weak_visibility_observed": true,
+      "visibility_opportunity_score": 10,
+      "visibility_evidence": [
+        "Business was not observed among the first 11 Maps results returned in this run. This is not a universal ranking claim.",
+        "Business was not observed among the first 8 Maps results returned in this run. This is not a universal ranking claim."
+      ],
+      "visibility_date": "2026-10-27",
+      "visibility_agent": "LOCENIX_MAPS_VISIBILITY_AGENT_V2_EMAIL_GATE",
+      "claim_scope": "Observed search-result positions only; no universal or persistent ranking claim.",
+      "outreach_status": "NOT_CONTACTED"
+    }
+  ],
   "state": {
-    "runs": 105,
+    "runs": 106,
     "processed_ids": [
       "360°zahn - zahnarzt düsseldorf|duesseldorf|https://www.360gradzahn.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
       "alldent zahnzentrum münchen ost|muenchen|https://www.alldent-zahnzentrum.de/",
@@ -131,6 +182,7 @@
       "wohlfühlen in hamburg/ massagepraxis christiane kirsten|hamburg|http://www.wohlfuehlen-in-hamburg.com/",
       "zahnarzt düsseldorf - dr. dirk stolley|duesseldorf|https://www.zahnarzt-duesseldorf.dental/?utm_source=google&utm_medium=maps&utm_campaign=local",
       "zahnarzt hamburg - dental21|hamburg|https://www.dental21-europapassage.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+      "zahnarzt lentrodt münchen (privatpraxis)|muenchen|https://zahnarztlentrodt.de/",
       "zahnarzt mondent|duesseldorf|https://www.mondent.de/",
       "zahnarzt münchen - dental21|muenchen|https://www.dental21-olympiapark.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
       "zahnarzt münchen - dr. desmyttère msc, msc | smileforever|muenchen|https://www.zahnarzt-muenchen-zentrum.com/?utm_source=google&utm_medium=gmb&utm_campaign=desmyttere",
@@ -144,10 +196,10 @@
       "zimmermann sanitär, heizung und umwelttechnik|berlin|https://www.zimmermann-installation.de/",
       "ästhetik hamburg|hamburg|https://aesthetikhamburg.de/"
     ],
-    "processed_count": 140,
-    "last_batch_count": 0,
+    "processed_count": 141,
+    "last_batch_count": 1,
     "remaining_eligible": 0,
-    "weak_visibility_total": 98,
+    "weak_visibility_total": 99,
     "email_gate_rejected_count": 38,
     "downstream_email_gate_violations": 0,
     "email_gate_rule": "NO_RESEARCHED_PUBLIC_EMAIL_NO_VISIBILITY_ANALYSIS"

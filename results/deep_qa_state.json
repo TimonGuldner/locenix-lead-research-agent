@@ -1,5 +1,5 @@
 {
-  "runs": 73,
+  "runs": 74,
   "processed_ids": [
     "360°zahn - zahnarzt düsseldorf|duesseldorf|https://www.360gradzahn.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
     "aesthetik & kosmetikstudio hamburg|hamburg|https://www.instagram.com/aesthetik.studio.hamburg_/",
@@ -187,13 +187,9 @@
   ],
   "processed_count": 183,
   "remaining_eligible": 0,
-  "last_batch_count": 1,
+  "last_batch_count": 0,
   "final_a_total": 64,
   "final_b_total": 115,
   "email_ready_total": 51,
-  "email_missing_total": 38,
-  "email_gate_qualified_total": 141,
-  "email_missing_excluded_total": 38,
-  "downstream_eligible_total": 141,
-  "email_gate_rule": "FINAL_A_OR_B_REQUIRES_RESEARCHED_PUBLIC_EMAIL_FOR_ANY_DOWNSTREAM_HANDOFF"
+  "email_missing_total": 38
 }

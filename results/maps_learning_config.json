@@ -1,14 +1,14 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-  "generated_at": "2026-10-27T12:22:51.643547+00:00",
-  "learning_run_count": 104,
+  "generated_at": "2026-10-28T13:07:34.664547+00:00",
+  "learning_run_count": 105,
   "mode": "SAFE_OUTCOME_LEARNING",
   "principle": "Optimize Google Maps research toward downstream sales quality, not raw lead count; never rewrite code or relax safety/legal guardrails.",
   "exploration_share": 0.15,
   "minimum_samples_before_downweight": 5,
   "minimum_samples_before_boost": 2,
   "industry_weights": {
-    "Zahnarzt": 1.284,
+    "Zahnarzt": 1.283,
     "Autowerkstatt": 1.163,
     "Tierarzt": 1.283,
     "Immobilienmakler": 1.142,
@@ -47,7 +47,7 @@
     "Frankfurt am Main": 1.06,
     "Stuttgart": 1.074,
     "Krefeld": 1.093,
-    "Duesseldorf": 1.229,
+    "Duesseldorf": 1.231,
     "Heidelberg": 1.0,
     "Braunschweig": 1.128,
     "Bielefeld": 1.062,
@@ -64,8 +64,8 @@
     "Hannover": 1.0
   },
   "recommended_industries": [
-    "Zahnarzt",
     "Tierarzt",
+    "Zahnarzt",
     "Friseur",
     "Physiotherapie",
     "Kosmetikstudio",
@@ -104,11 +104,11 @@
   ],
   "industry_stats": {
     "Zahnarzt": {
-      "samples": 23,
-      "reward": 100.6,
-      "avg_reward": 4.374,
-      "positive_rate": 0.739,
-      "negative_rate": 0.043
+      "samples": 24,
+      "reward": 105.7,
+      "avg_reward": 4.404,
+      "positive_rate": 0.75,
+      "negative_rate": 0.042
     },
     "Autowerkstatt": {
       "samples": 7,
@@ -253,10 +253,10 @@
   },
   "city_stats": {
     "Muenchen": {
-      "samples": 32,
-      "reward": 150.15,
-      "avg_reward": 4.692,
-      "positive_rate": 0.75,
+      "samples": 33,
+      "reward": 155.25,
+      "avg_reward": 4.705,
+      "positive_rate": 0.758,
       "negative_rate": 0.0
     },
     "Berlin": {
@@ -472,10 +472,10 @@
   },
   "pair_stats": {
     "Zahnarzt|Muenchen": {
-      "samples": 14,
-      "reward": 72.25,
-      "avg_reward": 5.161,
-      "positive_rate": 0.857,
+      "samples": 15,
+      "reward": 77.35,
+      "avg_reward": 5.157,
+      "positive_rate": 0.867,
       "negative_rate": 0.0
     },
     "Autowerkstatt|Berlin": {
@@ -1055,24 +1055,24 @@
       "negative_rate": 0.0
     },
     "reviews_unknown": {
-      "samples": 23,
-      "reward": 83.75,
-      "avg_reward": 3.641,
-      "positive_rate": 0.652,
-      "negative_rate": 0.043
+      "samples": 24,
+      "reward": 88.85,
+      "avg_reward": 3.702,
+      "positive_rate": 0.667,
+      "negative_rate": 0.042
     },
     "gap_150_plus": {
-      "samples": 104,
-      "reward": 478.1,
-      "avg_reward": 4.597,
-      "positive_rate": 0.74,
+      "samples": 105,
+      "reward": 483.2,
+      "avg_reward": 4.602,
+      "positive_rate": 0.743,
       "negative_rate": 0.0
     },
     "website_ready": {
-      "samples": 202,
-      "reward": 767.75,
-      "avg_reward": 3.801,
-      "positive_rate": 0.644,
+      "samples": 203,
+      "reward": 772.85,
+      "avg_reward": 3.807,
+      "positive_rate": 0.645,
       "negative_rate": 0.005
     },
     "email_missing": {
@@ -1083,10 +1083,10 @@
       "negative_rate": 0.017
     },
     "rating_4.8_plus": {
-      "samples": 132,
-      "reward": 502.15,
-      "avg_reward": 3.804,
-      "positive_rate": 0.652,
+      "samples": 133,
+      "reward": 507.25,
+      "avg_reward": 3.814,
+      "positive_rate": 0.654,
       "negative_rate": 0.008
     },
     "reviews_0_29": {
@@ -1111,10 +1111,10 @@
       "negative_rate": 0.0
     },
     "email_observed": {
-      "samples": 143,
-      "reward": 674.75,
-      "avg_reward": 4.719,
-      "positive_rate": 0.832,
+      "samples": 144,
+      "reward": 679.85,
+      "avg_reward": 4.721,
+      "positive_rate": 0.833,
       "negative_rate": 0.0
     },
     "rating_under_4.0": {

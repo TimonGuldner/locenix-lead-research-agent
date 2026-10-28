@@ -1,95 +1,18 @@
 {
-  "accepted": [
-    {
-      "company_name": "Zahnarzt Lentrodt München (Privatpraxis)",
-      "industry": "Zahnarzt",
-      "city": "Muenchen",
-      "address": "Ohmstraße 1, 80802 München-Schwabing-Freimann, Deutschland",
-      "website": "https://zahnarztlentrodt.de/",
-      "google_maps_url": "https://www.google.com/maps/place/Zahnarzt+Lentrodt+M%C3%BCnchen+%28Privatpraxis%29/data=!4m7!3m6!1s0x479e75bfe12ed98b:0x8541f071a656e207!8m2!3d48.1542872!4d11.5841662!16s%2Fg%2F1v9tywy9!19sChIJi9ku4b91nkcRB-JWpnHwQYU?authuser=0&hl=de&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
-      "phone": "+49 89 399126",
-      "public_business_email": "info@zahnarztlentrodt.de",
-      "email_source_url": "https://zahnarztlentrodt.de/",
-      "contact_form_url": "https://zahnarztlentrodt.de/kontakt",
-      "contact_basis": "PUBLIC_BUSINESS_EMAIL_ONLY",
-      "google_rating": 5.0,
-      "google_review_count": null,
-      "main_category": "Zahnarzt",
-      "website_services": [
-        "implantate",
-        "bleaching",
-        "wurzelbehandlung"
-      ],
-      "google_visible_services": [],
-      "service_gap": [],
-      "service_visibility_candidates": [
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, bleaching, wurzelbehandlung"
-      ],
-      "service_gap_status": "UNVERIFIED",
-      "competitor_1": "AllDent Zahnzentrum München",
-      "competitor_1_reviews": 8453,
-      "competitor_2": null,
-      "competitor_2_reviews": null,
-      "verified_optimization_signals": [
-        {
-          "type": "review_gap",
-          "proof": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8453; Gap 8453."
-        },
-        {
-          "type": "low_review_volume",
-          "proof": "Nur 0 Google-Bewertungen."
-        }
-      ],
-      "soft_optimization_signals": [
-        {
-          "type": "service_visibility_candidate",
-          "proof": "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, bleaching, wurzelbehandlung",
-          "verification": "REQUIRES_FINAL_QA"
-        }
-      ],
-      "verified_signal_count": 2,
-      "report_potential_score": 28,
-      "visible_value_score": 14,
-      "maps_importance_score": 14,
-      "customer_value_score": 8,
-      "competitive_pressure_score": 10,
-      "digital_readiness_score": 10,
-      "saas_fit_score": 5,
-      "total_score": 89,
-      "competitor_review_median": 8453,
-      "review_gap": 8453,
-      "grade": "A",
-      "lead_class": "A_LEAD",
-      "qa_gate": "PASS",
-      "primary_pitch": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8453; Gap 8453.",
-      "proof": [
-        "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8453; Gap 8453.",
-        "Nur 0 Google-Bewertungen.",
-        "Auf Website gefunden, aber im ersten Google-Maps-Ansichts-Text nicht beobachtet: implantate, bleaching, wurzelbehandlung"
-      ],
-      "expected_locenix_value": "LOCENIX Check: Google-Unternehmensprofil gegen lokale Wettbewerber prüfen und belegbare Optimierungshebel priorisieren.",
-      "best_outreach_angle": "0 eigene Bewertungen vs. lokaler Wettbewerbsmedian 8453; Gap 8453.",
-      "second_outreach_angle": "Nur 0 Google-Bewertungen.",
-      "research_notes": "Deterministic research v2. Query: Zahnarzt Muenchen. Website note: ok. Service-gap claims remain unverified until final QA.",
-      "research_date": "2026-10-27",
-      "research_status": "QUALIFIED",
-      "qa_status": "AUTO_PASS_NEEDS_FINAL_QA",
-      "outreach_status": "NOT_CONTACTED"
-    }
-  ],
-  "accepted_count": 1,
-  "rejected_count": 11,
+  "accepted": [],
+  "accepted_count": 0,
+  "rejected_count": 24,
   "inspected": 24,
   "state": {
-    "query_cursor": 408,
-    "runs": 136,
+    "query_cursor": 411,
+    "runs": 137,
     "lead_count": 203,
     "target_leads": 999999999,
-    "last_accepted": 1,
+    "last_accepted": 0,
     "last_inspected": 24,
     "complete": false,
-    "last_rejected": 11,
-    "a_leads": 48,
-    "b_leads": 124
+    "last_rejected": 24,
+    "a_leads": 47,
+    "b_leads": 125
   }
 }

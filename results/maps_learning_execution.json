@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 104,
-  "focus": "city_exploitation",
-  "exploration": false,
+  "learning_run_count": 105,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen"
+    "Dortmund",
+    "Essen",
+    "Bremen"
   ],
   "selected_industries": [
-    "Zahnarzt",
-    "Tierarzt",
-    "Friseur"
+    "Dachdecker"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
-      "industry": "Zahnarzt",
-      "query": "Zahnarzt Muenchen"
+      "city": "Dortmund",
+      "industry": "Dachdecker",
+      "query": "Dachdecker Dortmund"
     },
     {
-      "city": "Muenchen",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Muenchen"
+      "city": "Essen",
+      "industry": "Dachdecker",
+      "query": "Dachdecker Essen"
     },
     {
-      "city": "Muenchen",
-      "industry": "Friseur",
-      "query": "Friseur Muenchen"
+      "city": "Bremen",
+      "industry": "Dachdecker",
+      "query": "Dachdecker Bremen"
     }
   ],
   "queries_per_run": 3

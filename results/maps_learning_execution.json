@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 105,
-  "focus": "exploration",
-  "exploration": true,
+  "learning_run_count": 106,
+  "focus": "city_exploitation",
+  "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Dortmund",
-    "Essen",
-    "Bremen"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Dachdecker"
+    "Friseur",
+    "Physiotherapie",
+    "Kosmetikstudio"
   ],
   "selected_pairs": [
     {
-      "city": "Dortmund",
-      "industry": "Dachdecker",
-      "query": "Dachdecker Dortmund"
+      "city": "Muenchen",
+      "industry": "Friseur",
+      "query": "Friseur Muenchen"
     },
     {
-      "city": "Essen",
-      "industry": "Dachdecker",
-      "query": "Dachdecker Essen"
+      "city": "Muenchen",
+      "industry": "Physiotherapie",
+      "query": "Physiotherapie Muenchen"
     },
     {
-      "city": "Bremen",
-      "industry": "Dachdecker",
-      "query": "Dachdecker Bremen"
+      "city": "Muenchen",
+      "industry": "Kosmetikstudio",
+      "query": "Kosmetikstudio Muenchen"
     }
   ],
   "queries_per_run": 3

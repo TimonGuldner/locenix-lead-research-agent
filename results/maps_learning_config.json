@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-  "generated_at": "2026-10-28T13:07:34.664547+00:00",
-  "learning_run_count": 105,
+  "generated_at": "2026-10-29T13:14:24.911300+00:00",
+  "learning_run_count": 106,
   "mode": "SAFE_OUTCOME_LEARNING",
   "principle": "Optimize Google Maps research toward downstream sales quality, not raw lead count; never rewrite code or relax safety/legal guardrails.",
   "exploration_share": 0.15,
@@ -47,7 +47,7 @@
     "Frankfurt am Main": 1.06,
     "Stuttgart": 1.074,
     "Krefeld": 1.093,
-    "Duesseldorf": 1.231,
+    "Duesseldorf": 1.232,
     "Heidelberg": 1.0,
     "Braunschweig": 1.128,
     "Bielefeld": 1.062,

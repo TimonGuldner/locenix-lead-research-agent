@@ -6,19 +6,25 @@
     "sender": "Timon Guldner <hello@locenix.com>",
     "reply_to": "hello@locenix.com",
     "auto_reply_enabled": true,
-    "received_scanned": 7,
+    "received_scanned": 8,
     "handled": 0,
-    "unmatched": 0,
+    "unmatched": 1,
     "duplicates_skipped": 7,
     "errors": 0,
     "positive_replies": 0,
     "trial_interest": 0,
     "human_reviews_required": 0,
-    "processed_message_ids_total": 21,
-    "last_run_at": "2026-10-29T15:22:35.135126+00:00"
+    "processed_message_ids_total": 22,
+    "last_run_at": "2026-10-29T20:24:21.000185+00:00"
   },
   "handled": [],
-  "unmatched": [],
+  "unmatched": [
+    {
+      "message_id": "<c0db97a2b06ca06529b6b162cde46619ac91e701-20409052-337030291@google.com>",
+      "from": "businessprofile-noreply@google.com",
+      "subject": "Angebote und Werbeaktionen im Unternehmensprofil von Joey's Hausmeisterservice hervorheben"
+    }
+  ],
   "duplicates": [
     "<1790854118998.5a08eb45-42f4-4e8d-a721-01563819e79f@bf58x.hubspotemail.net>",
     "<1791198645430.94a174f4-0bec-4862-b6af-40b94dc9f581@bf58x.hubspotemail.net>",

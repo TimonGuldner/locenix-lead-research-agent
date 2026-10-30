@@ -8,23 +8,17 @@
     "auto_reply_enabled": true,
     "received_scanned": 8,
     "handled": 0,
-    "unmatched": 1,
-    "duplicates_skipped": 7,
+    "unmatched": 0,
+    "duplicates_skipped": 8,
     "errors": 0,
     "positive_replies": 0,
     "trial_interest": 0,
     "human_reviews_required": 0,
     "processed_message_ids_total": 22,
-    "last_run_at": "2026-10-29T20:24:21.000185+00:00"
+    "last_run_at": "2026-10-30T00:01:54.954771+00:00"
   },
   "handled": [],
-  "unmatched": [
-    {
-      "message_id": "<c0db97a2b06ca06529b6b162cde46619ac91e701-20409052-337030291@google.com>",
-      "from": "businessprofile-noreply@google.com",
-      "subject": "Angebote und Werbeaktionen im Unternehmensprofil von Joey's Hausmeisterservice hervorheben"
-    }
-  ],
+  "unmatched": [],
   "duplicates": [
     "<1790854118998.5a08eb45-42f4-4e8d-a721-01563819e79f@bf58x.hubspotemail.net>",
     "<1791198645430.94a174f4-0bec-4862-b6af-40b94dc9f581@bf58x.hubspotemail.net>",
@@ -32,7 +26,8 @@
     "<1791544247067.7a8e90f6-ba4f-451a-abe8-ff1f75bc7bcd@bf58x.hubspotemail.net>",
     "<1791803455858.24cfa7c3-7c9d-4274-9cad-2821c20fdbc6@bf58x.hubspotemail.net>",
     "<7c26951d3d91d2e4382255acf0165bc2@2328.io>",
-    "<1793261042764.7d6d4c6a-2ed4-4fb5-82c0-a83e285310da@bf58x.hubspotemail.net>"
+    "<1793261042764.7d6d4c6a-2ed4-4fb5-82c0-a83e285310da@bf58x.hubspotemail.net>",
+    "<c0db97a2b06ca06529b6b162cde46619ac91e701-20409052-337030291@google.com>"
   ],
   "errors": []
 }

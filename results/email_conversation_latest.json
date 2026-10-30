@@ -6,19 +6,25 @@
     "sender": "Timon Guldner <hello@locenix.com>",
     "reply_to": "hello@locenix.com",
     "auto_reply_enabled": true,
-    "received_scanned": 7,
+    "received_scanned": 8,
     "handled": 0,
-    "unmatched": 0,
+    "unmatched": 1,
     "duplicates_skipped": 7,
     "errors": 0,
     "positive_replies": 0,
     "trial_interest": 0,
     "human_reviews_required": 0,
-    "processed_message_ids_total": 22,
-    "last_run_at": "2026-10-30T11:38:56.731129+00:00"
+    "processed_message_ids_total": 23,
+    "last_run_at": "2026-10-30T17:11:24.502557+00:00"
   },
   "handled": [],
-  "unmatched": [],
+  "unmatched": [
+    {
+      "message_id": "<983b012b59586080f2c21f68878fa04a@2328.io>",
+      "from": "stefan@2328.io",
+      "subject": "Re: Crypto payments for LOCENIX"
+    }
+  ],
   "duplicates": [
     "<1791198645430.94a174f4-0bec-4862-b6af-40b94dc9f581@bf58x.hubspotemail.net>",
     "<51ca9a38f39ab8dee50b96402308057eac66893b-20155512-110937460@google.com>",

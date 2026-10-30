@@ -8,23 +8,17 @@
     "auto_reply_enabled": true,
     "received_scanned": 8,
     "handled": 0,
-    "unmatched": 1,
-    "duplicates_skipped": 7,
+    "unmatched": 0,
+    "duplicates_skipped": 8,
     "errors": 0,
     "positive_replies": 0,
     "trial_interest": 0,
     "human_reviews_required": 0,
     "processed_message_ids_total": 23,
-    "last_run_at": "2026-10-30T17:11:24.502557+00:00"
+    "last_run_at": "2026-10-30T21:29:15.296860+00:00"
   },
   "handled": [],
-  "unmatched": [
-    {
-      "message_id": "<983b012b59586080f2c21f68878fa04a@2328.io>",
-      "from": "stefan@2328.io",
-      "subject": "Re: Crypto payments for LOCENIX"
-    }
-  ],
+  "unmatched": [],
   "duplicates": [
     "<1791198645430.94a174f4-0bec-4862-b6af-40b94dc9f581@bf58x.hubspotemail.net>",
     "<51ca9a38f39ab8dee50b96402308057eac66893b-20155512-110937460@google.com>",
@@ -32,7 +26,8 @@
     "<1791803455858.24cfa7c3-7c9d-4274-9cad-2821c20fdbc6@bf58x.hubspotemail.net>",
     "<7c26951d3d91d2e4382255acf0165bc2@2328.io>",
     "<1793261042764.7d6d4c6a-2ed4-4fb5-82c0-a83e285310da@bf58x.hubspotemail.net>",
-    "<c0db97a2b06ca06529b6b162cde46619ac91e701-20409052-337030291@google.com>"
+    "<c0db97a2b06ca06529b6b162cde46619ac91e701-20409052-337030291@google.com>",
+    "<983b012b59586080f2c21f68878fa04a@2328.io>"
   ],
   "errors": []
 }

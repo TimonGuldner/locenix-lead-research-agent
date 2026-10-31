@@ -1,7 +1,7 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-10-31T18:33:46.035021+00:00",
+    "last_run_at": "2026-10-31T23:23:06.414737+00:00",
     "status": "PARTIAL",
     "signals_added": 0,
     "stale_signals_removed": 0,
@@ -27,8 +27,8 @@
   "blockers": [],
   "errors": [
     {
-      "query": "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
-      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Google%20Business%20Profile%22%20German\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Google%20Business%20Profile%22%20German\", waiting until \"domcont"
+      "query": "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
+      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=%22Google%20Maps%22%20Ranking%20Hilfe%20Unternehmen%20Deutschland\nCall log:\n  - navigating to \"https://www.bing.com/search?q=%22Google%20Maps%22%20Ranking%20Hilfe%20Unternehmen%20Deutschland\", waiting until \"domcontentloaded\"\n"
     }
   ]
 }

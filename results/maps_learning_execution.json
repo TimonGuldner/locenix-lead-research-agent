@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 107,
-  "focus": "industry_exploitation",
+  "learning_run_count": 108,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Karlsruhe",
-    "Augsburg",
-    "Muenster"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Kosmetikstudio",
+    "Autowerkstatt",
+    "Immobilienmakler"
   ],
   "selected_pairs": [
     {
-      "city": "Karlsruhe",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Karlsruhe"
+      "city": "Muenchen",
+      "industry": "Kosmetikstudio",
+      "query": "Kosmetikstudio Muenchen"
     },
     {
-      "city": "Augsburg",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Augsburg"
+      "city": "Muenchen",
+      "industry": "Autowerkstatt",
+      "query": "Autowerkstatt Muenchen"
     },
     {
-      "city": "Muenster",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Muenster"
+      "city": "Muenchen",
+      "industry": "Immobilienmakler",
+      "query": "Immobilienmakler Muenchen"
     }
   ],
   "queries_per_run": 3

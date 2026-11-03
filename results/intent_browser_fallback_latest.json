@@ -1,7 +1,7 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-11-02T23:30:02.658980+00:00",
+    "last_run_at": "2026-11-03T06:45:46.625145+00:00",
     "status": "PARTIAL",
     "signals_added": 0,
     "stale_signals_removed": 0,
@@ -27,8 +27,8 @@
   "blockers": [],
   "errors": [
     {
-      "query": "site:reddit.com \"Google Unternehmensprofil\" Deutschland",
-      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Areddit.com%20%22Google%20Unternehmensprofil%22%20Deutschland\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Areddit.com%20%22Google%20Unternehmensprofil%22%20Deutschland\", waiting until \"domcontentloaded\"\n"
+      "query": "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
+      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Google%20Business%20Profile%22%20German\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Google%20Business%20Profile%22%20German\", waiting until \"domcont"
     }
   ]
 }

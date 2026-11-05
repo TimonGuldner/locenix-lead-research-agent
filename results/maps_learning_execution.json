@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 111,
-  "focus": "industry_exploitation",
-  "exploration": false,
+  "learning_run_count": 112,
+  "focus": "exploration",
+  "exploration": true,
   "exploration_share": 0.15,
   "selected_cities": [
     "Potsdam",
-    "Mannheim",
-    "Aachen"
+    "Troisdorf",
+    "Siegburg"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Barbershop"
   ],
   "selected_pairs": [
     {
       "city": "Potsdam",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Potsdam"
+      "industry": "Barbershop",
+      "query": "Barbershop Potsdam"
     },
     {
-      "city": "Mannheim",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Mannheim"
+      "city": "Troisdorf",
+      "industry": "Barbershop",
+      "query": "Barbershop Troisdorf"
     },
     {
-      "city": "Aachen",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Aachen"
+      "city": "Siegburg",
+      "industry": "Barbershop",
+      "query": "Barbershop Siegburg"
     }
   ],
   "queries_per_run": 3

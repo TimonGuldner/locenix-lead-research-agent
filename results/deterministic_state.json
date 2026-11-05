@@ -1,12 +1,12 @@
 {
-  "query_cursor": 429,
-  "runs": 143,
+  "query_cursor": 432,
+  "runs": 144,
   "lead_count": 203,
   "target_leads": 999999999,
   "last_accepted": 0,
-  "last_inspected": 24,
+  "last_inspected": 22,
   "complete": false,
-  "last_rejected": 20,
+  "last_rejected": 22,
   "a_leads": 47,
   "b_leads": 125
 }

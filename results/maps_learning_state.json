@@ -1,17 +1,19 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-  "last_run_at": "2026-11-04T14:40:53.391184+00:00",
-  "status": "OK",
-  "learning_run_count": 111,
+  "last_run_at": "2026-11-05T14:45:41.388386+00:00",
+  "status": "PARTIAL",
+  "learning_run_count": 112,
   "research_leads_evaluated": 203,
   "leads_with_downstream_evidence": 183,
-  "airtable_leads_deduped": 62,
+  "airtable_leads_deduped": 0,
   "industries_learned": 21,
   "cities_learned": 31,
   "pairs_learned": 82,
   "recommended_industry": "Tierarzt",
   "recommended_city": "Muenchen",
   "exploration_share": 0.15,
-  "errors": 0,
-  "error_details": []
+  "errors": 1,
+  "error_details": [
+    "airtable:HTTPError"
+  ]
 }

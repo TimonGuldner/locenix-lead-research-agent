@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-11-05T14:32:41.863810+00:00",
+  "generated_at": "2026-11-06T14:11:13.353513+00:00",
   "department_status": "BLOCKED",
   "metrics": {
     "lead_count": 203,
@@ -11,13 +11,13 @@
     "qa_processed_count": 183,
     "research_unqa": 0,
     "maps_learning_available": true,
-    "maps_learning_status": "OK",
-    "maps_learning_runs": 111,
+    "maps_learning_status": "PARTIAL",
+    "maps_learning_runs": 112,
     "maps_learning_evaluated": 203,
     "maps_learning_downstream_evidence": 183,
     "maps_learning_recommended_industry": "Tierarzt",
     "maps_learning_recommended_city": "Muenchen",
-    "maps_learning_errors": 0,
+    "maps_learning_errors": 1,
     "qa_remaining": 0,
     "qa_final_a": 64,
     "qa_final_b": 115,
@@ -122,13 +122,13 @@
   "learning": {
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
     "available": true,
-    "status": "OK",
-    "learning_runs": 111,
+    "status": "PARTIAL",
+    "learning_runs": 112,
     "research_leads_evaluated": 203,
     "leads_with_downstream_evidence": 183,
     "recommended_industry": "Tierarzt",
     "recommended_city": "Muenchen",
-    "errors": 0
+    "errors": 1
   },
   "channels": {
     "email": {

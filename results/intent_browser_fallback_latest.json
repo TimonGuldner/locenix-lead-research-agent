@@ -1,7 +1,7 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-11-06T06:48:10.198728+00:00",
+    "last_run_at": "2026-11-06T15:55:09.238556+00:00",
     "status": "PARTIAL",
     "signals_added": 0,
     "stale_signals_removed": 0,
@@ -27,12 +27,12 @@
   "blockers": [],
   "errors": [
     {
-      "query": "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
-      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Google%20Business%20Profile%22%20German\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Google%20Business%20Profile%22%20German\", waiting until \"domcont"
+      "query": "\"Local SEO\" Projekt Deutschland Freelancer",
+      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=%22Local%20SEO%22%20Projekt%20Deutschland%20Freelancer\nCall log:\n  - navigating to \"https://www.bing.com/search?q=%22Local%20SEO%22%20Projekt%20Deutschland%20Freelancer\", waiting until \"domcontentloaded\"\n"
     },
     {
-      "query": "site:reddit.com \"Google Unternehmensprofil\" Deutschland",
-      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Areddit.com%20%22Google%20Unternehmensprofil%22%20Deutschland\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Areddit.com%20%22Google%20Unternehmensprofil%22%20Deutschland\", waiting until \"domcontentloaded\"\n"
+      "query": "site:upwork.com/freelance-jobs \"Local SEO\" Germany",
+      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Local%20SEO%22%20Germany\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Local%20SEO%22%20Germany\", waiting until \"domcontentloaded\"\n"
     }
   ]
 }

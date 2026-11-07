@@ -1,9 +1,9 @@
 {
   "state": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "last_run_at": "2026-11-07T01:55:23.953863+00:00",
+    "last_run_at": "2026-11-07T08:46:05.475600+00:00",
     "status": "PARTIAL",
-    "learning_run_count": 225,
+    "learning_run_count": 226,
     "evaluated_opportunities": 23,
     "queries_learned": 4,
     "sources_learned": 14,
@@ -15,8 +15,8 @@
   },
   "config": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "generated_at": "2026-11-07T01:55:23.953863+00:00",
-    "learning_run_count": 225,
+    "generated_at": "2026-11-07T08:46:05.475600+00:00",
+    "learning_run_count": 226,
     "mode": "SAFE_OUTCOME_LEARNING",
     "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
     "query_weights": {
@@ -50,12 +50,12 @@
     "paused_queries": [],
     "blocked_domains": [],
     "provider_policy": {
-      "verified_seed": {
-        "fail_streak": 0,
+      "duckduckgo": {
+        "fail_streak": 1,
         "cooldown": false,
         "probe_due": false,
         "last_errors": 0,
-        "last_hits": 3
+        "last_hits": 0
       },
       "jina_search": {
         "fail_streak": 40,
@@ -71,12 +71,12 @@
         "last_errors": 0,
         "last_hits": 0
       },
-      "duckduckgo": {
-        "fail_streak": 1,
+      "verified_seed": {
+        "fail_streak": 0,
         "cooldown": false,
         "probe_due": false,
         "last_errors": 0,
-        "last_hits": 0
+        "last_hits": 3
       }
     },
     "minimum_samples_before_pause": 5,

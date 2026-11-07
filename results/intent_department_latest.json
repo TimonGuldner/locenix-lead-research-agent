@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
   "parent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-11-07T16:25:49.125238+00:00",
+  "generated_at": "2026-11-07T21:48:52.838634+00:00",
   "department_status": "ATTENTION",
   "next_agent": "intent_qa",
   "reason": "intent_qa reports unresolved errors and should be inspected before scaling.",
@@ -19,19 +19,19 @@
     "browser_fallback_added": 0,
     "browser_stale_removed": 0,
     "transport_errors_recovered": 0,
-    "learning_runs": 227,
+    "learning_runs": 228,
     "learning_queries": 4,
     "learning_sources": 14,
     "learning_boosted_queries": 4,
     "learning_paused_queries": 0,
-    "learning_provider_cooldowns": 2,
+    "learning_provider_cooldowns": 0,
     "human_action_required": 0,
     "errors": 25
   },
   "children": {
     "intent_scout": {
       "agent": "AGENT_15A_INTENT_SCOUT",
-      "last_run_at": "2026-11-07T16:25:35.830675+00:00",
+      "last_run_at": "2026-11-07T21:48:34.479691+00:00",
       "signals_found": 23,
       "new_signals": 0,
       "unreviewed": 23,
@@ -68,7 +68,7 @@
     },
     "browser_fallback": {
       "agent": "AGENT_15A_BROWSER_FALLBACK",
-      "last_run_at": "2026-11-07T16:25:37.936765+00:00",
+      "last_run_at": "2026-11-07T21:48:36.144394+00:00",
       "status": "OK",
       "signals_added": 0,
       "stale_signals_removed": 0,
@@ -82,7 +82,7 @@
     },
     "intent_qa": {
       "agent": "AGENT_15B_INTENT_QA",
-      "last_run_at": "2026-11-07T16:25:43.618147+00:00",
+      "last_run_at": "2026-11-07T21:48:48.128648+00:00",
       "pending": 0,
       "hot": 19,
       "warm": 4,
@@ -96,7 +96,7 @@
     "platform_access": {},
     "intent_response": {
       "agent": "AGENT_15D_INTENT_RESPONSE",
-      "last_run_at": "2026-11-07T16:25:48.781306+00:00",
+      "last_run_at": "2026-11-07T21:48:52.564462+00:00",
       "prepared": 23,
       "new_prepared": 0,
       "pending": 0,
@@ -107,16 +107,16 @@
     "intent_conversation": {},
     "intent_learning": {
       "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-      "last_run_at": "2026-11-07T16:25:48.859825+00:00",
+      "last_run_at": "2026-11-07T21:48:52.624630+00:00",
       "status": "PARTIAL",
-      "learning_run_count": 227,
+      "learning_run_count": 228,
       "evaluated_opportunities": 23,
       "queries_learned": 4,
       "sources_learned": 14,
       "boosted_queries": 4,
       "paused_queries": 0,
       "blocked_domains": 0,
-      "provider_cooldowns": 2,
+      "provider_cooldowns": 0,
       "errors": 1
     }
   },

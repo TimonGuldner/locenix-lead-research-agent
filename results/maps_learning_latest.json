@@ -1,9 +1,9 @@
 {
   "state": {
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-    "last_run_at": "2026-11-06T14:23:59.941186+00:00",
+    "last_run_at": "2026-11-07T13:14:00.264636+00:00",
     "status": "PARTIAL",
-    "learning_run_count": 113,
+    "learning_run_count": 114,
     "research_leads_evaluated": 203,
     "leads_with_downstream_evidence": 183,
     "airtable_leads_deduped": 0,
@@ -20,8 +20,8 @@
   },
   "learning": {
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-    "generated_at": "2026-11-06T14:23:59.941186+00:00",
-    "learning_run_count": 113,
+    "generated_at": "2026-11-07T13:14:00.264636+00:00",
+    "learning_run_count": 114,
     "mode": "SAFE_OUTCOME_LEARNING",
     "principle": "Optimize Google Maps research toward downstream sales quality, not raw lead count; never rewrite code or relax safety/legal guardrails.",
     "exploration_share": 0.15,
@@ -29,12 +29,12 @@
     "minimum_samples_before_boost": 2,
     "industry_weights": {
       "Zahnarzt": 1.281,
-      "Autowerkstatt": 1.161,
+      "Autowerkstatt": 1.16,
       "Tierarzt": 1.283,
       "Immobilienmakler": 1.142,
       "Sanitaer Heizung": 1.12,
       "Elektriker": 1.0,
-      "Physiotherapie": 1.198,
+      "Physiotherapie": 1.195,
       "Nagelstudio": 1.13,
       "Fahrschule": 1.102,
       "Kosmetikstudio": 1.174,
@@ -52,7 +52,7 @@
     },
     "city_weights": {
       "Muenchen": 1.293,
-      "Berlin": 1.17,
+      "Berlin": 1.169,
       "Hamburg": 1.278,
       "Bonn": 1.0,
       "Potsdam": 1.04,

@@ -1,6 +1,101 @@
 {
-  "generated_at": "2026-11-07T21:48:36.144394+00:00",
+  "generated_at": "2026-11-08T01:26:42.863614+00:00",
   "signals": [
+    {
+      "signal_id": "intent-50079493313235c6",
+      "source": "freelancermap.de",
+      "source_url": "https://www.freelancermap.de/projekt/seo-freelancer-fuer-lokales-umzugsunternehmen-in-berlin-gesucht",
+      "title": "SEO-Freelancer für lokales Umzugsunternehmen in Berlin gesucht",
+      "snippet": "freelancermap\nhttps://www.freelancermap.de › projekt › seo...\nSEO-Freelancer für lokales Umzugsunternehmen in Berlin gesucht\n\n14. Juli 2026 · Gesucht wird vorzugsweise ein Freelancer aus Deutschland, idealerweise aus Berlin, mit Erfahrung in Local SEO, …",
+      "query": "\"Local SEO\" Projekt Deutschland Freelancer",
+      "raw_score": 7,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 4,
+        "marketplace_listing": true
+      },
+      "detected_at": "2026-11-08T01:26:42.863614+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-8e947ff0a996193b",
+      "source": "derhuber.com",
+      "source_url": "https://derhuber.com/online-marketing/local-seo",
+      "title": "Local SEO Freelancer statt Agentur | ab 129 €/Monat",
+      "snippet": "derhuber.com\nhttps://derhuber.com › online-marketing › local-seo\nLocal SEO Freelancer statt Agentur | ab 129 €/Monat\n\nIch mache Local SEO als Freelancer: Website, Google-Unternehmensprofil und lokale Signale aus einer Hand, damit Kunden in …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-11-08T01:26:42.863614+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-f523edb55867f5da",
+      "source": "freelancer.com",
+      "source_url": "https://www.freelancer.com/projects/keyword-research/local-seo-google-business-profile-40759603",
+      "title": "Local SEO and Google Business Profile Expert - Freelancer",
+      "snippet": "Freelancer\nhttps://www.freelancer.com › projects › keyword...\nDieses Ergebnis übersetzen\nLocal SEO and Google Business Profile Expert - Freelancer\n\nProject Description We are looking for an experienced Local SEO Specialist to manage and optimise our Google Business Profile …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 7,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 3,
+        "active_intent_hits": 2,
+        "marketplace_listing": true
+      },
+      "detected_at": "2026-11-08T01:26:42.863614+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-101027f6807682b5",
+      "source": "serpworks.com",
+      "source_url": "https://serpworks.com/",
+      "title": "Hire Local SEO Freelancers | Local SEO Marketplace | Serpworks",
+      "snippet": "serpworks.com\nhttps://serpworks.com\nDieses Ergebnis übersetzen\nHire Local SEO Freelancers | Local SEO Marketplace | Serpworks\n\nFind and hire vetted freelancers for Google Business Profile, local rankings, citations, content, link building and more. Skilled experts. …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 5,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 3,
+        "active_intent_hits": 2,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-11-08T01:26:42.863614+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-9d819847dfcebdda",
+      "source": "upwork.com",
+      "source_url": "https://www.upwork.com/freelance-jobs/apply/Google-Business-GMB-Local-SEO-Specialist-Needed_~022110478451386675915/",
+      "title": "Google My Business (GMB) & Local SEO Specialist Needed",
+      "snippet": "Upwork\nhttps://www.upwork.com › freelance-jobs › apply › Googl…\nDieses Ergebnis übersetzen\nGoogle My Business (GMB) & Local SEO Specialist Needed\n\nWe are looking for an experienced SEO specialist to improve our local search visibility, Google Maps rankings, and website …",
+      "query": "\"Google Business Profile\" German Local SEO freelancer job",
+      "raw_score": 7,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 3,
+        "active_intent_hits": 2,
+        "marketplace_listing": true
+      },
+      "detected_at": "2026-11-08T01:26:42.863614+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
     {
       "signal_id": "intent-abc58def3a39240a",
       "source": "freelancer.com",

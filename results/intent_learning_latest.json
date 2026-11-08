@@ -1,32 +1,32 @@
 {
   "state": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "last_run_at": "2026-11-07T21:48:52.624630+00:00",
+    "last_run_at": "2026-11-08T01:27:02.949665+00:00",
     "status": "PARTIAL",
-    "learning_run_count": 228,
-    "evaluated_opportunities": 23,
+    "learning_run_count": 229,
+    "evaluated_opportunities": 28,
     "queries_learned": 4,
-    "sources_learned": 14,
+    "sources_learned": 17,
     "boosted_queries": 4,
     "paused_queries": 0,
     "blocked_domains": 0,
-    "provider_cooldowns": 0,
+    "provider_cooldowns": 2,
     "errors": 1
   },
   "config": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "generated_at": "2026-11-07T21:48:52.624630+00:00",
-    "learning_run_count": 228,
+    "generated_at": "2026-11-08T01:27:02.949665+00:00",
+    "learning_run_count": 229,
     "mode": "SAFE_OUTCOME_LEARNING",
     "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
     "query_weights": {
       "verified current opportunity": 1.4,
-      "\"Google Business Profile\" German Local SEO freelancer job": 1.769,
+      "\"Google Business Profile\" German Local SEO freelancer job": 1.776,
       "\"Google Unternehmensprofil\" Freelancer Deutschland": 1.8,
       "\"Local SEO\" Projekt Deutschland Freelancer": 1.8
     },
     "source_weights": {
-      "upwork.com": 1.571,
+      "upwork.com": 1.6,
       "local-seo-freelancer.de": 1.8,
       "freelancer.com": 1.8,
       "drweb.de": 1.8,
@@ -39,7 +39,10 @@
       "softwareu.de": 1.8,
       "webdienster.de": 1.8,
       "business.google.com": 1.8,
-      "support.google.com": 1.8
+      "support.google.com": 1.8,
+      "freelancermap.de": 1.8,
+      "derhuber.com": 1.8,
+      "serpworks.com": 1.8
     },
     "boosted_queries": [
       "\"Google Unternehmensprofil\" Freelancer Deutschland",
@@ -50,18 +53,25 @@
     "paused_queries": [],
     "blocked_domains": [],
     "provider_policy": {
-      "jina_search": {
-        "fail_streak": 40,
+      "verified_seed": {
+        "fail_streak": 0,
         "cooldown": false,
-        "probe_due": true,
+        "probe_due": false,
         "last_errors": 0,
+        "last_hits": 3
+      },
+      "jina_search": {
+        "fail_streak": 41,
+        "cooldown": true,
+        "probe_due": false,
+        "last_errors": 7,
         "last_hits": 0
       },
       "reddit_api": {
-        "fail_streak": 40,
-        "cooldown": false,
-        "probe_due": true,
-        "last_errors": 0,
+        "fail_streak": 41,
+        "cooldown": true,
+        "probe_due": false,
+        "last_errors": 3,
         "last_hits": 0
       },
       "duckduckgo": {
@@ -70,13 +80,6 @@
         "probe_due": false,
         "last_errors": 0,
         "last_hits": 0
-      },
-      "verified_seed": {
-        "fail_streak": 0,
-        "cooldown": false,
-        "probe_due": false,
-        "last_errors": 0,
-        "last_hits": 3
       }
     },
     "minimum_samples_before_pause": 5,
@@ -96,15 +99,15 @@
           "qualified_rate": 1.0
         },
         "\"Google Business Profile\" German Local SEO freelancer job": {
-          "samples": 13,
-          "reward": 50.0,
-          "hot": 12,
+          "samples": 17,
+          "reward": 66.0,
+          "hot": 16,
           "warm": 1,
           "watch": 0,
           "reject": 0,
           "positive": 0,
           "negative": 0,
-          "avg_reward": 3.846,
+          "avg_reward": 3.882,
           "reject_rate": 0.0,
           "qualified_rate": 1.0
         },
@@ -122,9 +125,9 @@
           "qualified_rate": 1.0
         },
         "\"Local SEO\" Projekt Deutschland Freelancer": {
-          "samples": 5,
-          "reward": 20.0,
-          "hot": 5,
+          "samples": 6,
+          "reward": 24.0,
+          "hot": 6,
           "warm": 0,
           "watch": 0,
           "reject": 0,
@@ -137,15 +140,15 @@
       },
       "sources": {
         "upwork.com": {
-          "samples": 7,
-          "reward": 20.0,
-          "hot": 3,
+          "samples": 8,
+          "reward": 24.0,
+          "hot": 4,
           "warm": 4,
           "watch": 0,
           "reject": 0,
           "positive": 0,
           "negative": 0,
-          "avg_reward": 2.857,
+          "avg_reward": 3.0,
           "reject_rate": 0.0,
           "qualified_rate": 1.0
         },
@@ -163,9 +166,9 @@
           "qualified_rate": 1.0
         },
         "freelancer.com": {
-          "samples": 4,
-          "reward": 16.0,
-          "hot": 4,
+          "samples": 5,
+          "reward": 20.0,
+          "hot": 5,
           "warm": 0,
           "watch": 0,
           "reject": 0,
@@ -317,6 +320,45 @@
           "avg_reward": 4.0,
           "reject_rate": 0.0,
           "qualified_rate": 1.0
+        },
+        "freelancermap.de": {
+          "samples": 1,
+          "reward": 4.0,
+          "hot": 1,
+          "warm": 0,
+          "watch": 0,
+          "reject": 0,
+          "positive": 0,
+          "negative": 0,
+          "avg_reward": 4.0,
+          "reject_rate": 0.0,
+          "qualified_rate": 1.0
+        },
+        "derhuber.com": {
+          "samples": 1,
+          "reward": 4.0,
+          "hot": 1,
+          "warm": 0,
+          "watch": 0,
+          "reject": 0,
+          "positive": 0,
+          "negative": 0,
+          "avg_reward": 4.0,
+          "reject_rate": 0.0,
+          "qualified_rate": 1.0
+        },
+        "serpworks.com": {
+          "samples": 1,
+          "reward": 4.0,
+          "hot": 1,
+          "warm": 0,
+          "watch": 0,
+          "reject": 0,
+          "positive": 0,
+          "negative": 0,
+          "avg_reward": 4.0,
+          "reject_rate": 0.0,
+          "qualified_rate": 1.0
         }
       },
       "providers": {
@@ -334,15 +376,15 @@
           "qualified_rate": 1.0
         },
         "cloud_browser_bing": {
-          "samples": 20,
-          "reward": 78.0,
-          "hot": 19,
+          "samples": 25,
+          "reward": 98.0,
+          "hot": 24,
           "warm": 1,
           "watch": 0,
           "reject": 0,
           "positive": 0,
           "negative": 0,
-          "avg_reward": 3.9,
+          "avg_reward": 3.92,
           "reject_rate": 0.0,
           "qualified_rate": 1.0
         }

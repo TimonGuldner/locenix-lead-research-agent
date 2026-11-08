@@ -1,8 +1,8 @@
 {
-  "last_run_at": "2026-11-08T01:27:03.288872+00:00",
+  "last_run_at": "2026-11-08T08:58:43.815710+00:00",
   "department_status": "ATTENTION",
-  "next_agent": "intent_scout",
-  "reason": "intent_scout reports unresolved errors and should be inspected before scaling.",
+  "next_agent": "browser_fallback",
+  "reason": "browser_fallback reports unresolved errors and should be inspected before scaling.",
   "signals_found": 32,
   "hot": 24,
   "warm": 4,
@@ -13,15 +13,15 @@
   "positive_replies": 0,
   "trials": 0,
   "paid_customers": 0,
-  "browser_fallback_added": 5,
+  "browser_fallback_added": 0,
   "browser_stale_removed": 0,
   "transport_errors_recovered": 0,
-  "learning_runs": 229,
+  "learning_runs": 230,
   "learning_queries": 4,
   "learning_sources": 17,
   "learning_boosted_queries": 4,
   "learning_paused_queries": 0,
   "learning_provider_cooldowns": 2,
   "human_action_required": 0,
-  "errors": 42
+  "errors": 31
 }

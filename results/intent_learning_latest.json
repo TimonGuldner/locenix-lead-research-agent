@@ -1,22 +1,22 @@
 {
   "state": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "last_run_at": "2026-11-09T09:46:52.547143+00:00",
+    "last_run_at": "2026-11-09T20:43:25.511990+00:00",
     "status": "PARTIAL",
-    "learning_run_count": 234,
+    "learning_run_count": 235,
     "evaluated_opportunities": 28,
     "queries_learned": 4,
     "sources_learned": 17,
     "boosted_queries": 4,
     "paused_queries": 0,
     "blocked_domains": 0,
-    "provider_cooldowns": 0,
+    "provider_cooldowns": 2,
     "errors": 1
   },
   "config": {
     "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-    "generated_at": "2026-11-09T09:46:52.547143+00:00",
-    "learning_run_count": 234,
+    "generated_at": "2026-11-09T20:43:25.511990+00:00",
+    "learning_run_count": 235,
     "mode": "SAFE_OUTCOME_LEARNING",
     "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
     "query_weights": {
@@ -54,17 +54,10 @@
     "blocked_domains": [],
     "provider_policy": {
       "reddit_api": {
-        "fail_streak": 41,
-        "cooldown": false,
-        "probe_due": true,
-        "last_errors": 0,
-        "last_hits": 0
-      },
-      "jina_search": {
-        "fail_streak": 41,
-        "cooldown": false,
-        "probe_due": true,
-        "last_errors": 0,
+        "fail_streak": 42,
+        "cooldown": true,
+        "probe_due": false,
+        "last_errors": 3,
         "last_hits": 0
       },
       "duckduckgo": {
@@ -72,6 +65,13 @@
         "cooldown": false,
         "probe_due": false,
         "last_errors": 0,
+        "last_hits": 0
+      },
+      "jina_search": {
+        "fail_streak": 42,
+        "cooldown": true,
+        "probe_due": false,
+        "last_errors": 7,
         "last_hits": 0
       },
       "verified_seed": {

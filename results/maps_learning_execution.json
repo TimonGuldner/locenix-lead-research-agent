@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 115,
-  "focus": "industry_exploitation",
+  "learning_run_count": 116,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Bonn",
-    "Gelsenkirchen",
-    "Hannover"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Podologie",
+    "Hundefriseur",
+    "Reifenservice"
   ],
   "selected_pairs": [
     {
-      "city": "Bonn",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Bonn"
+      "city": "Muenchen",
+      "industry": "Podologie",
+      "query": "Podologie Muenchen"
     },
     {
-      "city": "Gelsenkirchen",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Gelsenkirchen"
+      "city": "Muenchen",
+      "industry": "Hundefriseur",
+      "query": "Hundefriseur Muenchen"
     },
     {
-      "city": "Hannover",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Hannover"
+      "city": "Muenchen",
+      "industry": "Reifenservice",
+      "query": "Reifenservice Muenchen"
     }
   ],
   "queries_per_run": 3

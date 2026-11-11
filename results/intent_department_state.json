@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-11-11T09:22:52.770384+00:00",
+  "last_run_at": "2026-11-11T17:54:16.677728+00:00",
   "department_status": "ATTENTION",
   "next_agent": "intent_qa",
   "reason": "intent_qa reports unresolved errors and should be inspected before scaling.",
@@ -15,13 +15,13 @@
   "paid_customers": 0,
   "browser_fallback_added": 0,
   "browser_stale_removed": 0,
-  "transport_errors_recovered": 0,
-  "learning_runs": 240,
+  "transport_errors_recovered": 11,
+  "learning_runs": 241,
   "learning_queries": 4,
   "learning_sources": 17,
   "learning_boosted_queries": 4,
   "learning_paused_queries": 0,
-  "learning_provider_cooldowns": 0,
+  "learning_provider_cooldowns": 2,
   "human_action_required": 0,
   "errors": 30
 }

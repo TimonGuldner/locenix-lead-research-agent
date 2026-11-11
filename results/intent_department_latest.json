@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
   "parent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-11-10T20:49:26.221204+00:00",
+  "generated_at": "2026-11-11T01:56:11.615685+00:00",
   "department_status": "ATTENTION",
   "next_agent": "browser_fallback",
   "reason": "browser_fallback reports unresolved errors and should be inspected before scaling.",
@@ -19,19 +19,19 @@
     "browser_fallback_added": 0,
     "browser_stale_removed": 0,
     "transport_errors_recovered": 0,
-    "learning_runs": 238,
+    "learning_runs": 239,
     "learning_queries": 4,
     "learning_sources": 17,
     "learning_boosted_queries": 4,
     "learning_paused_queries": 0,
     "learning_provider_cooldowns": 2,
     "human_action_required": 0,
-    "errors": 31
+    "errors": 33
   },
   "children": {
     "intent_scout": {
       "agent": "AGENT_15A_INTENT_SCOUT",
-      "last_run_at": "2026-11-10T20:49:17.269467+00:00",
+      "last_run_at": "2026-11-11T01:55:57.950552+00:00",
       "signals_found": 28,
       "new_signals": 0,
       "unreviewed": 28,
@@ -71,21 +71,21 @@
     },
     "browser_fallback": {
       "agent": "AGENT_15A_BROWSER_FALLBACK",
-      "last_run_at": "2026-11-10T20:49:17.952695+00:00",
+      "last_run_at": "2026-11-11T01:55:59.617457+00:00",
       "status": "PARTIAL",
       "signals_added": 0,
       "stale_signals_removed": 0,
-      "pages_checked": 7,
+      "pages_checked": 5,
       "blocked_pages": 0,
       "human_action_required": 0,
-      "errors": 1,
+      "errors": 3,
       "learning_config_used": true,
       "queries_planned": 8,
       "blocked_domains_learned": 0
     },
     "intent_qa": {
       "agent": "AGENT_15B_INTENT_QA",
-      "last_run_at": "2026-11-10T20:49:21.242651+00:00",
+      "last_run_at": "2026-11-11T01:56:02.752470+00:00",
       "pending": 0,
       "hot": 24,
       "warm": 4,
@@ -99,7 +99,7 @@
     "platform_access": {},
     "intent_response": {
       "agent": "AGENT_15D_INTENT_RESPONSE",
-      "last_run_at": "2026-11-10T20:49:25.965188+00:00",
+      "last_run_at": "2026-11-11T01:56:11.219188+00:00",
       "prepared": 28,
       "new_prepared": 0,
       "pending": 0,
@@ -110,9 +110,9 @@
     "intent_conversation": {},
     "intent_learning": {
       "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-      "last_run_at": "2026-11-10T20:49:26.022551+00:00",
+      "last_run_at": "2026-11-11T01:56:11.281026+00:00",
       "status": "PARTIAL",
-      "learning_run_count": 238,
+      "learning_run_count": 239,
       "evaluated_opportunities": 28,
       "queries_learned": 4,
       "sources_learned": 17,

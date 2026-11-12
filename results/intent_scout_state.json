@@ -1,28 +1,12 @@
 {
   "agent": "AGENT_15A_INTENT_SCOUT",
-  "last_run_at": "2026-11-12T00:41:49.457358+00:00",
+  "last_run_at": "2026-11-12T09:48:48.345884+00:00",
   "signals_found": 28,
   "new_signals": 0,
   "unreviewed": 28,
   "queries_run": 8,
-  "errors": 3,
-  "query_errors": [
-    {
-      "provider": "duckduckgo",
-      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "duckduckgo",
-      "query": "\"Local SEO\" Projekt Deutschland Freelancer",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
-    },
-    {
-      "provider": "duckduckgo",
-      "query": "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
-    }
-  ],
+  "errors": 0,
+  "query_errors": [],
   "provider_hits": {
     "verified_seed": 3,
     "reddit_api": 0,

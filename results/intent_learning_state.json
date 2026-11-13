@@ -1,14 +1,14 @@
 {
   "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-  "last_run_at": "2026-11-13T01:04:13.799660+00:00",
+  "last_run_at": "2026-11-13T09:30:01.517034+00:00",
   "status": "PARTIAL",
-  "learning_run_count": 245,
+  "learning_run_count": 246,
   "evaluated_opportunities": 28,
   "queries_learned": 4,
   "sources_learned": 17,
   "boosted_queries": 4,
   "paused_queries": 0,
   "blocked_domains": 0,
-  "provider_cooldowns": 2,
+  "provider_cooldowns": 0,
   "errors": 1
 }

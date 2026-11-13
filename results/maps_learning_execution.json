@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 116,
-  "focus": "city_exploitation",
+  "learning_run_count": 117,
+  "focus": "industry_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Muenchen"
+    "Hannover",
+    "Heidelberg",
+    "Kiel"
   ],
   "selected_industries": [
-    "Podologie",
-    "Hundefriseur",
-    "Reifenservice"
+    "Tierarzt"
   ],
   "selected_pairs": [
     {
-      "city": "Muenchen",
-      "industry": "Podologie",
-      "query": "Podologie Muenchen"
+      "city": "Hannover",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Hannover"
     },
     {
-      "city": "Muenchen",
-      "industry": "Hundefriseur",
-      "query": "Hundefriseur Muenchen"
+      "city": "Heidelberg",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Heidelberg"
     },
     {
-      "city": "Muenchen",
-      "industry": "Reifenservice",
-      "query": "Reifenservice Muenchen"
+      "city": "Kiel",
+      "industry": "Tierarzt",
+      "query": "Tierarzt Kiel"
     }
   ],
   "queries_per_run": 3

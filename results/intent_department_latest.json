@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
   "parent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-11-13T23:31:28.950232+00:00",
+  "generated_at": "2026-11-14T06:19:26.220091+00:00",
   "department_status": "ATTENTION",
   "next_agent": "intent_qa",
   "reason": "intent_qa reports unresolved errors and should be inspected before scaling.",
@@ -19,7 +19,7 @@
     "browser_fallback_added": 0,
     "browser_stale_removed": 0,
     "transport_errors_recovered": 0,
-    "learning_runs": 248,
+    "learning_runs": 249,
     "learning_queries": 4,
     "learning_sources": 17,
     "learning_boosted_queries": 4,
@@ -31,7 +31,7 @@
   "children": {
     "intent_scout": {
       "agent": "AGENT_15A_INTENT_SCOUT",
-      "last_run_at": "2026-11-13T23:31:22.806726+00:00",
+      "last_run_at": "2026-11-14T06:19:11.589679+00:00",
       "signals_found": 28,
       "new_signals": 0,
       "unreviewed": 28,
@@ -71,7 +71,7 @@
     },
     "browser_fallback": {
       "agent": "AGENT_15A_BROWSER_FALLBACK",
-      "last_run_at": "2026-11-13T23:31:23.606859+00:00",
+      "last_run_at": "2026-11-14T06:19:12.991380+00:00",
       "status": "OK",
       "signals_added": 0,
       "stale_signals_removed": 0,
@@ -85,7 +85,7 @@
     },
     "intent_qa": {
       "agent": "AGENT_15B_INTENT_QA",
-      "last_run_at": "2026-11-13T23:31:26.740898+00:00",
+      "last_run_at": "2026-11-14T06:19:16.893639+00:00",
       "pending": 0,
       "hot": 24,
       "warm": 4,
@@ -99,7 +99,7 @@
     "platform_access": {},
     "intent_response": {
       "agent": "AGENT_15D_INTENT_RESPONSE",
-      "last_run_at": "2026-11-13T23:31:28.767748+00:00",
+      "last_run_at": "2026-11-14T06:19:25.776581+00:00",
       "prepared": 28,
       "new_prepared": 0,
       "pending": 0,
@@ -110,9 +110,9 @@
     "intent_conversation": {},
     "intent_learning": {
       "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-      "last_run_at": "2026-11-13T23:31:28.837331+00:00",
+      "last_run_at": "2026-11-14T06:19:25.857072+00:00",
       "status": "PARTIAL",
-      "learning_run_count": 248,
+      "learning_run_count": 249,
       "evaluated_opportunities": 28,
       "queries_learned": 4,
       "sources_learned": 17,

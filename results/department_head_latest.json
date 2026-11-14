@@ -1,7 +1,7 @@
 {
   "manager": "LOCENIX_GROWTH_MANAGER_V4_DAILY_OUTBOUND_ACCOUNTABILITY",
   "mode": "SUPERVISE_AND_DISPATCH",
-  "generated_at": "2026-11-13T14:29:33.796174+00:00",
+  "generated_at": "2026-11-14T13:25:52.117801+00:00",
   "department_status": "BLOCKED",
   "metrics": {
     "lead_count": 203,
@@ -12,7 +12,7 @@
     "research_unqa": 0,
     "maps_learning_available": true,
     "maps_learning_status": "PARTIAL",
-    "maps_learning_runs": 116,
+    "maps_learning_runs": 117,
     "maps_learning_evaluated": 203,
     "maps_learning_downstream_evidence": 183,
     "maps_learning_recommended_industry": "Tierarzt",
@@ -123,7 +123,7 @@
     "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
     "available": true,
     "status": "PARTIAL",
-    "learning_runs": 116,
+    "learning_runs": 117,
     "research_leads_evaluated": 203,
     "leads_with_downstream_evidence": 183,
     "recommended_industry": "Tierarzt",

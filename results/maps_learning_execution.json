@@ -1,33 +1,33 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
   "status": "EXECUTED",
-  "learning_run_count": 117,
-  "focus": "industry_exploitation",
+  "learning_run_count": 118,
+  "focus": "city_exploitation",
   "exploration": false,
   "exploration_share": 0.15,
   "selected_cities": [
-    "Hannover",
-    "Heidelberg",
-    "Kiel"
+    "Muenchen"
   ],
   "selected_industries": [
-    "Tierarzt"
+    "Reifenservice",
+    "Osteopathie",
+    "Massagepraxis"
   ],
   "selected_pairs": [
     {
-      "city": "Hannover",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Hannover"
+      "city": "Muenchen",
+      "industry": "Reifenservice",
+      "query": "Reifenservice Muenchen"
     },
     {
-      "city": "Heidelberg",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Heidelberg"
+      "city": "Muenchen",
+      "industry": "Osteopathie",
+      "query": "Osteopathie Muenchen"
     },
     {
-      "city": "Kiel",
-      "industry": "Tierarzt",
-      "query": "Tierarzt Kiel"
+      "city": "Muenchen",
+      "industry": "Massagepraxis",
+      "query": "Massagepraxis Muenchen"
     }
   ],
   "queries_per_run": 3

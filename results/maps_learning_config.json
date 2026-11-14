@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_4L_MAPS_RESEARCH_LEARNING_OPTIMIZER",
-  "generated_at": "2026-11-13T14:41:46.496978+00:00",
-  "learning_run_count": 117,
+  "generated_at": "2026-11-14T13:38:56.089652+00:00",
+  "learning_run_count": 118,
   "mode": "SAFE_OUTCOME_LEARNING",
   "principle": "Optimize Google Maps research toward downstream sales quality, not raw lead count; never rewrite code or relax safety/legal guardrails.",
   "exploration_share": 0.15,

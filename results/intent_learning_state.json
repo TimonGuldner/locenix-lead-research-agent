@@ -1,8 +1,8 @@
 {
   "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-  "last_run_at": "2026-11-20T12:59:44.704647+00:00",
+  "last_run_at": "2026-11-20T21:54:53.081478+00:00",
   "status": "PARTIAL",
-  "learning_run_count": 267,
+  "learning_run_count": 268,
   "evaluated_opportunities": 28,
   "queries_learned": 4,
   "sources_learned": 17,

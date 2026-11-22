@@ -1,43 +1,18 @@
 {
   "state": {
     "agent": "AGENT_15B_INTENT_QA",
-    "last_run_at": "2026-11-22T09:45:24.796052+00:00",
+    "last_run_at": "2026-11-22T17:49:02.105071+00:00",
     "pending": 0,
-    "hot": 24,
+    "hot": 25,
     "warm": 4,
     "watch": 0,
     "rejected": 4,
     "airtable_created": 0,
     "airtable_updated": 0,
     "quarantined": 4,
-    "errors": 29
+    "errors": 30
   },
   "qualified": [
-    {
-      "signal_id": "intent-b9ffebe38e30a503",
-      "source": "upwork.com",
-      "source_url": "https://www.upwork.com/freelance-jobs/apply/Local-SEO-Expert-for-German-Local-Business-Website-Google-Business-Profile_~022046688712848296913/",
-      "title": "Local SEO Expert for German Local Business Website & Google",
-      "snippet": "Upwork\nhttps://www.upwork.com › freelance-jobs › apply › Local...\nDieses Ergebnis übersetzen\nLocal SEO Expert for German Local Business Website & Google\n\nWe are looking for a Local SEO freelancer for a one-time setup for the German market. Our website and Google Business Profile are …",
-      "query": "\"Google Business Profile\" German Local SEO freelancer job",
-      "raw_score": 7,
-      "provider": "cloud_browser_bing",
-      "intent_evidence": {
-        "relevance_hits": 3,
-        "active_intent_hits": 2,
-        "marketplace_listing": true
-      },
-      "detected_at": "2026-09-13T22:24:38.572545+00:00",
-      "review_status": "PENDING_QA",
-      "department": "intent_opportunity_acquisition",
-      "browser_fallback": true,
-      "tier": "HOT",
-      "intent_score": 100,
-      "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
-      "airtable_record_id": "recw32KEKvnCOivqK",
-      "airtable_error": "HTTP Error 429: Too Many Requests"
-    },
     {
       "signal_id": "intent-1a64f0f7eecea5df",
       "source": "local-seo-freelancer.de",
@@ -59,7 +34,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "recg4YQUZH2YBxO6G",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -84,7 +59,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "recUMZV7RBm03WDny",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -109,7 +84,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "recV7bt1WiLWOjESL",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -134,7 +109,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "recFzvQpJYoQtP4ir",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -159,7 +134,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "recXcaIl1tijNXhOQ",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -184,7 +159,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "recNir2DokJY579ua",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -209,7 +184,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "recEIGbo1kYt2F99M",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -234,7 +209,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "recJCTqyHF88uttGs",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -259,7 +234,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "recfihKJ5MHAstGaf",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -284,7 +259,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "rec2WER2V7LiyfpuM",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -309,7 +284,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "rec0wucYBiMbf921n",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -334,7 +309,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "rec0J0O5zaEWcUiZE",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -359,7 +334,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "rect1kTCLgXadaaxU",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -384,7 +359,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "rechrRC7pqsRJ0GIC",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -409,7 +384,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "recHmHO96jnXrttDs",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -434,7 +409,7 @@
       "tier": "WARM",
       "intent_score": 95,
       "qa_reason": "Relevant marketplace/project listing; explicit demand language is weak in extracted text.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "recFjnmMUoDfUDdq3",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -459,7 +434,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "rec5NghAj26DVJSxj",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -484,7 +459,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "recF8AmsNoZQRrPxe",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -509,7 +484,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": "rec09tyaxyfRiFhpt",
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -534,7 +509,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": null,
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -559,7 +534,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": null,
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -584,7 +559,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": null,
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -609,7 +584,7 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": null,
       "airtable_error": "HTTP Error 429: Too Many Requests"
     },
@@ -634,7 +609,32 @@
       "tier": "HOT",
       "intent_score": 100,
       "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
-      "qa_at": "2026-11-22T09:45:24.796052+00:00",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
+      "airtable_record_id": null,
+      "airtable_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "signal_id": "intent-261114290091608d",
+      "source": "support.google.com",
+      "source_url": "https://support.google.com/business/answer/145585?hl=de",
+      "title": "Ihr Unternehmen auf Google finden - Google Unternehmensprofil-Hilfe",
+      "snippet": "Google Support\nhttps://support.google.com › business › answer\nIhr Unternehmen auf Google finden - Google Unternehmensprofil-Hilfe\n\nSo können Sie dafür sorgen, dass (potenzielle) Kunden Ihr Unternehmensprofil auf Google Maps, in der Google Suche und auf …",
+      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
+      "raw_score": 3,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 2,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-11-22T17:48:54.745512+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true,
+      "tier": "HOT",
+      "intent_score": 100,
+      "qa_reason": "Active demand/search language plus LOCENIX-relevant local visibility terms.",
+      "qa_at": "2026-11-22T17:49:02.105071+00:00",
       "airtable_record_id": null,
       "airtable_error": "HTTP Error 429: Too Many Requests"
     }

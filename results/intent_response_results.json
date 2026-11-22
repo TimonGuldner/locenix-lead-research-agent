@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T09:45:26.180613+00:00",
+  "generated_at": "2026-11-22T17:49:11.258967+00:00",
   "items": [
     {
       "signal_id": "intent-7e56262cde92330b",
@@ -280,6 +280,16 @@
       "draft": "Hallo, ich bin über deinen Beitrag auf upwork.com gestolpert. Du beschreibst dort sinngemäß: Upwork\nhttps://www.upwork.com › freelance-jobs › apply › Googl…\nDieses Ergebnis übersetzen\nGoogle My Business (GMB) & Local SEO Specialist Needed\n\nWe are looking for an experienced SEO specialist to improve our local search visibility, Google Maps rankings, and website …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
       "status": "DRAFTED",
       "prepared_at": "2026-11-08T01:27:02.887117+00:00"
+    },
+    {
+      "signal_id": "intent-261114290091608d",
+      "airtable_record_id": null,
+      "tier": "HOT",
+      "source": "support.google.com",
+      "source_url": "https://support.google.com/business/answer/145585?hl=de",
+      "draft": "Hallo, ich bin über deinen Beitrag auf support.google.com gestolpert. Du beschreibst dort sinngemäß: Google Support\nhttps://support.google.com › business › answer\nIhr Unternehmen auf Google finden - Google Unternehmensprofil-Hilfe\n\nSo können Sie dafür sorgen, dass (potenzielle) Kunden Ihr Unternehmensprofil auf Google Maps, in der Google Suche und auf …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-11-22T17:49:11.258967+00:00"
     }
   ]
 }

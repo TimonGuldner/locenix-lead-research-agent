@@ -1,25 +1,15 @@
 {
   "state": {
     "agent": "AGENT_15D_INTENT_RESPONSE",
-    "last_run_at": "2026-11-22T09:45:26.180613+00:00",
-    "prepared": 28,
-    "new_prepared": 0,
+    "last_run_at": "2026-11-22T17:49:11.258967+00:00",
+    "prepared": 29,
+    "new_prepared": 1,
     "pending": 0,
     "sent": 0,
     "errors": 0,
     "mode": "DRAFT_ONLY"
   },
   "latest_drafts": [
-    {
-      "signal_id": "intent-72356faa6df8e726",
-      "airtable_record_id": "recjQn8SKkz6tDhZY",
-      "tier": "HOT",
-      "source": "freelancer.com",
-      "source_url": "https://www.freelancer.com/projects/keyword-research/seo-local-google-business-profile",
-      "draft": "Hallo, ich bin über deinen Beitrag auf freelancer.com gestolpert. Du beschreibst dort sinngemäß: Freelancer\nhttps://www.freelancer.com › projects › keyword...\nDieses Ergebnis übersetzen\nSEO Local Google Business Profile Ranking Boost - Freelancer\n\nMy objective is clear: I need our Google Business Profile to dominate local results so that nearby customers find us first when they …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
-      "status": "DRAFTED",
-      "prepared_at": "2026-09-13T22:24:48.524259+00:00"
-    },
     {
       "signal_id": "intent-597644a0bdf58703",
       "airtable_record_id": "recnnUmV3OPJclCtZ",
@@ -209,6 +199,16 @@
       "draft": "Hallo, ich bin über deinen Beitrag auf upwork.com gestolpert. Du beschreibst dort sinngemäß: Upwork\nhttps://www.upwork.com › freelance-jobs › apply › Googl…\nDieses Ergebnis übersetzen\nGoogle My Business (GMB) & Local SEO Specialist Needed\n\nWe are looking for an experienced SEO specialist to improve our local search visibility, Google Maps rankings, and website …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
       "status": "DRAFTED",
       "prepared_at": "2026-11-08T01:27:02.887117+00:00"
+    },
+    {
+      "signal_id": "intent-261114290091608d",
+      "airtable_record_id": null,
+      "tier": "HOT",
+      "source": "support.google.com",
+      "source_url": "https://support.google.com/business/answer/145585?hl=de",
+      "draft": "Hallo, ich bin über deinen Beitrag auf support.google.com gestolpert. Du beschreibst dort sinngemäß: Google Support\nhttps://support.google.com › business › answer\nIhr Unternehmen auf Google finden - Google Unternehmensprofil-Hilfe\n\nSo können Sie dafür sorgen, dass (potenzielle) Kunden Ihr Unternehmensprofil auf Google Maps, in der Google Suche und auf …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-11-22T17:49:11.258967+00:00"
     }
   ]
 }

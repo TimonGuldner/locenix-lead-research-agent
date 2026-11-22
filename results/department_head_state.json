@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-11-21T14:34:37.082420+00:00",
+  "last_run_at": "2026-11-22T14:29:00.902970+00:00",
   "department_status": "BLOCKED",
   "next_agent": null,
   "reason": "Airtable sync has errors; downstream work is paused.",
@@ -12,7 +12,7 @@
   "research_unqa": 0,
   "maps_learning_available": true,
   "maps_learning_status": "PARTIAL",
-  "maps_learning_runs": 119,
+  "maps_learning_runs": 120,
   "maps_learning_recommended_industry": "Tierarzt",
   "maps_learning_recommended_city": "Muenchen",
   "maps_learning_errors": 1,

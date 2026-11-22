@@ -1,10 +1,10 @@
 {
   "state": {
     "agent": "AGENT_15A_INTENT_SCOUT",
-    "last_run_at": "2026-11-22T17:48:52.843963+00:00",
-    "signals_found": 28,
+    "last_run_at": "2026-11-22T23:36:04.528487+00:00",
+    "signals_found": 29,
     "new_signals": 0,
-    "unreviewed": 28,
+    "unreviewed": 29,
     "queries_run": 8,
     "errors": 0,
     "query_errors": [],
@@ -50,6 +50,25 @@
     "site:reddit.com/r/selbststaendig \"Google Unternehmensprofil\""
   ],
   "newest": [
+    {
+      "signal_id": "intent-261114290091608d",
+      "source": "support.google.com",
+      "source_url": "https://support.google.com/business/answer/145585?hl=de",
+      "title": "Ihr Unternehmen auf Google finden - Google Unternehmensprofil-Hilfe",
+      "snippet": "Google Support\nhttps://support.google.com › business › answer\nIhr Unternehmen auf Google finden - Google Unternehmensprofil-Hilfe\n\nSo können Sie dafür sorgen, dass (potenzielle) Kunden Ihr Unternehmensprofil auf Google Maps, in der Google Suche und auf …",
+      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
+      "raw_score": 3,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 2,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-11-22T17:48:54.745512+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
     {
       "signal_id": "intent-50079493313235c6",
       "source": "freelancermap.de",
@@ -500,25 +519,6 @@
         "relevance_hits": 2,
         "active_intent_hits": 2,
         "marketplace_listing": true
-      },
-      "detected_at": "2026-09-13T22:24:38.572545+00:00",
-      "review_status": "PENDING_QA",
-      "department": "intent_opportunity_acquisition",
-      "browser_fallback": true
-    },
-    {
-      "signal_id": "intent-597644a0bdf58703",
-      "source": "drweb.de",
-      "source_url": "https://www.drweb.de/seo-freelancer-vergleich/",
-      "title": "SEO Freelancer Vergleich 2026. Das sind die besten 54 Anbieter ...",
-      "snippet": "Dr. Web\nhttps://www.drweb.de › seo-freelancer-vergleich\nSEO Freelancer Vergleich 2026. Das sind die besten 54 Anbieter ...\n\n2. Sept. 2026 · Dazu gehören das Google Business Profile, einheitliche Kontaktdaten, lokale Landingpages und Bewertungen. Für …",
-      "query": "\"Google Business Profile\" German Local SEO freelancer job",
-      "raw_score": 3,
-      "provider": "cloud_browser_bing",
-      "intent_evidence": {
-        "relevance_hits": 2,
-        "active_intent_hits": 1,
-        "marketplace_listing": false
       },
       "detected_at": "2026-09-13T22:24:38.572545+00:00",
       "review_status": "PENDING_QA",

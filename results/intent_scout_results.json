@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-22T23:36:05.586211+00:00",
+  "generated_at": "2026-11-23T07:34:12.031283+00:00",
   "signals": [
+    {
+      "signal_id": "intent-c669af4db4280647",
+      "source": "drautomation.de",
+      "source_url": "https://drautomation.de/ratgeber/google-unternehmensprofil",
+      "title": "Google Unternehmensprofil: Checkliste 2026 | DR Automation",
+      "snippet": "drautomation.de\nhttps://drautomation.de › ratgeber › google-unternehmensprofil\nGoogle Unternehmensprofil: Checkliste 2026 | DR Automation\n\nEin Google Unternehmensprofil optimieren heißt: alle Angaben vollständig und korrekt eintragen, die passende Hauptkategorie …Mehr lesen\n\nFehlen: FreelancerMuss enthalten: Freelancer",
+      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-11-23T07:34:12.031283+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
     {
       "signal_id": "intent-261114290091608d",
       "source": "support.google.com",

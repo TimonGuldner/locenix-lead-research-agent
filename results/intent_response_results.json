@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:36:26.947767+00:00",
+  "generated_at": "2026-11-23T07:34:33.738622+00:00",
   "items": [
     {
       "signal_id": "intent-7e56262cde92330b",
@@ -290,6 +290,16 @@
       "draft": "Hallo, ich bin über deinen Beitrag auf support.google.com gestolpert. Du beschreibst dort sinngemäß: Google Support\nhttps://support.google.com › business › answer\nIhr Unternehmen auf Google finden - Google Unternehmensprofil-Hilfe\n\nSo können Sie dafür sorgen, dass (potenzielle) Kunden Ihr Unternehmensprofil auf Google Maps, in der Google Suche und auf …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
       "status": "DRAFTED",
       "prepared_at": "2026-11-22T17:49:11.258967+00:00"
+    },
+    {
+      "signal_id": "intent-c669af4db4280647",
+      "airtable_record_id": null,
+      "tier": "HOT",
+      "source": "drautomation.de",
+      "source_url": "https://drautomation.de/ratgeber/google-unternehmensprofil",
+      "draft": "Hallo, ich bin über deinen Beitrag auf drautomation.de gestolpert. Du beschreibst dort sinngemäß: drautomation.de\nhttps://drautomation.de › ratgeber › google-unternehmensprofil\nGoogle Unternehmensprofil: Checkliste 2026 | DR Automation\n\nEin Google Unternehmensprofil optimieren heißt: alle Angaben vollständig und korrekt eintragen, die passende Hauptkategorie …Mehr lesen\n\nFehlen: FreelancerMuss enthalten: Freelancer\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-11-23T07:34:33.738622+00:00"
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-  "generated_at": "2026-11-23T07:34:33.813350+00:00",
-  "learning_run_count": 276,
+  "generated_at": "2026-11-23T20:15:26.055278+00:00",
+  "learning_run_count": 277,
   "mode": "SAFE_OUTCOME_LEARNING",
   "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
   "query_weights": {
     "verified current opportunity": 1.4,
-    "\"Google Business Profile\" German Local SEO freelancer job": 1.776,
+    "\"Google Business Profile\" German Local SEO freelancer job": 1.782,
     "\"Google Unternehmensprofil\" Freelancer Deutschland": 1.8,
     "\"Local SEO\" Projekt Deutschland Freelancer": 1.8
   },
   "source_weights": {
-    "upwork.com": 1.6,
+    "upwork.com": 1.64,
     "local-seo-freelancer.de": 1.8,
     "freelancer.com": 1.8,
     "drweb.de": 1.8,
@@ -28,7 +28,8 @@
     "freelancermap.de": 1.8,
     "derhuber.com": 1.8,
     "serpworks.com": 1.8,
-    "drautomation.de": 1.8
+    "drautomation.de": 1.8,
+    "antonioblago.com": 1.8
   },
   "boosted_queries": [
     "\"Google Unternehmensprofil\" Freelancer Deutschland",
@@ -46,18 +47,11 @@
       "last_errors": 0,
       "last_hits": 0
     },
-    "jina_search": {
-      "fail_streak": 48,
-      "cooldown": false,
-      "probe_due": true,
-      "last_errors": 0,
-      "last_hits": 0
-    },
     "reddit_api": {
-      "fail_streak": 48,
-      "cooldown": false,
-      "probe_due": true,
-      "last_errors": 0,
+      "fail_streak": 49,
+      "cooldown": true,
+      "probe_due": false,
+      "last_errors": 3,
       "last_hits": 0
     },
     "verified_seed": {
@@ -66,6 +60,13 @@
       "probe_due": false,
       "last_errors": 0,
       "last_hits": 3
+    },
+    "jina_search": {
+      "fail_streak": 49,
+      "cooldown": true,
+      "probe_due": false,
+      "last_errors": 7,
+      "last_hits": 0
     }
   },
   "minimum_samples_before_pause": 5,
@@ -85,15 +86,15 @@
         "qualified_rate": 1.0
       },
       "\"Google Business Profile\" German Local SEO freelancer job": {
-        "samples": 17,
-        "reward": 66.0,
-        "hot": 16,
+        "samples": 22,
+        "reward": 86.0,
+        "hot": 21,
         "warm": 1,
         "watch": 0,
         "reject": 0,
         "positive": 0,
         "negative": 0,
-        "avg_reward": 3.882,
+        "avg_reward": 3.909,
         "reject_rate": 0.0,
         "qualified_rate": 1.0
       },
@@ -126,15 +127,15 @@
     },
     "sources": {
       "upwork.com": {
-        "samples": 8,
-        "reward": 24.0,
-        "hot": 4,
+        "samples": 10,
+        "reward": 32.0,
+        "hot": 6,
         "warm": 4,
         "watch": 0,
         "reject": 0,
         "positive": 0,
         "negative": 0,
-        "avg_reward": 3.0,
+        "avg_reward": 3.2,
         "reject_rate": 0.0,
         "qualified_rate": 1.0
       },
@@ -152,9 +153,9 @@
         "qualified_rate": 1.0
       },
       "freelancer.com": {
-        "samples": 5,
-        "reward": 20.0,
-        "hot": 5,
+        "samples": 7,
+        "reward": 28.0,
+        "hot": 7,
         "warm": 0,
         "watch": 0,
         "reject": 0,
@@ -358,6 +359,19 @@
         "avg_reward": 4.0,
         "reject_rate": 0.0,
         "qualified_rate": 1.0
+      },
+      "antonioblago.com": {
+        "samples": 1,
+        "reward": 4.0,
+        "hot": 1,
+        "warm": 0,
+        "watch": 0,
+        "reject": 0,
+        "positive": 0,
+        "negative": 0,
+        "avg_reward": 4.0,
+        "reject_rate": 0.0,
+        "qualified_rate": 1.0
       }
     },
     "providers": {
@@ -375,15 +389,15 @@
         "qualified_rate": 1.0
       },
       "cloud_browser_bing": {
-        "samples": 27,
-        "reward": 106.0,
-        "hot": 26,
+        "samples": 32,
+        "reward": 126.0,
+        "hot": 31,
         "warm": 1,
         "watch": 0,
         "reject": 0,
         "positive": 0,
         "negative": 0,
-        "avg_reward": 3.926,
+        "avg_reward": 3.938,
         "reject_rate": 0.0,
         "qualified_rate": 1.0
       }

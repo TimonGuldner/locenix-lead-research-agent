@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-11-23T17:57:29.838583+00:00",
+  "last_run_at": "2026-11-24T17:35:03.414670+00:00",
   "department_status": "BLOCKED",
   "next_agent": null,
   "reason": "Airtable sync has errors; downstream work is paused.",

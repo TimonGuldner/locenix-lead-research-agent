@@ -1,10 +1,10 @@
 {
   "agent": "AGENT_15_INTENT_OPPORTUNITY_HEAD",
   "parent": "AGENT_0_LOCENIX_CEO",
-  "generated_at": "2026-11-23T20:15:26.351345+00:00",
+  "generated_at": "2026-11-24T04:46:54.176537+00:00",
   "department_status": "ATTENTION",
-  "next_agent": "intent_scout",
-  "reason": "intent_scout reports unresolved errors and should be inspected before scaling.",
+  "next_agent": "browser_fallback",
+  "reason": "browser_fallback reports unresolved errors and should be inspected before scaling.",
   "metrics": {
     "signals_found": 39,
     "hot": 31,
@@ -16,89 +16,42 @@
     "positive_replies": 0,
     "trials": 0,
     "paid_customers": 0,
-    "browser_fallback_added": 5,
+    "browser_fallback_added": 0,
     "browser_stale_removed": 0,
     "transport_errors_recovered": 0,
-    "learning_runs": 277,
+    "learning_runs": 278,
     "learning_queries": 4,
     "learning_sources": 19,
     "learning_boosted_queries": 4,
     "learning_paused_queries": 0,
     "learning_provider_cooldowns": 2,
     "human_action_required": 0,
-    "errors": 49
+    "errors": 41
   },
   "children": {
     "intent_scout": {
       "agent": "AGENT_15A_INTENT_SCOUT",
-      "last_run_at": "2026-11-23T20:15:05.593378+00:00",
-      "signals_found": 30,
+      "last_run_at": "2026-11-24T04:46:39.798618+00:00",
+      "signals_found": 35,
       "new_signals": 0,
-      "unreviewed": 30,
-      "queries_run": 11,
-      "errors": 11,
-      "query_errors": [
-        {
-          "provider": "reddit_api",
-          "query": "Google Unternehmensprofil",
-          "error": "HTTP Error 403: Blocked"
-        },
-        {
-          "provider": "reddit_api",
-          "query": "Google Maps Local SEO",
-          "error": "HTTP Error 403: Blocked"
-        },
-        {
-          "provider": "reddit_api",
-          "query": "Google Business Profile",
-          "error": "HTTP Error 403: Blocked"
-        },
-        {
-          "provider": "jina_search",
-          "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "\"Local SEO\" Projekt Deutschland Freelancer",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "\"Google Business Profile\" German Local SEO freelancer job",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "site:upwork.com/freelance-jobs \"Local SEO\" Germany",
-          "error": "HTTP Error 401: Unauthorized"
-        },
-        {
-          "provider": "jina_search",
-          "query": "site:freelancermap.de \"Local SEO\"",
-          "error": "HTTP Error 401: Unauthorized"
-        }
-      ],
+      "unreviewed": 35,
+      "queries_run": 8,
+      "errors": 0,
+      "query_errors": [],
       "provider_hits": {
         "verified_seed": 3,
         "reddit_api": 0,
         "jina_search": 0,
         "duckduckgo": 0
       },
-      "providers_skipped_by_learning": [],
+      "providers_skipped_by_learning": [
+        "jina_search",
+        "reddit_api"
+      ],
       "learning_config_used": true,
       "sources": [
         "aloma.de",
+        "antonioblago.com",
         "business.google.com",
         "derhuber.com",
         "drautomation.de",
@@ -120,21 +73,21 @@
     },
     "browser_fallback": {
       "agent": "AGENT_15A_BROWSER_FALLBACK",
-      "last_run_at": "2026-11-23T20:15:08.465630+00:00",
+      "last_run_at": "2026-11-24T04:46:41.640437+00:00",
       "status": "PARTIAL",
-      "signals_added": 5,
+      "signals_added": 0,
       "stale_signals_removed": 0,
-      "pages_checked": 7,
+      "pages_checked": 4,
       "blocked_pages": 0,
       "human_action_required": 0,
-      "errors": 1,
+      "errors": 4,
       "learning_config_used": true,
       "queries_planned": 8,
       "blocked_domains_learned": 0
     },
     "intent_qa": {
       "agent": "AGENT_15B_INTENT_QA",
-      "last_run_at": "2026-11-23T20:15:16.005013+00:00",
+      "last_run_at": "2026-11-24T04:46:44.249020+00:00",
       "pending": 0,
       "hot": 31,
       "warm": 4,
@@ -148,9 +101,9 @@
     "platform_access": {},
     "intent_response": {
       "agent": "AGENT_15D_INTENT_RESPONSE",
-      "last_run_at": "2026-11-23T20:15:26.003361+00:00",
+      "last_run_at": "2026-11-24T04:46:53.802833+00:00",
       "prepared": 35,
-      "new_prepared": 5,
+      "new_prepared": 0,
       "pending": 0,
       "sent": 0,
       "errors": 0,
@@ -159,9 +112,9 @@
     "intent_conversation": {},
     "intent_learning": {
       "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-      "last_run_at": "2026-11-23T20:15:26.055278+00:00",
+      "last_run_at": "2026-11-24T04:46:53.866020+00:00",
       "status": "PARTIAL",
-      "learning_run_count": 277,
+      "learning_run_count": 278,
       "evaluated_opportunities": 35,
       "queries_learned": 4,
       "sources_learned": 19,

@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-  "generated_at": "2026-11-25T02:25:20.075927+00:00",
-  "learning_run_count": 280,
+  "generated_at": "2026-11-25T14:19:36.090019+00:00",
+  "learning_run_count": 281,
   "mode": "SAFE_OUTCOME_LEARNING",
   "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
   "query_weights": {
@@ -40,6 +40,20 @@
   "paused_queries": [],
   "blocked_domains": [],
   "provider_policy": {
+    "verified_seed": {
+      "fail_streak": 0,
+      "cooldown": false,
+      "probe_due": false,
+      "last_errors": 0,
+      "last_hits": 3
+    },
+    "jina_search": {
+      "fail_streak": 49,
+      "cooldown": true,
+      "probe_due": false,
+      "last_errors": 0,
+      "last_hits": 0
+    },
     "duckduckgo": {
       "fail_streak": 2,
       "cooldown": false,
@@ -53,20 +67,6 @@
       "probe_due": false,
       "last_errors": 0,
       "last_hits": 0
-    },
-    "jina_search": {
-      "fail_streak": 49,
-      "cooldown": true,
-      "probe_due": false,
-      "last_errors": 0,
-      "last_hits": 0
-    },
-    "verified_seed": {
-      "fail_streak": 0,
-      "cooldown": false,
-      "probe_due": false,
-      "last_errors": 0,
-      "last_hits": 3
     }
   },
   "minimum_samples_before_pause": 5,

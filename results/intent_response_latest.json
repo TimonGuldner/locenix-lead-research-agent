@@ -1,35 +1,15 @@
 {
   "state": {
     "agent": "AGENT_15D_INTENT_RESPONSE",
-    "last_run_at": "2026-11-26T10:52:07.205221+00:00",
-    "prepared": 35,
-    "new_prepared": 0,
+    "last_run_at": "2026-11-26T21:29:45.235480+00:00",
+    "prepared": 37,
+    "new_prepared": 2,
     "pending": 0,
     "sent": 0,
     "errors": 0,
     "mode": "DRAFT_ONLY"
   },
   "latest_drafts": [
-    {
-      "signal_id": "intent-59c327811eaffb64",
-      "airtable_record_id": "recCIuX0mVFAI3uCT",
-      "tier": "HOT",
-      "source": "optiphin.de",
-      "source_url": "https://www.optiphin.de/leistungen/local-seo-freelancer/",
-      "draft": "Hallo, ich bin über deinen Beitrag auf optiphin.de gestolpert. Du beschreibst dort sinngemäß: optiphin.de\nhttps://www.optiphin.de › leistungen › local-seo-freelancer\nLocal SEO Freelancer – nachhaltige lokale Sichtbarkeit | Optiphin\n\nDu bist auf der Suche nach einem Local SEO-Freelancer mit Expertise, der deine Sichtbarkeit für lokale Suchanfragen steigert? …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
-      "status": "DRAFTED",
-      "prepared_at": "2026-09-14T04:55:07.550529+00:00"
-    },
-    {
-      "signal_id": "intent-8dad94b0095cbb47",
-      "airtable_record_id": "recZxcDLLDkxQbI8K",
-      "tier": "HOT",
-      "source": "softwareu.de",
-      "source_url": "https://softwareu.de/tutorials/local-seo-fuer-freelancer-deutschland-google-business-profile",
-      "draft": "Hallo, ich bin über deinen Beitrag auf softwareu.de gestolpert. Du beschreibst dort sinngemäß: softwareu.de\nhttps://softwareu.de › tutorials › local-seo-fuer...\nLocal SEO Freelancer Deutschland | softwareu Tutorial | softwareu\n\nLocal-SEO-Anleitung für Freelancer und KMU in Deutschland mit Fokus auf Hamburg, Niedersachsen und Norddeutschland.\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
-      "status": "DRAFTED",
-      "prepared_at": "2026-09-16T18:12:38.201104+00:00"
-    },
     {
       "signal_id": "intent-c47f0ef59137f521",
       "airtable_record_id": "recjPuiFOsLmHSgvs",
@@ -209,6 +189,26 @@
       "draft": "Hallo, ich bin über deinen Beitrag auf upwork.com gestolpert. Du beschreibst dort sinngemäß: upwork.com\nhttps://www.upwork.com › hire › google-business-profile-experts\nBest Freelance Google Business Profile Experts for Hire (Nov 2026 ...\n\nWhether you need help setting up your Google Business Profile, improving your local SEO, fixing a WordPress website, or creating …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
       "status": "DRAFTED",
       "prepared_at": "2026-11-23T20:15:26.003361+00:00"
+    },
+    {
+      "signal_id": "intent-79d2b059915fff16",
+      "airtable_record_id": null,
+      "tier": "HOT",
+      "source": "support.google.com",
+      "source_url": "https://support.google.com/business/answer/145585?hl=de-DE",
+      "draft": "Hallo, ich bin über deinen Beitrag auf support.google.com gestolpert. Du beschreibst dort sinngemäß: Google Support\nhttps://support.google.com › business › answer\nIhr Unternehmen auf Google finden - Google Unternehmensprofil-Hilfe\nÜbersicht\nProfil finden\nUnternehmen auf Google nicht gefunden\nWichtig: Um Ihr Profil zu finden, müssen Sie sich in dem Google-Konto anmelden, das damit verknüpf…\nSuchen Sie Ihr Profil anhand einer der folgenden Methoden.\n• Geben Sie mein Unternehmen in die Google Suche ein.\n• Suchen Sie in\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-11-26T21:29:45.235480+00:00"
+    },
+    {
+      "signal_id": "intent-4adc9ffca5846c2e",
+      "airtable_record_id": null,
+      "tier": "HOT",
+      "source": "cities.google",
+      "source_url": "https://cities.google/intl/de_ALL/google-business-profile",
+      "draft": "Hallo, ich bin über deinen Beitrag auf cities.google gestolpert. Du beschreibst dort sinngemäß: cities.google\nhttps://cities.google › intl › de_ALL › google-business-profile\nGoogle Unternehmensprofil\n\nGoogle Unternehmensprofil ist ein kostenloses Tool, mit dem Unternehmen und Stadtverwaltungen ihre Onlinepräsenz verwalten …Mehr lesen\n\nFehlen: FreelancerMuss enthalten: Freelancer\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-11-26T21:29:45.235480+00:00"
     }
   ]
 }

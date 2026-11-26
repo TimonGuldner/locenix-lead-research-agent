@@ -1,14 +1,14 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-11-26T10:51:54.590552+00:00",
-    "status": "PARTIAL",
-    "signals_added": 0,
+    "last_run_at": "2026-11-26T21:29:22.639104+00:00",
+    "status": "OK",
+    "signals_added": 2,
     "stale_signals_removed": 0,
-    "pages_checked": 7,
+    "pages_checked": 8,
     "blocked_pages": 0,
     "human_action_required": 0,
-    "errors": 1,
+    "errors": 0,
     "learning_config_used": true,
     "queries_planned": 8,
     "blocked_domains_learned": 0
@@ -23,12 +23,46 @@
     "site:freelancermap.de \"Local SEO\"",
     "site:reddit.com \"Google Unternehmensprofil\" Deutschland"
   ],
-  "added": [],
-  "blockers": [],
-  "errors": [
+  "added": [
     {
-      "query": "site:reddit.com \"Google Unternehmensprofil\" Deutschland",
-      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Areddit.com%20%22Google%20Unternehmensprofil%22%20Deutschland\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Areddit.com%20%22Google%20Unternehmensprofil%22%20Deutschland\", waiting until \"domcontentloaded\"\n"
+      "signal_id": "intent-79d2b059915fff16",
+      "source": "support.google.com",
+      "source_url": "https://support.google.com/business/answer/145585?hl=de-DE",
+      "title": "Ihr Unternehmen auf Google finden - Google Unternehmensprofil-Hilfe",
+      "snippet": "Google Support\nhttps://support.google.com › business › answer\nIhr Unternehmen auf Google finden - Google Unternehmensprofil-Hilfe\nÜbersicht\nProfil finden\nUnternehmen auf Google nicht gefunden\nWichtig: Um Ihr Profil zu finden, müssen Sie sich in dem Google-Konto anmelden, das damit verknüpf…\nSuchen Sie Ihr Profil anhand einer der folgenden Methoden.\n• Geben Sie mein Unternehmen in die Google Suche ein.\n• Suchen Sie in der Google Suche oder auf Maps nach dem Namen und der Stadt Ihres Unternehmens.\nMehr zu support.google.com anzeigen",
+      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-11-26T21:29:22.639104+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-4adc9ffca5846c2e",
+      "source": "cities.google",
+      "source_url": "https://cities.google/intl/de_ALL/google-business-profile",
+      "title": "Google Unternehmensprofil",
+      "snippet": "cities.google\nhttps://cities.google › intl › de_ALL › google-business-profile\nGoogle Unternehmensprofil\n\nGoogle Unternehmensprofil ist ein kostenloses Tool, mit dem Unternehmen und Stadtverwaltungen ihre Onlinepräsenz verwalten …Mehr lesen\n\nFehlen: FreelancerMuss enthalten: Freelancer",
+      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-11-26T21:29:22.639104+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
     }
-  ]
+  ],
+  "blockers": [],
+  "errors": []
 }

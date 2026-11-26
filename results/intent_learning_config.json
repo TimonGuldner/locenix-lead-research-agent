@@ -1,7 +1,7 @@
 {
   "agent": "AGENT_15F_LEARNING_OPTIMIZER",
-  "generated_at": "2026-11-26T10:52:07.259872+00:00",
-  "learning_run_count": 283,
+  "generated_at": "2026-11-26T21:29:45.299736+00:00",
+  "learning_run_count": 284,
   "mode": "SAFE_OUTCOME_LEARNING",
   "principle": "Learn source/query/provider priorities from measured outcomes; never rewrite executable code autonomously.",
   "query_weights": {
@@ -29,7 +29,8 @@
     "derhuber.com": 1.8,
     "serpworks.com": 1.8,
     "drautomation.de": 1.8,
-    "antonioblago.com": 1.8
+    "antonioblago.com": 1.8,
+    "cities.google": 1.8
   },
   "boosted_queries": [
     "\"Google Unternehmensprofil\" Freelancer Deutschland",
@@ -40,6 +41,13 @@
   "paused_queries": [],
   "blocked_domains": [],
   "provider_policy": {
+    "jina_search": {
+      "fail_streak": 50,
+      "cooldown": true,
+      "probe_due": false,
+      "last_errors": 0,
+      "last_hits": 0
+    },
     "duckduckgo": {
       "fail_streak": 2,
       "cooldown": false,
@@ -47,18 +55,11 @@
       "last_errors": 0,
       "last_hits": 0
     },
-    "jina_search": {
-      "fail_streak": 50,
-      "cooldown": true,
-      "probe_due": false,
-      "last_errors": 7,
-      "last_hits": 0
-    },
     "reddit_api": {
       "fail_streak": 50,
       "cooldown": true,
       "probe_due": false,
-      "last_errors": 3,
+      "last_errors": 0,
       "last_hits": 0
     },
     "verified_seed": {
@@ -99,9 +100,9 @@
         "qualified_rate": 1.0
       },
       "\"Google Unternehmensprofil\" Freelancer Deutschland": {
-        "samples": 4,
-        "reward": 16.0,
-        "hot": 4,
+        "samples": 6,
+        "reward": 24.0,
+        "hot": 6,
         "warm": 0,
         "watch": 0,
         "reject": 0,
@@ -296,9 +297,9 @@
         "qualified_rate": 1.0
       },
       "support.google.com": {
-        "samples": 2,
-        "reward": 8.0,
-        "hot": 2,
+        "samples": 3,
+        "reward": 12.0,
+        "hot": 3,
         "warm": 0,
         "watch": 0,
         "reject": 0,
@@ -372,6 +373,19 @@
         "avg_reward": 4.0,
         "reject_rate": 0.0,
         "qualified_rate": 1.0
+      },
+      "cities.google": {
+        "samples": 1,
+        "reward": 4.0,
+        "hot": 1,
+        "warm": 0,
+        "watch": 0,
+        "reject": 0,
+        "positive": 0,
+        "negative": 0,
+        "avg_reward": 4.0,
+        "reject_rate": 0.0,
+        "qualified_rate": 1.0
       }
     },
     "providers": {
@@ -389,15 +403,15 @@
         "qualified_rate": 1.0
       },
       "cloud_browser_bing": {
-        "samples": 32,
-        "reward": 126.0,
-        "hot": 31,
+        "samples": 34,
+        "reward": 134.0,
+        "hot": 33,
         "warm": 1,
         "watch": 0,
         "reject": 0,
         "positive": 0,
         "negative": 0,
-        "avg_reward": 3.938,
+        "avg_reward": 3.941,
         "reject_rate": 0.0,
         "qualified_rate": 1.0
       }

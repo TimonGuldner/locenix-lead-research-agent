@@ -1,14 +1,14 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-11-27T04:14:35.197406+00:00",
-    "status": "OK",
-    "signals_added": 1,
+    "last_run_at": "2026-11-27T13:52:58.491390+00:00",
+    "status": "PARTIAL",
+    "signals_added": 0,
     "stale_signals_removed": 0,
-    "pages_checked": 8,
+    "pages_checked": 6,
     "blocked_pages": 0,
     "human_action_required": 0,
-    "errors": 0,
+    "errors": 2,
     "learning_config_used": true,
     "queries_planned": 8,
     "blocked_domains_learned": 0
@@ -23,27 +23,16 @@
     "site:freelancermap.de \"Local SEO\"",
     "site:reddit.com \"Google Unternehmensprofil\" Deutschland"
   ],
-  "added": [
-    {
-      "signal_id": "intent-890843ad0c5696a8",
-      "source": "accounts.google.com",
-      "source_url": "https://accounts.google.com/InteractiveLogin?hl=de&service=lbc",
-      "title": "Google Unternehmensprofil",
-      "snippet": "Google Accounts\nhttps://accounts.google.com › InteractiveLogin\nGoogle Unternehmensprofil\n\nStellen Sie Ihr Unternehmen mit dem Google Unternehmensprofil auf Google vor\n\nUnternehmensprofil Bearbeiten\n\nUnternehmensprofil bearbeiten Sie können Ihr Unternehmensprofil direkt in der Google Suche …\n\nHilfe\n\nOffizielle Google Unternehmensprofil-Hilfe, in der Sie Tipps und Lernprogramme zur …\n\nNur Ergebnisse von accounts.google.com anzeigen",
-      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
-      "raw_score": 2,
-      "provider": "cloud_browser_bing",
-      "intent_evidence": {
-        "relevance_hits": 1,
-        "active_intent_hits": 1,
-        "marketplace_listing": false
-      },
-      "detected_at": "2026-11-27T04:14:35.197406+00:00",
-      "review_status": "PENDING_QA",
-      "department": "intent_opportunity_acquisition",
-      "browser_fallback": true
-    }
-  ],
+  "added": [],
   "blockers": [],
-  "errors": []
+  "errors": [
+    {
+      "query": "site:upwork.com/freelance-jobs \"Local SEO\" Germany",
+      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Local%20SEO%22%20Germany\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Aupwork.com/freelance-jobs%20%22Local%20SEO%22%20Germany\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "query": "site:reddit.com \"Google Unternehmensprofil\" Deutschland",
+      "error": "Page.goto: net::ERR_ABORTED at https://www.bing.com/search?q=site%3Areddit.com%20%22Google%20Unternehmensprofil%22%20Deutschland\nCall log:\n  - navigating to \"https://www.bing.com/search?q=site%3Areddit.com%20%22Google%20Unternehmensprofil%22%20Deutschland\", waiting until \"domcontentloaded\"\n"
+    }
+  ]
 }

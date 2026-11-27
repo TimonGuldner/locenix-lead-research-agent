@@ -1,9 +1,9 @@
 {
   "agent": "AGENT_15A_INTENT_SCOUT",
-  "last_run_at": "2026-11-27T04:14:34.265857+00:00",
-  "signals_found": 37,
+  "last_run_at": "2026-11-27T13:52:57.333294+00:00",
+  "signals_found": 38,
   "new_signals": 0,
-  "unreviewed": 37,
+  "unreviewed": 38,
   "queries_run": 8,
   "errors": 0,
   "query_errors": [],
@@ -19,6 +19,7 @@
   ],
   "learning_config_used": true,
   "sources": [
+    "accounts.google.com",
     "aloma.de",
     "antonioblago.com",
     "business.google.com",

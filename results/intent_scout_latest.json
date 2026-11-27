@@ -1,10 +1,10 @@
 {
   "state": {
     "agent": "AGENT_15A_INTENT_SCOUT",
-    "last_run_at": "2026-11-26T21:29:21.423047+00:00",
-    "signals_found": 35,
+    "last_run_at": "2026-11-27T04:14:34.265857+00:00",
+    "signals_found": 37,
     "new_signals": 0,
-    "unreviewed": 35,
+    "unreviewed": 37,
     "queries_run": 8,
     "errors": 0,
     "query_errors": [],
@@ -23,6 +23,7 @@
       "aloma.de",
       "antonioblago.com",
       "business.google.com",
+      "cities.google",
       "derhuber.com",
       "drautomation.de",
       "drweb.de",
@@ -52,6 +53,44 @@
     "site:reddit.com/r/selbststaendig \"Google Unternehmensprofil\""
   ],
   "newest": [
+    {
+      "signal_id": "intent-79d2b059915fff16",
+      "source": "support.google.com",
+      "source_url": "https://support.google.com/business/answer/145585?hl=de-DE",
+      "title": "Ihr Unternehmen auf Google finden - Google Unternehmensprofil-Hilfe",
+      "snippet": "Google Support\nhttps://support.google.com › business › answer\nIhr Unternehmen auf Google finden - Google Unternehmensprofil-Hilfe\nÜbersicht\nProfil finden\nUnternehmen auf Google nicht gefunden\nWichtig: Um Ihr Profil zu finden, müssen Sie sich in dem Google-Konto anmelden, das damit verknüpf…\nSuchen Sie Ihr Profil anhand einer der folgenden Methoden.\n• Geben Sie mein Unternehmen in die Google Suche ein.\n• Suchen Sie in der Google Suche oder auf Maps nach dem Namen und der Stadt Ihres Unternehmens.\nMehr zu support.google.com anzeigen",
+      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-11-26T21:29:22.639104+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
+    {
+      "signal_id": "intent-4adc9ffca5846c2e",
+      "source": "cities.google",
+      "source_url": "https://cities.google/intl/de_ALL/google-business-profile",
+      "title": "Google Unternehmensprofil",
+      "snippet": "cities.google\nhttps://cities.google › intl › de_ALL › google-business-profile\nGoogle Unternehmensprofil\n\nGoogle Unternehmensprofil ist ein kostenloses Tool, mit dem Unternehmen und Stadtverwaltungen ihre Onlinepräsenz verwalten …Mehr lesen\n\nFehlen: FreelancerMuss enthalten: Freelancer",
+      "query": "\"Google Unternehmensprofil\" Freelancer Deutschland",
+      "raw_score": 2,
+      "provider": "cloud_browser_bing",
+      "intent_evidence": {
+        "relevance_hits": 1,
+        "active_intent_hits": 1,
+        "marketplace_listing": false
+      },
+      "detected_at": "2026-11-26T21:29:22.639104+00:00",
+      "review_status": "PENDING_QA",
+      "department": "intent_opportunity_acquisition",
+      "browser_fallback": true
+    },
     {
       "signal_id": "intent-92f337d25893bfc6",
       "source": "upwork.com",
@@ -482,44 +521,6 @@
       "intent_evidence": {
         "relevance_hits": 2,
         "active_intent_hits": 1,
-        "marketplace_listing": false
-      },
-      "detected_at": "2026-09-14T04:54:47.833339+00:00",
-      "review_status": "PENDING_QA",
-      "department": "intent_opportunity_acquisition",
-      "browser_fallback": true
-    },
-    {
-      "signal_id": "intent-d665286f0debdc3e",
-      "source": "thomasrees.de",
-      "source_url": "https://thomasrees.de/local-seo-freelancer/",
-      "title": "Local-SEO Freelancer Thomas Rees | Mehr Kunden vor Ort",
-      "snippet": "thomasrees.de\nhttps://thomasrees.de › local-seo-freelancer\nLocal-SEO Freelancer Thomas Rees | Mehr Kunden vor Ort\n\nAls spezialisierter Local SEO Freelancer sorge ich dafür, dass Sie bei lokalen Suchanfragen und auf Google Maps ganz oben …",
-      "query": "\"Local SEO\" Projekt Deutschland Freelancer",
-      "raw_score": 3,
-      "provider": "cloud_browser_bing",
-      "intent_evidence": {
-        "relevance_hits": 2,
-        "active_intent_hits": 1,
-        "marketplace_listing": false
-      },
-      "detected_at": "2026-09-14T04:54:47.833339+00:00",
-      "review_status": "PENDING_QA",
-      "department": "intent_opportunity_acquisition",
-      "browser_fallback": true
-    },
-    {
-      "signal_id": "intent-59c327811eaffb64",
-      "source": "optiphin.de",
-      "source_url": "https://www.optiphin.de/leistungen/local-seo-freelancer/",
-      "title": "Local SEO Freelancer – nachhaltige lokale Sichtbarkeit | Optiphin",
-      "snippet": "optiphin.de\nhttps://www.optiphin.de › leistungen › local-seo-freelancer\nLocal SEO Freelancer – nachhaltige lokale Sichtbarkeit | Optiphin\n\nDu bist auf der Suche nach einem Local SEO-Freelancer mit Expertise, der deine Sichtbarkeit für lokale Suchanfragen steigert? …",
-      "query": "\"Local SEO\" Projekt Deutschland Freelancer",
-      "raw_score": 4,
-      "provider": "cloud_browser_bing",
-      "intent_evidence": {
-        "relevance_hits": 2,
-        "active_intent_hits": 2,
         "marketplace_listing": false
       },
       "detected_at": "2026-09-14T04:54:47.833339+00:00",

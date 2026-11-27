@@ -1,25 +1,15 @@
 {
   "state": {
     "agent": "AGENT_15D_INTENT_RESPONSE",
-    "last_run_at": "2026-11-26T21:29:45.235480+00:00",
-    "prepared": 37,
-    "new_prepared": 2,
+    "last_run_at": "2026-11-27T04:14:49.870026+00:00",
+    "prepared": 38,
+    "new_prepared": 1,
     "pending": 0,
     "sent": 0,
     "errors": 0,
     "mode": "DRAFT_ONLY"
   },
   "latest_drafts": [
-    {
-      "signal_id": "intent-c47f0ef59137f521",
-      "airtable_record_id": "recjPuiFOsLmHSgvs",
-      "tier": "HOT",
-      "source": "upwork.com",
-      "source_url": "https://www.upwork.com/freelance-jobs/apply/German-speaking-Closer-for-Website-Local-SEO-Services_~022070721622767286452/",
-      "draft": "Hallo, ich bin über deinen Beitrag auf upwork.com gestolpert. Du beschreibst dort sinngemäß: Upwork\nhttps://www.upwork.com › freelance-jobs › apply › Germ…\nDieses Ergebnis übersetzen\nGerman-speaking Closer for Website & Local SEO Services\n\nGerman-Speaking Sales Caller / Closer for Warm Leads (Local SEO & Website Optimization) We are looking for a native German …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
-      "status": "DRAFTED",
-      "prepared_at": "2026-09-16T18:12:38.201104+00:00"
-    },
     {
       "signal_id": "intent-57a7954d9623960a",
       "airtable_record_id": "recKN2lkhPKFAzZYQ",
@@ -209,6 +199,16 @@
       "draft": "Hallo, ich bin über deinen Beitrag auf cities.google gestolpert. Du beschreibst dort sinngemäß: cities.google\nhttps://cities.google › intl › de_ALL › google-business-profile\nGoogle Unternehmensprofil\n\nGoogle Unternehmensprofil ist ein kostenloses Tool, mit dem Unternehmen und Stadtverwaltungen ihre Onlinepräsenz verwalten …Mehr lesen\n\nFehlen: FreelancerMuss enthalten: Freelancer\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
       "status": "DRAFTED",
       "prepared_at": "2026-11-26T21:29:45.235480+00:00"
+    },
+    {
+      "signal_id": "intent-890843ad0c5696a8",
+      "airtable_record_id": null,
+      "tier": "HOT",
+      "source": "accounts.google.com",
+      "source_url": "https://accounts.google.com/InteractiveLogin?hl=de&service=lbc",
+      "draft": "Hallo, ich bin über deinen Beitrag auf accounts.google.com gestolpert. Du beschreibst dort sinngemäß: Google Accounts\nhttps://accounts.google.com › InteractiveLogin\nGoogle Unternehmensprofil\n\nStellen Sie Ihr Unternehmen mit dem Google Unternehmensprofil auf Google vor\n\nUnternehmensprofil Bearbeiten\n\nUnternehmensprofil bearbeiten Sie können Ihr Unternehmensprofil direkt in der Google Suche …\n\nHilfe\n\nOffizielle Google Unternehmensprofil-Hilfe, in der Sie Tipps und Lernprogramme zur …\n\nNur Ergebnisse von accounts.google\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-11-27T04:14:49.870026+00:00"
     }
   ]
 }

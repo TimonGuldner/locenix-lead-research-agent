@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T13:53:17.450575+00:00",
+  "generated_at": "2026-11-27T22:42:08.488057+00:00",
   "items": [
     {
       "signal_id": "intent-7e56262cde92330b",
@@ -380,6 +380,26 @@
       "draft": "Hallo, ich bin über deinen Beitrag auf accounts.google.com gestolpert. Du beschreibst dort sinngemäß: Google Accounts\nhttps://accounts.google.com › InteractiveLogin\nGoogle Unternehmensprofil\n\nStellen Sie Ihr Unternehmen mit dem Google Unternehmensprofil auf Google vor\n\nUnternehmensprofil Bearbeiten\n\nUnternehmensprofil bearbeiten Sie können Ihr Unternehmensprofil direkt in der Google Suche …\n\nHilfe\n\nOffizielle Google Unternehmensprofil-Hilfe, in der Sie Tipps und Lernprogramme zur …\n\nNur Ergebnisse von accounts.google\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
       "status": "DRAFTED",
       "prepared_at": "2026-11-27T04:14:49.870026+00:00"
+    },
+    {
+      "signal_id": "intent-3e598a5ae1405c06",
+      "airtable_record_id": null,
+      "tier": "HOT",
+      "source": "sellwerk.de",
+      "source_url": "https://sellwerk.de/wissenswert/google-maps-ranking-verbessern",
+      "draft": "Hallo, ich bin über deinen Beitrag auf sellwerk.de gestolpert. Du beschreibst dort sinngemäß: sellwerk.de\nhttps://sellwerk.de › wissenswert › google-maps-ranking-verbessern\nTipps für dein Google-Maps-Ranking von SELLWERK\n\nDiese Rankings bei Google Maps sind besonders für lokale Unternehmen nützlich, denn sie bieten kurze Wege von der Suche zur …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-11-27T22:42:08.488057+00:00"
+    },
+    {
+      "signal_id": "intent-a6eb79d1e3407f05",
+      "airtable_record_id": null,
+      "tier": "HOT",
+      "source": "3webseiten.de",
+      "source_url": "https://3webseiten.de/de/blog/google-maps-ranking-verbessern",
+      "draft": "Hallo, ich bin über deinen Beitrag auf 3webseiten.de gestolpert. Du beschreibst dort sinngemäß: 3webseiten.de\nhttps://3webseiten.de › de › blog › google-maps-ranking-verbessern\nGoogle Maps Ranking verbessern: 10 Maßnahmen für Betriebe\n\n18. Aug. 2026 · Wir erklären, wie Google die Reihenfolge in der Kartensuche bestimmt, und zeigen 10 konkrete Maßnahmen, mit …\n\nDas klingt nach einem Thema, bei dem Google Business Profile / lokale Sichtbarkeit direkt relevant sein kann. Wenn du möchtest, kann ich dir kostenlos einen kurzen Local Visibility Check machen und die wichtigsten Hebel kompakt zusammenfassen. Dann siehst du zuerst, ob überhaupt Potenzial da ist – ohne Verpflichtung.",
+      "status": "DRAFTED",
+      "prepared_at": "2026-11-27T22:42:08.488057+00:00"
     }
   ]
 }

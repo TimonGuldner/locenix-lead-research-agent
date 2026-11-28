@@ -1,9 +1,9 @@
 {
   "agent": "AGENT_15A_INTENT_SCOUT",
-  "last_run_at": "2026-11-27T22:41:54.065066+00:00",
-  "signals_found": 38,
+  "last_run_at": "2026-11-28T07:45:51.975844+00:00",
+  "signals_found": 40,
   "new_signals": 0,
-  "unreviewed": 38,
+  "unreviewed": 40,
   "queries_run": 8,
   "errors": 0,
   "query_errors": [],
@@ -19,6 +19,7 @@
   ],
   "learning_config_used": true,
   "sources": [
+    "3webseiten.de",
     "accounts.google.com",
     "aloma.de",
     "antonioblago.com",
@@ -33,6 +34,7 @@
     "local-seo-freelancer.de",
     "lokando24.de",
     "optiphin.de",
+    "sellwerk.de",
     "seotariat.de",
     "serpworks.com",
     "softwareu.de",

@@ -1,9 +1,9 @@
 {
   "state": {
     "agent": "AGENT_15A_BROWSER_FALLBACK",
-    "last_run_at": "2026-11-27T22:41:55.929153+00:00",
+    "last_run_at": "2026-11-28T07:45:52.703456+00:00",
     "status": "OK",
-    "signals_added": 2,
+    "signals_added": 0,
     "stale_signals_removed": 0,
     "pages_checked": 8,
     "blocked_pages": 0,
@@ -16,53 +16,14 @@
   "query_plan": [
     "\"Google Unternehmensprofil\" Freelancer Deutschland",
     "\"Local SEO\" Projekt Deutschland Freelancer",
-    "\"Google Business Profile\" German Local SEO freelancer job",
     "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
+    "\"Google Business Profile\" German Local SEO freelancer job",
     "site:upwork.com/freelance-jobs \"Google Business Profile\" German",
     "site:upwork.com/freelance-jobs \"Local SEO\" Germany",
     "site:freelancermap.de \"Local SEO\"",
     "site:reddit.com \"Google Unternehmensprofil\" Deutschland"
   ],
-  "added": [
-    {
-      "signal_id": "intent-3e598a5ae1405c06",
-      "source": "sellwerk.de",
-      "source_url": "https://sellwerk.de/wissenswert/google-maps-ranking-verbessern",
-      "title": "Tipps für dein Google-Maps-Ranking von SELLWERK",
-      "snippet": "sellwerk.de\nhttps://sellwerk.de › wissenswert › google-maps-ranking-verbessern\nTipps für dein Google-Maps-Ranking von SELLWERK\n\nDiese Rankings bei Google Maps sind besonders für lokale Unternehmen nützlich, denn sie bieten kurze Wege von der Suche zur …",
-      "query": "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
-      "raw_score": 2,
-      "provider": "cloud_browser_bing",
-      "intent_evidence": {
-        "relevance_hits": 1,
-        "active_intent_hits": 1,
-        "marketplace_listing": false
-      },
-      "detected_at": "2026-11-27T22:41:55.929153+00:00",
-      "review_status": "PENDING_QA",
-      "department": "intent_opportunity_acquisition",
-      "browser_fallback": true
-    },
-    {
-      "signal_id": "intent-a6eb79d1e3407f05",
-      "source": "3webseiten.de",
-      "source_url": "https://3webseiten.de/de/blog/google-maps-ranking-verbessern",
-      "title": "Google Maps Ranking verbessern: 10 Maßnahmen für Betriebe",
-      "snippet": "3webseiten.de\nhttps://3webseiten.de › de › blog › google-maps-ranking-verbessern\nGoogle Maps Ranking verbessern: 10 Maßnahmen für Betriebe\n\n18. Aug. 2026 · Wir erklären, wie Google die Reihenfolge in der Kartensuche bestimmt, und zeigen 10 konkrete Maßnahmen, mit …",
-      "query": "\"Google Maps\" Ranking Hilfe Unternehmen Deutschland",
-      "raw_score": 2,
-      "provider": "cloud_browser_bing",
-      "intent_evidence": {
-        "relevance_hits": 1,
-        "active_intent_hits": 1,
-        "marketplace_listing": false
-      },
-      "detected_at": "2026-11-27T22:41:55.929153+00:00",
-      "review_status": "PENDING_QA",
-      "department": "intent_opportunity_acquisition",
-      "browser_fallback": true
-    }
-  ],
+  "added": [],
   "blockers": [],
   "errors": []
 }
